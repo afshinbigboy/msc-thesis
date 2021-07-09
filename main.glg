@@ -1,0 +1,24 @@
+
+
+*** Unable to execute: '"xindy"    -I xindy -M "main" -t "main.glg" -o "main.gls" "main.glo"' ***
+
+Failed with error code 127.
+
+Status report:
+
+/opt/texlive/2020/bin/x86_64-linux/xindy.run: error while loading shared libraries: libncurses.so.5: cannot open shared object file: No such file or directory
+
+xindy didn't create a transcript.
+Check that xindy has been installed and
+is on your system's PATH.
+Your PATH environment variable is set to: 
+/opt/texlive/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/var/lib/snapd/snap/bin:/home/afshin/.fzf/bin
+Try manually running:
+"xindy"    -I xindy -M "main" -t "main.glg" -o "main.gls" "main.glo"
+
+
+makeglossaries diagnostic messages:
+
+No language detected.
+Have you remembered to use \printglossary
+or \printglossaries in your document?
