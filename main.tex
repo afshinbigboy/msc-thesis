@@ -21,10 +21,10 @@
 
 \documentclass[
 twoside
-% ,openany
+,openany
 ,msc
 ,irfonts
-% ,draft
+,draft
 ]{./tex/tehran-thesis}
 
 % فایل commands.tex را مطالعه کنید؛ چون دستورات مربوط به فراخوانی بسته‌ها، فونت و دستورات خاص در این فایل قرار دارد.
@@ -48,11 +48,22 @@ twoside
 \pagestyle{fancy}
 \pagenumbering{arabic} % 1, 2, ...
 
-\include{./tex/chapter1}		% فصل اول: مقدمه
-\include{./tex/chapter2}		% فصول دوم: مروری بر مطالعات انجام شده
-\include{./tex/chapter3}		% فصل سوم: روش تحقیق
-\include{./tex/chapter4}		% فصل چهارم: نتایج
-\include{./tex/chapter5}		% فصل پنجم: بحث و نتیجه‌گیری
+\include{./tex/chaps/int/chap-int}		% فصل اول: مقدمه
+%\include{./tex/chapter2}		% فصول دوم: مروری بر مطالعات انجام شده
+\include{./tex/chaps/lr/chap-lr}		% فصول دوم: ادبیات موضوعی
+
+%\include{./tex/chapter3}		% فصل سوم: روش تحقیق
+\include{./tex/chaps/rw/chap-rw}		% فصل روش‌های پیشین
+
+%\include{./tex/chapter3}		% فصل سوم: روش تحقیق
+\include{./tex/chaps/pm/chap-pm}		% فصل روش پیشنهادی
+
+%\include{./tex/chapter4}		% فصل چهارم: نتایج تجربی
+\include{./tex/chaps/er/chap-er}		% فصل نتایج تجربی 
+
+%\include{./tex/chapter5}		% فصل پنجم: بحث و نتیجه‌گیری
+\include{./tex/chaps/con/chap-con}		% فصل بحث و نتیجه‌گیری 
+
 
 % مراجع
 % اگر از استیل‌های natbib استفاده می‌کنید باید دو خط را در فایل commands.tex تغییر دهید.
@@ -83,9 +94,9 @@ twoside
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
         
 
-\include{./tex/appendix1}		% پیوست اول: آشنایی مقدماتی با لاتک
-\include{./tex/appendix2}		% پیوست دوم: جدول، نمودار و الگوریتم در لاتک
-\include{./tex/appendix3}   	% پیوست سوم: مراجع، واژه‌نامه و حاشیه‌نویسی
+%\include{./tex/appx/appendix1}		% پیوست اول: آشنایی مقدماتی با لاتک
+%\include{./tex/appx/appendix2}		% پیوست دوم: جدول، نمودار و الگوریتم در لاتک
+%\include{./tex/appx/appendix3}   	% پیوست سوم: مراجع، واژه‌نامه و حاشیه‌نویسی
 
 % برگرداندن شماره‌بندی صفحات فصول
 % \let\chapter\Chapter
