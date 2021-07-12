@@ -1,25 +1,39 @@
-\contentsline {paragraph}{واژگان کلیدی}{سه}{section*.2}%
-\contentsline {chapter}{\numberline {1}مقدمه}{2}{chapter.1}%
-\contentsline {chapter}{\numberline {2}مبانی تحقیق}{7}{chapter.2}%
-\contentsline {section}{\numberline {2.1}تنوع ژنتیکی}{7}{section.2.1}%
-\contentsline {section}{\numberline {2.2}\gls {tumorevolution}}{10}{section.2.2}%
-\contentsline {section}{\numberline {2.3}تکنولوژی¬های توالی¬یابی و \gls {variantallelefrequency}}{11}{section.2.3}%
-\contentsline {section}{\numberline {2.4}ناهمگنی ژنومی تومور}{13}{section.2.4}%
-\contentsline {section}{\numberline {2.5}بازسازی زیر کلونال }{16}{section.2.5}%
-\contentsline {section}{\numberline {2.6}تغییرات تعداد کپی }{17}{section.2.6}%
-\contentsline {section}{\numberline {2.7}جهش‌های ساده بدنی }{20}{section.2.7}%
-\contentsline {section}{\numberline {2.8}\gls {allelecdropout}}{21}{section.2.8}%
-\contentsline {section}{\numberline {2.9}مقدمه‌ای بر مدل‌سازی احتمالی }{23}{section.2.9}%
-\contentsline {subsection}{\numberline {2.9.1}\gls {markovchainmontecarlo}}{24}{subsection.2.9.1}%
-\contentsline {chapter}{\numberline {3}روش‌های پیشین}{26}{chapter.3}%
-\contentsline {chapter}{\numberline {4}روش پیشنهادی}{27}{chapter.4}%
-\contentsline {section}{\numberline {4.1}مقدمه}{27}{section.4.1}%
-\contentsline {section}{\numberline {4.2}معرفی دادگان ورودی}{27}{section.4.2}%
-\contentsline {section}{\numberline {4.3}روش پیشنهادی اول (درخت‌بازی)}{28}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}پیش‌پردازش}{28}{subsection.4.3.1}%
-\contentsline {subsubsection}{\numberline {4.3.1.1}تصادفی}{28}{subsubsection.4.3.1.1}%
-\contentsline {chapter}{\numberline {5}نتایج تجربی}{30}{chapter.5}%
-\contentsline {chapter}{\numberline {6}بحث و نتیجه‌گیری}{31}{chapter.6}%
-\contentsline {chapter}{مراجع}{32}{chapter*.15}%
+\contentsline {paragraph}{واژگان کلیدی}{هفده}{section*.3}%
+\contentsline {chapter}{فهرست تصاویر}{پ}{section*.4}%
+\contentsline {chapter}{فهرست جداول}{ث}{section*.5}%
+\contentsline {chapter}{فهرست الگوریتم‌ها}{ج}{section*.5}%
+\contentsline {chapter}{\rl {فهرست برنامه‌ها}}{چ}{chapter*.6}%
+\contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}مبانی تحقیق}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}تنوع ژنتیکی}{5}{section.2.1}%
+\contentsline {section}{\numberline {2.2}\gls {tumorevolution}}{8}{section.2.2}%
+\contentsline {section}{\numberline {2.3}تکنولوژی‌های توالی‌یابی و \gls {variantallelefrequency}}{9}{section.2.3}%
+\contentsline {section}{\numberline {2.4}ناهمگنی ژنومی تومور}{10}{section.2.4}%
+\contentsline {section}{\numberline {2.5}بازسازی زیر کلونال }{13}{section.2.5}%
+\contentsline {section}{\numberline {2.6}تغییرات تعداد کپی }{15}{section.2.6}%
+\contentsline {section}{\numberline {2.7}جهش‌های ساده بدنی }{17}{section.2.7}%
+\contentsline {section}{\numberline {2.8}\gls {allelecdropout}}{18}{section.2.8}%
+\contentsline {section}{\numberline {2.9}مقدمه‌ای بر مدل‌سازی احتمالی }{19}{section.2.9}%
+\contentsline {subsection}{\numberline {2.9.1}\gls {markovchainmontecarlo}}{20}{subsection.2.9.1}%
+\contentsline {section}{\numberline {2.10}\gls {machinelearning} و \gls {reinforcementlearning}}{22}{section.2.10}%
+\contentsline {section}{\numberline {2.11}شبکه‌های عصبی بازگشتی}{31}{section.2.11}%
+\contentsline {subsection}{\numberline {2.11.1}شبکه عصبی بازگشتی چیست؟}{32}{subsection.2.11.1}%
+\contentsline {subsection}{\numberline {2.11.2}مزایای \gls {rnn}}{33}{subsection.2.11.2}%
+\contentsline {subsection}{\numberline {2.11.3}معایب \gls {rnn}}{33}{subsection.2.11.3}%
+\contentsline {subsection}{\numberline {2.11.4}کاربردهای \gls {rnn}}{34}{subsection.2.11.4}%
+\contentsline {subsection}{\numberline {2.11.5}انواع \gls {rnn}}{34}{subsection.2.11.5}%
+\contentsline {subsection}{\numberline {2.11.6}حافظه‌ی کوتاه‌مدت بلند (\lr {LSTM})}{35}{subsection.2.11.6}%
+\contentsline {section}{\numberline {2.12}\gls {reinforcementlearning}}{43}{section.2.12}%
+\contentsline {subsection}{\numberline {2.12.1}مقدمه و بیشینه تاریخی}{43}{subsection.2.12.1}%
+\contentsline {chapter}{\numberline {3}روش‌های پیشین}{45}{chapter.3}%
+\contentsline {chapter}{\numberline {4}روش پیشنهادی}{46}{chapter.4}%
+\contentsline {section}{\numberline {4.1}مقدمه}{46}{section.4.1}%
+\contentsline {section}{\numberline {4.2}معرفی دادگان ورودی}{46}{section.4.2}%
+\contentsline {section}{\numberline {4.3}روش پیشنهادی اول (درخت‌بازی)}{47}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}پیش‌پردازش}{47}{subsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.1.1}تصادفی}{47}{subsubsection.4.3.1.1}%
+\contentsline {chapter}{\numberline {5}نتایج تجربی}{49}{chapter.5}%
+\contentsline {chapter}{\numberline {6}بحث و نتیجه‌گیری}{50}{chapter.6}%
+\contentsline {chapter}{مراجع}{51}{chapter*.40}%
  \renewcommand \cftchappresnum {پیوست\nobreakspace {}}\setlength {\cftchapnumwidth }{\mylenapp }
-\contentsline {paragraph}{Keywords}{ششم}{section*.17}%
+\contentsline {paragraph}{Keywords}{ششم}{section*.42}%

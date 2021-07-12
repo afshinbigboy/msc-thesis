@@ -39,6 +39,18 @@ Abrams, Gerald.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{akselrod2017deep}
+Akselrod-Ballin, Ayelet, Karlinsky, Leonid, Hazan, Alon, Bakalo, Ran, Horesh,
+  Ami~Ben, Shoshan, Yoel, and Barkan, Ella.
+\newblock Deep learning for automatic detection of abnormal findings in breast
+  mammography.
+\newblock In {\em Deep learning in medical image analysis and multimodal
+  learning for clinical decision support}, pages 321--329. Springer, 2017.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{alberts2002molecular}
 Alberts, Bruce, Johnson, Alexander, Lewis, Julian, Raff, Martin, Roberts,
   Keith, and Walter, Peter.
@@ -165,6 +177,17 @@ Dentro, Stefan~C, Leshchiner, Ignaty, Haase, Kerstin, Tarabichi, Maxime,
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{dhungel2017fully}
+Dhungel, Neeraj, Carneiro, Gustavo, and Bradley, Andrew~P.
+\newblock Fully automated classification of mammograms using deep residual
+  neural networks.
+\newblock In {\em 2017 IEEE 14th International Symposium on Biomedical Imaging
+  (ISBI 2017)}, pages 310--314. IEEE, 2017.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{fearon1990genetic}
 Fearon, Eric~R and Vogelstein, Bert.
 \newblock A genetic model for colorectal tumorigenesis.
@@ -196,6 +219,15 @@ Fisher, Rosie, Pusztai, Lazos, and Swanton, C.
 Friedl, Peter and Wolf, Katarina.
 \newblock Plasticity of cell migration: a multiscale tuning model.
 \newblock {\em Journal of Cell Biology}, 188(1):11--19, 2010.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{fukushima2007neocognitron}
+Fukushima, Kunihiko.
+\newblock Neocognitron.
+\newblock {\em Scholarpedia}, 2(1):1717, 2007.
 
 \end{LTRbibitems}
 
@@ -291,6 +323,15 @@ Hugo, Honor, Ackland, M~Leigh, Blick, Tony, Lawrence, Mitchell~G, Clements,
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{lecun2015deep}
+LeCun, Yann, Bengio, Yoshua, and Hinton, Geoffrey.
+\newblock Deep learning.
+\newblock {\em nature}, 521(7553):436--444, 2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{lee2011promoter}
 Lee, Kyung-Hwa, Lee, Ji-Shin, Nam, Jong-Hee, Choi, Chan, Lee, Min-Cheol, Park,
   Chang-Soo, Juhng, Sang-Woo, and Lee, Jae-Hyuk.
@@ -352,6 +393,17 @@ Sokal, Alan.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{srivastava2014dropout}
+Srivastava, Nitish, Hinton, Geoffrey, Krizhevsky, Alex, Sutskever, Ilya, and
+  Salakhutdinov, Ruslan.
+\newblock Dropout: a simple way to prevent neural networks from overfitting.
+\newblock {\em The journal of machine learning research}, 15(1):1929--1958,
+  2014.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{stewart2017world}
 Stewart, BWKP and Wild, CP.
 \newblock World cancer report 2014. health, 2017.
@@ -374,6 +426,17 @@ Sun, Xiao-xiao and Yu, Qiang.
 \newblock Intra-tumor heterogeneity of cancer cells and its implications for
   cancer treatment.
 \newblock {\em Acta Pharmacologica Sinica}, 36(10):1219--1227, 2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{sutherland1968outlines}
+Sutherland, NS.
+\newblock Outlines of a theory of visual pattern recognition in animals and
+  man.
+\newblock {\em Proceedings of the Royal Society of London. Series B. Biological
+  Sciences}, 171(1024):297--317, 1968.
 
 \end{LTRbibitems}
 

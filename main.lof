@@ -9,6 +9,26 @@
 \contentsline {figure}{\numberline {2.6}{\ignorespaces تشخیص تغییر بدنی تک‌نوکلئوتیدی از طریق خوانش هم‌ترازی\relax }}{10}{figure.caption.13}%
 \contentsline {figure}{\numberline {2.7}{\ignorespaces درخت کلون تومور\relax }}{15}{figure.caption.14}%
 \contentsline {figure}{\numberline {2.8}{\ignorespaces نمایی از تطابق ژنتیکی\relax }}{19}{figure.caption.15}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces معماری یک شبکه عصبی کانولوشنی\relax }}{24}{figure.caption.16}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces عملیات \gls {convolution} در یک \gls {convnet} با \gls {kernel} $5\times 5$ \relax }}{26}{figure.caption.17}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces (\lr {a}) \gls {activationfunction} \lr {ReLU} و (\lr {b}) \gls {activationfunction} \gls {sigmoid} \relax }}{27}{figure.caption.18}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces تابع \lr {max-pooling} بر روی آرایه دو بعدی کوچک $m=2$ و $s=2$ \relax }}{28}{figure.caption.19}%
+\contentsline {figure}{\numberline {2.13}{\ignorespaces لایه \gls {dropout} با $\sigma =0.5$ \relax }}{29}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.14}{\ignorespaces یک نمونه بازشده \gls {rnn} \relax }}{32}{figure.caption.21}%
+\contentsline {figure}{\numberline {2.15}{\ignorespaces ساختار \gls {rnn} یک به یک\relax }}{35}{figure.caption.22}%
+\contentsline {figure}{\numberline {2.16}{\ignorespaces ساختار \gls {rnn} یک به چند\relax }}{35}{figure.caption.23}%
+\contentsline {figure}{\numberline {2.17}{\ignorespaces ساختار \gls {rnn} چند به یک\relax }}{36}{figure.caption.24}%
+\contentsline {figure}{\numberline {2.18}{\ignorespaces ساختار \gls {rnn} چند به چند\relax }}{36}{figure.caption.25}%
+\contentsline {figure}{\numberline {2.19}{\ignorespaces ساختار \lr {LSTM}\relax }}{37}{figure.caption.26}%
+\contentsline {figure}{\numberline {2.20}{\ignorespaces ماژول‌های تکرار شونده در شبکه‌های عصبی بازگشتی استاندارد فقط دارای یک لایه هستند. \relax }}{38}{figure.caption.28}%
+\contentsline {figure}{\numberline {2.21}{\ignorespaces ماژول‌های تکرار شونده در \lr {LSTM}ها دارای 4 لایه هستند که با هم در تعامل می‌باشند. \relax }}{39}{figure.caption.29}%
+\contentsline {figure}{\numberline {2.22}{\ignorespaces اشکال از راست به چپ به تریب برابر هستند با: کپی کردن، وصل کردن، بردار انتقال، عملیات نقطه به نقطه، یک لایه‌ی شبکه عصبی. \relax }}{39}{figure.caption.30}%
+\contentsline {figure}{\numberline {2.23}{\ignorespaces سلول حالت در ماژول \lr {LSTM} \relax }}{40}{figure.caption.31}%
+\contentsline {figure}{\numberline {2.24}{\ignorespaces نمایی از نحوه تاثیر و ورود اطلاعات به سلول حالت \relax }}{40}{figure.caption.32}%
+\contentsline {figure}{\numberline {2.25}{\ignorespaces قدم اول در پاک کردن اطلاعات از سلول حالت در وضعیت ورودی \relax }}{41}{figure.caption.33}%
+\contentsline {figure}{\numberline {2.26}{\ignorespaces قدم دوم در اضافه کردن اطلاعات جدید به سلول حالت \relax }}{42}{figure.caption.34}%
+\contentsline {figure}{\numberline {2.27}{\ignorespaces به‌روز رسانی اطلاعات در سلول حالت \relax }}{42}{figure.caption.35}%
+\contentsline {figure}{\numberline {2.28}{\ignorespaces قدم نهایی برای تولید خروجی ماژول \lr {LSTM} \relax }}{43}{figure.caption.36}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
