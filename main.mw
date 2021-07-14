@@ -1,0 +1,4 @@
+(define-location-class "arabic-section-numbers-Appendix-page-numbers" 
+   ( :sep "{" "arabic-numbers" :sep "." "arabic-numbers" :sep "}{" "ALPHA" :sep "." "arabic-numbers" :sep "}" ) 
+   :min-range-length 2
+) 

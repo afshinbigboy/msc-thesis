@@ -81,9 +81,11 @@ colorlinks,linkcolor=blue,citecolor=blue,final]{hyperref}
 \usepackage{tabularx}
 \usepackage{rotating}
 % بسته‌های لازم برای رسم تنظیم بهتر شکل‌ها و زیرشکل‌ها
+%\usepackage{subcaption}
 \usepackage[export]{adjustbox}
 \usepackage{subfig}
 \usepackage[subfigure]{tocloft}
+%\usepackage{caption}
 % بسته‌ای برای رسم نمودارها و نیز صفحه مالکیت اثر
 \usepackage{tikz}
 % بسته‌ای برای ظاهر شدن «مراجع» و «نمایه» در فهرست مطالب
@@ -342,3 +344,51 @@ colorlinks,linkcolor=blue,citecolor=blue,final]{hyperref}
 \makeatletter
 \renewcommand{\p@subfigure}{\thefigure.}
 \makeatother
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\usepackage{pifont}% http://ctan.org/pkg/pifont
+\usepackage{mwe}
+\usepackage{tikz}
+
+%\usepackage{subfig} % Manipulation and reference of small or sub figures and tables
+\usepackage{hyperref} % To create hyperlinks within the document
+\hypersetup{
+	colorlinks=true, % true if you want colored links
+	linktoc=all,     % set to all if you want both sections, subsections, and numbers linked
+	linkcolor=blue,          % color of internal links (change box color with linkbordercolor)
+	citecolor=teal,        % color of links to bibliography
+	filecolor=magenta,      % color of file links
+	urlcolor=cyan           % color of external links
+}
+
+\newcommand{\cmark}{\ding{51}}%
+\newcommand{\xmark}{\ding{55}}%
+
+%%page settings
+%\setlength{\oddsidemargin}{.3in}
+%\setlength{\evensidemargin}{.3in}
+%\setlength{\textwidth}{5.8in}
+%\setlength{\topmargin}{-0.4in}
+%\setlength{\textheight}{8.5in}

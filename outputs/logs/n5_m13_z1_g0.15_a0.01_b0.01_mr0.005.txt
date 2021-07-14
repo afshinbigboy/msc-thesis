@@ -1,0 +1,12 @@
+There is 5 cells and 13 mutations.
+ROOT:1
+step:  1,	mode:prune_reattach,	new_error:4.30,	last_error:4.30,	acc_prob:1.000
+step:  2,	mode:prune_reattach,	new_error:3.60,	last_error:3.60,	acc_prob:1.000
+step:  3,	mode:swap_subtrees,	new_error:3.60,	last_error:3.60,	acc_prob:1.000
+step:  4,	mode:prune_reattach,	new_error:3.60,	last_error:3.60,	acc_prob:1.000
+step:  5,	mode:swap_subtrees,	new_error:3.20,	last_error:3.20,	acc_prob:1.000
+step:  6,	mode:prune_reattach,	new_error:3.00,	last_error:3.00,	acc_prob:1.000
+step:  7,	mode:prune_reattach,	new_error:3.10,	last_error:3.10,	acc_prob:0.140
+step:  8,	mode:swap_nodes,	new_error:3.40,	last_error:3.10,	acc_prob:0.000
+step:  9,	mode:swap_nodes,	new_error:4.00,	last_error:3.10,	acc_prob:0.000
+step: 10,	mode:swap_nodes,	new_error:3.30,	last_error:3.10,	acc_prob:0.000

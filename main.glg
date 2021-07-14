@@ -1,6 +1,6 @@
 
 
-*** Unable to execute: '"xindy"    -I xindy -M "main" -t "main.glg" -o "main.gls" "main.glo"' ***
+*** Unable to execute: '"xindy"  -L english -C utf8 -I xindy -M "main" -t "main.glg" -o "main.gls" "main.glo"' ***
 
 Failed with error code 127.
 
@@ -14,11 +14,5 @@ is on your system's PATH.
 Your PATH environment variable is set to: 
 /opt/texlive/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/var/lib/snapd/snap/bin:/home/afshin/.fzf/bin
 Try manually running:
-"xindy"    -I xindy -M "main" -t "main.glg" -o "main.gls" "main.glo"
+"xindy"  -L english -C utf8 -I xindy -M "main" -t "main.glg" -o "main.gls" "main.glo"
 
-
-makeglossaries diagnostic messages:
-
-No language detected.
-Have you remembered to use \printglossary
-or \printglossaries in your document?

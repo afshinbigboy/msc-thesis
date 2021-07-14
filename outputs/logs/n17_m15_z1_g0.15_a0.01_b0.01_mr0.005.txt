@@ -1,0 +1,816 @@
+There is 17 cells and 15 mutations.
+ROOT:11
+step:  1,	mode:swap_subtrees,	new_error:7.50,	last_error:7.30,	acc_prob:0.198
+step:  2,	mode:prune_reattach,	new_error:7.10,	last_error:7.10,	acc_prob:1.000
+step:  3,	mode:prune_reattach,	new_error:7.10,	last_error:7.10,	acc_prob:1.000
+step:  4,	mode:prune_reattach,	new_error:6.50,	last_error:6.50,	acc_prob:1.000
+step:  5,	mode:swap_subtrees,	new_error:6.40,	last_error:6.40,	acc_prob:1.000
+step:  6,	mode:prune_reattach,	new_error:6.20,	last_error:6.20,	acc_prob:1.000
+step:  7,	mode:swap_subtrees,	new_error:6.10,	last_error:6.10,	acc_prob:1.000
+step:  8,	mode:swap_nodes,	new_error:6.10,	last_error:6.10,	acc_prob:1.000
+step:  9,	mode:swap_nodes,	new_error:6.10,	last_error:6.10,	acc_prob:1.000
+step: 10,	mode:swap_nodes,	new_error:6.00,	last_error:6.00,	acc_prob:1.000
+step: 11,	mode:swap_nodes,	new_error:6.70,	last_error:6.00,	acc_prob:0.000
+step: 12,	mode:swap_nodes,	new_error:6.00,	last_error:6.00,	acc_prob:1.000
+step: 13,	mode:swap_nodes,	new_error:6.40,	last_error:6.00,	acc_prob:0.000
+step: 14,	mode:swap_nodes,	new_error:6.00,	last_error:6.00,	acc_prob:1.000
+step: 15,	mode:swap_nodes,	new_error:5.00,	last_error:5.00,	acc_prob:1.000
+step: 16,	mode:swap_subtrees,	new_error:5.30,	last_error:5.00,	acc_prob:0.030
+step: 17,	mode:swap_subtrees,	new_error:6.10,	last_error:5.00,	acc_prob:0.000
+step: 18,	mode:swap_subtrees,	new_error:5.30,	last_error:5.00,	acc_prob:0.030
+step: 19,	mode:prune_reattach,	new_error:5.00,	last_error:5.00,	acc_prob:1.000
+step: 20,	mode:prune_reattach,	new_error:5.30,	last_error:5.00,	acc_prob:0.030
+step: 21,	mode:prune_reattach,	new_error:5.00,	last_error:5.00,	acc_prob:1.000
+step: 22,	mode:prune_reattach,	new_error:4.30,	last_error:4.30,	acc_prob:1.000
+step: 23,	mode:swap_subtrees,	new_error:6.10,	last_error:4.30,	acc_prob:0.000
+step: 24,	mode:swap_nodes,	new_error:5.90,	last_error:4.30,	acc_prob:0.000
+step: 25,	mode:swap_nodes,	new_error:4.50,	last_error:4.30,	acc_prob:0.000
+step: 26,	mode:swap_nodes,	new_error:5.30,	last_error:4.30,	acc_prob:0.000
+step: 27,	mode:swap_nodes,	new_error:5.30,	last_error:4.30,	acc_prob:0.000
+step: 28,	mode:swap_nodes,	new_error:6.80,	last_error:4.30,	acc_prob:0.000
+step: 29,	mode:swap_nodes,	new_error:4.50,	last_error:4.30,	acc_prob:0.000
+step: 30,	mode:swap_nodes,	new_error:4.30,	last_error:4.30,	acc_prob:1.000
+step: 31,	mode:swap_nodes,	new_error:4.50,	last_error:4.30,	acc_prob:0.000
+step: 32,	mode:swap_subtrees,	new_error:4.30,	last_error:4.30,	acc_prob:1.000
+step: 33,	mode:prune_reattach,	new_error:4.30,	last_error:4.30,	acc_prob:1.000
+step: 34,	mode:prune_reattach,	new_error:4.30,	last_error:4.30,	acc_prob:1.000
+step: 35,	mode:prune_reattach,	new_error:5.70,	last_error:4.30,	acc_prob:0.000
+step: 36,	mode:swap_subtrees,	new_error:4.20,	last_error:4.20,	acc_prob:1.000
+step: 37,	mode:swap_subtrees,	new_error:4.20,	last_error:4.20,	acc_prob:1.000
+step: 38,	mode:prune_reattach,	new_error:4.20,	last_error:4.20,	acc_prob:1.000
+step: 39,	mode:prune_reattach,	new_error:4.80,	last_error:4.20,	acc_prob:0.000
+step: 40,	mode:swap_nodes,	new_error:4.20,	last_error:4.20,	acc_prob:1.000
+step: 41,	mode:swap_nodes,	new_error:4.30,	last_error:4.20,	acc_prob:0.000
+step: 42,	mode:swap_nodes,	new_error:5.40,	last_error:4.20,	acc_prob:0.000
+step: 43,	mode:swap_nodes,	new_error:4.20,	last_error:4.20,	acc_prob:1.000
+step: 44,	mode:swap_nodes,	new_error:4.60,	last_error:4.20,	acc_prob:0.000
+step: 45,	mode:swap_nodes,	new_error:4.30,	last_error:4.20,	acc_prob:0.000
+step: 46,	mode:swap_nodes,	new_error:5.90,	last_error:4.20,	acc_prob:0.000
+step: 47,	mode:swap_nodes,	new_error:4.50,	last_error:4.20,	acc_prob:0.000
+step: 48,	mode:prune_reattach,	new_error:2.80,	last_error:2.80,	acc_prob:1.000
+step: 49,	mode:prune_reattach,	new_error:2.80,	last_error:2.80,	acc_prob:1.000
+step: 50,	mode:swap_subtrees,	new_error:4.50,	last_error:2.80,	acc_prob:0.000
+step: 51,	mode:prune_reattach,	new_error:4.90,	last_error:2.80,	acc_prob:0.000
+step: 52,	mode:prune_reattach,	new_error:3.40,	last_error:2.80,	acc_prob:0.000
+step: 53,	mode:prune_reattach,	new_error:2.80,	last_error:2.80,	acc_prob:1.000
+step: 54,	mode:prune_reattach,	new_error:2.80,	last_error:2.80,	acc_prob:1.000
+step: 55,	mode:swap_subtrees,	new_error:4.70,	last_error:2.80,	acc_prob:0.000
+step: 56,	mode:swap_nodes,	new_error:2.80,	last_error:2.80,	acc_prob:1.000
+step: 57,	mode:swap_nodes,	new_error:2.80,	last_error:2.80,	acc_prob:1.000
+step: 58,	mode:swap_nodes,	new_error:3.20,	last_error:2.80,	acc_prob:0.000
+step: 59,	mode:swap_nodes,	new_error:4.50,	last_error:2.80,	acc_prob:0.000
+step: 60,	mode:swap_nodes,	new_error:4.60,	last_error:2.80,	acc_prob:0.000
+step: 61,	mode:swap_nodes,	new_error:2.70,	last_error:2.70,	acc_prob:1.000
+step: 62,	mode:swap_nodes,	new_error:2.10,	last_error:2.10,	acc_prob:1.000
+step: 63,	mode:swap_nodes,	new_error:4.60,	last_error:2.10,	acc_prob:0.000
+step: 64,	mode:prune_reattach,	new_error:2.10,	last_error:2.10,	acc_prob:1.000
+step: 65,	mode:swap_subtrees,	new_error:2.10,	last_error:2.10,	acc_prob:1.000
+step: 66,	mode:prune_reattach,	new_error:3.00,	last_error:2.10,	acc_prob:0.000
+step: 67,	mode:swap_subtrees,	new_error:4.40,	last_error:2.10,	acc_prob:0.000
+step: 68,	mode:swap_subtrees,	new_error:3.30,	last_error:2.10,	acc_prob:0.000
+step: 69,	mode:swap_subtrees,	new_error:4.10,	last_error:2.10,	acc_prob:0.000
+step: 70,	mode:swap_subtrees,	new_error:4.40,	last_error:2.10,	acc_prob:0.000
+step: 71,	mode:prune_reattach,	new_error:2.10,	last_error:2.10,	acc_prob:1.000
+step: 72,	mode:swap_nodes,	new_error:4.00,	last_error:2.10,	acc_prob:0.000
+step: 73,	mode:swap_nodes,	new_error:2.00,	last_error:2.00,	acc_prob:1.000
+step: 74,	mode:swap_nodes,	new_error:2.40,	last_error:2.00,	acc_prob:0.000
+step: 75,	mode:swap_nodes,	new_error:4.20,	last_error:2.00,	acc_prob:0.000
+step: 76,	mode:swap_nodes,	new_error:2.10,	last_error:2.00,	acc_prob:0.000
+step: 77,	mode:swap_nodes,	new_error:2.00,	last_error:2.00,	acc_prob:1.000
+step: 78,	mode:swap_nodes,	new_error:2.30,	last_error:2.00,	acc_prob:0.000
+step: 79,	mode:swap_nodes,	new_error:2.60,	last_error:2.00,	acc_prob:0.000
+step: 80,	mode:swap_subtrees,	new_error:4.20,	last_error:2.00,	acc_prob:0.000
+step: 81,	mode:swap_subtrees,	new_error:5.20,	last_error:2.00,	acc_prob:0.000
+step: 82,	mode:swap_subtrees,	new_error:2.00,	last_error:2.00,	acc_prob:1.000
+step: 83,	mode:swap_subtrees,	new_error:3.90,	last_error:2.00,	acc_prob:0.000
+step: 84,	mode:swap_subtrees,	new_error:4.20,	last_error:2.00,	acc_prob:0.000
+step: 85,	mode:prune_reattach,	new_error:4.50,	last_error:2.00,	acc_prob:0.000
+step: 86,	mode:prune_reattach,	new_error:2.10,	last_error:2.00,	acc_prob:0.054
+step: 87,	mode:swap_subtrees,	new_error:5.20,	last_error:2.00,	acc_prob:0.000
+step: 88,	mode:swap_nodes,	new_error:2.00,	last_error:2.00,	acc_prob:1.000
+step: 89,	mode:swap_nodes,	new_error:2.30,	last_error:2.00,	acc_prob:0.000
+step: 90,	mode:swap_nodes,	new_error:4.50,	last_error:2.00,	acc_prob:0.000
+step: 91,	mode:swap_nodes,	new_error:2.00,	last_error:2.00,	acc_prob:1.000
+step: 92,	mode:swap_nodes,	new_error:2.30,	last_error:2.00,	acc_prob:0.000
+step: 93,	mode:swap_nodes,	new_error:2.00,	last_error:2.00,	acc_prob:1.000
+step: 94,	mode:swap_nodes,	new_error:2.20,	last_error:2.00,	acc_prob:0.000
+step: 95,	mode:swap_nodes,	new_error:3.10,	last_error:2.00,	acc_prob:0.000
+step: 96,	mode:prune_reattach,	new_error:2.10,	last_error:2.00,	acc_prob:0.054
+step: 97,	mode:swap_subtrees,	new_error:1.90,	last_error:1.90,	acc_prob:1.000
+step: 98,	mode:swap_subtrees,	new_error:4.40,	last_error:1.90,	acc_prob:0.000
+step: 99,	mode:swap_subtrees,	new_error:3.10,	last_error:1.90,	acc_prob:0.000
+step:100,	mode:prune_reattach,	new_error:4.10,	last_error:1.90,	acc_prob:0.000
+step:101,	mode:prune_reattach,	new_error:3.10,	last_error:1.90,	acc_prob:0.000
+step:102,	mode:prune_reattach,	new_error:4.20,	last_error:1.90,	acc_prob:0.000
+step:103,	mode:prune_reattach,	new_error:1.90,	last_error:1.90,	acc_prob:1.000
+step:104,	mode:swap_nodes,	new_error:4.10,	last_error:1.90,	acc_prob:0.000
+step:105,	mode:swap_nodes,	new_error:3.70,	last_error:1.90,	acc_prob:0.000
+step:106,	mode:swap_nodes,	new_error:2.70,	last_error:1.90,	acc_prob:0.000
+step:107,	mode:swap_nodes,	new_error:4.50,	last_error:1.90,	acc_prob:0.000
+step:108,	mode:swap_nodes,	new_error:3.50,	last_error:1.90,	acc_prob:0.000
+step:109,	mode:swap_nodes,	new_error:4.10,	last_error:1.90,	acc_prob:0.000
+step:110,	mode:swap_nodes,	new_error:2.10,	last_error:1.90,	acc_prob:0.000
+step:111,	mode:swap_nodes,	new_error:2.10,	last_error:1.90,	acc_prob:0.000
+step:112,	mode:swap_subtrees,	new_error:1.90,	last_error:1.90,	acc_prob:1.000
+step:113,	mode:swap_subtrees,	new_error:2.00,	last_error:1.90,	acc_prob:0.046
+step:114,	mode:swap_subtrees,	new_error:3.30,	last_error:1.90,	acc_prob:0.000
+step:115,	mode:prune_reattach,	new_error:2.00,	last_error:1.90,	acc_prob:0.046
+step:116,	mode:swap_subtrees,	new_error:4.30,	last_error:1.90,	acc_prob:0.000
+step:117,	mode:prune_reattach,	new_error:1.90,	last_error:1.90,	acc_prob:1.000
+step:118,	mode:prune_reattach,	new_error:2.70,	last_error:1.90,	acc_prob:0.000
+step:119,	mode:prune_reattach,	new_error:1.90,	last_error:1.90,	acc_prob:1.000
+step:120,	mode:swap_nodes,	new_error:2.20,	last_error:1.90,	acc_prob:0.000
+step:121,	mode:swap_nodes,	new_error:4.40,	last_error:1.90,	acc_prob:0.000
+step:122,	mode:swap_nodes,	new_error:1.90,	last_error:1.90,	acc_prob:1.000
+step:123,	mode:swap_nodes,	new_error:3.30,	last_error:1.90,	acc_prob:0.000
+step:124,	mode:swap_nodes,	new_error:2.80,	last_error:1.90,	acc_prob:0.000
+step:125,	mode:swap_nodes,	new_error:4.10,	last_error:1.90,	acc_prob:0.000
+step:126,	mode:swap_nodes,	new_error:4.30,	last_error:1.90,	acc_prob:0.000
+step:127,	mode:swap_nodes,	new_error:2.10,	last_error:1.90,	acc_prob:0.000
+step:128,	mode:prune_reattach,	new_error:4.30,	last_error:1.90,	acc_prob:0.000
+step:129,	mode:swap_subtrees,	new_error:5.10,	last_error:1.90,	acc_prob:0.000
+step:130,	mode:prune_reattach,	new_error:2.00,	last_error:1.90,	acc_prob:0.046
+step:131,	mode:swap_subtrees,	new_error:1.70,	last_error:1.70,	acc_prob:1.000
+step:132,	mode:swap_subtrees,	new_error:5.10,	last_error:1.70,	acc_prob:0.000
+step:133,	mode:swap_subtrees,	new_error:2.70,	last_error:1.70,	acc_prob:0.000
+step:134,	mode:swap_subtrees,	new_error:2.70,	last_error:1.70,	acc_prob:0.000
+step:135,	mode:swap_subtrees,	new_error:3.90,	last_error:1.70,	acc_prob:0.000
+step:136,	mode:swap_nodes,	new_error:2.50,	last_error:1.70,	acc_prob:0.000
+step:137,	mode:swap_nodes,	new_error:1.70,	last_error:1.70,	acc_prob:1.000
+step:138,	mode:swap_nodes,	new_error:1.70,	last_error:1.70,	acc_prob:1.000
+step:139,	mode:swap_nodes,	new_error:1.90,	last_error:1.70,	acc_prob:0.000
+step:140,	mode:swap_nodes,	new_error:1.70,	last_error:1.70,	acc_prob:1.000
+step:141,	mode:swap_nodes,	new_error:2.60,	last_error:1.70,	acc_prob:0.000
+step:142,	mode:swap_nodes,	new_error:2.00,	last_error:1.70,	acc_prob:0.000
+step:143,	mode:swap_nodes,	new_error:3.80,	last_error:1.70,	acc_prob:0.000
+step:144,	mode:prune_reattach,	new_error:2.70,	last_error:1.70,	acc_prob:0.000
+step:145,	mode:swap_subtrees,	new_error:5.00,	last_error:1.70,	acc_prob:0.000
+step:146,	mode:swap_subtrees,	new_error:2.90,	last_error:1.70,	acc_prob:0.000
+step:147,	mode:swap_subtrees,	new_error:5.10,	last_error:1.70,	acc_prob:0.000
+step:148,	mode:prune_reattach,	new_error:1.80,	last_error:1.70,	acc_prob:0.032
+step:149,	mode:prune_reattach,	new_error:4.40,	last_error:1.70,	acc_prob:0.000
+step:150,	mode:swap_subtrees,	new_error:5.00,	last_error:1.70,	acc_prob:0.000
+step:151,	mode:prune_reattach,	new_error:1.70,	last_error:1.70,	acc_prob:1.000
+step:152,	mode:swap_nodes,	new_error:1.60,	last_error:1.60,	acc_prob:1.000
+step:153,	mode:swap_nodes,	new_error:2.40,	last_error:1.60,	acc_prob:0.000
+step:154,	mode:swap_nodes,	new_error:2.80,	last_error:1.60,	acc_prob:0.000
+step:155,	mode:swap_nodes,	new_error:1.80,	last_error:1.60,	acc_prob:0.000
+step:156,	mode:swap_nodes,	new_error:1.80,	last_error:1.60,	acc_prob:0.000
+step:157,	mode:swap_nodes,	new_error:2.40,	last_error:1.60,	acc_prob:0.000
+step:158,	mode:swap_nodes,	new_error:1.60,	last_error:1.60,	acc_prob:1.000
+step:159,	mode:swap_nodes,	new_error:1.80,	last_error:1.60,	acc_prob:0.000
+step:160,	mode:swap_subtrees,	new_error:4.00,	last_error:1.60,	acc_prob:0.000
+step:161,	mode:prune_reattach,	new_error:5.50,	last_error:1.60,	acc_prob:0.000
+step:162,	mode:prune_reattach,	new_error:1.60,	last_error:1.60,	acc_prob:1.000
+step:163,	mode:swap_subtrees,	new_error:2.70,	last_error:1.60,	acc_prob:0.000
+step:164,	mode:swap_subtrees,	new_error:5.00,	last_error:1.60,	acc_prob:0.000
+step:165,	mode:prune_reattach,	new_error:3.20,	last_error:1.60,	acc_prob:0.000
+step:166,	mode:prune_reattach,	new_error:1.70,	last_error:1.60,	acc_prob:0.026
+step:167,	mode:prune_reattach,	new_error:4.40,	last_error:1.60,	acc_prob:0.000
+step:168,	mode:swap_nodes,	new_error:4.00,	last_error:1.60,	acc_prob:0.000
+step:169,	mode:swap_nodes,	new_error:3.70,	last_error:1.60,	acc_prob:0.000
+step:170,	mode:swap_nodes,	new_error:2.10,	last_error:1.60,	acc_prob:0.000
+step:171,	mode:swap_nodes,	new_error:1.60,	last_error:1.60,	acc_prob:1.000
+step:172,	mode:swap_nodes,	new_error:2.40,	last_error:1.60,	acc_prob:0.000
+step:173,	mode:swap_nodes,	new_error:4.10,	last_error:1.60,	acc_prob:0.000
+step:174,	mode:swap_nodes,	new_error:1.60,	last_error:1.60,	acc_prob:1.000
+step:175,	mode:swap_nodes,	new_error:1.70,	last_error:1.60,	acc_prob:0.000
+step:176,	mode:swap_subtrees,	new_error:4.20,	last_error:1.60,	acc_prob:0.000
+step:177,	mode:prune_reattach,	new_error:1.60,	last_error:1.60,	acc_prob:1.000
+step:178,	mode:swap_subtrees,	new_error:2.50,	last_error:1.60,	acc_prob:0.000
+step:179,	mode:prune_reattach,	new_error:3.10,	last_error:1.60,	acc_prob:0.000
+step:180,	mode:swap_subtrees,	new_error:4.80,	last_error:1.60,	acc_prob:0.000
+step:181,	mode:swap_subtrees,	new_error:4.00,	last_error:1.60,	acc_prob:0.000
+step:182,	mode:prune_reattach,	new_error:3.20,	last_error:1.60,	acc_prob:0.000
+step:183,	mode:prune_reattach,	new_error:2.90,	last_error:1.60,	acc_prob:0.000
+step:184,	mode:swap_nodes,	new_error:1.60,	last_error:1.60,	acc_prob:1.000
+step:185,	mode:swap_nodes,	new_error:2.60,	last_error:1.60,	acc_prob:0.000
+step:186,	mode:swap_nodes,	new_error:3.60,	last_error:1.60,	acc_prob:0.000
+step:187,	mode:swap_nodes,	new_error:4.00,	last_error:1.60,	acc_prob:0.000
+step:188,	mode:swap_nodes,	new_error:1.50,	last_error:1.50,	acc_prob:1.000
+step:189,	mode:swap_nodes,	new_error:1.50,	last_error:1.50,	acc_prob:1.000
+step:190,	mode:swap_nodes,	new_error:3.50,	last_error:1.50,	acc_prob:0.000
+step:191,	mode:swap_nodes,	new_error:1.70,	last_error:1.50,	acc_prob:0.000
+step:192,	mode:prune_reattach,	new_error:1.50,	last_error:1.50,	acc_prob:1.000
+step:193,	mode:prune_reattach,	new_error:2.20,	last_error:1.50,	acc_prob:0.000
+step:194,	mode:swap_subtrees,	new_error:1.50,	last_error:1.50,	acc_prob:1.000
+step:195,	mode:prune_reattach,	new_error:4.10,	last_error:1.50,	acc_prob:0.000
+step:196,	mode:swap_subtrees,	new_error:3.90,	last_error:1.50,	acc_prob:0.000
+step:197,	mode:swap_subtrees,	new_error:3.20,	last_error:1.50,	acc_prob:0.000
+step:198,	mode:swap_subtrees,	new_error:2.20,	last_error:1.50,	acc_prob:0.000
+step:199,	mode:prune_reattach,	new_error:1.70,	last_error:1.50,	acc_prob:0.001
+step:200,	mode:swap_nodes,	new_error:2.10,	last_error:1.50,	acc_prob:0.000
+step:201,	mode:swap_nodes,	new_error:3.50,	last_error:1.50,	acc_prob:0.000
+step:202,	mode:swap_nodes,	new_error:1.60,	last_error:1.50,	acc_prob:0.000
+step:203,	mode:swap_nodes,	new_error:1.50,	last_error:1.50,	acc_prob:1.000
+step:204,	mode:swap_nodes,	new_error:2.70,	last_error:1.50,	acc_prob:0.000
+step:205,	mode:swap_nodes,	new_error:1.90,	last_error:1.50,	acc_prob:0.000
+step:206,	mode:swap_nodes,	new_error:3.20,	last_error:1.50,	acc_prob:0.000
+step:207,	mode:swap_nodes,	new_error:2.00,	last_error:1.50,	acc_prob:0.000
+step:208,	mode:swap_subtrees,	new_error:2.20,	last_error:1.50,	acc_prob:0.000
+step:209,	mode:prune_reattach,	new_error:1.50,	last_error:1.50,	acc_prob:1.000
+step:210,	mode:prune_reattach,	new_error:5.20,	last_error:1.50,	acc_prob:0.000
+step:211,	mode:swap_subtrees,	new_error:2.50,	last_error:1.50,	acc_prob:0.000
+step:212,	mode:swap_subtrees,	new_error:1.50,	last_error:1.50,	acc_prob:1.000
+step:213,	mode:prune_reattach,	new_error:2.20,	last_error:1.50,	acc_prob:0.000
+step:214,	mode:swap_subtrees,	new_error:2.20,	last_error:1.50,	acc_prob:0.000
+step:215,	mode:swap_subtrees,	new_error:1.40,	last_error:1.40,	acc_prob:1.000
+step:216,	mode:swap_nodes,	new_error:2.00,	last_error:1.40,	acc_prob:0.000
+step:217,	mode:swap_nodes,	new_error:3.90,	last_error:1.40,	acc_prob:0.000
+step:218,	mode:swap_nodes,	new_error:3.80,	last_error:1.40,	acc_prob:0.000
+step:219,	mode:swap_nodes,	new_error:3.90,	last_error:1.40,	acc_prob:0.000
+step:220,	mode:swap_nodes,	new_error:1.60,	last_error:1.40,	acc_prob:0.000
+step:221,	mode:swap_nodes,	new_error:1.60,	last_error:1.40,	acc_prob:0.000
+step:222,	mode:swap_nodes,	new_error:3.10,	last_error:1.40,	acc_prob:0.000
+step:223,	mode:swap_nodes,	new_error:3.10,	last_error:1.40,	acc_prob:0.000
+step:224,	mode:prune_reattach,	new_error:1.40,	last_error:1.40,	acc_prob:1.000
+step:225,	mode:swap_subtrees,	new_error:3.80,	last_error:1.40,	acc_prob:0.000
+step:226,	mode:prune_reattach,	new_error:1.40,	last_error:1.40,	acc_prob:1.000
+step:227,	mode:prune_reattach,	new_error:1.40,	last_error:1.40,	acc_prob:1.000
+step:228,	mode:swap_subtrees,	new_error:2.30,	last_error:1.40,	acc_prob:0.000
+step:229,	mode:swap_subtrees,	new_error:3.50,	last_error:1.40,	acc_prob:0.000
+step:230,	mode:swap_subtrees,	new_error:2.60,	last_error:1.40,	acc_prob:0.000
+step:231,	mode:swap_subtrees,	new_error:3.80,	last_error:1.40,	acc_prob:0.000
+step:232,	mode:swap_nodes,	new_error:1.50,	last_error:1.40,	acc_prob:0.000
+step:233,	mode:swap_nodes,	new_error:3.10,	last_error:1.40,	acc_prob:0.000
+step:234,	mode:swap_nodes,	new_error:1.40,	last_error:1.40,	acc_prob:1.000
+step:235,	mode:swap_nodes,	new_error:1.70,	last_error:1.40,	acc_prob:0.000
+step:236,	mode:swap_nodes,	new_error:2.90,	last_error:1.40,	acc_prob:0.000
+step:237,	mode:swap_nodes,	new_error:1.60,	last_error:1.40,	acc_prob:0.000
+step:238,	mode:swap_nodes,	new_error:3.00,	last_error:1.40,	acc_prob:0.000
+step:239,	mode:swap_nodes,	new_error:2.80,	last_error:1.40,	acc_prob:0.000
+step:240,	mode:swap_subtrees,	new_error:1.40,	last_error:1.40,	acc_prob:1.000
+step:241,	mode:prune_reattach,	new_error:1.20,	last_error:1.20,	acc_prob:1.000
+step:242,	mode:prune_reattach,	new_error:1.50,	last_error:1.20,	acc_prob:0.000
+step:243,	mode:prune_reattach,	new_error:1.20,	last_error:1.20,	acc_prob:1.000
+step:244,	mode:swap_subtrees,	new_error:2.50,	last_error:1.20,	acc_prob:0.000
+step:245,	mode:prune_reattach,	new_error:1.20,	last_error:1.20,	acc_prob:1.000
+step:246,	mode:swap_subtrees,	new_error:2.10,	last_error:1.20,	acc_prob:0.000
+step:247,	mode:swap_subtrees,	new_error:2.40,	last_error:1.20,	acc_prob:0.000
+step:248,	mode:swap_nodes,	new_error:1.50,	last_error:1.20,	acc_prob:0.000
+step:249,	mode:swap_nodes,	new_error:1.80,	last_error:1.20,	acc_prob:0.000
+step:250,	mode:swap_nodes,	new_error:1.30,	last_error:1.20,	acc_prob:0.000
+step:251,	mode:swap_nodes,	new_error:1.30,	last_error:1.20,	acc_prob:0.000
+step:252,	mode:swap_nodes,	new_error:3.30,	last_error:1.20,	acc_prob:0.000
+step:253,	mode:swap_nodes,	new_error:1.20,	last_error:1.20,	acc_prob:1.000
+step:254,	mode:swap_nodes,	new_error:2.60,	last_error:1.20,	acc_prob:0.000
+step:255,	mode:swap_nodes,	new_error:1.60,	last_error:1.20,	acc_prob:0.000
+step:256,	mode:swap_subtrees,	new_error:2.50,	last_error:1.20,	acc_prob:0.000
+step:257,	mode:swap_subtrees,	new_error:2.50,	last_error:1.20,	acc_prob:0.000
+step:258,	mode:swap_subtrees,	new_error:2.40,	last_error:1.20,	acc_prob:0.000
+step:259,	mode:swap_subtrees,	new_error:2.50,	last_error:1.20,	acc_prob:0.000
+step:260,	mode:swap_subtrees,	new_error:2.20,	last_error:1.20,	acc_prob:0.000
+step:261,	mode:prune_reattach,	new_error:2.30,	last_error:1.20,	acc_prob:0.000
+step:262,	mode:swap_subtrees,	new_error:2.50,	last_error:1.20,	acc_prob:0.000
+step:263,	mode:swap_subtrees,	new_error:1.60,	last_error:1.20,	acc_prob:0.000
+step:264,	mode:swap_nodes,	new_error:1.60,	last_error:1.20,	acc_prob:0.000
+step:265,	mode:swap_nodes,	new_error:2.60,	last_error:1.20,	acc_prob:0.000
+step:266,	mode:swap_nodes,	new_error:3.70,	last_error:1.20,	acc_prob:0.000
+step:267,	mode:swap_nodes,	new_error:3.80,	last_error:1.20,	acc_prob:0.000
+step:268,	mode:swap_nodes,	new_error:1.30,	last_error:1.20,	acc_prob:0.000
+step:269,	mode:swap_nodes,	new_error:2.90,	last_error:1.20,	acc_prob:0.000
+step:270,	mode:swap_nodes,	new_error:3.50,	last_error:1.20,	acc_prob:0.000
+step:271,	mode:swap_nodes,	new_error:1.60,	last_error:1.20,	acc_prob:0.000
+step:272,	mode:prune_reattach,	new_error:1.40,	last_error:1.20,	acc_prob:0.000
+step:273,	mode:prune_reattach,	new_error:1.40,	last_error:1.20,	acc_prob:0.000
+step:274,	mode:prune_reattach,	new_error:4.30,	last_error:1.20,	acc_prob:0.000
+step:275,	mode:prune_reattach,	new_error:1.20,	last_error:1.20,	acc_prob:1.000
+step:276,	mode:prune_reattach,	new_error:1.40,	last_error:1.20,	acc_prob:0.000
+step:277,	mode:swap_subtrees,	new_error:1.20,	last_error:1.20,	acc_prob:1.000
+step:278,	mode:prune_reattach,	new_error:4.10,	last_error:1.20,	acc_prob:0.000
+step:279,	mode:prune_reattach,	new_error:1.60,	last_error:1.20,	acc_prob:0.000
+step:280,	mode:swap_nodes,	new_error:1.60,	last_error:1.20,	acc_prob:0.000
+step:281,	mode:swap_nodes,	new_error:1.40,	last_error:1.20,	acc_prob:0.000
+step:282,	mode:swap_nodes,	new_error:1.60,	last_error:1.20,	acc_prob:0.000
+step:283,	mode:swap_nodes,	new_error:1.40,	last_error:1.20,	acc_prob:0.000
+step:284,	mode:swap_nodes,	new_error:3.30,	last_error:1.20,	acc_prob:0.000
+step:285,	mode:swap_nodes,	new_error:1.60,	last_error:1.20,	acc_prob:0.000
+step:286,	mode:swap_nodes,	new_error:1.50,	last_error:1.20,	acc_prob:0.000
+step:287,	mode:swap_nodes,	new_error:1.20,	last_error:1.20,	acc_prob:1.000
+step:288,	mode:prune_reattach,	new_error:1.50,	last_error:1.20,	acc_prob:0.000
+step:289,	mode:swap_subtrees,	new_error:1.40,	last_error:1.20,	acc_prob:0.000
+step:290,	mode:swap_subtrees,	new_error:1.40,	last_error:1.20,	acc_prob:0.000
+step:291,	mode:swap_subtrees,	new_error:1.60,	last_error:1.20,	acc_prob:0.000
+step:292,	mode:swap_subtrees,	new_error:0.90,	last_error:0.90,	acc_prob:1.000
+step:293,	mode:prune_reattach,	new_error:1.10,	last_error:0.90,	acc_prob:0.000
+step:294,	mode:swap_subtrees,	new_error:0.90,	last_error:0.90,	acc_prob:1.000
+step:295,	mode:prune_reattach,	new_error:0.80,	last_error:0.80,	acc_prob:1.000
+step:296,	mode:swap_nodes,	new_error:2.70,	last_error:0.80,	acc_prob:0.000
+step:297,	mode:swap_nodes,	new_error:2.70,	last_error:0.80,	acc_prob:0.000
+step:298,	mode:swap_nodes,	new_error:2.90,	last_error:0.80,	acc_prob:0.000
+step:299,	mode:swap_nodes,	new_error:3.40,	last_error:0.80,	acc_prob:0.000
+step:300,	mode:swap_nodes,	new_error:2.90,	last_error:0.80,	acc_prob:0.000
+step:301,	mode:swap_nodes,	new_error:2.70,	last_error:0.80,	acc_prob:0.000
+step:302,	mode:swap_nodes,	new_error:2.90,	last_error:0.80,	acc_prob:0.000
+step:303,	mode:swap_nodes,	new_error:2.80,	last_error:0.80,	acc_prob:0.000
+step:304,	mode:swap_subtrees,	new_error:1.90,	last_error:0.80,	acc_prob:0.000
+step:305,	mode:swap_subtrees,	new_error:3.00,	last_error:0.80,	acc_prob:0.000
+step:306,	mode:prune_reattach,	new_error:1.00,	last_error:0.80,	acc_prob:0.000
+step:307,	mode:prune_reattach,	new_error:0.70,	last_error:0.70,	acc_prob:1.000
+step:308,	mode:prune_reattach,	new_error:2.10,	last_error:0.70,	acc_prob:0.000
+step:309,	mode:prune_reattach,	new_error:0.80,	last_error:0.70,	acc_prob:0.000
+step:310,	mode:prune_reattach,	new_error:1.70,	last_error:0.70,	acc_prob:0.000
+step:311,	mode:prune_reattach,	new_error:2.70,	last_error:0.70,	acc_prob:0.000
+step:312,	mode:swap_nodes,	new_error:2.40,	last_error:0.70,	acc_prob:0.000
+step:313,	mode:swap_nodes,	new_error:3.00,	last_error:0.70,	acc_prob:0.000
+step:314,	mode:swap_nodes,	new_error:0.50,	last_error:0.50,	acc_prob:1.000
+step:315,	mode:swap_nodes,	new_error:0.90,	last_error:0.50,	acc_prob:0.000
+step:316,	mode:swap_nodes,	new_error:0.80,	last_error:0.50,	acc_prob:0.000
+step:317,	mode:swap_nodes,	new_error:1.50,	last_error:0.50,	acc_prob:0.000
+step:318,	mode:swap_nodes,	new_error:2.80,	last_error:0.50,	acc_prob:0.000
+step:319,	mode:swap_nodes,	new_error:2.20,	last_error:0.50,	acc_prob:0.000
+step:320,	mode:swap_subtrees,	new_error:1.80,	last_error:0.50,	acc_prob:0.000
+step:321,	mode:swap_subtrees,	new_error:0.50,	last_error:0.50,	acc_prob:1.000
+step:322,	mode:swap_subtrees,	new_error:0.90,	last_error:0.50,	acc_prob:0.000
+step:323,	mode:swap_subtrees,	new_error:4.00,	last_error:0.50,	acc_prob:0.000
+step:324,	mode:prune_reattach,	new_error:1.70,	last_error:0.50,	acc_prob:0.000
+step:325,	mode:swap_subtrees,	new_error:1.50,	last_error:0.50,	acc_prob:0.000
+step:326,	mode:prune_reattach,	new_error:1.70,	last_error:0.50,	acc_prob:0.000
+step:327,	mode:swap_subtrees,	new_error:1.80,	last_error:0.50,	acc_prob:0.000
+step:328,	mode:swap_nodes,	new_error:2.90,	last_error:0.50,	acc_prob:0.000
+step:329,	mode:swap_nodes,	new_error:0.50,	last_error:0.50,	acc_prob:1.000
+step:330,	mode:swap_nodes,	new_error:2.50,	last_error:0.50,	acc_prob:0.000
+step:331,	mode:swap_nodes,	new_error:2.50,	last_error:0.50,	acc_prob:0.000
+step:332,	mode:swap_nodes,	new_error:2.20,	last_error:0.50,	acc_prob:0.000
+step:333,	mode:swap_nodes,	new_error:2.20,	last_error:0.50,	acc_prob:0.000
+step:334,	mode:swap_nodes,	new_error:2.30,	last_error:0.50,	acc_prob:0.000
+step:335,	mode:swap_nodes,	new_error:0.80,	last_error:0.50,	acc_prob:0.000
+step:336,	mode:swap_subtrees,	new_error:2.10,	last_error:0.50,	acc_prob:0.000
+step:337,	mode:swap_subtrees,	new_error:0.50,	last_error:0.50,	acc_prob:1.000
+step:338,	mode:prune_reattach,	new_error:0.50,	last_error:0.50,	acc_prob:1.000
+step:339,	mode:swap_subtrees,	new_error:0.50,	last_error:0.50,	acc_prob:1.000
+step:340,	mode:prune_reattach,	new_error:2.90,	last_error:0.50,	acc_prob:0.000
+step:341,	mode:prune_reattach,	new_error:0.60,	last_error:0.50,	acc_prob:0.000
+step:342,	mode:prune_reattach,	new_error:0.40,	last_error:0.40,	acc_prob:1.000
+step:343,	mode:swap_subtrees,	new_error:3.10,	last_error:0.40,	acc_prob:0.000
+step:344,	mode:swap_nodes,	new_error:0.40,	last_error:0.40,	acc_prob:1.000
+step:345,	mode:swap_nodes,	new_error:1.20,	last_error:0.40,	acc_prob:0.000
+step:346,	mode:swap_nodes,	new_error:2.40,	last_error:0.40,	acc_prob:0.000
+step:347,	mode:swap_nodes,	new_error:0.60,	last_error:0.40,	acc_prob:0.000
+step:348,	mode:swap_nodes,	new_error:2.20,	last_error:0.40,	acc_prob:0.000
+step:349,	mode:swap_nodes,	new_error:0.30,	last_error:0.30,	acc_prob:1.000
+step:350,	mode:swap_nodes,	new_error:2.10,	last_error:0.30,	acc_prob:0.000
+step:351,	mode:swap_nodes,	new_error:0.70,	last_error:0.30,	acc_prob:0.000
+step:352,	mode:prune_reattach,	new_error:0.60,	last_error:0.30,	acc_prob:0.000
+step:353,	mode:prune_reattach,	new_error:0.50,	last_error:0.30,	acc_prob:0.000
+step:354,	mode:swap_subtrees,	new_error:1.20,	last_error:0.30,	acc_prob:0.000
+step:355,	mode:swap_subtrees,	new_error:0.40,	last_error:0.30,	acc_prob:0.000
+step:356,	mode:prune_reattach,	new_error:0.30,	last_error:0.30,	acc_prob:1.000
+step:357,	mode:prune_reattach,	new_error:0.30,	last_error:0.30,	acc_prob:1.000
+step:358,	mode:prune_reattach,	new_error:0.50,	last_error:0.30,	acc_prob:0.000
+step:359,	mode:prune_reattach,	new_error:3.80,	last_error:0.30,	acc_prob:0.000
+step:360,	mode:swap_nodes,	new_error:2.30,	last_error:0.30,	acc_prob:0.000
+step:361,	mode:swap_nodes,	new_error:2.70,	last_error:0.30,	acc_prob:0.000
+step:362,	mode:swap_nodes,	new_error:2.80,	last_error:0.30,	acc_prob:0.000
+step:363,	mode:swap_nodes,	new_error:0.70,	last_error:0.30,	acc_prob:0.000
+step:364,	mode:swap_nodes,	new_error:0.30,	last_error:0.30,	acc_prob:1.000
+step:365,	mode:swap_nodes,	new_error:3.10,	last_error:0.30,	acc_prob:0.000
+step:366,	mode:swap_nodes,	new_error:0.70,	last_error:0.30,	acc_prob:0.000
+step:367,	mode:swap_nodes,	new_error:2.70,	last_error:0.30,	acc_prob:0.000
+step:368,	mode:swap_subtrees,	new_error:1.60,	last_error:0.30,	acc_prob:0.000
+step:369,	mode:prune_reattach,	new_error:0.30,	last_error:0.30,	acc_prob:1.000
+step:370,	mode:swap_subtrees,	new_error:0.70,	last_error:0.30,	acc_prob:0.000
+step:371,	mode:swap_subtrees,	new_error:1.40,	last_error:0.30,	acc_prob:0.000
+step:372,	mode:swap_subtrees,	new_error:0.80,	last_error:0.30,	acc_prob:0.000
+step:373,	mode:swap_subtrees,	new_error:0.30,	last_error:0.30,	acc_prob:1.000
+step:374,	mode:swap_subtrees,	new_error:2.60,	last_error:0.30,	acc_prob:0.000
+step:375,	mode:prune_reattach,	new_error:2.90,	last_error:0.30,	acc_prob:0.000
+step:376,	mode:swap_nodes,	new_error:2.10,	last_error:0.30,	acc_prob:0.000
+step:377,	mode:swap_nodes,	new_error:0.50,	last_error:0.30,	acc_prob:0.000
+step:378,	mode:swap_nodes,	new_error:0.40,	last_error:0.30,	acc_prob:0.000
+step:379,	mode:swap_nodes,	new_error:0.40,	last_error:0.30,	acc_prob:0.000
+step:380,	mode:swap_nodes,	new_error:2.70,	last_error:0.30,	acc_prob:0.000
+step:381,	mode:swap_nodes,	new_error:1.90,	last_error:0.30,	acc_prob:0.000
+step:382,	mode:swap_nodes,	new_error:2.80,	last_error:0.30,	acc_prob:0.000
+step:383,	mode:swap_nodes,	new_error:1.00,	last_error:0.30,	acc_prob:0.000
+step:384,	mode:swap_subtrees,	new_error:1.30,	last_error:0.30,	acc_prob:0.000
+step:385,	mode:prune_reattach,	new_error:1.70,	last_error:0.30,	acc_prob:0.000
+step:386,	mode:prune_reattach,	new_error:3.00,	last_error:0.30,	acc_prob:0.000
+step:387,	mode:prune_reattach,	new_error:0.40,	last_error:0.30,	acc_prob:0.000
+step:388,	mode:swap_subtrees,	new_error:1.70,	last_error:0.30,	acc_prob:0.000
+step:389,	mode:swap_subtrees,	new_error:1.30,	last_error:0.30,	acc_prob:0.000
+step:390,	mode:prune_reattach,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:391,	mode:prune_reattach,	new_error:3.40,	last_error:0.20,	acc_prob:0.000
+step:392,	mode:swap_nodes,	new_error:2.70,	last_error:0.20,	acc_prob:0.000
+step:393,	mode:swap_nodes,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:394,	mode:swap_nodes,	new_error:0.40,	last_error:0.20,	acc_prob:0.000
+step:395,	mode:swap_nodes,	new_error:2.30,	last_error:0.20,	acc_prob:0.000
+step:396,	mode:swap_nodes,	new_error:2.90,	last_error:0.20,	acc_prob:0.000
+step:397,	mode:swap_nodes,	new_error:1.90,	last_error:0.20,	acc_prob:0.000
+step:398,	mode:swap_nodes,	new_error:2.90,	last_error:0.20,	acc_prob:0.000
+step:399,	mode:swap_nodes,	new_error:0.50,	last_error:0.20,	acc_prob:0.000
+step:400,	mode:prune_reattach,	new_error:1.60,	last_error:0.20,	acc_prob:0.000
+step:401,	mode:prune_reattach,	new_error:0.70,	last_error:0.20,	acc_prob:0.000
+step:402,	mode:prune_reattach,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:403,	mode:prune_reattach,	new_error:2.90,	last_error:0.20,	acc_prob:0.000
+step:404,	mode:prune_reattach,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:405,	mode:swap_subtrees,	new_error:1.30,	last_error:0.20,	acc_prob:0.000
+step:406,	mode:swap_subtrees,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:407,	mode:swap_subtrees,	new_error:0.40,	last_error:0.20,	acc_prob:0.000
+step:408,	mode:swap_nodes,	new_error:0.50,	last_error:0.20,	acc_prob:0.000
+step:409,	mode:swap_nodes,	new_error:0.40,	last_error:0.20,	acc_prob:0.000
+step:410,	mode:swap_nodes,	new_error:1.70,	last_error:0.20,	acc_prob:0.000
+step:411,	mode:swap_nodes,	new_error:2.50,	last_error:0.20,	acc_prob:0.000
+step:412,	mode:swap_nodes,	new_error:0.60,	last_error:0.20,	acc_prob:0.000
+step:413,	mode:swap_nodes,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:414,	mode:swap_nodes,	new_error:1.70,	last_error:0.20,	acc_prob:0.000
+step:415,	mode:swap_nodes,	new_error:0.40,	last_error:0.20,	acc_prob:0.000
+step:416,	mode:prune_reattach,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:417,	mode:prune_reattach,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:418,	mode:prune_reattach,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:419,	mode:prune_reattach,	new_error:0.50,	last_error:0.20,	acc_prob:0.000
+step:420,	mode:swap_subtrees,	new_error:0.80,	last_error:0.20,	acc_prob:0.000
+step:421,	mode:prune_reattach,	new_error:1.40,	last_error:0.20,	acc_prob:0.000
+step:422,	mode:prune_reattach,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:423,	mode:swap_subtrees,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:424,	mode:swap_nodes,	new_error:1.90,	last_error:0.20,	acc_prob:0.000
+step:425,	mode:swap_nodes,	new_error:2.30,	last_error:0.20,	acc_prob:0.000
+step:426,	mode:swap_nodes,	new_error:1.90,	last_error:0.20,	acc_prob:0.000
+step:427,	mode:swap_nodes,	new_error:2.30,	last_error:0.20,	acc_prob:0.000
+step:428,	mode:swap_nodes,	new_error:0.40,	last_error:0.20,	acc_prob:0.000
+step:429,	mode:swap_nodes,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:430,	mode:swap_nodes,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:431,	mode:swap_nodes,	new_error:1.80,	last_error:0.20,	acc_prob:0.000
+step:432,	mode:swap_subtrees,	new_error:2.70,	last_error:0.20,	acc_prob:0.000
+step:433,	mode:prune_reattach,	new_error:0.40,	last_error:0.20,	acc_prob:0.000
+step:434,	mode:swap_subtrees,	new_error:1.90,	last_error:0.20,	acc_prob:0.000
+step:435,	mode:prune_reattach,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:436,	mode:swap_subtrees,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:437,	mode:swap_subtrees,	new_error:1.60,	last_error:0.20,	acc_prob:0.000
+step:438,	mode:prune_reattach,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:439,	mode:prune_reattach,	new_error:0.50,	last_error:0.20,	acc_prob:0.000
+step:440,	mode:swap_nodes,	new_error:2.70,	last_error:0.20,	acc_prob:0.000
+step:441,	mode:swap_nodes,	new_error:3.00,	last_error:0.20,	acc_prob:0.000
+step:442,	mode:swap_nodes,	new_error:2.70,	last_error:0.20,	acc_prob:0.000
+step:443,	mode:swap_nodes,	new_error:0.50,	last_error:0.20,	acc_prob:0.000
+step:444,	mode:swap_nodes,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:445,	mode:swap_nodes,	new_error:1.00,	last_error:0.20,	acc_prob:0.000
+step:446,	mode:swap_nodes,	new_error:2.00,	last_error:0.20,	acc_prob:0.000
+step:447,	mode:swap_nodes,	new_error:0.40,	last_error:0.20,	acc_prob:0.000
+step:448,	mode:prune_reattach,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:449,	mode:prune_reattach,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:450,	mode:swap_subtrees,	new_error:1.70,	last_error:0.20,	acc_prob:0.000
+step:451,	mode:swap_subtrees,	new_error:0.40,	last_error:0.20,	acc_prob:0.000
+step:452,	mode:prune_reattach,	new_error:0.70,	last_error:0.20,	acc_prob:0.000
+step:453,	mode:prune_reattach,	new_error:1.30,	last_error:0.20,	acc_prob:0.000
+step:454,	mode:prune_reattach,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:455,	mode:prune_reattach,	new_error:1.60,	last_error:0.20,	acc_prob:0.000
+step:456,	mode:swap_nodes,	new_error:0.60,	last_error:0.20,	acc_prob:0.000
+step:457,	mode:swap_nodes,	new_error:2.60,	last_error:0.20,	acc_prob:0.000
+step:458,	mode:swap_nodes,	new_error:1.80,	last_error:0.20,	acc_prob:0.000
+step:459,	mode:swap_nodes,	new_error:1.70,	last_error:0.20,	acc_prob:0.000
+step:460,	mode:swap_nodes,	new_error:1.00,	last_error:0.20,	acc_prob:0.000
+step:461,	mode:swap_nodes,	new_error:0.80,	last_error:0.20,	acc_prob:0.000
+step:462,	mode:swap_nodes,	new_error:1.20,	last_error:0.20,	acc_prob:0.000
+step:463,	mode:swap_nodes,	new_error:2.70,	last_error:0.20,	acc_prob:0.000
+step:464,	mode:prune_reattach,	new_error:3.70,	last_error:0.20,	acc_prob:0.000
+step:465,	mode:prune_reattach,	new_error:0.40,	last_error:0.20,	acc_prob:0.000
+step:466,	mode:swap_subtrees,	new_error:1.00,	last_error:0.20,	acc_prob:0.000
+step:467,	mode:prune_reattach,	new_error:1.40,	last_error:0.20,	acc_prob:0.000
+step:468,	mode:prune_reattach,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:469,	mode:swap_subtrees,	new_error:1.50,	last_error:0.20,	acc_prob:0.000
+step:470,	mode:prune_reattach,	new_error:0.50,	last_error:0.20,	acc_prob:0.000
+step:471,	mode:swap_subtrees,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:472,	mode:swap_nodes,	new_error:2.60,	last_error:0.20,	acc_prob:0.000
+step:473,	mode:swap_nodes,	new_error:1.90,	last_error:0.20,	acc_prob:0.000
+step:474,	mode:swap_nodes,	new_error:0.60,	last_error:0.20,	acc_prob:0.000
+step:475,	mode:swap_nodes,	new_error:2.40,	last_error:0.20,	acc_prob:0.000
+step:476,	mode:swap_nodes,	new_error:0.40,	last_error:0.20,	acc_prob:0.000
+step:477,	mode:swap_nodes,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:478,	mode:swap_nodes,	new_error:0.60,	last_error:0.20,	acc_prob:0.000
+step:479,	mode:swap_nodes,	new_error:2.60,	last_error:0.20,	acc_prob:0.000
+step:480,	mode:swap_subtrees,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:481,	mode:swap_subtrees,	new_error:3.60,	last_error:0.20,	acc_prob:0.000
+step:482,	mode:swap_subtrees,	new_error:0.60,	last_error:0.20,	acc_prob:0.000
+step:483,	mode:swap_subtrees,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:484,	mode:prune_reattach,	new_error:1.40,	last_error:0.20,	acc_prob:0.000
+step:485,	mode:prune_reattach,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:486,	mode:swap_subtrees,	new_error:1.50,	last_error:0.20,	acc_prob:0.000
+step:487,	mode:swap_subtrees,	new_error:1.20,	last_error:0.20,	acc_prob:0.000
+step:488,	mode:swap_nodes,	new_error:2.50,	last_error:0.20,	acc_prob:0.000
+step:489,	mode:swap_nodes,	new_error:0.60,	last_error:0.20,	acc_prob:0.000
+step:490,	mode:swap_nodes,	new_error:0.80,	last_error:0.20,	acc_prob:0.000
+step:491,	mode:swap_nodes,	new_error:1.20,	last_error:0.20,	acc_prob:0.000
+step:492,	mode:swap_nodes,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:493,	mode:swap_nodes,	new_error:1.00,	last_error:0.20,	acc_prob:0.000
+step:494,	mode:swap_nodes,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:495,	mode:swap_nodes,	new_error:1.50,	last_error:0.20,	acc_prob:0.000
+step:496,	mode:prune_reattach,	new_error:0.50,	last_error:0.20,	acc_prob:0.000
+step:497,	mode:swap_subtrees,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:498,	mode:swap_subtrees,	new_error:1.60,	last_error:0.20,	acc_prob:0.000
+step:499,	mode:prune_reattach,	new_error:0.50,	last_error:0.20,	acc_prob:0.000
+step:500,	mode:prune_reattach,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:501,	mode:prune_reattach,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:502,	mode:swap_subtrees,	new_error:3.10,	last_error:0.20,	acc_prob:0.000
+step:503,	mode:swap_subtrees,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:504,	mode:swap_nodes,	new_error:0.40,	last_error:0.20,	acc_prob:0.000
+step:505,	mode:swap_nodes,	new_error:1.80,	last_error:0.20,	acc_prob:0.000
+step:506,	mode:swap_nodes,	new_error:0.40,	last_error:0.20,	acc_prob:0.000
+step:507,	mode:swap_nodes,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:508,	mode:swap_nodes,	new_error:2.70,	last_error:0.20,	acc_prob:0.000
+step:509,	mode:swap_nodes,	new_error:0.80,	last_error:0.20,	acc_prob:0.000
+step:510,	mode:swap_nodes,	new_error:2.20,	last_error:0.20,	acc_prob:0.000
+step:511,	mode:swap_nodes,	new_error:2.70,	last_error:0.20,	acc_prob:0.000
+step:512,	mode:swap_subtrees,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:513,	mode:swap_subtrees,	new_error:1.50,	last_error:0.20,	acc_prob:0.000
+step:514,	mode:prune_reattach,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:515,	mode:swap_subtrees,	new_error:1.50,	last_error:0.20,	acc_prob:0.000
+step:516,	mode:swap_subtrees,	new_error:2.50,	last_error:0.20,	acc_prob:0.000
+step:517,	mode:swap_subtrees,	new_error:1.50,	last_error:0.20,	acc_prob:0.000
+step:518,	mode:prune_reattach,	new_error:0.40,	last_error:0.20,	acc_prob:0.000
+step:519,	mode:prune_reattach,	new_error:0.50,	last_error:0.20,	acc_prob:0.000
+step:520,	mode:swap_nodes,	new_error:2.30,	last_error:0.20,	acc_prob:0.000
+step:521,	mode:swap_nodes,	new_error:0.60,	last_error:0.20,	acc_prob:0.000
+step:522,	mode:swap_nodes,	new_error:2.40,	last_error:0.20,	acc_prob:0.000
+step:523,	mode:swap_nodes,	new_error:1.50,	last_error:0.20,	acc_prob:0.000
+step:524,	mode:swap_nodes,	new_error:1.20,	last_error:0.20,	acc_prob:0.000
+step:525,	mode:swap_nodes,	new_error:1.00,	last_error:0.20,	acc_prob:0.000
+step:526,	mode:swap_nodes,	new_error:1.00,	last_error:0.20,	acc_prob:0.000
+step:527,	mode:swap_nodes,	new_error:0.80,	last_error:0.20,	acc_prob:0.000
+step:528,	mode:swap_subtrees,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:529,	mode:swap_subtrees,	new_error:2.20,	last_error:0.20,	acc_prob:0.000
+step:530,	mode:swap_subtrees,	new_error:1.50,	last_error:0.20,	acc_prob:0.000
+step:531,	mode:swap_subtrees,	new_error:1.20,	last_error:0.20,	acc_prob:0.000
+step:532,	mode:swap_subtrees,	new_error:0.40,	last_error:0.20,	acc_prob:0.000
+step:533,	mode:swap_subtrees,	new_error:1.30,	last_error:0.20,	acc_prob:0.000
+step:534,	mode:prune_reattach,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:535,	mode:prune_reattach,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:536,	mode:swap_nodes,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:537,	mode:swap_nodes,	new_error:1.00,	last_error:0.20,	acc_prob:0.000
+step:538,	mode:swap_nodes,	new_error:1.00,	last_error:0.20,	acc_prob:0.000
+step:539,	mode:swap_nodes,	new_error:2.70,	last_error:0.20,	acc_prob:0.000
+step:540,	mode:swap_nodes,	new_error:0.50,	last_error:0.20,	acc_prob:0.000
+step:541,	mode:swap_nodes,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:542,	mode:swap_nodes,	new_error:2.40,	last_error:0.20,	acc_prob:0.000
+step:543,	mode:swap_nodes,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:544,	mode:swap_subtrees,	new_error:0.50,	last_error:0.20,	acc_prob:0.000
+step:545,	mode:swap_subtrees,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:546,	mode:swap_subtrees,	new_error:1.10,	last_error:0.20,	acc_prob:0.000
+step:547,	mode:swap_subtrees,	new_error:0.60,	last_error:0.20,	acc_prob:0.000
+step:548,	mode:swap_subtrees,	new_error:1.30,	last_error:0.20,	acc_prob:0.000
+step:549,	mode:swap_subtrees,	new_error:1.30,	last_error:0.20,	acc_prob:0.000
+step:550,	mode:prune_reattach,	new_error:3.20,	last_error:0.20,	acc_prob:0.000
+step:551,	mode:swap_subtrees,	new_error:0.60,	last_error:0.20,	acc_prob:0.000
+step:552,	mode:swap_nodes,	new_error:0.80,	last_error:0.20,	acc_prob:0.000
+step:553,	mode:swap_nodes,	new_error:2.60,	last_error:0.20,	acc_prob:0.000
+step:554,	mode:swap_nodes,	new_error:0.60,	last_error:0.20,	acc_prob:0.000
+step:555,	mode:swap_nodes,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:556,	mode:swap_nodes,	new_error:0.70,	last_error:0.20,	acc_prob:0.000
+step:557,	mode:swap_nodes,	new_error:2.60,	last_error:0.20,	acc_prob:0.000
+step:558,	mode:swap_nodes,	new_error:2.20,	last_error:0.20,	acc_prob:0.000
+step:559,	mode:swap_nodes,	new_error:3.00,	last_error:0.20,	acc_prob:0.000
+step:560,	mode:prune_reattach,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:561,	mode:prune_reattach,	new_error:3.70,	last_error:0.20,	acc_prob:0.000
+step:562,	mode:prune_reattach,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:563,	mode:prune_reattach,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:564,	mode:prune_reattach,	new_error:2.60,	last_error:0.20,	acc_prob:0.000
+step:565,	mode:swap_subtrees,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:566,	mode:swap_subtrees,	new_error:1.50,	last_error:0.20,	acc_prob:0.000
+step:567,	mode:swap_subtrees,	new_error:3.10,	last_error:0.20,	acc_prob:0.000
+step:568,	mode:swap_nodes,	new_error:2.00,	last_error:0.20,	acc_prob:0.000
+step:569,	mode:swap_nodes,	new_error:2.00,	last_error:0.20,	acc_prob:0.000
+step:570,	mode:swap_nodes,	new_error:2.50,	last_error:0.20,	acc_prob:0.000
+step:571,	mode:swap_nodes,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:572,	mode:swap_nodes,	new_error:0.70,	last_error:0.20,	acc_prob:0.000
+step:573,	mode:swap_nodes,	new_error:2.30,	last_error:0.20,	acc_prob:0.000
+step:574,	mode:swap_nodes,	new_error:0.40,	last_error:0.20,	acc_prob:0.000
+step:575,	mode:swap_nodes,	new_error:0.40,	last_error:0.20,	acc_prob:0.000
+step:576,	mode:swap_subtrees,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:577,	mode:prune_reattach,	new_error:1.30,	last_error:0.20,	acc_prob:0.000
+step:578,	mode:swap_subtrees,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:579,	mode:prune_reattach,	new_error:1.60,	last_error:0.20,	acc_prob:0.000
+step:580,	mode:prune_reattach,	new_error:0.50,	last_error:0.20,	acc_prob:0.000
+step:581,	mode:swap_subtrees,	new_error:1.50,	last_error:0.20,	acc_prob:0.000
+step:582,	mode:prune_reattach,	new_error:1.60,	last_error:0.20,	acc_prob:0.000
+step:583,	mode:prune_reattach,	new_error:0.70,	last_error:0.20,	acc_prob:0.000
+step:584,	mode:swap_nodes,	new_error:1.90,	last_error:0.20,	acc_prob:0.000
+step:585,	mode:swap_nodes,	new_error:0.80,	last_error:0.20,	acc_prob:0.000
+step:586,	mode:swap_nodes,	new_error:1.00,	last_error:0.20,	acc_prob:0.000
+step:587,	mode:swap_nodes,	new_error:1.90,	last_error:0.20,	acc_prob:0.000
+step:588,	mode:swap_nodes,	new_error:0.70,	last_error:0.20,	acc_prob:0.000
+step:589,	mode:swap_nodes,	new_error:1.70,	last_error:0.20,	acc_prob:0.000
+step:590,	mode:swap_nodes,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:591,	mode:swap_nodes,	new_error:2.00,	last_error:0.20,	acc_prob:0.000
+step:592,	mode:swap_subtrees,	new_error:2.20,	last_error:0.20,	acc_prob:0.000
+step:593,	mode:prune_reattach,	new_error:0.50,	last_error:0.20,	acc_prob:0.000
+step:594,	mode:prune_reattach,	new_error:0.50,	last_error:0.20,	acc_prob:0.000
+step:595,	mode:prune_reattach,	new_error:1.60,	last_error:0.20,	acc_prob:0.000
+step:596,	mode:prune_reattach,	new_error:1.40,	last_error:0.20,	acc_prob:0.000
+step:597,	mode:prune_reattach,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:598,	mode:prune_reattach,	new_error:3.70,	last_error:0.20,	acc_prob:0.000
+step:599,	mode:swap_subtrees,	new_error:0.40,	last_error:0.20,	acc_prob:0.000
+step:600,	mode:swap_nodes,	new_error:0.40,	last_error:0.20,	acc_prob:0.000
+step:601,	mode:swap_nodes,	new_error:1.80,	last_error:0.20,	acc_prob:0.000
+step:602,	mode:swap_nodes,	new_error:2.00,	last_error:0.20,	acc_prob:0.000
+step:603,	mode:swap_nodes,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:604,	mode:swap_nodes,	new_error:0.80,	last_error:0.20,	acc_prob:0.000
+step:605,	mode:swap_nodes,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:606,	mode:swap_nodes,	new_error:0.70,	last_error:0.20,	acc_prob:0.000
+step:607,	mode:swap_nodes,	new_error:1.90,	last_error:0.20,	acc_prob:0.000
+step:608,	mode:swap_subtrees,	new_error:1.60,	last_error:0.20,	acc_prob:0.000
+step:609,	mode:swap_subtrees,	new_error:0.60,	last_error:0.20,	acc_prob:0.000
+step:610,	mode:prune_reattach,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:611,	mode:prune_reattach,	new_error:0.70,	last_error:0.20,	acc_prob:0.000
+step:612,	mode:swap_subtrees,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:613,	mode:prune_reattach,	new_error:2.20,	last_error:0.20,	acc_prob:0.000
+step:614,	mode:prune_reattach,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:615,	mode:prune_reattach,	new_error:0.70,	last_error:0.20,	acc_prob:0.000
+step:616,	mode:swap_nodes,	new_error:2.60,	last_error:0.20,	acc_prob:0.000
+step:617,	mode:swap_nodes,	new_error:0.70,	last_error:0.20,	acc_prob:0.000
+step:618,	mode:swap_nodes,	new_error:1.00,	last_error:0.20,	acc_prob:0.000
+step:619,	mode:swap_nodes,	new_error:1.80,	last_error:0.20,	acc_prob:0.000
+step:620,	mode:swap_nodes,	new_error:0.70,	last_error:0.20,	acc_prob:0.000
+step:621,	mode:swap_nodes,	new_error:2.30,	last_error:0.20,	acc_prob:0.000
+step:622,	mode:swap_nodes,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:623,	mode:swap_nodes,	new_error:2.20,	last_error:0.20,	acc_prob:0.000
+step:624,	mode:swap_subtrees,	new_error:1.30,	last_error:0.20,	acc_prob:0.000
+step:625,	mode:prune_reattach,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:626,	mode:prune_reattach,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:627,	mode:swap_subtrees,	new_error:0.60,	last_error:0.20,	acc_prob:0.000
+step:628,	mode:prune_reattach,	new_error:0.50,	last_error:0.20,	acc_prob:0.000
+step:629,	mode:prune_reattach,	new_error:3.00,	last_error:0.20,	acc_prob:0.000
+step:630,	mode:prune_reattach,	new_error:0.70,	last_error:0.20,	acc_prob:0.000
+step:631,	mode:swap_subtrees,	new_error:1.30,	last_error:0.20,	acc_prob:0.000
+step:632,	mode:swap_nodes,	new_error:0.80,	last_error:0.20,	acc_prob:0.000
+step:633,	mode:swap_nodes,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:634,	mode:swap_nodes,	new_error:1.80,	last_error:0.20,	acc_prob:0.000
+step:635,	mode:swap_nodes,	new_error:2.60,	last_error:0.20,	acc_prob:0.000
+step:636,	mode:swap_nodes,	new_error:0.60,	last_error:0.20,	acc_prob:0.000
+step:637,	mode:swap_nodes,	new_error:2.20,	last_error:0.20,	acc_prob:0.000
+step:638,	mode:swap_nodes,	new_error:0.70,	last_error:0.20,	acc_prob:0.000
+step:639,	mode:swap_nodes,	new_error:0.70,	last_error:0.20,	acc_prob:0.000
+step:640,	mode:prune_reattach,	new_error:1.60,	last_error:0.20,	acc_prob:0.000
+step:641,	mode:prune_reattach,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:642,	mode:swap_subtrees,	new_error:1.20,	last_error:0.20,	acc_prob:0.000
+step:643,	mode:prune_reattach,	new_error:0.50,	last_error:0.20,	acc_prob:0.000
+step:644,	mode:prune_reattach,	new_error:3.70,	last_error:0.20,	acc_prob:0.000
+step:645,	mode:swap_subtrees,	new_error:1.50,	last_error:0.20,	acc_prob:0.000
+step:646,	mode:swap_subtrees,	new_error:1.80,	last_error:0.20,	acc_prob:0.000
+step:647,	mode:swap_subtrees,	new_error:0.50,	last_error:0.20,	acc_prob:0.000
+step:648,	mode:swap_nodes,	new_error:2.30,	last_error:0.20,	acc_prob:0.000
+step:649,	mode:swap_nodes,	new_error:1.80,	last_error:0.20,	acc_prob:0.000
+step:650,	mode:swap_nodes,	new_error:2.20,	last_error:0.20,	acc_prob:0.000
+step:651,	mode:swap_nodes,	new_error:2.60,	last_error:0.20,	acc_prob:0.000
+step:652,	mode:swap_nodes,	new_error:2.20,	last_error:0.20,	acc_prob:0.000
+step:653,	mode:swap_nodes,	new_error:0.90,	last_error:0.20,	acc_prob:0.000
+step:654,	mode:swap_nodes,	new_error:1.70,	last_error:0.20,	acc_prob:0.000
+step:655,	mode:swap_nodes,	new_error:3.00,	last_error:0.20,	acc_prob:0.000
+step:656,	mode:swap_subtrees,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:657,	mode:prune_reattach,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:658,	mode:prune_reattach,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:659,	mode:prune_reattach,	new_error:4.10,	last_error:0.20,	acc_prob:0.000
+step:660,	mode:prune_reattach,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:661,	mode:prune_reattach,	new_error:0.70,	last_error:0.20,	acc_prob:0.000
+step:662,	mode:prune_reattach,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:663,	mode:swap_subtrees,	new_error:1.30,	last_error:0.20,	acc_prob:0.000
+step:664,	mode:swap_nodes,	new_error:2.20,	last_error:0.20,	acc_prob:0.000
+step:665,	mode:swap_nodes,	new_error:1.80,	last_error:0.20,	acc_prob:0.000
+step:666,	mode:swap_nodes,	new_error:1.40,	last_error:0.20,	acc_prob:0.000
+step:667,	mode:swap_nodes,	new_error:3.00,	last_error:0.20,	acc_prob:0.000
+step:668,	mode:swap_nodes,	new_error:1.00,	last_error:0.20,	acc_prob:0.000
+step:669,	mode:swap_nodes,	new_error:0.40,	last_error:0.20,	acc_prob:0.000
+step:670,	mode:swap_nodes,	new_error:2.30,	last_error:0.20,	acc_prob:0.000
+step:671,	mode:swap_nodes,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:672,	mode:prune_reattach,	new_error:1.40,	last_error:0.20,	acc_prob:0.000
+step:673,	mode:swap_subtrees,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:674,	mode:prune_reattach,	new_error:1.40,	last_error:0.20,	acc_prob:0.000
+step:675,	mode:prune_reattach,	new_error:0.50,	last_error:0.20,	acc_prob:0.000
+step:676,	mode:swap_subtrees,	new_error:1.20,	last_error:0.20,	acc_prob:0.000
+step:677,	mode:prune_reattach,	new_error:1.40,	last_error:0.20,	acc_prob:0.000
+step:678,	mode:swap_subtrees,	new_error:1.30,	last_error:0.20,	acc_prob:0.000
+step:679,	mode:prune_reattach,	new_error:3.70,	last_error:0.20,	acc_prob:0.000
+step:680,	mode:swap_nodes,	new_error:1.20,	last_error:0.20,	acc_prob:0.000
+step:681,	mode:swap_nodes,	new_error:0.80,	last_error:0.20,	acc_prob:0.000
+step:682,	mode:swap_nodes,	new_error:0.50,	last_error:0.20,	acc_prob:0.000
+step:683,	mode:swap_nodes,	new_error:0.80,	last_error:0.20,	acc_prob:0.000
+step:684,	mode:swap_nodes,	new_error:0.70,	last_error:0.20,	acc_prob:0.000
+step:685,	mode:swap_nodes,	new_error:2.30,	last_error:0.20,	acc_prob:0.000
+step:686,	mode:swap_nodes,	new_error:0.50,	last_error:0.20,	acc_prob:0.000
+step:687,	mode:swap_nodes,	new_error:1.90,	last_error:0.20,	acc_prob:0.000
+step:688,	mode:swap_subtrees,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:689,	mode:swap_subtrees,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:690,	mode:prune_reattach,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:691,	mode:swap_subtrees,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:692,	mode:swap_subtrees,	new_error:1.20,	last_error:0.20,	acc_prob:0.000
+step:693,	mode:swap_subtrees,	new_error:1.00,	last_error:0.20,	acc_prob:0.000
+step:694,	mode:swap_subtrees,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:695,	mode:swap_subtrees,	new_error:1.80,	last_error:0.20,	acc_prob:0.000
+step:696,	mode:swap_nodes,	new_error:2.60,	last_error:0.20,	acc_prob:0.000
+step:697,	mode:swap_nodes,	new_error:1.00,	last_error:0.20,	acc_prob:0.000
+step:698,	mode:swap_nodes,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:699,	mode:swap_nodes,	new_error:0.60,	last_error:0.20,	acc_prob:0.000
+step:700,	mode:swap_nodes,	new_error:0.50,	last_error:0.20,	acc_prob:0.000
+step:701,	mode:swap_nodes,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:702,	mode:swap_nodes,	new_error:0.60,	last_error:0.20,	acc_prob:0.000
+step:703,	mode:swap_nodes,	new_error:1.80,	last_error:0.20,	acc_prob:0.000
+step:704,	mode:prune_reattach,	new_error:1.40,	last_error:0.20,	acc_prob:0.000
+step:705,	mode:swap_subtrees,	new_error:1.20,	last_error:0.20,	acc_prob:0.000
+step:706,	mode:swap_subtrees,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:707,	mode:prune_reattach,	new_error:0.60,	last_error:0.20,	acc_prob:0.000
+step:708,	mode:prune_reattach,	new_error:0.50,	last_error:0.20,	acc_prob:0.000
+step:709,	mode:swap_subtrees,	new_error:2.70,	last_error:0.20,	acc_prob:0.000
+step:710,	mode:swap_subtrees,	new_error:2.40,	last_error:0.20,	acc_prob:0.000
+step:711,	mode:prune_reattach,	new_error:0.40,	last_error:0.20,	acc_prob:0.000
+step:712,	mode:swap_nodes,	new_error:0.50,	last_error:0.20,	acc_prob:0.000
+step:713,	mode:swap_nodes,	new_error:0.50,	last_error:0.20,	acc_prob:0.000
+step:714,	mode:swap_nodes,	new_error:2.50,	last_error:0.20,	acc_prob:0.000
+step:715,	mode:swap_nodes,	new_error:0.50,	last_error:0.20,	acc_prob:0.000
+step:716,	mode:swap_nodes,	new_error:1.00,	last_error:0.20,	acc_prob:0.000
+step:717,	mode:swap_nodes,	new_error:1.20,	last_error:0.20,	acc_prob:0.000
+step:718,	mode:swap_nodes,	new_error:0.80,	last_error:0.20,	acc_prob:0.000
+step:719,	mode:swap_nodes,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:720,	mode:prune_reattach,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:721,	mode:prune_reattach,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:722,	mode:swap_subtrees,	new_error:0.50,	last_error:0.20,	acc_prob:0.000
+step:723,	mode:swap_subtrees,	new_error:3.80,	last_error:0.20,	acc_prob:0.000
+step:724,	mode:prune_reattach,	new_error:0.50,	last_error:0.20,	acc_prob:0.000
+step:725,	mode:prune_reattach,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:726,	mode:prune_reattach,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:727,	mode:swap_subtrees,	new_error:0.40,	last_error:0.20,	acc_prob:0.000
+step:728,	mode:swap_nodes,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:729,	mode:swap_nodes,	new_error:2.20,	last_error:0.20,	acc_prob:0.000
+step:730,	mode:swap_nodes,	new_error:2.00,	last_error:0.20,	acc_prob:0.000
+step:731,	mode:swap_nodes,	new_error:3.00,	last_error:0.20,	acc_prob:0.000
+step:732,	mode:swap_nodes,	new_error:2.70,	last_error:0.20,	acc_prob:0.000
+step:733,	mode:swap_nodes,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:734,	mode:swap_nodes,	new_error:0.20,	last_error:0.20,	acc_prob:1.000
+step:735,	mode:swap_nodes,	new_error:0.60,	last_error:0.20,	acc_prob:0.000
+step:736,	mode:swap_subtrees,	new_error:1.70,	last_error:0.20,	acc_prob:0.000
+step:737,	mode:prune_reattach,	new_error:1.60,	last_error:0.20,	acc_prob:0.000
+step:738,	mode:swap_subtrees,	new_error:2.70,	last_error:0.20,	acc_prob:0.000
+step:739,	mode:swap_subtrees,	new_error:0.60,	last_error:0.20,	acc_prob:0.000
+step:740,	mode:prune_reattach,	new_error:1.40,	last_error:0.20,	acc_prob:0.000
+step:741,	mode:prune_reattach,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:742,	mode:swap_subtrees,	new_error:0.60,	last_error:0.20,	acc_prob:0.000
+step:743,	mode:prune_reattach,	new_error:1.40,	last_error:0.20,	acc_prob:0.000
+step:744,	mode:swap_nodes,	new_error:0.70,	last_error:0.20,	acc_prob:0.000
+step:745,	mode:swap_nodes,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:746,	mode:swap_nodes,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:747,	mode:swap_nodes,	new_error:2.90,	last_error:0.20,	acc_prob:0.000
+step:748,	mode:swap_nodes,	new_error:0.30,	last_error:0.20,	acc_prob:0.000
+step:749,	mode:swap_nodes,	new_error:0.10,	last_error:0.10,	acc_prob:1.000
+step:750,	mode:swap_nodes,	new_error:2.60,	last_error:0.10,	acc_prob:0.000
+step:751,	mode:swap_nodes,	new_error:0.50,	last_error:0.10,	acc_prob:0.000
+step:752,	mode:swap_subtrees,	new_error:1.30,	last_error:0.10,	acc_prob:0.000
+step:753,	mode:swap_subtrees,	new_error:0.30,	last_error:0.10,	acc_prob:0.000
+step:754,	mode:prune_reattach,	new_error:0.10,	last_error:0.10,	acc_prob:1.000
+step:755,	mode:prune_reattach,	new_error:0.10,	last_error:0.10,	acc_prob:1.000
+step:756,	mode:swap_subtrees,	new_error:0.10,	last_error:0.10,	acc_prob:1.000
+step:757,	mode:swap_subtrees,	new_error:1.20,	last_error:0.10,	acc_prob:0.000
+step:758,	mode:swap_subtrees,	new_error:0.20,	last_error:0.10,	acc_prob:0.000
+step:759,	mode:swap_subtrees,	new_error:3.40,	last_error:0.10,	acc_prob:0.000
+step:760,	mode:swap_nodes,	new_error:0.50,	last_error:0.10,	acc_prob:0.000
+step:761,	mode:swap_nodes,	new_error:1.80,	last_error:0.10,	acc_prob:0.000
+step:762,	mode:swap_nodes,	new_error:2.10,	last_error:0.10,	acc_prob:0.000
+step:763,	mode:swap_nodes,	new_error:0.50,	last_error:0.10,	acc_prob:0.000
+step:764,	mode:swap_nodes,	new_error:0.80,	last_error:0.10,	acc_prob:0.000
+step:765,	mode:swap_nodes,	new_error:2.10,	last_error:0.10,	acc_prob:0.000
+step:766,	mode:swap_nodes,	new_error:2.30,	last_error:0.10,	acc_prob:0.000
+step:767,	mode:swap_nodes,	new_error:0.20,	last_error:0.10,	acc_prob:0.000
+step:768,	mode:prune_reattach,	new_error:0.10,	last_error:0.10,	acc_prob:1.000
+step:769,	mode:prune_reattach,	new_error:0.10,	last_error:0.10,	acc_prob:1.000
+step:770,	mode:swap_subtrees,	new_error:0.20,	last_error:0.10,	acc_prob:0.000
+step:771,	mode:swap_subtrees,	new_error:1.00,	last_error:0.10,	acc_prob:0.000
+step:772,	mode:prune_reattach,	new_error:0.60,	last_error:0.10,	acc_prob:0.000
+step:773,	mode:prune_reattach,	new_error:0.10,	last_error:0.10,	acc_prob:1.000
+step:774,	mode:prune_reattach,	new_error:1.50,	last_error:0.10,	acc_prob:0.000
+step:775,	mode:prune_reattach,	new_error:0.40,	last_error:0.10,	acc_prob:0.000
+step:776,	mode:swap_nodes,	new_error:1.70,	last_error:0.10,	acc_prob:0.000
+step:777,	mode:swap_nodes,	new_error:0.70,	last_error:0.10,	acc_prob:0.000
+step:778,	mode:swap_nodes,	new_error:2.80,	last_error:0.10,	acc_prob:0.000
+step:779,	mode:swap_nodes,	new_error:0.50,	last_error:0.10,	acc_prob:0.000
+step:780,	mode:swap_nodes,	new_error:1.30,	last_error:0.10,	acc_prob:0.000
+step:781,	mode:swap_nodes,	new_error:0.40,	last_error:0.10,	acc_prob:0.000
+step:782,	mode:swap_nodes,	new_error:2.10,	last_error:0.10,	acc_prob:0.000
+step:783,	mode:swap_nodes,	new_error:2.60,	last_error:0.10,	acc_prob:0.000
+step:784,	mode:prune_reattach,	new_error:1.50,	last_error:0.10,	acc_prob:0.000
+step:785,	mode:prune_reattach,	new_error:0.40,	last_error:0.10,	acc_prob:0.000
+step:786,	mode:prune_reattach,	new_error:0.40,	last_error:0.10,	acc_prob:0.000
+step:787,	mode:swap_subtrees,	new_error:1.50,	last_error:0.10,	acc_prob:0.000
+step:788,	mode:prune_reattach,	new_error:0.40,	last_error:0.10,	acc_prob:0.000
+step:789,	mode:swap_subtrees,	new_error:0.50,	last_error:0.10,	acc_prob:0.000
+step:790,	mode:prune_reattach,	new_error:3.30,	last_error:0.10,	acc_prob:0.000
+step:791,	mode:swap_subtrees,	new_error:1.10,	last_error:0.10,	acc_prob:0.000
+step:792,	mode:swap_nodes,	new_error:2.90,	last_error:0.10,	acc_prob:0.000
+step:793,	mode:swap_nodes,	new_error:2.60,	last_error:0.10,	acc_prob:0.000
+step:794,	mode:swap_nodes,	new_error:2.00,	last_error:0.10,	acc_prob:0.000
+step:795,	mode:swap_nodes,	new_error:1.80,	last_error:0.10,	acc_prob:0.000
+step:796,	mode:swap_nodes,	new_error:0.30,	last_error:0.10,	acc_prob:0.000
+step:797,	mode:swap_nodes,	new_error:1.80,	last_error:0.10,	acc_prob:0.000
+step:798,	mode:swap_nodes,	new_error:0.30,	last_error:0.10,	acc_prob:0.000
+step:799,	mode:swap_nodes,	new_error:2.20,	last_error:0.10,	acc_prob:0.000
+step:800,	mode:swap_subtrees,	new_error:0.20,	last_error:0.10,	acc_prob:0.000
+step:801,	mode:swap_subtrees,	new_error:0.50,	last_error:0.10,	acc_prob:0.000
+step:802,	mode:swap_subtrees,	new_error:0.50,	last_error:0.10,	acc_prob:0.000
+step:803,	mode:prune_reattach,	new_error:2.90,	last_error:0.10,	acc_prob:0.000
+step:804,	mode:swap_subtrees,	new_error:2.20,	last_error:0.10,	acc_prob:0.000
+step:805,	mode:swap_subtrees,	new_error:0.10,	last_error:0.10,	acc_prob:1.000
+step:806,	mode:prune_reattach,	new_error:0.10,	last_error:0.10,	acc_prob:1.000
+step:807,	mode:prune_reattach,	new_error:0.20,	last_error:0.10,	acc_prob:0.000
+step:808,	mode:swap_nodes,	new_error:2.90,	last_error:0.10,	acc_prob:0.000
+step:809,	mode:swap_nodes,	new_error:2.00,	last_error:0.10,	acc_prob:0.000
+step:810,	mode:swap_nodes,	new_error:1.70,	last_error:0.10,	acc_prob:0.000
+step:811,	mode:swap_nodes,	new_error:0.60,	last_error:0.10,	acc_prob:0.000
+step:812,	mode:swap_nodes,	new_error:1.90,	last_error:0.10,	acc_prob:0.000
+step:813,	mode:swap_nodes,	new_error:2.20,	last_error:0.10,	acc_prob:0.000
+step:814,	mode:swap_nodes,	new_error:0.00,	last_error:0.00,	acc_prob:1.000

@@ -21,7 +21,7 @@
 
 \documentclass[
 twoside
-,openany
+%,openany
 ,msc
 ,irfonts
 %,draft
@@ -35,13 +35,14 @@ twoside
 % مشخصات انگلیسی پایان‌نامه
 \input{./tex/enTitle}
 
+
 % تنظیمات و تعاریف واژه‌نامه و اختصارات
 \input{./tex/glossaries-settings}
 \input{./tex/words}
 \input{./tex/acronyms}
 
-\begin{document}
 
+\begin{document}
 \pagenumbering{adadi} % یک، دو، ...
 \input{./tex/thesis_preamble}
 
@@ -49,6 +50,7 @@ twoside
 \pagenumbering{arabic} % 1, 2, ...
 
 \include{./tex/chaps/int/chap-int}		% فصل اول: مقدمه
+
 %\include{./tex/chapter2}		% فصول دوم: مروری بر مطالعات انجام شده
 \include{./tex/chaps/lr/chap-lr}		% فصول دوم: ادبیات موضوعی
 
@@ -111,9 +113,9 @@ twoside
 \printindex
 
 \begin{latin}
-\baselineskip=.6cm
-\latinabstract
-\latinTitlePage
+	\baselineskip=.6cm
+	\latinabstract
+	\latinTitlePage
 \end{latin}
 \label{LastPage}
 

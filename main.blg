@@ -1,163 +1,18 @@
-This is BibTeX, Version 0.99d (TeX Live 2020)
-Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: main.aux
-A level-1 auxiliary file: ./tex/chaps/int/chap-int.aux
-A level-1 auxiliary file: ./tex/chaps/lr/chap-lr.aux
-A level-1 auxiliary file: ./tex/chaps/rw/chap-rw.aux
-A level-1 auxiliary file: ./tex/chaps/pm/chap-pm.aux
-A level-1 auxiliary file: ./tex/chaps/er/chap-er.aux
-A level-1 auxiliary file: ./tex/chaps/con/chap-con.aux
-The style file: plain-fa.bst
-Database file #1: ./tex/MyReferences.bib
-I was expecting a `,' or a `}'---line 80 of file ./tex/MyReferences.bib
- : @misc{ genomes 
- :                and exomes,
-I'm skipping whatever remains of this entry
-Repeated entry---line 187 of file ./tex/MyReferences.bib
- : @article{birbrair2014type
- :                          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 291 of file ./tex/MyReferences.bib
- : @article{alberts2002molecular
- :                              ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 302 of file ./tex/MyReferences.bib
- : [1]: @article{fisher2013cancer
- :                               ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 313 of file ./tex/MyReferences.bib
- : [2]: @article{sun2015intra
- :                           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 324 of file ./tex/MyReferences.bib
- : [3]: @article{alberts2002molecular
- :                                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 354 of file ./tex/MyReferences.bib
- : [6]: @misc{somaticMutation
- :                           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 359 of file ./tex/MyReferences.bib
- : [7]: @article{nowell1976clonal
- :                               ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 370 of file ./tex/MyReferences.bib
- : [8]: @article{birbrair2014type
- :                               ,
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 381 of file ./tex/MyReferences.bib
- : [9]: @misc{ genomes 
- :                     and exomes,
-I'm skipping whatever remains of this entry
-Repeated entry---line 488 of file ./tex/MyReferences.bib
- : [20]: @article{birbrair2014type
- :                                ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 499 of file ./tex/MyReferences.bib
- : [21]: @article{ Neoplasms
- :                          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 505 of file ./tex/MyReferences.bib
- : [22]: @article{Neoplasia
- :                         ,
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 512 of file ./tex/MyReferences.bib
- : [23]: @article{ Cancer 
- :                        - Activity 1,
-I'm skipping whatever remains of this entry
-Repeated entry---line 518 of file ./tex/MyReferences.bib
- : [24]: @article{handa2011redox
- :                              ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 529 of file ./tex/MyReferences.bib
- : [25]: @article{halford2005o6
- :                             ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 540 of file ./tex/MyReferences.bib
- : [26]: @article{lee2011promoter
- :                               ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 551 of file ./tex/MyReferences.bib
- : [27]: @book{cooper1992elements
- :                               ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 558 of file ./tex/MyReferences.bib
- : [28]: @article{truninger2005immunohistochemical
- :                                                ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 569 of file ./tex/MyReferences.bib
- : [29]: @article{fedele2014navigating
- :                                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 580 of file ./tex/MyReferences.bib
- : [30]: @article{burrell2014tumour
- :                                 ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 590 of file ./tex/MyReferences.bib
- : [31]: @article{alberts2002molecular
- :                                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 613 of file ./tex/MyReferences.bib
- : [2]: @article{nowell1976clonal
- :                               ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1638 of file ./tex/MyReferences.bib
- : [99]: @article{hastings1970monte
- :                                 ,
-I'm skipping whatever remains of this entry
-Warning--to sort, need author or key in neoplasms
-Warning--to sort, need author or key in canceractivity1
-Warning--to sort, need author or key in somaticMutation
--- plain-fa.bst version 0.9 (2015/05/09) 
--- This is a BibTeX style for XePersian: http://www.parsilatex.com
-Warning--empty author in neoplasms
-Warning--empty journal in neoplasms
-Warning--empty author in canceractivity1
-Warning--empty journal in canceractivity1
-Warning--empty journal in neoplasia
-Warning--empty journal in hastings1970monte
-Warning--can't use both volume and number fields in zhu2011metabolic
 
-Done.
-You've used 49 entries,
-            2546 wiz_defined-function locations,
-            942 strings with 14866 characters,
-and the built_in function-call counts, 21258 in all, are:
-= -- 1902
-> -- 1153
-< -- 7
-+ -- 465
-- -- 408
-* -- 1614
-:= -- 3258
-add.period$ -- 147
-call.type$ -- 49
-change.case$ -- 342
-chr.to.int$ -- 0
-cite$ -- 59
-duplicate$ -- 611
-empty$ -- 1323
-format.name$ -- 408
-if$ -- 4843
-int.to.chr$ -- 0
-int.to.str$ -- 49
-missing$ -- 498
-newline$ -- 443
-num.names$ -- 92
-pop$ -- 305
-preamble$ -- 1
-purify$ -- 294
-quote$ -- 0
-skip$ -- 454
-stack$ -- 0
-substring$ -- 1296
-swap$ -- 119
-text.length$ -- 7
-text.prefix$ -- 0
-top$ -- 4
-type$ -- 194
-warning$ -- 10
-while$ -- 175
-width$ -- 51
-write$ -- 677
-(There were 24 error messages)
+
+*** Unable to execute: '"xindy"  -L english -C utf8 -I xindy -M "main" -t "main.blg" -o "main.bls" "main.blo"' ***
+
+Failed with error code 127.
+
+Status report:
+
+/opt/texlive/2020/bin/x86_64-linux/xindy.run: error while loading shared libraries: libncurses.so.5: cannot open shared object file: No such file or directory
+
+xindy didn't create a transcript.
+Check that xindy has been installed and
+is on your system's PATH.
+Your PATH environment variable is set to: 
+/opt/texlive/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/var/lib/snapd/snap/bin:/home/afshin/.fzf/bin
+Try manually running:
+"xindy"  -L english -C utf8 -I xindy -M "main" -t "main.blg" -o "main.bls" "main.blo"
+

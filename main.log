@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.6.9)  12 JUL 2021 21:02
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.6.9)  14 JUL 2021 18:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1540,7 +1540,7 @@ b;language=dflt;mapping=persian-tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(0)/m/n' will be
-(Font)              scaled to size 14.39996pt on input line 114.
+(Font)              scaled to size 14.39996pt on input line 116.
 
 Package fontspec Info: Font family 'LiberationSerif-Regular.ttf(0)' created
 (fontspec)             for font 'LiberationSerif-Regular.ttf' with options
@@ -1568,7 +1568,7 @@ atn;language=dflt;mapping=tex-text;"
 pt=latn;language=dflt;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
-LaTeX Info: Redefining \latinfont on input line 117.
+LaTeX Info: Redefining \latinfont on input line 119.
 
 Package fontspec Info: Font family 'IRLotusICEE.ttf(1)' created for font
 (fontspec)             'IRLotusICEE.ttf' with options
@@ -1597,7 +1597,7 @@ ping=persian-tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 Package xepersian-mathsdigitspec Info: DefiningthedefaultPersianmathsdigitsfont
-as'IRLotusICEE.ttf' on input line 119.
+as'IRLotusICEE.ttf' on input line 121.
 \symOPERATORS=\mathgroup6
 \symnew@mathbf@font@digits=\mathgroup7
 \symnew@mathit@font@digits=\mathgroup8
@@ -1616,7 +1616,7 @@ e=1.3].
 b;language=dflt;mapping=persian-tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
-LaTeX Info: Redefining \iranicfamily on input line 120.
+LaTeX Info: Redefining \iranicfamily on input line 122.
 
 Package fontspec Info: Font family 'IRTitr.ttf(0)' created for font
 (fontspec)             'IRTitr.ttf' with options
@@ -1648,25 +1648,74 @@ t;mapping=persian-tex-text;"
 \c@definition=\count418
 
 
-Package amsthm Warning: Unknown theoremstyle `theorem' on input line 176.
+Package amsthm Warning: Unknown theoremstyle `theorem' on input line 178.
 
 \mylenprt=\skip137
 \mylenchp=\skip138
 \mylenapp=\skip139
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(0)/m/n' will be
-(Font)              scaled to size 17.27994pt on input line 263.
+(Font)              scaled to size 17.27994pt on input line 265.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(0)/bx/n' in size <14.4> not 
 available
 (Font)              Font shape `TU/IRLotusICEE.ttf(0)/b/n' tried instead on inp
-ut line 263.
+ut line 265.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(0)/b/n' will be
-(Font)              scaled to size 17.27994pt on input line 263.
+(Font)              scaled to size 17.27994pt on input line 265.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(0)/bx/n' in size <12> not av
 ailable
 (Font)              Font shape `TU/IRLotusICEE.ttf(0)/b/n' tried instead on inp
-ut line 264.
+ut line 266.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(0)/b/n' will be
-(Font)              scaled to size 14.39996pt on input line 264.
+(Font)              scaled to size 14.39996pt on input line 266.
+(/opt/texlive/2020/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+
+
+(/opt/texlive/2020/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+
+
+(/opt/texlive/2020/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+(/opt/texlive/2020/texmf-dist/tex/latex/mwe/mwe.sty
+Package: mwe 2018/03/30 v0.5 Package to support minimal working examples (MWE)
+
+(/opt/texlive/2020/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
+
+(/opt/texlive/2020/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
+File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
+))
+(/opt/texlive/2020/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(/opt/texlive/2020/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count419
+\c@Blindtext=\count420
+\c@blind@countparstart=\count421
+\blind@countxx=\count422
+\blindtext@numBlindtext=\count423
+\blind@countyy=\count424
+\c@blindlist=\count425
+\c@blindlistlevel=\count426
+\c@blindlist@level=\count427
+\blind@listitem=\count428
+\c@blind@listcount=\count429
+\c@blind@levelcount=\count430
+\blind@mathformula=\count431
+\blind@Mathformula=\count432
+\c@blind@randomcount=\count433
+\c@blind@randommax=\count434
+\c@blind@pangramcount=\count435
+\c@blind@pangrammax=\count436
+))
+Package hyperref Info: Option `colorlinks' set `true' on input line 384.
 ) (./tex/faTitle.tex) (./tex/enTitle.tex) (./tex/glossaries-settings.tex
 \glswrite=\write19
 \glo@main@file=\write20
@@ -1685,46 +1734,42 @@ Package glossaries Info: Writing glossary file main.glo on input line 60.
 \openout5 = `main.blo'.
 
 Package glossaries Info: Writing glossary file main.blo on input line 60.
-)
-(./tex/words.tex) (./tex/acronyms.tex)
-
-LaTeX Warning: Unused global option(s):
-    [openany].
-
-(./main.aux (./tex/chaps/int/chap-int.aux) (./tex/chaps/lr/chap-lr.aux)
-(./tex/chaps/rw/chap-rw.aux) (./tex/chaps/pm/chap-pm.aux)
-(./tex/chaps/er/chap-er.aux) (./tex/chaps/con/chap-con.aux)
+) (./tex/words.tex)
+(./tex/acronyms.tex) (./main.aux (./tex/chaps/int/chap-int.aux)
+(./tex/chaps/lr/chap-lr.aux) (./tex/chaps/rw/chap-rw.aux)
+(./tex/chaps/pm/chap-pm.aux) (./tex/chaps/er/chap-er.aux)
+(./tex/chaps/con/chap-con.aux)
 
 LaTeX Warning: Label `LastPage' multiply defined.
 
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4
-3.
+5.
  (/opt/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
 
 (/opt/texlive/2020/texmf-dist/tex/generic/stringenc/se-ascii-print.def
 File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
@@ -1764,12 +1809,12 @@ File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@lstlisting=\count419
+\c@lstlisting=\count437
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 43.
+(lastpage)             ! on input line 45.
 \AtBeginShipoutBox=\box75
-Package hyperref Info: Link coloring OFF on input line 43.
+Package hyperref Info: Link coloring ON on input line 45.
 (/opt/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
@@ -1779,11 +1824,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/opt/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count420
+\c@section@level=\count438
 )
-LaTeX Info: Redefining \ref on input line 43.
-LaTeX Info: Redefining \pageref on input line 43.
-LaTeX Info: Redefining \nameref on input line 43.
+LaTeX Info: Redefining \ref on input line 45.
+LaTeX Info: Redefining \pageref on input line 45.
+LaTeX Info: Redefining \nameref on input line 45.
 
 (./main.out) (./main.out)
 \@outlinefile=\write24
@@ -1863,490 +1908,493 @@ LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(0)/b/n' will be
 (Font)              scaled to size 20.73593pt on input line 2.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/m/n' will be
 (Font)              scaled to size 17.27994pt on input line 2.
-\openout5 = `main.mw'.
+
+Package morewrites Warning: File 'main.mw' exists, using 'main.mw.mw' instead.
+
+\openout5 = `main.mw.mw'.
 
 [1
 
 
-] (./main.mw)
-\openout5 = `main.mw'.
+] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
 \openout5 = `main.xdy'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 \openout5 = `main.xdy'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
  [2
 
-] (./main.mw)
-\openout5 = `main.mw'.
+] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
 File: img/besm.jpg Graphic file (type bmp)
 <img/besm.jpg>
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [3] (./main.mw)
-\openout5 = `main.mw'.
+ [3] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
  [4
 
-] (./main.mw)
-\openout5 = `main.mw'.
+] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
 File: ./img/eng-logo.png Graphic file (type bmp)
 <./img/eng-logo.png>
@@ -2364,17 +2412,17 @@ Overfull \hbox (28.45276pt too wide) in paragraph at lines 14--14
 
 LaTeX Font Info:    Font shape `TU/IRTitr.ttf(1)/b/n' will be
 (Font)              scaled to size 24.88pt on input line 14.
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-[5] (./main.mw)
-\openout5 = `main.mw'.
+[5] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
  [6
 
-] (./main.mw)
-\openout5 = `main.mw'.
+] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
 File: ./img/logo.png Graphic file (type bmp)
 <./img/logo.png>
@@ -2392,7 +2440,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--14
 [][]
  []
 
-\c@davaranCounter=\count421
+\c@davaranCounter=\count439
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(0)/m/n' will be
 (Font)              scaled to size 13.13995pt on input line 14.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/m/n' will be
@@ -2409,75 +2457,75 @@ LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/bx/n' will be
 (Font)              scaled to size 14.39996pt on input line 14.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/m/it' will be
 (Font)              scaled to size 14.39996pt on input line 14.
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-[7] (./main.mw)
-\openout5 = `main.mw'.
+[7] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
  [8
 
-] (./main.mw)
-\openout5 = `main.mw'.
+] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
 LaTeX Font Info:    Font shape `TU/IRTitr.ttf(1)/m/n' will be
 (Font)              scaled to size 17.28pt on input line 14.
 LaTeX Font Info:    Font shape `TU/IRTitr.ttf(1)/b/n' will be
 (Font)              scaled to size 17.28pt on input line 14.
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [9] (./main.mw)
-\openout5 = `main.mw'.
+ [9] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
  [10
 
-] (./main.mw)
-\openout5 = `main.mw'.
+] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [11]
-(./main.mw)
-\openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
+[11] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
 
  [12
 
-] (./main.mw)
-\openout5 = `main.mw'.
+] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 14--14
 [][]
  []
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-[13] (./main.mw)
-\openout5 = `main.mw'.
+[13] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
  [14
 
-] (./main.mw)
-\openout5 = `main.mw'.
+] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [15] (./main.mw)
-\openout5 = `main.mw'.
+ [15] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
  [16
 
-] (./main.mw)
-\openout5 = `main.mw'.
+] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
 LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/n' will be
 (Font)              scaled to size 8.0pt on input line 15.
@@ -2489,17 +2537,17 @@ Overfull \hbox (1.71272pt too wide) in paragraph at lines 15--15
 که مطابق با دستورالعمل[]
  []
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-[17] (./main.mw)
-\openout5 = `main.mw'.
+[17] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
  [18
 
-] (./main.mw)
-\openout5 = `main.mw'.
+] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(0)/b/n' will be
 (Font)              scaled to size 29.85593pt on input line 19.
@@ -2538,38 +2586,37 @@ LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/m/it' will be
 (Font)              scaled to size 5.99998pt on input line 9.
 LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/n' will be
 (Font)              scaled to size 7.0pt on input line 9.
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-[1] (./main.mw)
-\openout5 = `main.mw'.
+[1] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-)
-\tf@toc=\write25
-\openout5 = `main.toc'.
+
+Underfull \vbox (badness 1248) has occurred while \output is active []
 
 
 
@@ -2578,247 +2625,285 @@ Make it at least 14.42422pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-[2] (./main.mw)
-\openout5 = `main.mw'.
+[2] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+)
+\tf@toc=\write25
+\openout5 = `main.toc'.
+
+\openout5 = `main.mw.mw'.
+
+ [3] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
  (./main.lof
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [3
+ [4
 
-] (./main.mw)
-\openout5 = `main.mw'.
+] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout5 = `main.mw.mw'.
+
+ [5]
+(./main.mw.mw)
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
 
 )
 \tf@lof=\write26
 \openout5 = `main.lof'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [4] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
+ [6] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
  (./main.lot)
 \tf@lot=\write27
 \openout5 = `main.lot'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
+
+ [7
+
+] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+ [8
 
 
-[5
+]
+(./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-] (./main.mw)
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
  (./main.loa)
 \tf@loa=\write28
 \openout5 = `main.loa'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [6
-
-
-] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
+ [9] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
  (./main.lol)
 \tf@lol=\write29
 \openout5 = `main.lol'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [7
+ [10
 
-] (./main.mw)
-\openout5 = `main.mw'.
+] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
-
+\openout5 = `main.mw.mw'.
 
 (./main.acr)
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [8
+ [11
 
-] (./main.mw)
-\openout5 = `main.mw'.
+] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
 )
 \openout2 = `./tex/chaps/int/chap-int.aux'.
@@ -2827,216 +2912,216 @@ This may cause the page layout to be inconsistent, however.
 فصل 1.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/b/n' will be
 (Font)              scaled to size 29.85593pt on input line 3.
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 [1
 
 
 
-] (./main.mw)
-\openout5 = `main.mw'.
+] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 File: ./img/chaps/int/tumorheterogenety.png Graphic file (type bmp)
 <./img/chaps/int/tumorheterogenety.png>
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [2] (./main.mw)
-\openout5 = `main.mw'.
+ [2] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 
 Underfull \vbox (badness 1127) has occurred while \output is active []
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
  [3]
-(./main.mw)
-\openout5 = `main.mw'.
+(./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 )
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [4] (./main.mw)
-\openout5 = `main.mw'.
+ [4] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
 \openout2 = `./tex/chaps/lr/chap-lr.aux'.
 
@@ -3046,117 +3131,117 @@ LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/b/n' will be
 (Font)              scaled to size 20.73593pt on input line 10.
 File: ./img/chaps/lr/DNA_double_helix.png Graphic file (type bmp)
 <./img/chaps/lr/DNA_double_helix.png>
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 [5
 
 
 
-] (./main.mw)
-\openout5 = `main.mw'.
+] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 File: ./img/chaps/lr/DNA_replication.png Graphic file (type bmp)
 <./img/chaps/lr/DNA_replication.png>
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [6] (./main.mw)
-\openout5 = `main.mw'.
+ [6] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 File: ./img/chaps/lr/single_nucleotide_mutation.png Graphic file (type bmp)
 <./img/chaps/lr/single_nucleotide_mutation.png>
@@ -3170,60 +3255,60 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
  [7]
-(./main.mw)
-\openout5 = `main.mw'.
+(./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [8] (./main.mw)
-\openout5 = `main.mw'.
+ [8] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 File: ./img/chaps/lr/tumor_phylogenetic_tree.png Graphic file (type bmp)
 <./img/chaps/lr/tumor_phylogenetic_tree.png>
@@ -3232,224 +3317,224 @@ File: ./img/chaps/lr/tumor_phylogenetic_tree.png Graphic file (type bmp)
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\gls' on input line 76.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-[9] (./main.mw)
-\openout5 = `main.mw'.
+[9] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 File: ./img/chaps/lr/alignment_reading.png Graphic file (type bmp)
 <./img/chaps/lr/alignment_reading.png>
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [10] (./main.mw)
-\openout5 = `main.mw'.
+ [10] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [11] (./main.mw)
-\openout5 = `main.mw'.
+ [11] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 
 Underfull \vbox (badness 2119) has occurred while \output is active []
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
  [12]
-(./main.mw)
-\openout5 = `main.mw'.
+(./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [13] (./main.mw)
-\openout5 = `main.mw'.
+ [13] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 
 Overfull \hbox (23.32005pt too wide) in paragraph at lines 121--122
@@ -3462,33 +3547,33 @@ File: ./img/chaps/lr/tumor_clone_tree.png Graphic file (type bmp)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
  [14]
-(./main.mw)
-\openout5 = `main.mw'.
+(./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
 
 Underfull \vbox (badness 1629) has occurred while \output is active []
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
  [15]
-(./main.mw)
-\openout5 = `main.mw'.
+(./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 
 Underfull \vbox (badness 1831) has occurred while \output is active []
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
  [16]
-(./main.mw)
-\openout5 = `main.mw'.
+(./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
 
 Overfull \hbox (14.43256pt too wide) in paragraph at lines 161--162
@@ -3496,55 +3581,55 @@ Overfull \hbox (14.43256pt too wide) in paragraph at lines 161--162
 وانند مستقیماً از طریق توالی‌یابی و نسبت کروموزوم‌های[]
  []
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-[17] (./main.mw)
-\openout5 = `main.mw'.
+[17] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\gls' on input line 166.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-[18] (./main.mw)
-\openout5 = `main.mw'.
+[18] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 File: ./img/chaps/lr/mtsd.png Graphic file (type bmp)
 <./img/chaps/lr/mtsd.png>
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [19] (./main.mw)
-\openout5 = `main.mw'.
+ [19] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/b/n' will be
 (Font)              scaled to size 17.27994pt on input line 199.
@@ -3553,39 +3638,39 @@ LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/b/n' will be
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\gls' on input line 199.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-[20] (./main.mw)
-\openout5 = `main.mw'.
+[20] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
  [21]
-(./main.mw)
-\openout5 = `main.mw'.
+(./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
 
 
@@ -3596,666 +3681,665 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\gls' on input line 221.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-[22] (./main.mw)
-\openout5 = `main.mw'.
+[22] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [23] (./main.mw)
-\openout5 = `main.mw'.
+ [23] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 File: ./img/chaps/lr/cnn_arch.png Graphic file (type bmp)
 <./img/chaps/lr/cnn_arch.png>
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [24] (./main.mw)
-\openout5 = `main.mw'.
+ [24] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 File: ./img/chaps/lr/cnn_conv5.png Graphic file (type bmp)
 <./img/chaps/lr/cnn_conv5.png>
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [25] (./main.mw)
-\openout5 = `main.mw'.
+ [25] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(0)/m/n' will be
 (Font)              scaled to size 7.19998pt on input line 281.
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [26]
-(./main.mw)
-\openout5 = `main.mw'.
+[26] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 File: ./img/chaps/lr/activation_functions.png Graphic file (type bmp)
 <./img/chaps/lr/activation_functions.png>
 File: ./img/chaps/lr/max_pooling.png Graphic file (type bmp)
 <./img/chaps/lr/max_pooling.png>
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [27] (./main.mw)
-\openout5 = `main.mw'.
+ [27] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 
 
@@ -4264,232 +4348,232 @@ LaTeX Warning: Reference `binary_softmax' on page 28 undefined on input line 31
 
 File: ./img/chaps/lr/dropout.png Graphic file (type bmp)
 <./img/chaps/lr/dropout.png>
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-[28] (./main.mw)
-\openout5 = `main.mw'.
+[28] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [29] (./main.mw)
-\openout5 = `main.mw'.
+ [29] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 
 Underfull \vbox (badness 4060) has occurred while \output is active []
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
  [30]
-(./main.mw)
-\openout5 = `main.mw'.
+(./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 
 Overfull \hbox (2.0787pt too wide) in paragraph at lines 374--376
@@ -4503,105 +4587,105 @@ Overfull \hbox (2.60596pt too wide) in paragraph at lines 374--376
 ریق ادراک ماشینی ، برچسب زدن یا خوشه بندی ورودی‌های[]
  []
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-[31] (./main.mw)
-\openout5 = `main.mw'.
+[31] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 File: ./img/chaps/lr/rnn.png Graphic file (type bmp)
 <./img/chaps/lr/rnn.png>
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [32] (./main.mw)
-\openout5 = `main.mw'.
+ [32] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 
 
@@ -4616,74 +4700,74 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\gls' on input line 415.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-[33] (./main.mw)
-\openout5 = `main.mw'.
+[33] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 
 
@@ -4702,151 +4786,151 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/b/n' will be
 (Font)              scaled to size 14.4pt on input line 455.
 File: ./img/chaps/lr/lstm.jpg Graphic file (type bmp)
 <./img/chaps/lr/lstm.jpg>
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-[34] (./main.mw)
-\openout5 = `main.mw'.
+[34] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [35] (./main.mw)
-\openout5 = `main.mw'.
+ [35] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/b/n' will be
 (Font)              scaled to size 12.0pt on input line 465.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
  [36]
-(./main.mw)
-\openout5 = `main.mw'.
+(./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
  [37]
-(./main.mw)
-\openout5 = `main.mw'.
+(./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 
 Overfull \hbox (4.406pt too wide) in paragraph at lines 497--498
@@ -4882,106 +4966,105 @@ Underfull \hbox (badness 10000) in paragraph at lines 507--593
 [][]
  []
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-[38] (./main.mw)
-\openout5 = `main.mw'.
+[38] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [39] (./main.mw)
-\openout5 = `main.mw'.
+ [39] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [40] (./main.mw)
-\openout5 = `main.mw'.
+ [40] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [41] (./main.mw)
-\openout5 = `main.mw'.
-
+ [41] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -4990,64 +5073,112 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
  [42]
-(./main.mw)
-\openout5 = `main.mw'.
+(./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [43] (./main.mw)
-\openout5 = `main.mw'.
+ [43] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 )
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [44] (./main.mw)
-\openout5 = `main.mw'.
+ [44] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
 \openout2 = `./tex/chaps/rw/chap-rw.aux'.
 
- (./tex/chaps/rw/chap-rw.tex
+
+(./tex/chaps/rw/chap-rw.tex
 فصل 3.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\gls' on input line 13.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\gls' on input line 13.
+
+Missing character: There is no α in font [./font/IRLotusICEE.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+\openout5 = `main.mw.mw'.
+
+[45
+
+
+
+] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
 )
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [45
-
-
-
-] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
+ [46] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
 \openout2 = `./tex/chaps/pm/chap-pm.aux'.
 
@@ -5056,88 +5187,424 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 2126) has occurred while \output is active []
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [46
+ [47
 
 
 
 ]
-(./main.mw)
-\openout5 = `main.mw'.
+(./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [47] (./main.mw)
-\openout5 = `main.mw'.
+ [48] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
+Underfull \vbox (badness 1242) has occurred while \output is active []
+
+\openout5 = `main.mw.mw'.
+
+ [49]
+(./main.mw.mw)
+\openout5 = `main.mw.mw'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout5 = `main.mw.mw'.
+
+ [50]
+(./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
 )
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [48] (./main.mw)
-\openout5 = `main.mw'.
+ [51] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+ [52] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
 
 \openout2 = `./tex/chaps/er/chap-er.aux'.
 
- (./tex/chaps/er/chap-er.tex
+
+(./tex/chaps/er/chap-er.tex
 فصل 5.
+LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/m/n' will be
+(Font)              scaled to size 17.27994pt on input line 14.
+LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/bx/n' will be
+(Font)              scaled to size 17.27994pt on input line 14.
+LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/m/it' will be
+(Font)              scaled to size 17.27994pt on input line 14.
+LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/m/n' will be
+(Font)              scaled to size 11.99997pt on input line 14.
+\openout5 = `main.mw.mw'.
+
+[53
+
+
+
+] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+File: img/dataset/s/n20_zeta02.png Graphic file (type bmp)
+<img/dataset/s/n20_zeta02.png>
+File: img/dataset/s/n20_zeta1.png Graphic file (type bmp)
+<img/dataset/s/n20_zeta1.png>
+File: img/dataset/s/n20_zeta8.png Graphic file (type bmp)
+<img/dataset/s/n20_zeta8.png>
+File: img/dataset/s/n20_zeta100.png Graphic file (type bmp)
+<img/dataset/s/n20_zeta100.png>
+
+
+Package Fancyhdr Warning: \headheight is too small (14.42422pt): 
+Make it at least 14.86447pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+\openout5 = `main.mw.mw'.
+
+[54] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+ [55] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+ [56] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
+
+File: img/dataset/s/mt_N30_M20_Z1_G0.15_step3.png Graphic file (type bmp)
+<img/dataset/s/mt_N30_M20_Z1_G0.15_step3.png>
+\openout5 = `main.mw.mw'.
+
+ [57] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+File: img/dataset/s/zeta1n20m20.png Graphic file (type bmp)
+<img/dataset/s/zeta1n20m20.png>
+File: img/dataset/s/mt_N30_M20_Z1_G0.15_E.png Graphic file (type bmp)
+<img/dataset/s/mt_N30_M20_Z1_G0.15_E.png>
+File: img/dataset/s/mt_N30_M20_Z1_G0.15_a0.1_b0.08_D.png Graphic file (type bmp
 )
-\openout5 = `main.mw'.
+<img/dataset/s/mt_N30_M20_Z1_G0.15_a0.1_b0.08_D.png>
+File: img/dataset/s/mt_N30_M20_Z1_G0.15_a0.1_b0.08_DmE.png Graphic file (type b
+mp)
+<img/dataset/s/mt_N30_M20_Z1_G0.15_a0.1_b0.08_DmE.png>
 
- [49
+Overfull \hbox (9.61871pt too wide) in paragraph at lines 151--158
+[][][] [][] []
+ []
+
+File: img/dataset/s/mt_N30_M20_Z1_G0.15_a0.1_b0.08_MR_0.1_Dm.png Graphic file (
+type bmp)
+<img/dataset/s/mt_N30_M20_Z1_G0.15_a0.1_b0.08_MR_0.1_Dm.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout5 = `main.mw.mw'.
+
+ [58]
+(./main.mw.mw)
+\openout5 = `main.mw.mw'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout5 = `main.mw.mw'.
+
+ [59]
+(./main.mw.mw)
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+File: img/dataset/r/Navin_Dm.png Graphic file (type bmp)
+<img/dataset/r/Navin_Dm.png>
+File: img/dataset/r/Xu_Dm.png Graphic file (type bmp)
+<img/dataset/r/Xu_Dm.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout5 = `main.mw.mw'.
+
+ [60]
+(./main.mw.mw)
+\openout5 = `main.mw.mw'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout5 = `main.mw.mw'.
+
+ [61]
+(./main.mw.mw)
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+ [62] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
 
 
 
-] (./main.mw)
-\openout5 = `main.mw'.
+Package amsmath Warning: Foreign command \over;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 245.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+[63] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout5 = `main.mw.mw'.
+
+ [64]
+(./main.mw.mw)
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+ [65] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
+
+File: img/res/D1.png Graphic file (type bmp)
+<img/res/D1.png>
+File: img/res/initial_T1.png Graphic file (type bmp)
+<img/res/initial_T1.png>
+\openout5 = `main.mw.mw'.
+
+ [66] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+ [67] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
+
+File: img/res/benchmark1.png Graphic file (type bmp)
+<img/res/benchmark1.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout5 = `main.mw.mw'.
+
+ [68]
+(./main.mw.mw)
+\openout5 = `main.mw.mw'.
+
+File: img/res/sy_N_Err.png Graphic file (type bmp)
+<img/res/sy_N_Err.png>
+File: img/res/sy_N_Err_mean.png Graphic file (type bmp)
+<img/res/sy_N_Err_mean.png>
+\openout5 = `main.mw.mw'.
+
+ [69] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
+
+File: img/res/sn_initial_tree.png Graphic file (type bmp)
+<img/res/sn_initial_tree.png>
+File: img/res/sn_benchmark.png Graphic file (type bmp)
+<img/res/sn_benchmark.png>
+File: img/res/sn_best_tree.png Graphic file (type bmp)
+<img/res/sn_best_tree.png>
+File: img/res/SCITE.png Graphic file (type bmp)
+<img/res/SCITE.png>
+
+
+LaTeX Warning: Float too large for page by 52.01114pt on input line 438.
+
+\openout5 = `main.mw.mw'.
+
+[70] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+ [71] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+)
+Underfull \vbox (badness 2452) has occurred while \output is active []
+
+\openout5 = `main.mw.mw'.
+
+ [72]
+(./main.mw.mw)
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+ [73] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+ [74] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
 \openout2 = `./tex/chaps/con/chap-con.aux'.
 
- (./tex/chaps/con/chap-con.tex
+
+(./tex/chaps/con/chap-con.tex
 فصل 6.
 )
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [50
+ [75
 
 
 
-] (./main.mw)
-\openout5 = `main.mw'.
+] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
  (./main.bbl
+\openout5 = `main.mw.mw'.
+
+ [76
+
+
+] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
+
 LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/n' will be
 (Font)              scaled to size 10.95pt on input line 7.
 
@@ -5150,476 +5617,656 @@ $[][]
 LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/it' will be
 
 (Font)              scaled to size 10.95pt on input line 47.
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-[51
+[77] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
+\openout5 = `main.mw.mw'.
 
-] (./main.mw)
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+ [78] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [52] (./main.mw)
-\openout5 = `main.mw'.
+ [79] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [53] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [54] (./main.mw)
-\openout5 = `main.mw'.
+ [80] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
 )
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
- [1]
-(./main.mw)
-\openout5 = `main.mw'.
+ [1] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
  [2
 
-] (./main.mw)
-\openout5 = `main.mw'.
+] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
 
 No file main.bls.
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 [3
 
 
 
-] (./main.mw)
-\openout5 = `main.mw'.
+] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
 
 No file main.gls.
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 [4
 
 
-] (./main.mw)
-\openout5 = `main.mw'.
+] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
 
 No file main.ind.
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 [5
 
 
 
-] (./main.mw)
-\openout5 = `main.mw'.
+] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
 LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/n' will be
-(Font)              scaled to size 17.28pt on input line 115.
+(Font)              scaled to size 17.28pt on input line 117.
 LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/b/n' will be
-(Font)              scaled to size 17.28pt on input line 115.
-\openout5 = `main.mw'.
+(Font)              scaled to size 17.28pt on input line 117.
+\openout5 = `main.mw.mw'.
 
- [6] (./main.mw)
-\openout5 = `main.mw'.
+ [6] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
  [7
 
-] (./main.mw)
-\openout5 = `main.mw'.
+] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
 File: ./img/eng-logo-en.png Graphic file (type bmp)
 <./img/eng-logo-en.png>
 
-Overfull \hbox (5.42651pt too wide) in paragraph at lines 116--116
+Overfull \hbox (5.42651pt too wide) in paragraph at lines 118--118
  [][][][] 
  []
 
 LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 116.
+(Font)              scaled to size 14.4pt on input line 118.
 File: ./img/logo-en.png Graphic file (type bmp)
 <./img/logo-en.png>
 
-Overfull \hbox (28.45276pt too wide) in paragraph at lines 116--116
+Overfull \hbox (28.45276pt too wide) in paragraph at lines 118--118
 [][] [] []
  []
 
 LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 116.
+(Font)              scaled to size 24.88pt on input line 118.
 LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/b/n' will be
-(Font)              scaled to size 24.88pt on input line 116.
+(Font)              scaled to size 24.88pt on input line 118.
 
 AED: lastpage setting LastPage
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 [8
 
-] (./main.mw)
-\openout5 = `main.mw'.
+] (./main.mw.mw)
+\openout5 = `main.mw.mw'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 120.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 120.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 122.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 122.
  (./main.aux
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
  (./tex/chaps/int/chap-int.aux
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 )
 (./tex/chaps/lr/chap-lr.aux
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 ) (./tex/chaps/rw/chap-rw.aux
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
 
 )
 (./tex/chaps/pm/chap-pm.aux
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
 
 ) (./tex/chaps/er/chap-er.aux
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
 
 )
 (./tex/chaps/con/chap-con.aux
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
-\openout5 = `main.mw'.
-
-)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
+\openout5 = `main.mw.mw'.
 
 )
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 120.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 120.
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+\openout5 = `main.mw.mw'.
+
+)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 122.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 122.
 \openout5 = `main.out'.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: AE5054316DF53B634B769E2FECB5F364;2686.
+(rerunfilecheck)             Checksum: BF803F51C82F070D19E826D30E569AD2;5063.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -5650,12 +6297,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 49005 strings out of 479418
- 992133 string characters out of 5887226
- 1315149 words of memory out of 5000000
- 65317 multiletter control sequences out of 15000+600000
- 541843 words of font info for 134 fonts, out of 8000000 for 9000
+ 49780 strings out of 479418
+ 1009647 string characters out of 5887226
+ 1424076 words of memory out of 5000000
+ 65975 multiletter control sequences out of 15000+600000
+ 544094 words of font info for 144 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 71i,16n,104p,4821b,751s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,18n,104p,4821b,751s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (88 pages).
+Output written on main.pdf (117 pages).
