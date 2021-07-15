@@ -1,7 +1,7 @@
 \contentsline {paragraph}{واژگان کلیدی}{هفده}{section*.3}%
-\contentsline {chapter}{فهرست تصاویر}{ت}{section*.4}%
-\contentsline {chapter}{فهرست جداول}{چ}{section*.5}%
-\contentsline {chapter}{فهرست الگوریتم‌ها}{ح}{section*.5}%
+\contentsline {chapter}{فهرست تصاویر}{ث}{section*.4}%
+\contentsline {chapter}{فهرست جداول}{ح}{section*.5}%
+\contentsline {chapter}{فهرست الگوریتم‌ها}{خ}{section*.5}%
 \contentsline {chapter}{\rl {فهرست برنامه‌ها}}{د}{chapter*.6}%
 \contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
 \contentsline {chapter}{\numberline {2}مبانی تحقیق}{5}{chapter.2}%
@@ -58,4 +58,6 @@
 \contentsline {chapter}{\numberline {6}بحث و نتیجه‌گیری}{75}{chapter.6}%
 \contentsline {chapter}{مراجع}{77}{chapter*.55}%
  \renewcommand \cftchappresnum {پیوست\nobreakspace {}}\setlength {\cftchapnumwidth }{\mylenapp }
-\contentsline {paragraph}{Keywords}{ششم}{section*.57}%
+\contentsline {chapter}{واژه‌نامهٔ فارسی به انگلیسی}{سوم}{section*.56}%
+\contentsline {chapter}{واژه‌نامهٔ انگلیسی به فارسی}{هفتم}{section*.60}%
+\contentsline {paragraph}{Keywords}{دوازدهم}{section*.85}%

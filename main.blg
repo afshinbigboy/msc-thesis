@@ -1,18 +1,285 @@
+;; This logfile was generated automatically by `xindy'
+;; at 15.07.2021  01:23:54
+;; Indexstyle: "/var/folders/b0/rzwm_fmx68v24nxtr096b_dw0000gn/T/Pe90SAgoWW", Rawindex: "/var/folders/b0/rzwm_fmx68v24nxtr096b_dw0000gn/T/ngWPHvLDx1", Output: "main.bls"
 
 
-*** Unable to execute: '"xindy"  -L english -C utf8 -I xindy -M "main" -t "main.blg" -o "main.bls" "main.blo"' ***
+Building indexentry-tree:
+Hierdepth of index is :TREE
 
-Failed with error code 127.
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
 
-Status report:
+Forming letter-groups:
+Letter-group: "تومور" -> "default"
+Letter-group: "سرطان" -> "default"
+Letter-group: "تومور بدخیم" -> "default"
+Letter-group: "ناهمگنی تومور" -> "default"
+Letter-group: "انکوژن" -> "default"
+Letter-group: "گلیوبالستوم" -> "T"
+Letter-group: "روده بزرگ" -> "default"
+Letter-group: "محلی" -> "default"
+Letter-group: "خال‌ ملانوسیتیک" -> "default"
+Letter-group: "فیبرویید رحمی" -> "default"
+Letter-group: "سرطان در محل" -> "default"
+Letter-group: "تومور بالقوه بدخیم" -> "default"
+Letter-group: "متاستاز" -> "default"
+Letter-group: "تکثیر" -> "default"
+Letter-group: "رگ‌زایی" -> "default"
+Letter-group: "پیشرونده" -> "default"
+Letter-group: "کلونی" -> "T"
+Letter-group: "ناهمگن" -> "default"
+Letter-group: "نشانگر زیستی" -> "default"
+Letter-group: "داروهای سمیت سلولی" -> "default"
+Letter-group: "رویکرد مبتنی بر داده" -> "default"
+Letter-group: "نوکلئوتید" -> "default"
+Letter-group: "دی‌ان‌ای" -> "default"
+Letter-group: "گوانین" -> "T"
+Letter-group: "سیتوزین" -> "default"
+Letter-group: "تیمین" -> "default"
+Letter-group: "آدنین" -> "default"
+Letter-group: "موازی" -> "default"
+Letter-group: "تغییر ساختاری" -> "default"
+Letter-group: "جهش نقطه‌ای" -> "default"
+Letter-group: "جهش تک نوکلئوتیدی" -> "default"
+Letter-group: "برگشت" -> "default"
+Letter-group: "‌حذف‌" -> "default"
+Letter-group: "درج" -> "default"
+Letter-group: "تکامل تومور" -> "default"
+Letter-group: "جسمی" -> "default"
+Letter-group: "فراوانی تغییرات آلل" -> "default"
+Letter-group: "توالی‌یابی نسل بعدی" -> "default"
+Letter-group: "هم‌ترازی" -> "default"
+Letter-group: "خوانش" -> "default"
+Letter-group: "اجماعی" -> "default"
+Letter-group: "خوانش همپوشانی" -> "default"
+Letter-group: "پوشش خوانش" -> "default"
+Letter-group: "تغییرات بدنی تک نوکلئوتیدی" -> "default"
+Letter-group: "‌مرگ‌" -> "default"
+Letter-group: "تمایز" -> "default"
+Letter-group: "ژنوم جوانه‌زنی" -> "T"
+Letter-group: "جهش راننده" -> "default"
+Letter-group: "جهش مسافر" -> "default"
+Letter-group: "ایندل" -> "default"
+Letter-group: "حذف و تغییر تک‌نوکلئوتیددها" -> "default"
+Letter-group: "جهش ساده بدنی" -> "default"
+Letter-group: "تغییرات شماره کپی" -> "default"
+Letter-group: "استرومای اطراف" -> "default"
+Letter-group: "سلول ایمنی نفوذی" -> "default"
+Letter-group: "ترک آللی" -> "default"
+Letter-group: "نگاشت" -> "default"
+Letter-group: "زنجیره مارکوف مونت کارلو" -> "default"
+Letter-group: "بیزی" -> "default"
+Letter-group: "یادگیری تقویتی" -> "default"
+Letter-group: "یادگیری ماشین" -> "default"
+Letter-group: "بینایی کامپیوتر" -> "default"
+Letter-group: "هوش مصنوعی" -> "default"
+Letter-group: "ماموگرام" -> "default"
+Letter-group: "سرطان سینه" -> "default"
+Letter-group: "مثبت کاذب" -> "default"
+Letter-group: "رادیولوژیست" -> "default"
+Letter-group: "مدالیته تصویربرداری" -> "default"
+Letter-group: "یادگیری عمیق" -> "default"
+Letter-group: "اآسیب‌شناسی" -> "default"
+Letter-group: "تشخیص به کمک کامپیوتر" -> "default"
+Letter-group: "قطعه‌‌بندی" -> "default"
+Letter-group: "شناسایی" -> "default"
+Letter-group: "آشکارسازی" -> "default"
+Letter-group: "نورون" -> "default"
+Letter-group: "فعال‌سازی" -> "default"
+Letter-group: "شبکه عصبی کاملا متصل پیش‌خور" -> "default"
+Letter-group: "طبقه بندی" -> "default"
+Letter-group: "رگرسیون" -> "default"
+Letter-group: "لایه" -> "default"
+Letter-group: "وزن شبکه" -> "default"
+Letter-group: "شبکه عصبی کانولوشنی" -> "default"
+Letter-group: "بعد" -> "default"
+Letter-group: "اشعه ایکس" -> "default"
+Letter-group: "شدت" -> "default"
+Letter-group: "کانال" -> "T"
+Letter-group: "نقشه ویژگی" -> "default"
+Letter-group: "بایاس" -> "default"
+Letter-group: "کرنل" -> "T"
+Letter-group: "ناحیه ادراک محلی" -> "default"
+Letter-group: "کانولوشن" -> "T"
+Letter-group: "تابع فعالیت" -> "default"
+Letter-group: "اندازه گام" -> "default"
+Letter-group: "لایه‌گذاری صفر" -> "default"
+Letter-group: "تابع واحد اصلاح‌شده خطی" -> "default"
+Letter-group: "هایپربولیک" -> "default"
+Letter-group: "سیگموید" -> "default"
+Letter-group: "بیش‌پردازش" -> "default"
+Letter-group: "پیکسل" -> "default"
+Letter-group: "حذف تصادفی" -> "default"
+Letter-group: "نرمال‌سازی دسته" -> "default"
+Letter-group: "تکرار" -> "default"
+Letter-group: "تغییر همبستگی داخلی" -> "default"
+Letter-group: "بهینه‌سازی" -> "default"
+Letter-group: "کواریانس" -> "T"
+Letter-group: "انحراف استاندارد" -> "default"
+Letter-group: "تابع هزینه" -> "default"
+Letter-group: "رگولاریزیشن" -> "default"
+Letter-group: "آنتروپی متقاطع دودویی" -> "default"
+Letter-group: "بک‌پروپگیشن" -> "default"
+Letter-group: "دوره" -> "default"
+Letter-group: "خطا" -> "default"
+Letter-group: "شبکه‌ عصبی بازگشتی" -> "default"
+Letter-group: "حالت" -> "default"
+Letter-group: "حافظه‌ی کوتاه‌مدت بلند" -> "default"
+Letter-group: "الحاق" -> "default"
+Letter-group: "دروازه" -> "default"
+Letter-group: "روش ساخت درخت تکاملی" -> "default"
+Letter-group: "توالی‌یابی تک سلولی" -> "default"
+Letter-group: "منفی کاذب" -> "default"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "آدنین" -> "default"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "ژنوم جوانه‌زنی" -> "T"
+WARNING: location-reference "{}{آ}" did not match any location-class! (ignored)
+WARNING: location-reference "{}{آ}" did not match any location-class! (ignored)
+WARNING: location-reference "{}{آ}" did not match any location-class! (ignored)
+WARNING: location-reference "{}{ب}" did not match any location-class! (ignored)
+WARNING: location-reference "{}{ب}" did not match any location-class! (ignored)
+WARNING: location-reference "{}{ب}" did not match any location-class! (ignored)
+WARNING: location-reference "{}{ب}" did not match any location-class! (ignored)
+WARNING: location-reference "{}{ب}" did not match any location-class! (ignored)
+WARNING: location-reference "{}{ب}" did not match any location-class! (ignored)
+WARNING: location-reference "{}{ب}" did not match any location-class! (ignored)
+WARNING: location-reference "{}{ب}" did not match any location-class! (ignored)
+WARNING: location-reference "{}{ب}" did not match any location-class! (ignored)
+WARNING: location-reference "{}{ب}" did not match any location-class! (ignored)
+WARNING: location-reference "{}{ث}" did not match any location-class! (ignored)
+WARNING: location-reference "{}{ث}" did not match any location-class! (ignored)
+WARNING: location-reference "{}{ث}" did not match any location-class! (ignored)
+WARNING: location-reference "{}{ث}" did not match any location-class! (ignored)
+WARNING: location-reference "{}{ث}" did not match any location-class! (ignored)
+WARNING: location-reference "{}{ث}" did not match any location-class! (ignored)
+WARNING: location-reference "{}{ث}" did not match any location-class! (ignored)
+WARNING: location-reference "{}{ث}" did not match any location-class! (ignored)
+WARNING: location-reference "{}{ث}" did not match any location-class! (ignored)
+WARNING: location-reference "{}{ج}" did not match any location-class! (ignored)
+WARNING: location-reference "{}{ج}" did not match any location-class! (ignored)
+WARNING: location-reference "{}{ج}" did not match any location-class! (ignored)
 
-/opt/texlive/2020/bin/x86_64-linux/xindy.run: error while loading shared libraries: libncurses.so.5: cannot open shared object file: No such file or directory
+makeglossaries diagnostic messages:
 
-xindy didn't create a transcript.
-Check that xindy has been installed and
-is on your system's PATH.
-Your PATH environment variable is set to: 
-/opt/texlive/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/var/lib/snapd/snap/bin:/home/afshin/.fzf/bin
-Try manually running:
-"xindy"  -L english -C utf8 -I xindy -M "main" -t "main.blg" -o "main.bls" "main.blo"
-
+You may have forgotten to add a location 
+class with \GlsAddXdyLocation or you may have 
+the format incorrect.
