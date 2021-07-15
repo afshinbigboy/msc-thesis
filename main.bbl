@@ -156,6 +156,16 @@ de~Visser, J Arjan~GM and Rozen, Daniel~E.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{dean2001rapid}
+Dean, Frank~B, Nelson, John~R, Giesler, Theresa~L, and Lasken, Roger~S.
+\newblock Rapid amplification of plasmid and phage dna using phi29 dna
+  polymerase and multiply-primed rolling circle amplification.
+\newblock {\em Genome research}, 11(6):1095--1099, 2001.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{demicheli2008effects}
 Demicheli, R, Retsky, MW, Hrushesky, WJM, Baum, M, and Gukas, ID.
 \newblock The effects of surgery on tumor growth: a century of investigations.
@@ -172,6 +182,17 @@ Dentro, Stefan~C, Leshchiner, Ignaty, Haase, Kerstin, Tarabichi, Maxime,
 \newblock Portraits of genetic intra-tumour heterogeneity and subclonal
   selection across cancer types.
 \newblock {\em BioRxiv}, page 312041, 2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{deshwar2015phylowgs}
+Deshwar, Amit~G, Vembu, Shankar, Yung, Christina~K, Jang, Gun~Ho, Stein,
+  Lincoln, and Morris, Quaid.
+\newblock Phylowgs: reconstructing subclonal composition and evolution from
+  whole-genome sequencing of tumors.
+\newblock {\em Genome biology}, 16(1):1--20, 2015.
 
 \end{LTRbibitems}
 
@@ -312,12 +333,33 @@ Hastings, W~Keith.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{hou2012single}
+Hou, Yong, Song, Luting, Zhu, Ping, Zhang, Bo, Tao, Ye, Xu, Xun, Li, Fuqiang,
+  Wu, Kui, Liang, Jie, Shao, Di, et~al.
+\newblock Single-cell exome sequencing and monoclonal evolution of a
+  jak2-negative myeloproliferative neoplasm.
+\newblock {\em Cell}, 148(5):873--885, 2012.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{hugo2007epithelial}
 Hugo, Honor, Ackland, M~Leigh, Blick, Tony, Lawrence, Mitchell~G, Clements,
   Judith~A, Williams, Elizabeth~D, and Thompson, Erik~W.
 \newblock Epithelial—mesenchymal and mesenchymal—epithelial transitions in
   carcinoma progression.
 \newblock {\em Journal of cellular physiology}, 213(2):374--383, 2007.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{kim2014using}
+Kim, Kyung~In and Simon, Richard.
+\newblock Using single cell sequencing data to model the evolutionary history
+  of a tumor.
+\newblock {\em BMC bioinformatics}, 15(1):1--13, 2014.
 
 \end{LTRbibitems}
 
