@@ -3,6 +3,7 @@
 \contentsline {chapter}{فهرست جداول}{ح}{section*.5}%
 \contentsline {chapter}{فهرست الگوریتم‌ها}{خ}{section*.5}%
 \contentsline {chapter}{\rl {فهرست برنامه‌ها}}{د}{chapter*.6}%
+\contentsline {chapter}{\rl {فهرست اختصارات}}{ذ}{section*.7}%
 \contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
 \contentsline {chapter}{\numberline {2}مبانی تحقیق}{5}{chapter.2}%
 \contentsline {section}{\numberline {2.1}تنوع ژنتیکی}{5}{section.2.1}%
@@ -56,8 +57,8 @@
 \contentsline {subsubsection}{\numberline {5.4.2.1}تنوع در گام‌ها با استراتژی معقول}{72}{subsubsection.5.4.2.1}%
 \contentsline {subsubsection}{\numberline {5.4.2.2}قرار دادن احتمال وزن‌دار به ازای هر انتخاب}{73}{subsubsection.5.4.2.2}%
 \contentsline {chapter}{\numberline {6}بحث و نتیجه‌گیری}{75}{chapter.6}%
-\contentsline {chapter}{مراجع}{77}{chapter*.55}%
+\contentsline {chapter}{مراجع}{77}{chapter*.57}%
  \renewcommand \cftchappresnum {پیوست\nobreakspace {}}\setlength {\cftchapnumwidth }{\mylenapp }
-\contentsline {chapter}{واژه‌نامهٔ فارسی به انگلیسی}{سوم}{section*.56}%
-\contentsline {chapter}{واژه‌نامهٔ انگلیسی به فارسی}{هفتم}{section*.60}%
-\contentsline {paragraph}{Keywords}{دوازدهم}{section*.85}%
+\contentsline {chapter}{واژه‌نامهٔ فارسی به انگلیسی}{سوم}{section*.58}%
+\contentsline {chapter}{واژه‌نامهٔ انگلیسی به فارسی}{هفتم}{section*.84}%
+\contentsline {paragraph}{Keywords}{دوازدهم}{section*.109}%

@@ -1,6 +1,6 @@
 ;; This logfile was generated automatically by `xindy'
-;; at 15.07.2021  01:23:54
-;; Indexstyle: "/var/folders/b0/rzwm_fmx68v24nxtr096b_dw0000gn/T/Pe90SAgoWW", Rawindex: "/var/folders/b0/rzwm_fmx68v24nxtr096b_dw0000gn/T/ngWPHvLDx1", Output: "main.bls"
+;; at 16.07.2021  00:56:30
+;; Indexstyle: "/var/folders/b0/rzwm_fmx68v24nxtr096b_dw0000gn/T/96QT2GEZey", Rawindex: "/var/folders/b0/rzwm_fmx68v24nxtr096b_dw0000gn/T/87FcBZrP4a", Output: "main.bls"
 
 
 Building indexentry-tree:
@@ -126,160 +126,177 @@ sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
 sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
 sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
 sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
 
 Forming letter-groups:
-Letter-group: "ØªÙˆÙ…ÙˆØ±" -> "default"
-Letter-group: "Ø³Ø±Ø·Ø§Ù†" -> "default"
-Letter-group: "ØªÙˆÙ…ÙˆØ± Ø¨Ø¯Ø®ÛŒÙ…" -> "default"
-Letter-group: "Ù†Ø§Ù‡Ù…Ú¯Ù†ÛŒ ØªÙˆÙ…ÙˆØ±" -> "default"
-Letter-group: "Ø§Ù†Ú©ÙˆÚ˜Ù†" -> "default"
-Letter-group: "Ú¯Ù„ÛŒÙˆØ¨Ø§Ù„Ø³ØªÙˆÙ…" -> "T"
-Letter-group: "Ø±ÙˆØ¯Ù‡ Ø¨Ø²Ø±Ú¯" -> "default"
-Letter-group: "Ù…Ø­Ù„ÛŒ" -> "default"
-Letter-group: "Ø®Ø§Ù„â€Œ Ù…Ù„Ø§Ù†ÙˆØ³ÛŒØªÛŒÚ©" -> "default"
-Letter-group: "ÙÛŒØ¨Ø±ÙˆÛŒÛŒØ¯ Ø±Ø­Ù…ÛŒ" -> "default"
-Letter-group: "Ø³Ø±Ø·Ø§Ù† Ø¯Ø± Ù…Ø­Ù„" -> "default"
-Letter-group: "ØªÙˆÙ…ÙˆØ± Ø¨Ø§Ù„Ù‚ÙˆÙ‡ Ø¨Ø¯Ø®ÛŒÙ…" -> "default"
-Letter-group: "Ù…ØªØ§Ø³ØªØ§Ø²" -> "default"
-Letter-group: "ØªÚ©Ø«ÛŒØ±" -> "default"
-Letter-group: "Ø±Ú¯â€ŒØ²Ø§ÛŒÛŒ" -> "default"
-Letter-group: "Ù¾ÛŒØ´Ø±ÙˆÙ†Ø¯Ù‡" -> "default"
-Letter-group: "Ú©Ù„ÙˆÙ†ÛŒ" -> "T"
-Letter-group: "Ù†Ø§Ù‡Ù…Ú¯Ù†" -> "default"
-Letter-group: "Ù†Ø´Ø§Ù†Ú¯Ø± Ø²ÛŒØ³ØªÛŒ" -> "default"
-Letter-group: "Ø¯Ø§Ø±ÙˆÙ‡Ø§ÛŒ Ø³Ù…ÛŒØª Ø³Ù„ÙˆÙ„ÛŒ" -> "default"
-Letter-group: "Ø±ÙˆÛŒÚ©Ø±Ø¯ Ù…Ø¨ØªÙ†ÛŒ Ø¨Ø± Ø¯Ø§Ø¯Ù‡" -> "default"
-Letter-group: "Ù†ÙˆÚ©Ù„Ø¦ÙˆØªÛŒØ¯" -> "default"
-Letter-group: "Ø¯ÛŒâ€ŒØ§Ù†â€ŒØ§ÛŒ" -> "default"
-Letter-group: "Ú¯ÙˆØ§Ù†ÛŒÙ†" -> "T"
-Letter-group: "Ø³ÛŒØªÙˆØ²ÛŒÙ†" -> "default"
-Letter-group: "ØªÛŒÙ…ÛŒÙ†" -> "default"
-Letter-group: "Ø¢Ø¯Ù†ÛŒÙ†" -> "default"
-Letter-group: "Ù…ÙˆØ§Ø²ÛŒ" -> "default"
-Letter-group: "ØªØºÛŒÛŒØ± Ø³Ø§Ø®ØªØ§Ø±ÛŒ" -> "default"
-Letter-group: "Ø¬Ù‡Ø´ Ù†Ù‚Ø·Ù‡â€ŒØ§ÛŒ" -> "default"
-Letter-group: "Ø¬Ù‡Ø´ ØªÚ© Ù†ÙˆÚ©Ù„Ø¦ÙˆØªÛŒØ¯ÛŒ" -> "default"
-Letter-group: "Ø¨Ø±Ú¯Ø´Øª" -> "default"
-Letter-group: "â€ŒØ­Ø°Ùâ€Œ" -> "default"
-Letter-group: "Ø¯Ø±Ø¬" -> "default"
-Letter-group: "ØªÚ©Ø§Ù…Ù„ ØªÙˆÙ…ÙˆØ±" -> "default"
-Letter-group: "Ø¬Ø³Ù…ÛŒ" -> "default"
-Letter-group: "ÙØ±Ø§ÙˆØ§Ù†ÛŒ ØªØºÛŒÛŒØ±Ø§Øª Ø¢Ù„Ù„" -> "default"
-Letter-group: "ØªÙˆØ§Ù„ÛŒâ€ŒÛŒØ§Ø¨ÛŒ Ù†Ø³Ù„ Ø¨Ø¹Ø¯ÛŒ" -> "default"
-Letter-group: "Ù‡Ù…â€ŒØªØ±Ø§Ø²ÛŒ" -> "default"
-Letter-group: "Ø®ÙˆØ§Ù†Ø´" -> "default"
-Letter-group: "Ø§Ø¬Ù…Ø§Ø¹ÛŒ" -> "default"
-Letter-group: "Ø®ÙˆØ§Ù†Ø´ Ù‡Ù…Ù¾ÙˆØ´Ø§Ù†ÛŒ" -> "default"
-Letter-group: "Ù¾ÙˆØ´Ø´ Ø®ÙˆØ§Ù†Ø´" -> "default"
-Letter-group: "ØªØºÛŒÛŒØ±Ø§Øª Ø¨Ø¯Ù†ÛŒ ØªÚ© Ù†ÙˆÚ©Ù„Ø¦ÙˆØªÛŒØ¯ÛŒ" -> "default"
-Letter-group: "â€ŒÙ…Ø±Ú¯â€Œ" -> "default"
-Letter-group: "ØªÙ…Ø§ÛŒØ²" -> "default"
-Letter-group: "Ú˜Ù†ÙˆÙ… Ø¬ÙˆØ§Ù†Ù‡â€ŒØ²Ù†ÛŒ" -> "T"
-Letter-group: "Ø¬Ù‡Ø´ Ø±Ø§Ù†Ù†Ø¯Ù‡" -> "default"
-Letter-group: "Ø¬Ù‡Ø´ Ù…Ø³Ø§ÙØ±" -> "default"
-Letter-group: "Ø§ÛŒÙ†Ø¯Ù„" -> "default"
-Letter-group: "Ø­Ø°Ù Ùˆ ØªØºÛŒÛŒØ± ØªÚ©â€ŒÙ†ÙˆÚ©Ù„Ø¦ÙˆØªÛŒØ¯Ø¯Ù‡Ø§" -> "default"
-Letter-group: "Ø¬Ù‡Ø´ Ø³Ø§Ø¯Ù‡ Ø¨Ø¯Ù†ÛŒ" -> "default"
-Letter-group: "ØªØºÛŒÛŒØ±Ø§Øª Ø´Ù…Ø§Ø±Ù‡ Ú©Ù¾ÛŒ" -> "default"
-Letter-group: "Ø§Ø³ØªØ±ÙˆÙ…Ø§ÛŒ Ø§Ø·Ø±Ø§Ù" -> "default"
-Letter-group: "Ø³Ù„ÙˆÙ„ Ø§ÛŒÙ…Ù†ÛŒ Ù†ÙÙˆØ°ÛŒ" -> "default"
-Letter-group: "ØªØ±Ú© Ø¢Ù„Ù„ÛŒ" -> "default"
-Letter-group: "Ù†Ú¯Ø§Ø´Øª" -> "default"
-Letter-group: "Ø²Ù†Ø¬ÛŒØ±Ù‡ Ù…Ø§Ø±Ú©ÙˆÙ Ù…ÙˆÙ†Øª Ú©Ø§Ø±Ù„Ùˆ" -> "default"
-Letter-group: "Ø¨ÛŒØ²ÛŒ" -> "default"
-Letter-group: "ÛŒØ§Ø¯Ú¯ÛŒØ±ÛŒ ØªÙ‚ÙˆÛŒØªÛŒ" -> "default"
-Letter-group: "ÛŒØ§Ø¯Ú¯ÛŒØ±ÛŒ Ù…Ø§Ø´ÛŒÙ†" -> "default"
-Letter-group: "Ø¨ÛŒÙ†Ø§ÛŒÛŒ Ú©Ø§Ù…Ù¾ÛŒÙˆØªØ±" -> "default"
-Letter-group: "Ù‡ÙˆØ´ Ù…ØµÙ†ÙˆØ¹ÛŒ" -> "default"
-Letter-group: "Ù…Ø§Ù…ÙˆÚ¯Ø±Ø§Ù…" -> "default"
-Letter-group: "Ø³Ø±Ø·Ø§Ù† Ø³ÛŒÙ†Ù‡" -> "default"
-Letter-group: "Ù…Ø«Ø¨Øª Ú©Ø§Ø°Ø¨" -> "default"
-Letter-group: "Ø±Ø§Ø¯ÛŒÙˆÙ„ÙˆÚ˜ÛŒØ³Øª" -> "default"
-Letter-group: "Ù…Ø¯Ø§Ù„ÛŒØªÙ‡ ØªØµÙˆÛŒØ±Ø¨Ø±Ø¯Ø§Ø±ÛŒ" -> "default"
-Letter-group: "ÛŒØ§Ø¯Ú¯ÛŒØ±ÛŒ Ø¹Ù…ÛŒÙ‚" -> "default"
-Letter-group: "Ø§Ø¢Ø³ÛŒØ¨â€ŒØ´Ù†Ø§Ø³ÛŒ" -> "default"
-Letter-group: "ØªØ´Ø®ÛŒØµ Ø¨Ù‡ Ú©Ù…Ú© Ú©Ø§Ù…Ù¾ÛŒÙˆØªØ±" -> "default"
-Letter-group: "Ù‚Ø·Ø¹Ù‡â€Œâ€ŒØ¨Ù†Ø¯ÛŒ" -> "default"
-Letter-group: "Ø´Ù†Ø§Ø³Ø§ÛŒÛŒ" -> "default"
-Letter-group: "Ø¢Ø´Ú©Ø§Ø±Ø³Ø§Ø²ÛŒ" -> "default"
-Letter-group: "Ù†ÙˆØ±ÙˆÙ†" -> "default"
-Letter-group: "ÙØ¹Ø§Ù„â€ŒØ³Ø§Ø²ÛŒ" -> "default"
-Letter-group: "Ø´Ø¨Ú©Ù‡ Ø¹ØµØ¨ÛŒ Ú©Ø§Ù…Ù„Ø§ Ù…ØªØµÙ„ Ù¾ÛŒØ´â€ŒØ®ÙˆØ±" -> "default"
-Letter-group: "Ø·Ø¨Ù‚Ù‡ Ø¨Ù†Ø¯ÛŒ" -> "default"
-Letter-group: "Ø±Ú¯Ø±Ø³ÛŒÙˆÙ†" -> "default"
-Letter-group: "Ù„Ø§ÛŒÙ‡" -> "default"
-Letter-group: "ÙˆØ²Ù† Ø´Ø¨Ú©Ù‡" -> "default"
-Letter-group: "Ø´Ø¨Ú©Ù‡ Ø¹ØµØ¨ÛŒ Ú©Ø§Ù†ÙˆÙ„ÙˆØ´Ù†ÛŒ" -> "default"
-Letter-group: "Ø¨Ø¹Ø¯" -> "default"
-Letter-group: "Ø§Ø´Ø¹Ù‡ Ø§ÛŒÚ©Ø³" -> "default"
-Letter-group: "Ø´Ø¯Øª" -> "default"
-Letter-group: "Ú©Ø§Ù†Ø§Ù„" -> "T"
-Letter-group: "Ù†Ù‚Ø´Ù‡ ÙˆÛŒÚ˜Ú¯ÛŒ" -> "default"
-Letter-group: "Ø¨Ø§ÛŒØ§Ø³" -> "default"
-Letter-group: "Ú©Ø±Ù†Ù„" -> "T"
-Letter-group: "Ù†Ø§Ø­ÛŒÙ‡ Ø§Ø¯Ø±Ø§Ú© Ù…Ø­Ù„ÛŒ" -> "default"
-Letter-group: "Ú©Ø§Ù†ÙˆÙ„ÙˆØ´Ù†" -> "T"
-Letter-group: "ØªØ§Ø¨Ø¹ ÙØ¹Ø§Ù„ÛŒØª" -> "default"
-Letter-group: "Ø§Ù†Ø¯Ø§Ø²Ù‡ Ú¯Ø§Ù…" -> "default"
-Letter-group: "Ù„Ø§ÛŒÙ‡â€ŒÚ¯Ø°Ø§Ø±ÛŒ ØµÙØ±" -> "default"
-Letter-group: "ØªØ§Ø¨Ø¹ ÙˆØ§Ø­Ø¯ Ø§ØµÙ„Ø§Ø­â€ŒØ´Ø¯Ù‡ Ø®Ø·ÛŒ" -> "default"
-Letter-group: "Ù‡Ø§ÛŒÙ¾Ø±Ø¨ÙˆÙ„ÛŒÚ©" -> "default"
-Letter-group: "Ø³ÛŒÚ¯Ù…ÙˆÛŒØ¯" -> "default"
-Letter-group: "Ø¨ÛŒØ´â€ŒÙ¾Ø±Ø¯Ø§Ø²Ø´" -> "default"
-Letter-group: "Ù¾ÛŒÚ©Ø³Ù„" -> "default"
-Letter-group: "Ø­Ø°Ù ØªØµØ§Ø¯ÙÛŒ" -> "default"
-Letter-group: "Ù†Ø±Ù…Ø§Ù„â€ŒØ³Ø§Ø²ÛŒ Ø¯Ø³ØªÙ‡" -> "default"
-Letter-group: "ØªÚ©Ø±Ø§Ø±" -> "default"
-Letter-group: "ØªØºÛŒÛŒØ± Ù‡Ù…Ø¨Ø³ØªÚ¯ÛŒ Ø¯Ø§Ø®Ù„ÛŒ" -> "default"
-Letter-group: "Ø¨Ù‡ÛŒÙ†Ù‡â€ŒØ³Ø§Ø²ÛŒ" -> "default"
-Letter-group: "Ú©ÙˆØ§Ø±ÛŒØ§Ù†Ø³" -> "T"
-Letter-group: "Ø§Ù†Ø­Ø±Ø§Ù Ø§Ø³ØªØ§Ù†Ø¯Ø§Ø±Ø¯" -> "default"
-Letter-group: "ØªØ§Ø¨Ø¹ Ù‡Ø²ÛŒÙ†Ù‡" -> "default"
-Letter-group: "Ø±Ú¯ÙˆÙ„Ø§Ø±ÛŒØ²ÛŒØ´Ù†" -> "default"
-Letter-group: "Ø¢Ù†ØªØ±ÙˆÙ¾ÛŒ Ù…ØªÙ‚Ø§Ø·Ø¹ Ø¯ÙˆØ¯ÙˆÛŒÛŒ" -> "default"
-Letter-group: "Ø¨Ú©â€ŒÙ¾Ø±ÙˆÙ¾Ú¯ÛŒØ´Ù†" -> "default"
-Letter-group: "Ø¯ÙˆØ±Ù‡" -> "default"
-Letter-group: "Ø®Ø·Ø§" -> "default"
-Letter-group: "Ø´Ø¨Ú©Ù‡â€Œ Ø¹ØµØ¨ÛŒ Ø¨Ø§Ø²Ú¯Ø´ØªÛŒ" -> "default"
-Letter-group: "Ø­Ø§Ù„Øª" -> "default"
-Letter-group: "Ø­Ø§ÙØ¸Ù‡â€ŒÛŒ Ú©ÙˆØªØ§Ù‡â€ŒÙ…Ø¯Øª Ø¨Ù„Ù†Ø¯" -> "default"
-Letter-group: "Ø§Ù„Ø­Ø§Ù‚" -> "default"
-Letter-group: "Ø¯Ø±ÙˆØ§Ø²Ù‡" -> "default"
-Letter-group: "Ø±ÙˆØ´ Ø³Ø§Ø®Øª Ø¯Ø±Ø®Øª ØªÚ©Ø§Ù…Ù„ÛŒ" -> "default"
-Letter-group: "ØªÙˆØ§Ù„ÛŒâ€ŒÛŒØ§Ø¨ÛŒ ØªÚ© Ø³Ù„ÙˆÙ„ÛŒ" -> "default"
-Letter-group: "Ù…Ù†ÙÛŒ Ú©Ø§Ø°Ø¨" -> "default"
+Letter-group: "…ŸŸ" -> "Øª"
+Letter-group: "”‚ž" -> "Ø³"
+Letter-group: "…ŸŸ ƒ‹Š¡" -> "Øª"
+Letter-group: "ž‚ ›ž¡ …ŸŸ" -> "Ù†"
+Letter-group: "‚žšŸž" -> "Ø§"
+Letter-group: "›œ¡Ÿƒ‚œ…Ÿ" -> "Ú¯"
+Letter-group: "Ÿ‹  ƒŽ›" -> "Ø±"
+Letter-group: "‰œ¡" -> "Ù…"
+Letter-group: "Š‚œ œ‚žŸ¡…¡š" -> "Ø®"
+Letter-group: "˜¡ƒŸ¡¡‹ ‰¡" -> "Ù"
+Letter-group: "”‚ž ‹ ‰œ" -> "Ø³"
+Letter-group: "…ŸŸ ƒ‚œ™Ÿ  ƒ‹Š¡" -> "Øª"
+Letter-group: "…‚…‚Ž" -> "Ù…"
+Letter-group: "…š†¡" -> "Øª"
+Letter-group: "›Ž‚¡¡" -> "Ø±"
+Letter-group: "„¡‘Ÿž‹ " -> "Ù¾"
+Letter-group: "šœŸž¡" -> "Ú©"
+Letter-group: "ž‚ ›ž" -> "Ù†"
+Letter-group: "ž‘‚ž› Ž¡…¡" -> "Ù†"
+Letter-group: "‹‚Ÿ ‚¡ ¡… œŸœ¡" -> "Ø¯"
+Letter-group: "Ÿ¡š‹ ƒ…ž¡ ƒ ‹‚‹ " -> "Ø±"
+Letter-group: "žŸšœ¡Ÿ…¡‹" -> "Ù†"
+Letter-group: "‹¡‚ž‚¡" -> "Ø¯"
+Letter-group: "›Ÿ‚ž¡ž" -> "Ú¯"
+Letter-group: "¡…ŸŽ¡ž" -> "Ø³"
+Letter-group: "…¡¡ž" -> "Øª"
+Letter-group: "€‹ž¡ž" -> "Ø§"
+Letter-group: "Ÿ‚Ž¡" -> "Ù…"
+Letter-group: "…—¡¡ ‚Š…‚¡" -> "Øª"
+Letter-group: "‡ ‘ ž™” ‚¡" -> "Ø¬"
+Letter-group: "‡ ‘ …š žŸšœ¡Ÿ…¡‹¡" -> "Ø¬"
+Letter-group: "ƒ›‘…" -> "Ø¨"
+Letter-group: "‰Œ˜" -> "Ø­"
+Letter-group: "‹‡" -> "Ø¯"
+Letter-group: "…š‚œ …ŸŸ" -> "Øª"
+Letter-group: "‡¡" -> "Ø¬"
+Letter-group: "˜‚Ÿ‚ž¡ …—¡¡‚… €œœ" -> "Ù"
+Letter-group: "…Ÿ‚œ¡¡‚ƒ¡ žœ ƒ–‹¡" -> "Øª"
+Letter-group: " …‚Ž¡" -> "Ù‡"
+Letter-group: "ŠŸ‚ž‘" -> "Ø®"
+Letter-group: "‚‡‚–¡" -> "Ø§"
+Letter-group: "ŠŸ‚ž‘  „Ÿ‘‚ž¡" -> "Ø®"
+Letter-group: "„Ÿ‘‘ ŠŸ‚ž‘" -> "Ù¾"
+Letter-group: "…—¡¡‚… ƒ‹ž¡ …š žŸšœ¡Ÿ…¡‹¡" -> "Øª"
+Letter-group: "›" -> "Ù…"
+Letter-group: "…‚¡Ž" -> "Øª"
+Letter-group: "žŸ ‡Ÿ‚ž Žž¡" -> "Ú˜"
+Letter-group: "‡ ‘ ‚žž‹ " -> "Ø¬"
+Letter-group: "‡ ‘ ‚˜" -> "Ø¬"
+Letter-group: "‚¡ž‹œ" -> "Ø§"
+Letter-group: "‰Œ˜ Ÿ …—¡¡ …šžŸšœ¡Ÿ…¡‹‹ ‚" -> "Ø­"
+Letter-group: "‡ ‘ ‚‹  ƒ‹ž¡" -> "Ø¬"
+Letter-group: "…—¡¡‚… ‘‚  š„¡" -> "Øª"
+Letter-group: "‚…Ÿ‚¡ ‚”‚˜" -> "Ø§"
+Letter-group: "œŸœ ‚¡ž¡ ž˜ŸŒ¡" -> "Ø³"
+Letter-group: "…š €œœ¡" -> "Øª"
+Letter-group: "ž›‚‘…" -> "Ù†"
+Letter-group: "Žž‡¡  ‚šŸ˜ Ÿž… š‚œŸ" -> "Ø²"
+Letter-group: "ƒ¡Ž¡" -> "Ø¨"
+Letter-group: "¡‚‹›¡¡ …™Ÿ¡…¡" -> "ÛŒ"
+Letter-group: "¡‚‹›¡¡ ‚‘¡ž" -> "ÛŒ"
+Letter-group: "ƒ¡ž‚¡¡ š‚„¡Ÿ…" -> "Ø¨"
+Letter-group: " Ÿ‘ ’žŸ–¡" -> "Ù‡"
+Letter-group: "‚Ÿ›‚" -> "Ù…"
+Letter-group: "”‚ž ¡ž " -> "Ø³"
+Letter-group: "†ƒ… š‚Œƒ" -> "Ù…"
+Letter-group: "‚‹¡ŸœŸ¡…" -> "Ø±"
+Letter-group: "‹‚œ¡…  …’Ÿ¡ƒ‹‚¡" -> "Ù…"
+Letter-group: "¡‚‹›¡¡ –¡™" -> "ÛŒ"
+Letter-group: "‚€¡ƒ‘ž‚¡" -> "Ø§"
+Letter-group: "…‘Š¡’ ƒ  šš š‚„¡Ÿ…" -> "Øª"
+Letter-group: "™”– ƒž‹¡" -> "Ù‚"
+Letter-group: "‘ž‚‚¡¡" -> "Ø´"
+Letter-group: "€‘š‚‚Ž¡" -> "Ø§"
+Letter-group: "žŸŸž" -> "Ù†"
+Letter-group: "˜–‚œ‚Ž¡" -> "Ù"
+Letter-group: "‘ƒš  –’ƒ¡ š‚œ‚ …’œ „¡‘ŠŸ" -> "Ø´"
+Letter-group: "”ƒ™  ƒž‹¡" -> "Ø·"
+Letter-group: "›¡Ÿž" -> "Ø±"
+Letter-group: "œ‚¡ " -> "Ù„"
+Letter-group: "ŸŽž ‘ƒš " -> "Ùˆ"
+Letter-group: "‘ƒš  –’ƒ¡ š‚žŸœŸ‘ž¡" -> "Ø´"
+Letter-group: "ƒ–‹" -> "Ø¨"
+Letter-group: "‚‘–  ‚¡š" -> "Ø§"
+Letter-group: "‘‹…" -> "Ø´"
+Letter-group: "š‚ž‚œ" -> "Ú©"
+Letter-group: "ž™‘  Ÿ¡›¡" -> "Ù†"
+Letter-group: "ƒ‚¡‚" -> "Ø¨"
+Letter-group: "šžœ" -> "Ú©"
+Letter-group: "ž‚‰¡  ‚‹‚š ‰œ¡" -> "Ù†"
+Letter-group: "š‚žŸœŸ‘ž" -> "Ú©"
+Letter-group: "…‚ƒ– ˜–‚œ¡…" -> "Øª"
+Letter-group: "‚ž‹‚Ž  ›‚" -> "Ø§"
+Letter-group: "œ‚¡ ›Œ‚¡ ’˜" -> "Ù„"
+Letter-group: "…‚ƒ– Ÿ‚‰‹ ‚’œ‚‰‘‹  Š”¡" -> "Øª"
+Letter-group: " ‚¡„ƒŸœ¡š" -> "Ù‡"
+Letter-group: "¡›Ÿ¡‹" -> "Ø³"
+Letter-group: "ƒ¡‘„‹‚Ž‘" -> "Ø¨"
+Letter-group: "„¡šœ" -> "Ù¾"
+Letter-group: "‰Œ˜ …’‚‹˜¡" -> "Ø­"
+Letter-group: "ž‚œ‚Ž¡ ‹… " -> "Ù†"
+Letter-group: "…š‚" -> "Øª"
+Letter-group: "…—¡¡  ƒ…›¡ ‹‚Šœ¡" -> "Øª"
+Letter-group: "ƒ ¡ž ‚Ž¡" -> "Ø¨"
+Letter-group: "šŸ‚¡‚ž" -> "Ú©"
+Letter-group: "‚ž‰‚˜ ‚…‚ž‹‚‹" -> "Ø§"
+Letter-group: "…‚ƒ–  Ž¡ž " -> "Øª"
+Letter-group: "›Ÿœ‚¡Ž¡‘ž" -> "Ø±"
+Letter-group: "€ž…Ÿ„¡ …™‚”– ‹Ÿ‹Ÿ¡¡" -> "Ø§"
+Letter-group: "ƒš„Ÿ„›¡‘ž" -> "Ø¨"
+Letter-group: "‹Ÿ " -> "Ø¯"
+Letter-group: "Š”‚" -> "Ø®"
+Letter-group: "‘ƒš  –’ƒ¡ ƒ‚Ž›‘…¡" -> "Ø´"
+Letter-group: "‰‚œ…" -> "Ø­"
+Letter-group: "‰‚˜• ¡ šŸ…‚ ‹… ƒœž‹" -> "Ø­"
+Letter-group: "‚œ‰‚™" -> "Ø§"
+Letter-group: "‹Ÿ‚Ž " -> "Ø¯"
+Letter-group: "Ÿ‘ ‚Š… ‹Š… …š‚œ¡" -> "Ø±"
+Letter-group: "…Ÿ‚œ¡¡‚ƒ¡ …š œŸœ¡" -> "Øª"
+Letter-group: "‰Œ˜ Ÿ …—¡¡ …–‹‚‹ š„¡" -> "Ø­"
+Letter-group: "‚š¡" -> "Ø§"
+Letter-group: "ž˜¡ š‚Œƒ" -> "Ù…"
 sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: "Ø¢Ø¯Ù†ÛŒÙ†" -> "default"
+Letter-group: "€‹ž¡ž" -> "Ø§"
 sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: "Ú˜Ù†ÙˆÙ… Ø¬ÙˆØ§Ù†Ù‡â€ŒØ²Ù†ÛŒ" -> "T"
-WARNING: location-reference "{}{Ø¢}" did not match any location-class! (ignored)
-WARNING: location-reference "{}{Ø¢}" did not match any location-class! (ignored)
-WARNING: location-reference "{}{Ø¢}" did not match any location-class! (ignored)
-WARNING: location-reference "{}{Ø¨}" did not match any location-class! (ignored)
-WARNING: location-reference "{}{Ø¨}" did not match any location-class! (ignored)
-WARNING: location-reference "{}{Ø¨}" did not match any location-class! (ignored)
-WARNING: location-reference "{}{Ø¨}" did not match any location-class! (ignored)
-WARNING: location-reference "{}{Ø¨}" did not match any location-class! (ignored)
-WARNING: location-reference "{}{Ø¨}" did not match any location-class! (ignored)
-WARNING: location-reference "{}{Ø¨}" did not match any location-class! (ignored)
-WARNING: location-reference "{}{Ø¨}" did not match any location-class! (ignored)
-WARNING: location-reference "{}{Ø¨}" did not match any location-class! (ignored)
-WARNING: location-reference "{}{Ø¨}" did not match any location-class! (ignored)
-WARNING: location-reference "{}{Ø«}" did not match any location-class! (ignored)
-WARNING: location-reference "{}{Ø«}" did not match any location-class! (ignored)
-WARNING: location-reference "{}{Ø«}" did not match any location-class! (ignored)
-WARNING: location-reference "{}{Ø«}" did not match any location-class! (ignored)
-WARNING: location-reference "{}{Ø«}" did not match any location-class! (ignored)
-WARNING: location-reference "{}{Ø«}" did not match any location-class! (ignored)
-WARNING: location-reference "{}{Ø«}" did not match any location-class! (ignored)
-WARNING: location-reference "{}{Ø«}" did not match any location-class! (ignored)
-WARNING: location-reference "{}{Ø«}" did not match any location-class! (ignored)
-WARNING: location-reference "{}{Ø¬}" did not match any location-class! (ignored)
-WARNING: location-reference "{}{Ø¬}" did not match any location-class! (ignored)
-WARNING: location-reference "{}{Ø¬}" did not match any location-class! (ignored)
-
-makeglossaries diagnostic messages:
-
-You may have forgotten to add a location 
-class with \GlsAddXdyLocation or you may have 
-the format incorrect.
+Letter-group: "ƒ‚¡‚" -> "Ø¨"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "„Ÿ‘‘ ŠŸ‚ž‘" -> "Ù¾"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "…‚ƒ– ˜–‚œ¡…" -> "Øª"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "‡¡" -> "Ø¬"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "‰‚˜• ¡ šŸ…‚ ‹… ƒœž‹" -> "Ø­"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "Š‚œ œ‚žŸ¡…¡š" -> "Ø®"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "‹‚Ÿ ‚¡ ¡… œŸœ¡" -> "Ø¯"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "‚‹¡ŸœŸ¡…" -> "Ø±"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "Žž‡¡  ‚šŸ˜ Ÿž… š‚œŸ" -> "Ø²"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "žŸ ‡Ÿ‚ž Žž¡" -> "Ú˜"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "”‚ž" -> "Ø³"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "‘ƒš  –’ƒ¡ ƒ‚Ž›‘…¡" -> "Ø´"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "”ƒ™  ƒž‹¡" -> "Ø·"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "˜‚Ÿ‚ž¡ …—¡¡‚… €œœ" -> "Ù"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "™”– ƒž‹¡" -> "Ù‚"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "š‚ž‚œ" -> "Ú©"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "›œ¡Ÿƒ‚œ…Ÿ" -> "Ú¯"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "œ‚¡ " -> "Ù„"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "‚Ÿ›‚" -> "Ù…"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "ž‚‰¡  ‚‹‚š ‰œ¡" -> "Ù†"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "ŸŽž ‘ƒš " -> "Ùˆ"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: " ‚¡„ƒŸœ¡š" -> "Ù‡"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "¡‚‹›¡¡ …™Ÿ¡…¡" -> "ÛŒ"
