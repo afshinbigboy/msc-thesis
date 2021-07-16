@@ -84,6 +84,26 @@ Andor, Noemi, Graham, Trevor~A, Jansen, Marnix, Xia, Li~C, Aktipis, C~Athena,
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{azer2020tumor}
+Azer, Erfan~Sadeqi, Ebrahimabadi, Mohammad~Haghir, Maliki{\'c}, Salem, Khardon,
+  Roni, and Sahinalp, S~Cenk.
+\newblock Tumor phylogeny topology inference via deep learning.
+\newblock {\em Iscience}, 23(11):101655, 2020.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{beerenwinkel2015cancer}
+Beerenwinkel, Niko, Schwarz, Roland~F, Gerstung, Moritz, and Markowetz,
+  Florian.
+\newblock Cancer evolution: mathematical models and computational inference.
+\newblock {\em Systematic biology}, 64(1):e1--e25, 2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{behjati2014genome}
 Behjati, Sam, Huch, Meritxell, van Boxtel, Ruben, Karthaus, Wouter, Wedge,
   David~C, Tamuri, Asif~U, Martincorena, I{\~n}igo, Petljak, Mia, Alexandrov,
@@ -137,10 +157,29 @@ Chen, Rui, Mias, George~I, Li-Pook-Than, Jennifer, Jiang, Lihua, Lam, Hugo~YK,
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{ciregan2012multi}
+Ciregan, Dan, Meier, Ueli, and Schmidhuber, J{\"u}rgen.
+\newblock Multi-column deep neural networks for image classification.
+\newblock In {\em 2012 IEEE conference on computer vision and pattern
+  recognition}, pages 3642--3649. IEEE, 2012.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{cooper1992elements}
 Cooper, Geoffrey~M.
 \newblock {\em Elements of human cancer}.
 \newblock Jones \& Bartlett Learning, 1992.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{davis2016computing}
+Davis, Alexander and Navin, Nicholas~E.
+\newblock Computing tumor trees from single cells.
+\newblock {\em Genome biology}, 17(1):1--4, 2016.
 
 \end{LTRbibitems}
 
@@ -198,12 +237,65 @@ Deshwar, Amit~G, Vembu, Shankar, Yung, Christina~K, Jang, Gun~Ho, Stein,
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{devlin2018bert}
+Devlin, Jacob, Chang, Ming-Wei, Lee, Kenton, and Toutanova, Kristina.
+\newblock Bert: Pre-training of deep bidirectional transformers for language
+  understanding.
+\newblock {\em arXiv preprint arXiv:1810.04805}, 2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{dhungel2017fully}
 Dhungel, Neeraj, Carneiro, Gustavo, and Bradley, Andrew~P.
 \newblock Fully automated classification of mammograms using deep residual
   neural networks.
 \newblock In {\em 2017 IEEE 14th International Symposium on Biomedical Imaging
   (ISBI 2017)}, pages 310--314. IEEE, 2017.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{donmez2016clonality}
+Donmez, Nilgun, Malikic, Salem, Wyatt, Alexander~W, Gleave, Martin~E, Collins,
+  Colin~C, and Sahinalp, S~Cenk.
+\newblock Clonality inference from single tumor samples using low coverage
+  sequence data.
+\newblock In {\em International Conference on Research in Computational
+  Molecular Biology}, pages 83--94. Springer, 2016.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{eaton2018deconvolution}
+Eaton, Jesse, Wang, Jingyi, and Schwartz, Russell.
+\newblock Deconvolution and phylogeny inference of structural variations in
+  tumor genomic samples.
+\newblock {\em Bioinformatics}, 34(13):i357--i365, 2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{el2018sphyr}
+El-Kebir, Mohammed.
+\newblock Sphyr: tumor phylogeny estimation from single-cell sequencing data
+  under loss and error.
+\newblock {\em Bioinformatics}, 34(17):i671--i679, 2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{el2015reconstruction}
+El-Kebir, Mohammed, Oesper, Layla, Acheson-Field, Hannah, and Raphael,
+  Benjamin~J.
+\newblock Reconstruction of clonal trees and tumor composition from
+  multi-sample sequencing data.
+\newblock {\em Bioinformatics}, 31(12):i62--i70, 2015.
 
 \end{LTRbibitems}
 
@@ -355,6 +447,26 @@ Hugo, Honor, Ackland, M~Leigh, Blick, Tony, Lawrence, Mitchell~G, Clements,
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{husic2019mipup}
+Husi{\'c}, Edin, Li, Xinyue, Hujdurovi{\'c}, Ademir, Mehine, Miika, Rizzi,
+  Romeo, M{\"a}kinen, Veli, Milani{\v{c}}, Martin, and Tomescu, Alexandru~I.
+\newblock Mipup: minimum perfect unmixed phylogenies for multi-sampled tumors
+  via branchings and ilp.
+\newblock {\em Bioinformatics}, 35(5):769--777, 2019.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{jahn2016tree}
+Jahn, Katharina, Kuipers, Jack, and Beerenwinkel, Niko.
+\newblock Tree inference for single-cell data.
+\newblock {\em Genome biology}, 17(1):1--17, 2016.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{kim2014using}
 Kim, Kyung~In and Simon, Richard.
 \newblock Using single cell sequencing data to model the evolutionary history
@@ -385,6 +497,80 @@ Lee, Kyung-Hwa, Lee, Ji-Shin, Nam, Jong-Hee, Choi, Chan, Lee, Min-Cheol, Park,
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{liu2019roberta}
+Liu, Yinhan, Ott, Myle, Goyal, Naman, Du, Jingfei, Joshi, Mandar, Chen, Danqi,
+  Levy, Omer, Lewis, Mike, Zettlemoyer, Luke, and Stoyanov, Veselin.
+\newblock Roberta: A robustly optimized bert pretraining approach.
+\newblock {\em arXiv preprint arXiv:1907.11692}, 2019.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{malikic2019integrative}
+Malikic, Salem, Jahn, Katharina, Kuipers, Jack, Sahinalp, S~Cenk, and
+  Beerenwinkel, Niko.
+\newblock Integrative inference of subclonal tumour evolution from single-cell
+  and bulk sequencing data.
+\newblock {\em Nature communications}, 10(1):1--12, 2019.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{malikic2015clonality}
+Malikic, Salem, McPherson, Andrew~W, Donmez, Nilgun, and Sahinalp, Cenk~S.
+\newblock Clonality inference in multiple tumor samples using phylogeny.
+\newblock {\em Bioinformatics}, 31(9):1349--1356, 2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{malikic2020studying}
+Malikic, Salem, Mehrabadi, Farid~Rashidi, Azer, Erfan~Sadeqi, Ebrahimabadi,
+  Mohammad~Haghir, and Sahinalp, S~Cenk.
+\newblock Studying the history of tumor evolution from single-cell sequencing
+  data by exploring the space of binary matrices.
+\newblock {\em bioRxiv}, 2020.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{malikic2019phiscs}
+Malikic, Salem, Mehrabadi, Farid~Rashidi, Ciccolella, Simone, Rahman,
+  Md~Khaledur, Ricketts, Camir, Haghshenas, Ehsan, Seidman, Daniel, Hach,
+  Faraz, Hajirasouliha, Iman, and Sahinalp, S~Cenk.
+\newblock Phiscs: a combinatorial approach for subperfect tumor phylogeny
+  reconstruction via integrative use of single-cell and bulk sequencing data.
+\newblock {\em Genome research}, 29(11):1860--1877, 2019.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{mcgranahan2017clonal}
+McGranahan, Nicholas and Swanton, Charles.
+\newblock Clonal heterogeneity and tumor evolution: past, present, and the
+  future.
+\newblock {\em Cell}, 168(4):613--628, 2017.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{mcpherson2016divergent}
+McPherson, Andrew, Roth, Andrew, Laks, Emma, Masud, Tehmina, Bashashati, Ali,
+  Zhang, Allen~W, Ha, Gavin, Biele, Justina, Yap, Damian, Wan, Adrian, et~al.
+\newblock Divergent modes of clonal spread and intraperitoneal mixing in
+  high-grade serous ovarian cancer.
+\newblock {\em Nature genetics}, 48(7):758, 2016.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{nik2012life}
 Nik-Zainal, Serena, Van~Loo, Peter, Wedge, David~C, Alexandrov, Ludmil~B,
   Greenman, Christopher~D, Lau, King~Wai, Raine, Keiran, Jones, David,
@@ -405,6 +591,26 @@ Nowell, Peter~C.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{ricketts2020meltos}
+Ricketts, Camir, Seidman, Daniel, Popic, Victoria, Hormozdiari, Fereydoun,
+  Batzoglou, Serafim, and Hajirasouliha, Iman.
+\newblock Meltos: multi-sample tumor phylogeny reconstruction for structural
+  variants.
+\newblock {\em Bioinformatics}, 36(4):1082--1090, 2020.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{ross2016onconem}
+Ross, Edith~M and Markowetz, Florian.
+\newblock Onconem: inferring tumor evolution from single-cell sequencing data.
+\newblock {\em Genome biology}, 17(1):1--14, 2016.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{sabeh2009protease}
 Sabeh, Farideh, Shimizu-Hirota, Ryoko, and Weiss, Stephen~J.
 \newblock Protease-dependent versus-independent cancer cell invasion programs:
@@ -415,11 +621,95 @@ Sabeh, Farideh, Shimizu-Hirota, Ryoko, and Weiss, Stephen~J.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{sadeqi2020phiscs}
+Sadeqi~Azer, Erfan, Rashidi~Mehrabadi, Farid, Maliki{\'c}, Salem, Li,
+  Xuan~Cindy, Bartok, Osnat, Litchfield, Kevin, Levy, Ronen, Samuels, Yardena,
+  Sch{\"a}ffer, Alejandro~A, Gertz, E~Michael, et~al.
+\newblock Phiscs-bnb: a fast branch and bound algorithm for the perfect tumor
+  phylogeny reconstruction problem.
+\newblock {\em Bioinformatics}, 36(Supplement\_1):i169--i176, 2020.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{sakr1993frequency}
 Sakr, WA, Haas, GP, Cassin, BF, Pontes, JE, and Crissman, JD.
 \newblock The frequency of carcinoma and intraepithelial neoplasia of the
   prostate in young male patients.
 \newblock {\em The Journal of urology}, 150(2):379--385, 1993.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{salehi2017ddclone}
+Salehi, Sohrab, Steif, Adi, Roth, Andrew, Aparicio, Samuel,
+  Bouchard-C{\^o}t{\'e}, Alexandre, and Shah, Sohrab~P.
+\newblock ddclone: joint statistical inference of clonal populations from
+  single cell and bulk tumour sequencing data.
+\newblock {\em Genome biology}, 18(1):1--18, 2017.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{satas2017tumor}
+Satas, Gryte and Raphael, Benjamin~J.
+\newblock Tumor phylogeny inference using tree-constrained importance sampling.
+\newblock {\em Bioinformatics}, 33(14):i152--i160, 2017.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{satas2020scarlet}
+Satas, Gryte, Zaccaria, Simone, Mon, Geoffrey, and Raphael, Benjamin~J.
+\newblock Scarlet: Single-cell tumor phylogeny inference with copy-number
+  constrained mutation losses.
+\newblock {\em Cell Systems}, 10(4):323--332, 2020.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{selsam2018learning}
+Selsam, Daniel, Lamm, Matthew, B{\"u}nz, Benedikt, Liang, Percy, de~Moura,
+  Leonardo, and Dill, David~L.
+\newblock Learning a sat solver from single-bit supervision.
+\newblock {\em arXiv preprint arXiv:1802.03685}, 2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{senior2020improved}
+Senior, Andrew~W, Evans, Richard, Jumper, John, Kirkpatrick, James, Sifre,
+  Laurent, Green, Tim, Qin, Chongli, {\v{Z}}{\'\i}dek, Augustin, Nelson,
+  Alexander~WR, Bridgland, Alex, et~al.
+\newblock Improved protein structure prediction using potentials from deep
+  learning.
+\newblock {\em Nature}, 577(7792):706--710, 2020.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{silver2017mastering}
+Silver, David, Schrittwieser, Julian, Simonyan, Karen, Antonoglou, Ioannis,
+  Huang, Aja, Guez, Arthur, Hubert, Thomas, Baker, Lucas, Lai, Matthew, Bolton,
+  Adrian, et~al.
+\newblock Mastering the game of go without human knowledge.
+\newblock {\em nature}, 550(7676):354--359, 2017.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{singer2018single}
+Singer, Jochen, Kuipers, Jack, Jahn, Katharina, and Beerenwinkel, Niko.
+\newblock Single-cell mutation identification via phylogenetic inference.
+\newblock {\em Nature communications}, 9(1):1--8, 2018.
 
 \end{LTRbibitems}
 
@@ -458,6 +748,15 @@ Stewart, BWKP and Wild, CP.
 Stratton, Michael~R, Campbell, Peter~J, and Futreal, P~Andrew.
 \newblock The cancer genome.
 \newblock {\em Nature}, 458(7239):719--724, 2009.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{strino2013trap}
+Strino, Francesco, Parisi, Fabio, Micsinai, Mariann, and Kluger, Yuval.
+\newblock Trap: a tree approach for fingerprinting subclonal tumor composition.
+\newblock {\em Nucleic acids research}, 41(17):e165--e165, 2013.
 
 \end{LTRbibitems}
 
@@ -521,6 +820,67 @@ Waclaw, Bartlomiej, Bozic, Ivana, Pittman, Meredith~E, Hruban, Ralph~H,
 \newblock A spatial model predicts that dispersal and cell turnover limit
   intratumour heterogeneity.
 \newblock {\em Nature}, 525(7568):261--264, 2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{williams1992simple}
+Williams, Ronald~J.
+\newblock Simple statistical gradient-following algorithms for connectionist
+  reinforcement learning.
+\newblock {\em Machine learning}, 8(3-4):229--256, 1992.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{wu2020accurate}
+Wu, Yufeng.
+\newblock Accurate and efficient cell lineage tree inference from noisy single
+  cell data: the maximum likelihood perfect phylogeny approach.
+\newblock {\em Bioinformatics}, 36(3):742--750, 2020.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{yuan2015bitphylogeny}
+Yuan, Ke, Sakoparnig, Thomas, Markowetz, Florian, and Beerenwinkel, Niko.
+\newblock Bitphylogeny: a probabilistic framework for reconstructing
+  intra-tumor phylogenies.
+\newblock {\em Genome biology}, 16(1):1--16, 2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{zaccaria2017copy}
+Zaccaria, Simone, El-Kebir, Mohammed, Klau, Gunnar~W, and Raphael, Benjamin~J.
+\newblock The copy-number tree mixture deconvolution problem and applications
+  to multi-sample bulk sequencing tumor data.
+\newblock In {\em International Conference on Research in Computational
+  Molecular Biology}, pages 318--335. Springer, 2017.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{zafar2019siclonefit}
+Zafar, Hamim, Navin, Nicholas, Chen, Ken, and Nakhleh, Luay.
+\newblock Siclonefit: Bayesian inference of population structure, genotype, and
+  phylogeny of tumor clones from single-cell genome sequencing data.
+\newblock {\em Genome research}, 29(11):1847--1859, 2019.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{zafar2017sifit}
+Zafar, Hamim, Tzen, Anthony, Navin, Nicholas, Chen, Ken, and Nakhleh, Luay.
+\newblock Sifit: inferring tumor trees from single-cell sequencing data under
+  finite-sites models.
+\newblock {\em Genome biology}, 18(1):1--20, 2017.
 
 \end{LTRbibitems}
 

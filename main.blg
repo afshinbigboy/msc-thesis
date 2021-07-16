@@ -49,6 +49,18 @@ I was expecting a `,' or a `}'---line 381 of file ./tex/MyReferences.bib
  : [9]: @misc{ genomes 
  :                     and exomes,
 I'm skipping whatever remains of this entry
+Repeated entry---line 435 of file ./tex/MyReferences.bib
+ : [15]: @article{husic2019mipup
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 457 of file ./tex/MyReferences.bib
+ : [17]: @article{el2015reconstruction
+ :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 468 of file ./tex/MyReferences.bib
+ : [18]: @article{malikic2015clonality
+ :                                    ,
+I'm skipping whatever remains of this entry
 Repeated entry---line 488 of file ./tex/MyReferences.bib
  : [20]: @article{birbrair2014type
  :                                ,
@@ -101,6 +113,10 @@ Repeated entry---line 613 of file ./tex/MyReferences.bib
  : [2]: @article{nowell1976clonal
  :                               ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 1616 of file ./tex/MyReferences.bib
+ : [97]: @article{malikic2015clonality
+ :                                    ,
+I'm skipping whatever remains of this entry
 Repeated entry---line 1638 of file ./tex/MyReferences.bib
  : [99]: @article{hastings1970monte
  :                                 ,
@@ -108,6 +124,46 @@ I'm skipping whatever remains of this entry
 Repeated entry---line 2169 of file ./tex/MyReferences.bib
  : [3.1]: @article{deshwar2015phylowgs
  :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2323 of file ./tex/MyReferences.bib
+ : [3.14]: @article{malikic2015clonality
+ :                                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2367 of file ./tex/MyReferences.bib
+ : [3.18]: @article{strino2013trap
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2378 of file ./tex/MyReferences.bib
+ : [3.19]: @article{el2015reconstruction
+ :                                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2417 of file ./tex/MyReferences.bib
+ : [3.23]: @article{husic2019mipup
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2459 of file ./tex/MyReferences.bib
+ : [3.27]: @inproceedings{donmez2016clonality
+ :                                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2468 of file ./tex/MyReferences.bib
+ : [3.28]: @article{jahn2016tree
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2479 of file ./tex/MyReferences.bib
+ : [3.29]: @article{ross2016onconem
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2501 of file ./tex/MyReferences.bib
+ : [3.31]: @article{el2018sphyr
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2567 of file ./tex/MyReferences.bib
+ : [3.37]: @article{silver2017mastering
+ :                                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2601 of file ./tex/MyReferences.bib
+ : [3.41]: @article{devlin2018bert
+ :                                ,
 I'm skipping whatever remains of this entry
 Warning--to sort, need author or key in neoplasms
 Warning--to sort, need author or key in canceractivity1
@@ -123,45 +179,45 @@ Warning--empty journal in hastings1970monte
 Warning--can't use both volume and number fields in zhu2011metabolic
 
 Done.
-You've used 53 entries,
+You've used 88 entries,
             2546 wiz_defined-function locations,
-            964 strings with 15797 characters,
-and the built_in function-call counts, 23173 in all, are:
-= -- 2068
-> -- 1280
-< -- 7
-+ -- 515
-- -- 454
-* -- 1776
-:= -- 3564
-add.period$ -- 159
-call.type$ -- 53
-change.case$ -- 376
+            1134 strings with 23249 characters,
+and the built_in function-call counts, 39268 in all, are:
+= -- 3483
+> -- 2262
+< -- 10
++ -- 903
+- -- 806
+* -- 3059
+:= -- 6096
+add.period$ -- 267
+call.type$ -- 88
+change.case$ -- 653
 chr.to.int$ -- 0
-cite$ -- 63
-duplicate$ -- 655
-empty$ -- 1427
-format.name$ -- 454
-if$ -- 5268
+cite$ -- 98
+duplicate$ -- 1072
+empty$ -- 2360
+format.name$ -- 806
+if$ -- 8897
 int.to.chr$ -- 0
-int.to.str$ -- 53
-missing$ -- 545
-newline$ -- 479
-num.names$ -- 100
-pop$ -- 331
+int.to.str$ -- 88
+missing$ -- 934
+newline$ -- 794
+num.names$ -- 170
+pop$ -- 561
 preamble$ -- 1
-purify$ -- 324
+purify$ -- 566
 quote$ -- 0
-skip$ -- 484
+skip$ -- 770
 stack$ -- 0
-substring$ -- 1404
-swap$ -- 123
-text.length$ -- 7
+substring$ -- 2326
+swap$ -- 188
+text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 4
-type$ -- 210
+type$ -- 350
 warning$ -- 10
-while$ -- 191
-width$ -- 55
-write$ -- 733
-(There were 25 error messages)
+while$ -- 324
+width$ -- 90
+write$ -- 1222
+(There were 39 error messages)
