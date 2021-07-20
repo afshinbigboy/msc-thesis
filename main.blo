@@ -1,0 +1,5 @@
+(indexentry :tkey (("حذف و تغییر تعداد کپی" "\\glossentry{f-cnv}") ) :locref "{}{1}" :attr "pageglsnumberformat" )
+(indexentry :tkey (("اسکی" "\\glossentry{f-ascii}") ) :locref "{}{1}" :attr "pageglsnumberformat" )
+(indexentry :tkey (("حذف و تغییر تعداد کپی" "\\glossentry{f-cnv}") ) :locref "{}{2}" :attr "pageglsnumberformat" )
+(indexentry :tkey (("مثبت کاذب" "\\glossentry{f-falsepositive}") ) :locref "{}{2}" :attr "pageglsnumberformat" )
+(indexentry :tkey (("منفی کاذب" "\\glossentry{f-falsenegative}") ) :locref "{}{2}" :attr "pageglsnumberformat" )

@@ -1,0 +1,5 @@
+(indexentry :tkey (("\\lr {Copy number variation (CNV)}" "\\glossentry{cnv}") ) :locref "{}{1}" :attr "pageglsnumberformat" )
+(indexentry :tkey (("\\lr {Ascii}" "\\glossentry{ascii}") ) :locref "{}{1}" :attr "pageglsnumberformat" )
+(indexentry :tkey (("\\lr {Copy number variation (CNV)}" "\\glossentry{cnv}") ) :locref "{}{2}" :attr "pageglsnumberformat" )
+(indexentry :tkey (("\\lr {False positive}" "\\glossentry{falsepositive}") ) :locref "{}{2}" :attr "pageglsnumberformat" )
+(indexentry :tkey (("\\lr {False negative}" "\\glossentry{falsenegative}") ) :locref "{}{2}" :attr "pageglsnumberformat" )

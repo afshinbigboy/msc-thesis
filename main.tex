@@ -49,33 +49,23 @@ twoside
 \pagestyle{fancy}
 \pagenumbering{arabic} % 1, 2, ...
 
-\include{./tex/chaps/int/chap-int}		% فصل اول: مقدمه
-
-%\include{./tex/chapter2}		% فصول دوم: مروری بر مطالعات انجام شده
-\include{./tex/chaps/lr/chap-lr}		% فصول دوم: ادبیات موضوعی
-
-%\include{./tex/chapter3}		% فصل سوم: روش تحقیق
-\include{./tex/chaps/rw/chap-rw}		% فصل روش‌های پیشین
-
-%\include{./tex/chapter3}		% فصل سوم: روش تحقیق
-\include{./tex/chaps/pm/chap-pm}		% فصل روش پیشنهادی
-
-%\include{./tex/chapter4}		% فصل چهارم: نتایج تجربی
-\include{./tex/chaps/er/chap-er}		% فصل نتایج تجربی 
-
-%\include{./tex/chapter5}		% فصل پنجم: بحث و نتیجه‌گیری
-\include{./tex/chaps/con/chap-con}		% فصل بحث و نتیجه‌گیری 
+%\include{./tex/chaps/int/chap-int}		% فصل اول: مقدمه
+%\include{./tex/chaps/lr/chap-lr}		% فصول دوم: ادبیات موضوعی
+%\include{./tex/chaps/rw/chap-rw}		% فصل سوم: روش‌های پیشین
+\include{./tex/chaps/pm/chap-pm}		% فصل چهارم: روش پیشنهادی
+\include{./tex/chaps/er/chap-er}		% فصل پنجم: نتایج تجربی 
+%\include{./tex/chaps/con/chap-con}		% فصل ششم: بحث و نتیجه‌گیری 
 
 
 % مراجع
 % اگر از استیل‌های natbib استفاده می‌کنید باید دو خط را در فایل commands.tex تغییر دهید.
 \pagestyle{empty}
-{
-\small
-\onehalfspacing
-\bibliographystyle{plain-fa} % or plainnat-fa for author-date
-\bibliography{./tex/MyReferences}
-}
+%{
+%\small
+%\onehalfspacing
+%\bibliographystyle{plain-fa} % or plainnat-fa for author-date
+%\bibliography{./tex/MyReferences}
+%}
 
 \pagestyle{fancy}
 
@@ -106,17 +96,17 @@ twoside
 %\baselineskip=.75cm
 
 % چاپ واژه‌نامه‌ها و نمایه 
-\onehalfspacing
-\cleardoublepage
-\printglossary
-\cleardoublepage
-\printindex
-
-\begin{latin}
-	\baselineskip=.6cm
-	\latinabstract
-	\latinTitlePage
-\end{latin}
-\label{LastPage}
+%\onehalfspacing
+%\cleardoublepage
+%\printglossary
+%\cleardoublepage
+%\printindex
+%
+%\begin{latin}
+%	\baselineskip=.6cm
+%	\latinabstract
+%	\latinTitlePage
+%\end{latin}
+%\label{LastPage}
 
 \end{document}
