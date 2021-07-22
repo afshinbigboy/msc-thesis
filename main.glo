@@ -3,3 +3,7 @@
 (indexentry :tkey (("\\lr {Copy number variation (CNV)}" "\\glossentry{cnv}") ) :locref "{}{2}" :attr "pageglsnumberformat" )
 (indexentry :tkey (("\\lr {False positive}" "\\glossentry{falsepositive}") ) :locref "{}{2}" :attr "pageglsnumberformat" )
 (indexentry :tkey (("\\lr {False negative}" "\\glossentry{falsenegative}") ) :locref "{}{2}" :attr "pageglsnumberformat" )
+(indexentry :tkey (("\\lr {Iteration}" "\\glossentry{iteration}") ) :locref "{}{6}" :attr "pageglsnumberformat" )
+(indexentry :tkey (("\\lr {Uniform}" "\\glossentry{uniform}") ) :locref "{}{7}" :attr "pageglsnumberformat" )
+(indexentry :tkey (("\\lr {Prune and reattach}" "\\glossentry{pruneandreattach}") ) :locref "{}{8}" :attr "pageglsnumberformat" )
+(indexentry :tkey (("\\lr {Prune and reattach}" "\\glossentry{pruneandreattach}") ) :locref "{}{9}" :attr "pageglsnumberformat" )

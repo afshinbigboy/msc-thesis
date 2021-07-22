@@ -3,3 +3,7 @@
 (indexentry :tkey (("حذف و تغییر تعداد کپی" "\\glossentry{f-cnv}") ) :locref "{}{2}" :attr "pageglsnumberformat" )
 (indexentry :tkey (("مثبت کاذب" "\\glossentry{f-falsepositive}") ) :locref "{}{2}" :attr "pageglsnumberformat" )
 (indexentry :tkey (("منفی کاذب" "\\glossentry{f-falsenegative}") ) :locref "{}{2}" :attr "pageglsnumberformat" )
+(indexentry :tkey (("تکرار" "\\glossentry{f-iteration}") ) :locref "{}{6}" :attr "pageglsnumberformat" )
+(indexentry :tkey (("یکنواخت" "\\glossentry{f-uniform}") ) :locref "{}{7}" :attr "pageglsnumberformat" )
+(indexentry :tkey (("هرس و اتصال دوباره" "\\glossentry{f-pruneandreattach}") ) :locref "{}{8}" :attr "pageglsnumberformat" )
+(indexentry :tkey (("هرس و اتصال دوباره" "\\glossentry{f-pruneandreattach}") ) :locref "{}{9}" :attr "pageglsnumberformat" )

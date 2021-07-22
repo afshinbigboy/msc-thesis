@@ -1,49 +1,16 @@
 This is BibTeX, Version 0.99d (TeX Live 2020)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
-A level-1 auxiliary file: ./tex/chaps/int/chap-int.aux
-A level-1 auxiliary file: ./tex/chaps/lr/chap-lr.aux
 A level-1 auxiliary file: ./tex/chaps/rw/chap-rw.aux
 A level-1 auxiliary file: ./tex/chaps/pm/chap-pm.aux
 A level-1 auxiliary file: ./tex/chaps/er/chap-er.aux
-A level-1 auxiliary file: ./tex/chaps/con/chap-con.aux
 The style file: plain-fa.bst
+A level-1 auxiliary file: ./tex/appxs/appendix1.aux
+A level-1 auxiliary file: ./tex/appxs/appendix2.aux
 Database file #1: ./tex/MyReferences.bib
 I was expecting a `,' or a `}'---line 80 of file ./tex/MyReferences.bib
  : @misc{ genomes 
  :                and exomes,
-I'm skipping whatever remains of this entry
-Repeated entry---line 187 of file ./tex/MyReferences.bib
- : @article{birbrair2014type
- :                          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 291 of file ./tex/MyReferences.bib
- : @article{alberts2002molecular
- :                              ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 302 of file ./tex/MyReferences.bib
- : [1]: @article{fisher2013cancer
- :                               ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 313 of file ./tex/MyReferences.bib
- : [2]: @article{sun2015intra
- :                           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 324 of file ./tex/MyReferences.bib
- : [3]: @article{alberts2002molecular
- :                                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 354 of file ./tex/MyReferences.bib
- : [6]: @misc{somaticMutation
- :                           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 359 of file ./tex/MyReferences.bib
- : [7]: @article{nowell1976clonal
- :                               ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 370 of file ./tex/MyReferences.bib
- : [8]: @article{birbrair2014type
- :                               ,
 I'm skipping whatever remains of this entry
 I was expecting a `,' or a `}'---line 381 of file ./tex/MyReferences.bib
  : [9]: @misc{ genomes 
@@ -61,65 +28,13 @@ Repeated entry---line 468 of file ./tex/MyReferences.bib
  : [18]: @article{malikic2015clonality
  :                                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 488 of file ./tex/MyReferences.bib
- : [20]: @article{birbrair2014type
- :                                ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 499 of file ./tex/MyReferences.bib
- : [21]: @article{ Neoplasms
- :                          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 505 of file ./tex/MyReferences.bib
- : [22]: @article{Neoplasia
- :                         ,
-I'm skipping whatever remains of this entry
 I was expecting a `,' or a `}'---line 512 of file ./tex/MyReferences.bib
  : [23]: @article{ Cancer 
  :                        - Activity 1,
 I'm skipping whatever remains of this entry
-Repeated entry---line 518 of file ./tex/MyReferences.bib
- : [24]: @article{handa2011redox
- :                              ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 529 of file ./tex/MyReferences.bib
- : [25]: @article{halford2005o6
- :                             ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 540 of file ./tex/MyReferences.bib
- : [26]: @article{lee2011promoter
- :                               ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 551 of file ./tex/MyReferences.bib
- : [27]: @book{cooper1992elements
- :                               ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 558 of file ./tex/MyReferences.bib
- : [28]: @article{truninger2005immunohistochemical
- :                                                ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 569 of file ./tex/MyReferences.bib
- : [29]: @article{fedele2014navigating
- :                                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 580 of file ./tex/MyReferences.bib
- : [30]: @article{burrell2014tumour
- :                                 ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 590 of file ./tex/MyReferences.bib
- : [31]: @article{alberts2002molecular
- :                                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 613 of file ./tex/MyReferences.bib
- : [2]: @article{nowell1976clonal
- :                               ,
-I'm skipping whatever remains of this entry
 Repeated entry---line 1616 of file ./tex/MyReferences.bib
  : [97]: @article{malikic2015clonality
  :                                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1638 of file ./tex/MyReferences.bib
- : [99]: @article{hastings1970monte
- :                                 ,
 I'm skipping whatever remains of this entry
 Repeated entry---line 2169 of file ./tex/MyReferences.bib
  : [3.1]: @article{deshwar2015phylowgs
@@ -165,59 +80,50 @@ Repeated entry---line 2601 of file ./tex/MyReferences.bib
  : [3.41]: @article{devlin2018bert
  :                                ,
 I'm skipping whatever remains of this entry
-Warning--to sort, need author or key in neoplasms
-Warning--to sort, need author or key in canceractivity1
-Warning--to sort, need author or key in somaticMutation
+Warning--I didn't find a database entry for "Gonzalez02book"
 -- plain-fa.bst version 0.9 (2015/05/09) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
-Warning--empty author in neoplasms
-Warning--empty journal in neoplasms
-Warning--empty author in canceractivity1
-Warning--empty journal in canceractivity1
-Warning--empty journal in neoplasia
-Warning--empty journal in hastings1970monte
-Warning--can't use both volume and number fields in zhu2011metabolic
 
 Done.
-You've used 88 entries,
+You've used 39 entries,
             2546 wiz_defined-function locations,
-            1134 strings with 23249 characters,
-and the built_in function-call counts, 39268 in all, are:
-= -- 3483
-> -- 2262
-< -- 10
-+ -- 903
-- -- 806
-* -- 3059
-:= -- 6096
-add.period$ -- 267
-call.type$ -- 88
-change.case$ -- 653
+            852 strings with 13924 characters,
+and the built_in function-call counts, 18055 in all, are:
+= -- 1581
+> -- 1109
+< -- 3
++ -- 438
+- -- 398
+* -- 1458
+:= -- 2849
+add.period$ -- 120
+call.type$ -- 39
+change.case$ -- 311
 chr.to.int$ -- 0
-cite$ -- 98
-duplicate$ -- 1072
-empty$ -- 2360
-format.name$ -- 806
-if$ -- 8897
+cite$ -- 39
+duplicate$ -- 461
+empty$ -- 1038
+format.name$ -- 398
+if$ -- 4057
 int.to.chr$ -- 0
-int.to.str$ -- 88
-missing$ -- 934
-newline$ -- 794
-num.names$ -- 170
-pop$ -- 561
+int.to.str$ -- 39
+missing$ -- 436
+newline$ -- 357
+num.names$ -- 78
+pop$ -- 256
 preamble$ -- 1
-purify$ -- 566
+purify$ -- 272
 quote$ -- 0
-skip$ -- 770
+skip$ -- 315
 stack$ -- 0
-substring$ -- 2326
-swap$ -- 188
-text.length$ -- 10
+substring$ -- 1030
+swap$ -- 69
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 4
-type$ -- 350
-warning$ -- 10
-while$ -- 324
-width$ -- 90
-write$ -- 1222
-(There were 39 error messages)
+type$ -- 156
+warning$ -- 0
+while$ -- 149
+width$ -- 41
+write$ -- 550
+(There were 18 error messages)
