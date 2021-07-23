@@ -12,32 +12,35 @@
 \BOOKMARK [3][-]{subsubsection.1.4.4.1}{تبدیل درخت پاسخ به ماتریس}{subsection.1.4.4}% 12
 \BOOKMARK [3][-]{subsubsection.1.4.4.2}{مقایسه پاسخ فعلی با پاسخ آرمانی}{subsection.1.4.4}% 13
 \BOOKMARK [2][-]{subsection.1.4.5}{پذیرش پاسخ‌های جدید و یافتن بهترین پاسخ}{section.1.4}% 14
-\BOOKMARK [1][-]{section.1.5}{روش پیشنهادی دوم}{chapter.1}% 15
-\BOOKMARK [2][-]{subsection.1.5.1}{مقدمه}{section.1.5}% 16
-\BOOKMARK [2][-]{subsection.1.5.2}{دادگان ورودی}{section.1.5}% 17
-\BOOKMARK [2][-]{subsection.1.5.3}{تبدیل داده‌ها به بردار ویژگی}{section.1.5}% 18
-\BOOKMARK [2][-]{subsection.1.5.4}{مدل‌سازی مساله}{section.1.5}% 19
-\BOOKMARK [3][-]{subsubsection.1.5.4.1}{معماری شبکه}{subsection.1.5.4}% 20
-\BOOKMARK [2][-]{subsection.1.5.5}{تابع هزینه}{section.1.5}% 21
-\BOOKMARK [2][-]{subsection.1.5.6}{اصلاح خطا و یافتن درخت جواب}{section.1.5}% 22
-\BOOKMARK [1][-]{section.1.6}{نتیجه‌گیری}{chapter.1}% 23
-\BOOKMARK [0][-]{chapter.2}{نتایج تجربی}{}% 24
-\BOOKMARK [1][-]{section.2.1}{پایگاه داده‌های ورودی}{chapter.2}% 25
-\BOOKMARK [2][-]{subsection.2.1.1}{پایگاه داده مصنوعی}{section.2.1}% 26
-\BOOKMARK [3][-]{subsubsection.2.1.1.1}{ساخت درخت تصادفی}{subsection.2.1.1}% 27
-\BOOKMARK [3][-]{subsubsection.2.1.1.2}{تبدیل درخت به ماتریس ژن-سلول}{subsection.2.1.1}% 28
-\BOOKMARK [3][-]{subsubsection.2.1.1.3}{اضافه کردن نویز به ماتریس ژن-جهش}{subsection.2.1.1}% 29
-\BOOKMARK [2][-]{subsection.2.1.2}{پایگاه داده حقیقی}{section.2.1}% 30
-\BOOKMARK [1][-]{section.2.2}{روش پیشنهادی بدست آوردن درخت فیلوژنی}{chapter.2}% 31
-\BOOKMARK [2][-]{subsection.2.2.1}{استفاده از شبکه ژن‌ها برای یافتن درخت فیلوژنی}{section.2.2}% 32
-\BOOKMARK [3][-]{subsubsection.2.2.1.1}{استفاده از یک درخت نمونه نابهینه و تغییر اتصالات تا رسیدن به درخت فیلوژنی بهینه}{subsection.2.2.1}% 33
-\BOOKMARK [1][-]{section.2.3}{نتایج تجربی}{chapter.2}% 34
-\BOOKMARK [2][-]{subsection.2.3.1}{نتایج بر روی پایگاه داده مصنوعی}{section.2.3}% 35
-\BOOKMARK [2][-]{subsection.2.3.2}{نتایج بر روی داده‌های حقیقی}{section.2.3}% 36
-\BOOKMARK [3][-]{subsubsection.2.3.2.1}{نتایج بهینه‌سازی درخت ژنی}{subsection.2.3.2}% 37
-\BOOKMARK [1][-]{section.2.4}{گام‌های آتی}{chapter.2}% 38
-\BOOKMARK [2][-]{subsection.2.4.1}{بهبود در ساخت درخت اولیه}{section.2.4}% 39
-\BOOKMARK [2][-]{subsection.2.4.2}{افزایش سرعت همگرایی MCMC}{section.2.4}% 40
-\BOOKMARK [3][-]{subsubsection.2.4.2.1}{تنوع در گام‌ها با استراتژی معقول}{subsection.2.4.2}% 41
-\BOOKMARK [3][-]{subsubsection.2.4.2.2}{قرار دادن احتمال وزن‌دار به ازای هر انتخاب}{subsection.2.4.2}% 42
-\BOOKMARK [0][-]{chapter*.21}{مراجع}{}% 43
+\BOOKMARK [2][-]{subsection.1.4.6}{شبکه هرس‌کننده}{section.1.4}% 15
+\BOOKMARK [2][-]{subsection.1.4.7}{شبکه بازاتصال‌کننده}{section.1.4}% 16
+\BOOKMARK [2][-]{subsection.1.4.8}{جمع‌بندی}{section.1.4}% 17
+\BOOKMARK [1][-]{section.1.5}{روش پیشنهادی دوم}{chapter.1}% 18
+\BOOKMARK [2][-]{subsection.1.5.1}{مقدمه}{section.1.5}% 19
+\BOOKMARK [2][-]{subsection.1.5.2}{دادگان ورودی}{section.1.5}% 20
+\BOOKMARK [2][-]{subsection.1.5.3}{تبدیل داده‌ها به بردار ویژگی}{section.1.5}% 21
+\BOOKMARK [2][-]{subsection.1.5.4}{مدل‌سازی مساله}{section.1.5}% 22
+\BOOKMARK [3][-]{subsubsection.1.5.4.1}{معماری شبکه}{subsection.1.5.4}% 23
+\BOOKMARK [2][-]{subsection.1.5.5}{تابع هزینه}{section.1.5}% 24
+\BOOKMARK [2][-]{subsection.1.5.6}{اصلاح خطا و یافتن درخت جواب}{section.1.5}% 25
+\BOOKMARK [1][-]{section.1.6}{نتیجه‌گیری}{chapter.1}% 26
+\BOOKMARK [0][-]{chapter.2}{نتایج تجربی}{}% 27
+\BOOKMARK [1][-]{section.2.1}{پایگاه داده‌های ورودی}{chapter.2}% 28
+\BOOKMARK [2][-]{subsection.2.1.1}{پایگاه داده مصنوعی}{section.2.1}% 29
+\BOOKMARK [3][-]{subsubsection.2.1.1.1}{ساخت درخت تصادفی}{subsection.2.1.1}% 30
+\BOOKMARK [3][-]{subsubsection.2.1.1.2}{تبدیل درخت به ماتریس ژن-سلول}{subsection.2.1.1}% 31
+\BOOKMARK [3][-]{subsubsection.2.1.1.3}{اضافه کردن نویز به ماتریس ژن-جهش}{subsection.2.1.1}% 32
+\BOOKMARK [2][-]{subsection.2.1.2}{پایگاه داده حقیقی}{section.2.1}% 33
+\BOOKMARK [1][-]{section.2.2}{روش پیشنهادی بدست آوردن درخت فیلوژنی}{chapter.2}% 34
+\BOOKMARK [2][-]{subsection.2.2.1}{استفاده از شبکه ژن‌ها برای یافتن درخت فیلوژنی}{section.2.2}% 35
+\BOOKMARK [3][-]{subsubsection.2.2.1.1}{استفاده از یک درخت نمونه نابهینه و تغییر اتصالات تا رسیدن به درخت فیلوژنی بهینه}{subsection.2.2.1}% 36
+\BOOKMARK [1][-]{section.2.3}{نتایج تجربی}{chapter.2}% 37
+\BOOKMARK [2][-]{subsection.2.3.1}{نتایج بر روی پایگاه داده مصنوعی}{section.2.3}% 38
+\BOOKMARK [2][-]{subsection.2.3.2}{نتایج بر روی داده‌های حقیقی}{section.2.3}% 39
+\BOOKMARK [3][-]{subsubsection.2.3.2.1}{نتایج بهینه‌سازی درخت ژنی}{subsection.2.3.2}% 40
+\BOOKMARK [1][-]{section.2.4}{گام‌های آتی}{chapter.2}% 41
+\BOOKMARK [2][-]{subsection.2.4.1}{بهبود در ساخت درخت اولیه}{section.2.4}% 42
+\BOOKMARK [2][-]{subsection.2.4.2}{افزایش سرعت همگرایی MCMC}{section.2.4}% 43
+\BOOKMARK [3][-]{subsubsection.2.4.2.1}{تنوع در گام‌ها با استراتژی معقول}{subsection.2.4.2}% 44
+\BOOKMARK [3][-]{subsubsection.2.4.2.2}{قرار دادن احتمال وزن‌دار به ازای هر انتخاب}{subsection.2.4.2}% 45
+\BOOKMARK [0][-]{chapter*.22}{مراجع}{}% 46
