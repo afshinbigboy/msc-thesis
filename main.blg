@@ -1,223 +1,350 @@
-This is BibTeX, Version 0.99d (TeX Live 2020)
-Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: main.aux
-A level-1 auxiliary file: ./tex/chaps/int/chap-int.aux
-A level-1 auxiliary file: ./tex/chaps/lr/chap-lr.aux
-A level-1 auxiliary file: ./tex/chaps/rw/chap-rw.aux
-A level-1 auxiliary file: ./tex/chaps/pm/chap-pm.aux
-A level-1 auxiliary file: ./tex/chaps/er/chap-er.aux
-A level-1 auxiliary file: ./tex/chaps/con/chap-con.aux
-The style file: plain-fa.bst
-Database file #1: ./tex/MyReferences.bib
-I was expecting a `,' or a `}'---line 80 of file ./tex/MyReferences.bib
- : @misc{ genomes 
- :                and exomes,
-I'm skipping whatever remains of this entry
-Repeated entry---line 187 of file ./tex/MyReferences.bib
- : @article{birbrair2014type
- :                          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 291 of file ./tex/MyReferences.bib
- : @article{alberts2002molecular
- :                              ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 302 of file ./tex/MyReferences.bib
- : [1]: @article{fisher2013cancer
- :                               ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 313 of file ./tex/MyReferences.bib
- : [2]: @article{sun2015intra
- :                           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 324 of file ./tex/MyReferences.bib
- : [3]: @article{alberts2002molecular
- :                                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 354 of file ./tex/MyReferences.bib
- : [6]: @misc{somaticMutation
- :                           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 359 of file ./tex/MyReferences.bib
- : [7]: @article{nowell1976clonal
- :                               ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 370 of file ./tex/MyReferences.bib
- : [8]: @article{birbrair2014type
- :                               ,
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 381 of file ./tex/MyReferences.bib
- : [9]: @misc{ genomes 
- :                     and exomes,
-I'm skipping whatever remains of this entry
-Repeated entry---line 435 of file ./tex/MyReferences.bib
- : [15]: @article{husic2019mipup
- :                              ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 457 of file ./tex/MyReferences.bib
- : [17]: @article{el2015reconstruction
- :                                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 468 of file ./tex/MyReferences.bib
- : [18]: @article{malikic2015clonality
- :                                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 488 of file ./tex/MyReferences.bib
- : [20]: @article{birbrair2014type
- :                                ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 499 of file ./tex/MyReferences.bib
- : [21]: @article{ Neoplasms
- :                          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 505 of file ./tex/MyReferences.bib
- : [22]: @article{Neoplasia
- :                         ,
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 512 of file ./tex/MyReferences.bib
- : [23]: @article{ Cancer 
- :                        - Activity 1,
-I'm skipping whatever remains of this entry
-Repeated entry---line 518 of file ./tex/MyReferences.bib
- : [24]: @article{handa2011redox
- :                              ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 529 of file ./tex/MyReferences.bib
- : [25]: @article{halford2005o6
- :                             ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 540 of file ./tex/MyReferences.bib
- : [26]: @article{lee2011promoter
- :                               ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 551 of file ./tex/MyReferences.bib
- : [27]: @book{cooper1992elements
- :                               ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 558 of file ./tex/MyReferences.bib
- : [28]: @article{truninger2005immunohistochemical
- :                                                ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 569 of file ./tex/MyReferences.bib
- : [29]: @article{fedele2014navigating
- :                                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 580 of file ./tex/MyReferences.bib
- : [30]: @article{burrell2014tumour
- :                                 ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 590 of file ./tex/MyReferences.bib
- : [31]: @article{alberts2002molecular
- :                                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 613 of file ./tex/MyReferences.bib
- : [2]: @article{nowell1976clonal
- :                               ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1616 of file ./tex/MyReferences.bib
- : [97]: @article{malikic2015clonality
- :                                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1638 of file ./tex/MyReferences.bib
- : [99]: @article{hastings1970monte
- :                                 ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2169 of file ./tex/MyReferences.bib
- : [3.1]: @article{deshwar2015phylowgs
- :                                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2323 of file ./tex/MyReferences.bib
- : [3.14]: @article{malikic2015clonality
- :                                      ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2367 of file ./tex/MyReferences.bib
- : [3.18]: @article{strino2013trap
- :                                ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2378 of file ./tex/MyReferences.bib
- : [3.19]: @article{el2015reconstruction
- :                                      ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2417 of file ./tex/MyReferences.bib
- : [3.23]: @article{husic2019mipup
- :                                ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2459 of file ./tex/MyReferences.bib
- : [3.27]: @inproceedings{donmez2016clonality
- :                                           ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2468 of file ./tex/MyReferences.bib
- : [3.28]: @article{jahn2016tree
- :                              ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2479 of file ./tex/MyReferences.bib
- : [3.29]: @article{ross2016onconem
- :                                 ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2501 of file ./tex/MyReferences.bib
- : [3.31]: @article{el2018sphyr
- :                             ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2567 of file ./tex/MyReferences.bib
- : [3.37]: @article{silver2017mastering
- :                                     ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2601 of file ./tex/MyReferences.bib
- : [3.41]: @article{devlin2018bert
- :                                ,
-I'm skipping whatever remains of this entry
-Warning--to sort, need author or key in neoplasms
-Warning--to sort, need author or key in canceractivity1
-Warning--to sort, need author or key in somaticMutation
--- plain-fa.bst version 0.9 (2015/05/09) 
--- This is a BibTeX style for XePersian: http://www.parsilatex.com
-Warning--empty author in neoplasms
-Warning--empty journal in neoplasms
-Warning--empty author in canceractivity1
-Warning--empty journal in canceractivity1
-Warning--empty journal in neoplasia
-Warning--empty journal in hastings1970monte
-Warning--can't use both volume and number fields in zhu2011metabolic
+;; This logfile was generated automatically by `xindy'
+;; at 22.07.2021  03:37:44
+;; Indexstyle: "/var/folders/b0/rzwm_fmx68v24nxtr096b_dw0000gn/T/4qAOXQH2Ag", Rawindex: "/var/folders/b0/rzwm_fmx68v24nxtr096b_dw0000gn/T/ezE0pPllPF", Output: "main.bls"
 
-Done.
-You've used 88 entries,
-            2546 wiz_defined-function locations,
-            1134 strings with 23249 characters,
-and the built_in function-call counts, 39268 in all, are:
-= -- 3483
-> -- 2262
-< -- 10
-+ -- 903
-- -- 806
-* -- 3059
-:= -- 6096
-add.period$ -- 267
-call.type$ -- 88
-change.case$ -- 653
-chr.to.int$ -- 0
-cite$ -- 98
-duplicate$ -- 1072
-empty$ -- 2360
-format.name$ -- 806
-if$ -- 8897
-int.to.chr$ -- 0
-int.to.str$ -- 88
-missing$ -- 934
-newline$ -- 794
-num.names$ -- 170
-pop$ -- 561
-preamble$ -- 1
-purify$ -- 566
-quote$ -- 0
-skip$ -- 770
-stack$ -- 0
-substring$ -- 2326
-swap$ -- 188
-text.length$ -- 10
-text.prefix$ -- 0
-top$ -- 4
-type$ -- 350
-warning$ -- 10
-while$ -- 324
-width$ -- 90
-write$ -- 1222
-(There were 39 error messages)
+
+Building indexentry-tree:
+Hierdepth of index is :TREE
+
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+
+Forming letter-groups:
+Letter-group: "تومور" -> "default"
+Letter-group: "سرطان" -> "default"
+Letter-group: "تومور بدخیم" -> "default"
+Letter-group: "ناهمگنی تومور" -> "default"
+Letter-group: "انکوژن" -> "default"
+Letter-group: "گلیوبالستوم" -> "T"
+Letter-group: "روده بزرگ" -> "default"
+Letter-group: "محلی" -> "default"
+Letter-group: "خال‌ ملانوسیتیک" -> "default"
+Letter-group: "فیبرویید رحمی" -> "default"
+Letter-group: "سرطان در محل" -> "default"
+Letter-group: "تومور بالقوه بدخیم" -> "default"
+Letter-group: "متاستاز" -> "default"
+Letter-group: "تکثیر" -> "default"
+Letter-group: "رگ‌زایی" -> "default"
+Letter-group: "پیشرونده" -> "default"
+Letter-group: "کلونی" -> "T"
+Letter-group: "ناهمگن" -> "default"
+Letter-group: "نشانگر زیستی" -> "default"
+Letter-group: "داروهای سمیت سلولی" -> "default"
+Letter-group: "رویکرد مبتنی بر داده" -> "default"
+Letter-group: "دی‌ان‌ای" -> "default"
+Letter-group: "نوکلئوتید" -> "default"
+Letter-group: "گوانین" -> "T"
+Letter-group: "سیتوزین" -> "default"
+Letter-group: "تیمین" -> "default"
+Letter-group: "آدنین" -> "default"
+Letter-group: "موازی" -> "default"
+Letter-group: "تغییر ساختاری" -> "default"
+Letter-group: "جهش نقطه‌ای" -> "default"
+Letter-group: "جهش تک نوکلئوتیدی" -> "default"
+Letter-group: "برگشت" -> "default"
+Letter-group: "‌حذف‌" -> "default"
+Letter-group: "درج" -> "default"
+Letter-group: "تکامل تومور" -> "default"
+Letter-group: "جسمی" -> "default"
+Letter-group: "فراوانی تغییرات آلل" -> "default"
+Letter-group: "توالی‌یابی نسل بعدی" -> "default"
+Letter-group: "هم‌ترازی" -> "default"
+Letter-group: "خوانش" -> "default"
+Letter-group: "اجماعی" -> "default"
+Letter-group: "خوانش همپوشانی" -> "default"
+Letter-group: "پوشش خوانش" -> "default"
+Letter-group: "تغییرات بدنی تک نوکلئوتیدی" -> "default"
+Letter-group: "‌مرگ‌" -> "default"
+Letter-group: "تمایز" -> "default"
+Letter-group: "ژنوم جوانه‌زنی" -> "T"
+Letter-group: "جهش راننده" -> "default"
+Letter-group: "جهش مسافر" -> "default"
+Letter-group: "ایندل" -> "default"
+Letter-group: "حذف و تغییر تک‌نوکلئوتیددها" -> "default"
+Letter-group: "جهش ساده بدنی" -> "default"
+Letter-group: "تغییرات شماره کپی" -> "default"
+Letter-group: "استرومای اطراف" -> "default"
+Letter-group: "سلول ایمنی نفوذی" -> "default"
+Letter-group: "ترک آللی" -> "default"
+Letter-group: "نگاشت" -> "default"
+Letter-group: "زنجیره مارکوف مونت کارلو" -> "default"
+Letter-group: "بیزی" -> "default"
+Letter-group: "یادگیری تقویتی" -> "default"
+Letter-group: "یادگیری ماشین" -> "default"
+Letter-group: "بینایی کامپیوتر" -> "default"
+Letter-group: "هوش مصنوعی" -> "default"
+Letter-group: "ماموگرام" -> "default"
+Letter-group: "سرطان سینه" -> "default"
+Letter-group: "مثبت کاذب" -> "default"
+Letter-group: "رادیولوژیست" -> "default"
+Letter-group: "مدالیته تصویربرداری" -> "default"
+Letter-group: "یادگیری عمیق" -> "default"
+Letter-group: "اآسیب‌شناسی" -> "default"
+Letter-group: "تشخیص به کمک کامپیوتر" -> "default"
+Letter-group: "قطعه‌‌بندی" -> "default"
+Letter-group: "شناسایی" -> "default"
+Letter-group: "آشکارسازی" -> "default"
+Letter-group: "نورون" -> "default"
+Letter-group: "فعال‌سازی" -> "default"
+Letter-group: "شبکه عصبی کاملا متصل پیش‌خور" -> "default"
+Letter-group: "طبقه بندی" -> "default"
+Letter-group: "رگرسیون" -> "default"
+Letter-group: "لایه" -> "default"
+Letter-group: "وزن شبکه" -> "default"
+Letter-group: "شبکه عصبی کانولوشنی" -> "default"
+Letter-group: "بعد" -> "default"
+Letter-group: "اشعه ایکس" -> "default"
+Letter-group: "شدت" -> "default"
+Letter-group: "کانال" -> "T"
+Letter-group: "نقشه ویژگی" -> "default"
+Letter-group: "بایاس" -> "default"
+Letter-group: "کرنل" -> "T"
+Letter-group: "ناحیه ادراک محلی" -> "default"
+Letter-group: "کانولوشن" -> "T"
+Letter-group: "تابع فعالیت" -> "default"
+Letter-group: "اندازه گام" -> "default"
+Letter-group: "لایه‌گذاری صفر" -> "default"
+Letter-group: "تابع واحد اصلاح‌شده خطی" -> "default"
+Letter-group: "هایپربولیک" -> "default"
+Letter-group: "سیگموید" -> "default"
+Letter-group: "بیش‌پردازش" -> "default"
+Letter-group: "پیکسل" -> "default"
+Letter-group: "حذف تصادفی" -> "default"
+Letter-group: "نرمال‌سازی دسته" -> "default"
+Letter-group: "تکرار" -> "default"
+Letter-group: "تغییر همبستگی داخلی" -> "default"
+Letter-group: "بهینه‌سازی" -> "default"
+Letter-group: "کواریانس" -> "T"
+Letter-group: "انحراف استاندارد" -> "default"
+Letter-group: "تابع هزینه" -> "default"
+Letter-group: "رگولاریزیشن" -> "default"
+Letter-group: "آنتروپی متقاطع دودویی" -> "default"
+Letter-group: "بک‌پروپگیشن" -> "default"
+Letter-group: "دوره" -> "default"
+Letter-group: "خطا" -> "default"
+Letter-group: "شبکه‌ عصبی بازگشتی" -> "default"
+Letter-group: "حالت" -> "default"
+Letter-group: "حافظه‌ی کوتاه‌مدت بلند" -> "default"
+Letter-group: "الحاق" -> "default"
+Letter-group: "دروازه" -> "default"
+Letter-group: "درخت فیلوژنی" -> "default"
+Letter-group: "ترک آلل" -> "default"
+Letter-group: "درست‌نمایی" -> "default"
+Letter-group: "سرطان خون" -> "default"
+Letter-group: "��Æ�" -> "L"
+Letter-group: "ارزیابی‌های متقابل" -> "default"
+Letter-group: "توالی‌یابی انبوه" -> "default"
+Letter-group: "دودویی‌ها" -> "default"
+Letter-group: "منفی کاذب" -> "default"
+Letter-group: "دسته‌بندی سلسله مراتبی" -> "default"
+Letter-group: "خوشه‌بندی� هسته‌ای" -> "default"
+Letter-group: "دقت" -> "default"
+Letter-group: "پایداری" -> "default"
+Letter-group: "توالی‌یابی تک سلولی" -> "default"
+Letter-group: "مکان‌های بی‌نهایت" -> "default"
+Letter-group: "ماتریس فیلوژنی کامل" -> "default"
+Letter-group: "اطلاعات از دست رفته" -> "default"
+Letter-group: "استنباط" -> "default"
+Letter-group: "دگرگونی تک‌هسته‌ای" -> "default"
+Letter-group: "حذف و تغییر تعداد کپی" -> "default"
+Letter-group: "با در نظر گرفتن حذف خطا" -> "default"
+Letter-group: "مکان هندسی" -> "default"
+Letter-group: "فیلوژنی کامل منحصربفرد" -> "default"
+Letter-group: "دولو" -> "default"
+Letter-group: "چند حالته" -> "T"
+Letter-group: "ابهام" -> "default"
+Letter-group: "تعداد خوانش‌ها" -> "default"
+Letter-group: "مجموع" -> "default"
+Letter-group: "تنوع" -> "default"
+Letter-group: "زیردرخت‌ها" -> "default"
+Letter-group: "جهش بدنی" -> "default"
+Letter-group: "زیرکلون‌های واگرا" -> "default"
+Letter-group: "گشترش متاستاتیک" -> "T"
+Letter-group: "پیشرفت تومور" -> "default"
+Letter-group: "داده توالی‌یابی انبوه" -> "default"
+Letter-group: "دگرگونی‌های شناسایی‌شده" -> "default"
+Letter-group: "دگرگونی‌های ساختاری" -> "default"
+Letter-group: "رزولوشن" -> "default"
+Letter-group: "بیوپستی" -> "default"
+Letter-group: "زوجیت دولو" -> "default"
+Letter-group: "شاخهمرز" -> "default"
+Letter-group: "اتصال اکتشافی همسایگی" -> "default"
+Letter-group: "افزایش همزمان جهش‌ها" -> "default"
+Letter-group: "خطای محدود" -> "default"
+Letter-group: "حداکثر زوجیت" -> "default"
+Letter-group: "بیشینه درست‌نمایی" -> "default"
+Letter-group: "پوشش توالی کم" -> "default"
+Letter-group: "بازخورد" -> "default"
+Letter-group: "استاندارد مرجع" -> "default"
+Letter-group: "اسکی" -> "default"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "آدنین" -> "default"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "��Æ�" -> "L"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "چند حالته" -> "T"

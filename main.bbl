@@ -195,16 +195,6 @@ de~Visser, J Arjan~GM and Rozen, Daniel~E.
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{dean2001rapid}
-Dean, Frank~B, Nelson, John~R, Giesler, Theresa~L, and Lasken, Roger~S.
-\newblock Rapid amplification of plasmid and phage dna using phi29 dna
-  polymerase and multiply-primed rolling circle amplification.
-\newblock {\em Genome research}, 11(6):1095--1099, 2001.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
 \bibitem{demicheli2008effects}
 Demicheli, R, Retsky, MW, Hrushesky, WJM, Baum, M, and Gukas, ID.
 \newblock The effects of surgery on tumor growth: a century of investigations.
@@ -221,17 +211,6 @@ Dentro, Stefan~C, Leshchiner, Ignaty, Haase, Kerstin, Tarabichi, Maxime,
 \newblock Portraits of genetic intra-tumour heterogeneity and subclonal
   selection across cancer types.
 \newblock {\em BioRxiv}, page 312041, 2018.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{deshwar2015phylowgs}
-Deshwar, Amit~G, Vembu, Shankar, Yung, Christina~K, Jang, Gun~Ho, Stein,
-  Lincoln, and Morris, Quaid.
-\newblock Phylowgs: reconstructing subclonal composition and evolution from
-  whole-genome sequencing of tumors.
-\newblock {\em Genome biology}, 16(1):1--20, 2015.
 
 \end{LTRbibitems}
 
