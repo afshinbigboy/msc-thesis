@@ -28,6 +28,8 @@
 		\hline
 		$\sigma$	 & بردار انتصابات \\
 		\hline
+		$\wp$ & بردار پذیرش فقدان$  $ \\
+		\hline
 		$X_T$	& ماتریس متناظر درخت $T$ \\
 		\hline
 		$N$	& تعداد سلول‌های نمونه \\
@@ -142,7 +144,7 @@
 		1 & 0 & 1 & 0 \\ 
 		1 & 1 & 0 & 1 \\ 
 		1 & 0 & 1 & 1 \\ 
-		1 & 0 & 1 & 1
+		0 & 1 & 1 & 1
 	\end{array} 
 	\right]
 	\label{eq:ch_pm:pm1_ex_D}
@@ -174,8 +176,8 @@
 که درخت شکل \ref{fig:ch_pm:pm1_T1} را نتیجه می‌دهد.
 \begin{figure}[!ht]
 	\centering 
-	\includegraphics[width=0.67\textwidth]{img/dataset/r/Navin_Dm.png}
-	\caption{داده‌های حقیقی \lr{Navin} در مقاله \lr{SCITE}}    
+%	\includegraphics[width=0.67\textwidth]{img/dataset/r/Navin_Dm.png}
+	\caption{درخت تصادفی اول}    
 	\label{fig:ch_pm:pm1_T1}
 \end{figure}
 
@@ -190,7 +192,7 @@
 در شکل \ref{fig:ch_pm:pruneandreattach} مثالی از این روش آورده شده است. در این شکل مطابق با قسمت \lr{a} یکی از نودهای درخت (به جز ریشه) انتخاب می‌شود (در اینجا نود \lr{$M_5$}) و اتصال از پدرش قطع می‌شود. در این حالت به دو درخت مشابه با شکل \lr{b} می‌رسیم. حال در درخت باقی مانده یک نود دیگر  (\lr{$M_2$}) به عنوان پدری جدید انتخاب می‌شود تا با این تغییر به درخت جدید شکل \lr{c} برسیم.
 \\
 در نتیجه با این تکنیک می‌توان به پاسخ‌های جدید رسید اما سوالی که باقی ماند این است که این دو نود چگونه باید انتخاب شوند؟ 
-این دو انتخاب به صورت هوشمند توسط یک دو شبکه عمیق گرفته می‌شود. این شبکه‌ها که در اصل شبکه‌های \gls{reinforcementlearning} عمیق هستند از پیش برای این منظور آموزش داده شده‌اند.
+این دو انتخاب به صورت هوشمند توسط دو شبکه عمیق گرفته می‌شود. این شبکه‌ها که در اصل شبکه‌های \gls{reinforcementlearning} عمیق هستند، از پیش برای این منظور آموزش داده شده‌اند.
 %\begin{equation}
 %	\begin{aligned}
 %		
@@ -210,7 +212,7 @@
 پس از استخراج ماتریس مناسب از درخت می‌توان به ارزش‌گزاری و محاسبه \gls{likelihood} پرداخت. این عمل به صورت رابطه \ref{eq:ch_pm:pm1_likelihood} محاسبه می‌شود. 
 
 \begin{equation}
-	L: P(D|T,\sigma, \theta) = \prod_{n=1}^{n=N}\prod_{m=1}^{m=M}P(D_{nm}|X_{nm})
+	L: P(D|T,\sigma, \wp, \theta) = \prod_{n=1}^{n=N}\prod_{m=1}^{m=M}P(D_{nm}|X_{nm})
 	\label{eq:ch_pm:pm1_likelihood}
 \end{equation}
 
@@ -228,21 +230,26 @@
 		\begin{axis}[xmin = 0, xmax = 1, ymin = 0, ymax = 1,
 			xtick distance = 0.1, ytick distance = 0.1, grid = both, minor tick num = 1,
 			major grid style = {lightgray!50}, minor grid style = {lightgray!25},
-			width = 0.9\textwidth, height = 0.55\textwidth,
+			width = 0.8\textwidth, height = 0.55\textwidth,
 			xlabel = {$x=\frac{P(E=X_{i+1}|D, \theta)}{P(E=X_{i}|D, \theta)}$}, ylabel = {$f(x)=p_\text{acc}$},
-			legend style={at={(0.025,0.975)},anchor=north west},]
+			legend style={at={(1.01,1.015)}, draw=none, anchor=north west}]
 			% Plot a function
-			\addplot[domain = 0:1,samples = 100,smooth,thick,blue,] {x^(0.9^-1)};
-			\addplot[domain = 0:1,samples = 100,smooth,thick,red,] {x^(0.8^-1)};
-			\addplot[domain = 0:1,samples = 100,smooth,thick,magenta,] {x^(0.7^-1)};
-			\addplot[domain = 0:1,samples = 100,smooth,thick,black,] {x^(0.6^-1)};
-			\addplot[domain = 0:1,samples = 100,smooth,thick,cyan,] {x^(0.5^-1)};
+			\addplot[domain = 0:1,samples = 1000,smooth,thick,Orchid,] {x^(3^-1)};
+			\addplot[domain = 0:1,samples = 1000,smooth,thick,violet,] {x^(2^-1)};
+			\addplot[domain = 0:1,samples = 1000,smooth,thick,Turquoise,] {x^(1.5^-1)};
+			\addplot[domain = 0:1,samples = 1000,smooth,thick,Silver,] {x^(1.25^-1)};
+			\addplot[domain = 0:1,samples = 100 ,smooth,thick,Salmon,] {x^(1.0^-1)};
+			\addplot[domain = 0:1,samples = 100 ,smooth,thick,blue,] {x^(0.9^-1)};
+			\addplot[domain = 0:1,samples = 100 ,smooth,thick,red,] {x^(0.8^-1)};
+			\addplot[domain = 0:1,samples = 100 ,smooth,thick,brown,] {x^(0.7^-1)};
+			\addplot[domain = 0:1,samples = 100 ,smooth,thick,black,] {x^(0.6^-1)};
+			\addplot[domain = 0:1,samples = 100 ,smooth,thick,cyan,] {x^(0.5^-1)};
 			\addplot[domain = 0:1,samples = 1000,smooth,thick,green,] {x^(0.4^-1)};
 			\addplot[domain = 0:1,samples = 1000,smooth,thick,pink,] {x^(0.3^-1)};
-			\addplot[domain = 0:1,samples = 1000,smooth,thick,brown,] {x^(0.2^-1)};
+			\addplot[domain = 0:1,samples = 1000,smooth,thick,magenta,] {x^(0.2^-1)};
 			\addplot[domain = 0:1,samples = 1000,smooth,thick,teal,] {x^(0.1^-1)};
 			% Legend
-			\legend{$\rho=0.9$,$\rho=0.8$,$\rho=0.7$,$\rho=0.6$,$\rho=0.5$,$\rho=0.4$,$\rho=0.3$,$\rho=0.2$,$\rho=0.1$,}
+			\legend{$\rho=3.0$,$\rho=2.0$,$\rho=1.5$,$\rho=1.25$,$\rho=1.0$,$\rho=0.9$,$\rho=0.8$,$\rho=0.7$,$\rho=0.6$,$\rho=0.5$,$\rho=0.4$,$\rho=0.3$,$\rho=0.2$,$\rho=0.1$}
 		\end{axis}
 	\end{tikzpicture}
 	\caption{نمودار تغییر احتمال پذیرش پاسخ جدید نامطلوب‌تر با توجه به مقدار پارامتر $\rho$.}
