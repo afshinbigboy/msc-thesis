@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  22 JUL 2021 03:37
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  24 JUL 2021 23:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1748,8 +1748,126 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \c@blind@pangrammax=\count436
 ))
 Package hyperref Info: Option `colorlinks' set `true' on input line 385.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgfplots/pgfplots.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplots 2020/02/29 v1.17 Data Visualization (1.17)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+\t@pgfplots@toka=\toks70
+\t@pgfplots@tokb=\toks71
+\t@pgfplots@tokc=\toks72
+\pgfplots@tmpa=\dimen324
+\c@pgfplots@coordindex=\count437
+\c@pgfplots@scanlineindex=\count438
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric
+.code.tex))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.c
+ode.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplot
+soldpgfsupp_loader.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.cod
+e.tex))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code
+.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+liststructure.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+liststructureext.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+array.code.tex
+\c@pgfplotsarray@tmp=\count439
 )
-(./tex/faTitle.tex) (./tex/enTitle.tex) (./tex/glossaries-settings.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+matrix.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstable
+shared.code.tex
+\c@pgfplotstable@counta=\count440
+\t@pgfplotstable@a=\toks73
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+deque.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.co
+de.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.da
+ta.code.tex))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb
+.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplot
+s.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count441
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots
+.surfshading.pgfsys-xetex.def
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots
+.surfshading.pgfsys-dvipdfmx.def
+\c@pgfplotslibrarysurf@streamlen=\count442
+))))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.
+code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.cod
+e.tex))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.c
+ode.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.c
+ode.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandle
+r.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.
+code.tex)))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.
+tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessin
+g.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.cod
+e.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.
+tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.te
+x)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduledecoration
+s.code.tex
+\pgfdecoratedcompleteddistance=\dimen325
+\pgfdecoratedremainingdistance=\dimen326
+\pgfdecoratedinputsegmentcompleteddistance=\dimen327
+\pgfdecoratedinputsegmentremainingdistance=\dimen328
+\pgf@decorate@distancetomove=\dimen329
+\pgf@decorate@repeatstate=\count443
+\pgfdecorationsegmentamplitude=\dimen330
+\pgfdecorationsegmentlength=\dimen331
+)
+\tikz@lib@dec@box=\box75
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.pathmorphing.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.pathmorphing.code.tex))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.pathreplacing.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.pathreplacing.code.tex))
+\pgfplots@numplots=\count444
+\pgfplots@xmin@reg=\dimen332
+\pgfplots@xmax@reg=\dimen333
+\pgfplots@ymin@reg=\dimen334
+\pgfplots@ymax@reg=\dimen335
+\pgfplots@zmin@reg=\dimen336
+\pgfplots@zmax@reg=\dimen337
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmar
+ks.code.tex
+File: pgflibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))) (./tex/faTitle.tex) (./tex/enTitle.tex)
+(./tex/glossaries-settings.tex
 \glswrite=\write19
 \glo@main@file=\write20
 \openout5 = `main.glo'.
@@ -1767,11 +1885,13 @@ Package glossaries Info: Writing glossary file main.glo on input line 60.
 \openout5 = `main.blo'.
 
 Package glossaries Info: Writing glossary file main.blo on input line 60.
-)
-(./tex/words.tex) (./tex/acronyms.tex) (./main.aux
-(./tex/chaps/int/chap-int.aux) (./tex/chaps/lr/chap-lr.aux)
-(./tex/chaps/rw/chap-rw.aux) (./tex/chaps/pm/chap-pm.aux)
-(./tex/chaps/er/chap-er.aux) (./tex/chaps/con/chap-con.aux)
+) (./tex/words.tex) (./tex/acronyms.tex)
+(./main.aux (./tex/chaps/int/chap-int.aux) (./tex/chaps/lr/chap-lr.aux)
+(./tex/chaps/rw/chap-rw.aux) (./tex/chaps/pm/chap-pm.aux
+
+LaTeX Warning: Label `fig:ch_pm:pm1_rho' multiply defined.
+
+) (./tex/chaps/er/chap-er.aux) (./tex/chaps/con/chap-con.aux)
 
 LaTeX Warning: Label `LastPage' multiply defined.
 
@@ -1842,11 +1962,11 @@ File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@lstlisting=\count437
+\c@lstlisting=\count445
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
 (lastpage)             ! on input line 45.
-\AtBeginShipoutBox=\box75
+\AtBeginShipoutBox=\box76
 Package hyperref Info: Link coloring ON on input line 45.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -1858,7 +1978,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count438
+\c@section@level=\count446
 )
 LaTeX Info: Redefining \ref on input line 45.
 LaTeX Info: Redefining \pageref on input line 45.
@@ -1877,8 +1997,11 @@ Package: ltcaption 2018/08/26 v1.4a longtable captions (AR)
 )
 Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\openout2 = `./tex/chaps/int/chap-int.aux'.
 
+Package pgfplots notification 'compat/show suggested version=true': document ha
+s been generated with the most recent feature set (\pgfplotsset{compat=1.17}).
+
+\openout2 = `./tex/chaps/int/chap-int.aux'.
 
 (./tex/chaps/int/chap-int.tex
 فصل 1.
@@ -7788,7 +7911,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./main.mw)
 \openout5 = `main.mw'.
 
-)
 \openout5 = `main.mw'.
 
  [92] (./main.mw)
@@ -7806,17 +7928,220 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+File: img/dataset/r/Navin_Dm.png Graphic file (type bmp)
+<img/dataset/r/Navin_Dm.png>
+File: img/chaps/pm/pruneandreattach.png Graphic file (type bmp)
+<img/chaps/pm/pruneandreattach.png>
+\openout5 = `main.mw'.
+
+ [93] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [94] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [95] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+[96] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+Underfull \vbox (badness 1902) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+ [97]
+(./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+)
+\openout5 = `main.mw'.
+
+ [98] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [99] (./main.mw)
+\openout5 = `main.mw'.
+
 \openout2 = `./tex/chaps/er/chap-er.aux'.
 
  (./tex/chaps/er/chap-er.tex
-فصل 5.
 \openout5 = `main.mw'.
 
-[93
+
+[100
 
 
 
 ] (./main.mw)
+\openout5 = `main.mw'.
+
+
+فصل 5.
+\openout5 = `main.mw'.
+
+[101] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -7840,7 +8165,7 @@ This may cause the page layout to be inconsistent, however.
 
 \openout5 = `main.mw'.
 
-[94] (./main.mw)
+[102] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -7857,19 +8182,19 @@ File: img/dataset/s/n20_zeta100.png Graphic file (type bmp)
 <img/dataset/s/n20_zeta100.png>
 \openout5 = `main.mw'.
 
- [95] (./main.mw)
+ [103] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
- [96] (./main.mw)
+ [104] (./main.mw)
 \openout5 = `main.mw'.
 
 File: img/dataset/s/mt_N30_M20_Z1_G0.15_step3.png Graphic file (type bmp)
 <img/dataset/s/mt_N30_M20_Z1_G0.15_step3.png>
 \openout5 = `main.mw'.
 
- [97] (./main.mw)
+ [105] (./main.mw)
 \openout5 = `main.mw'.
 
 
@@ -7877,7 +8202,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [98]
+ [106]
 (./main.mw)
 \openout5 = `main.mw'.
 
@@ -7905,7 +8230,7 @@ type bmp)
 <img/dataset/s/mt_N30_M20_Z1_G0.15_a0.1_b0.08_MR_0.1_Dm.png>
 \openout5 = `main.mw'.
 
-[99] (./main.mw)
+[107] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -7914,7 +8239,7 @@ type bmp)
 
 \openout5 = `main.mw'.
 
- [100] (./main.mw)
+ [108] (./main.mw)
 \openout5 = `main.mw'.
 
 File: img/dataset/r/Navin_Dm.png Graphic file (type bmp)
@@ -7926,7 +8251,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [101]
+ [109]
 (./main.mw)
 \openout5 = `main.mw'.
 
@@ -7936,7 +8261,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [102] (./main.mw)
+ [110] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -7951,7 +8276,7 @@ Package amsmath Warning: Foreign command \over;
 
 \openout5 = `main.mw'.
 
-[103] (./main.mw)
+[111] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -7967,13 +8292,13 @@ Underfull \vbox (badness 2689) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [104]
+ [112]
 (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
- [105] (./main.mw)
+ [113] (./main.mw)
 \openout5 = `main.mw'.
 
 File: img/res/D1.png Graphic file (type bmp)
@@ -7982,7 +8307,7 @@ File: img/res/initial_T1.png Graphic file (type bmp)
 <img/res/initial_T1.png>
 \openout5 = `main.mw'.
 
- [106] (./main.mw)
+ [114] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -7995,7 +8320,7 @@ File: img/res/initial_T1.png Graphic file (type bmp)
 
 \openout5 = `main.mw'.
 
- [107] (./main.mw)
+ [115] (./main.mw)
 \openout5 = `main.mw'.
 
 File: img/res/benchmark1.png Graphic file (type bmp)
@@ -8005,7 +8330,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [108]
+ [116]
 (./main.mw)
 \openout5 = `main.mw'.
 
@@ -8020,7 +8345,7 @@ Underfull \vbox (badness 3168) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [109]
+ [117]
 (./main.mw)
 \openout5 = `main.mw'.
 
@@ -8040,7 +8365,7 @@ LaTeX Warning: Float too large for page by 52.01114pt on input line 438.
 
 \openout5 = `main.mw'.
 
-[110] (./main.mw)
+[118] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -8049,12 +8374,12 @@ LaTeX Warning: Float too large for page by 52.01114pt on input line 438.
 
 \openout5 = `main.mw'.
 
- [111] (./main.mw)
+ [119] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
- [112] (./main.mw)
+ [120] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -8072,7 +8397,7 @@ LaTeX Warning: Float too large for page by 52.01114pt on input line 438.
 )
 \openout5 = `main.mw'.
 
- [113] (./main.mw)
+ [121] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -8086,7 +8411,7 @@ LaTeX Warning: Float too large for page by 52.01114pt on input line 438.
 \openout5 = `main.mw'.
 
 
-[114] (./main.mw)
+[122] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout2 = `./tex/chaps/con/chap-con.aux'.
@@ -8096,7 +8421,7 @@ LaTeX Warning: Float too large for page by 52.01114pt on input line 438.
 )
 \openout5 = `main.mw'.
 
- [115
+ [123
 
 
 
@@ -8110,7 +8435,7 @@ LaTeX Warning: Float too large for page by 52.01114pt on input line 438.
  (./main.bbl
 \openout5 = `main.mw'.
 
- [116
+ [124
 
 
 ] (./main.mw)
@@ -8136,7 +8461,7 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/it' will be
 (Font)              scaled to size 10.95pt on input line 47.
 \openout5 = `main.mw'.
 
-[117] (./main.mw)
+[125] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -8145,33 +8470,33 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/it' will be
 
 \openout5 = `main.mw'.
 
- [118] (./main.mw)
+ [126] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
- [119] (./main.mw)
+ [127] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
- [120] (./main.mw)
+ [128] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
 
-[121] (./main.mw)
+[129] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
- [122] (./main.mw)
+ [130] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
- [123] (./main.mw)
+ [131] (./main.mw)
 \openout5 = `main.mw'.
 
 )
@@ -8188,22 +8513,109 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/it' will be
 (./main.mw)
 \openout5 = `main.mw'.
 
+ (./main.bls
+Underfull \vbox (badness 4403) has occurred while \output is active []
 
-No file main.bls.
+
+Underfull \vbox (badness 2512) has occurred while \output is active []
+
 \openout5 = `main.mw'.
 
-[3
+ [3
 
+
+
+
+]
+(./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [4] (./main.mw)
+\openout5 = `main.mw'.
+
+
+Underfull \vbox (badness 3323) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+ [5]
+(./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [6] (./main.mw)
+\openout5 = `main.mw'.
+
+)
+\openout5 = `main.mw'.
+
+ [7
+
+] (./main.mw)
+\openout5 = `main.mw'.
+
+ (./main.gls
+\openout5 = `main.mw'.
+
+ [8
 
 
 ] (./main.mw)
 \openout5 = `main.mw'.
 
-
-No file main.gls.
 \openout5 = `main.mw'.
 
-[4
+
+[9
+
+] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+Underfull \vbox (badness 1325) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+ [10]
+(./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [11] (./main.mw)
+\openout5 = `main.mw'.
+
+
+Underfull \vbox (badness 2600) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+ [12]
+(./main.mw)
+\openout5 = `main.mw'.
+
+)
+\openout5 = `main.mw'.
+
+ [13
+
+] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [14
 
 
 ] (./main.mw)
@@ -8213,9 +8625,7 @@ No file main.gls.
 No file main.ind.
 \openout5 = `main.mw'.
 
-[5
-
-
+[15
 
 ] (./main.mw)
 \openout5 = `main.mw'.
@@ -8224,12 +8634,12 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/n' will be
 (Font)              scaled to size 17.28pt on input line 107.
 \openout5 = `main.mw'.
 
- [6] (./main.mw)
+ [16] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
- [7
+ [17
 
 ] (./main.mw)
 \openout5 = `main.mw'.
@@ -8258,7 +8668,7 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/b/n' will be
 AED: lastpage setting LastPage
 \openout5 = `main.mw'.
 
-[8
+[18
 
 ] (./main.mw)
 \openout5 = `main.mw'.
@@ -8273,9 +8683,15 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 112.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 112.
 \openout5 = `main.out'.
 
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: A0619CB3A9205828944E7042F5A9F119;5931.
 
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: 9A6503C4D42846C35B897B327800F929;7722
+(rerunfilecheck)             After:  9B41B5357813C4AA8246D3F1B4A8A9E8;7723.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -8295,12 +8711,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 50742 strings out of 479418
- 1036714 string characters out of 5884586
- 1602866 words of memory out of 5000000
- 66909 multiletter control sequences out of 15000+600000
+ 61461 strings out of 479418
+ 1393503 string characters out of 5884586
+ 2994258 words of memory out of 5000000
+ 77451 multiletter control sequences out of 15000+600000
  545632 words of font info for 149 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 71i,14n,104p,4821b,666s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 82i,18n,138p,4821b,2232s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (131 pages).
+Output written on main.pdf (149 pages).

@@ -1,0 +1,47 @@
+\contentsline {paragraph}{واژگان کلیدی}{هفده}{section*.3}%
+\contentsline {chapter}{فهرست تصاویر}{ت}{section*.4}%
+\contentsline {chapter}{فهرست جداول}{ث}{section*.5}%
+\contentsline {chapter}{فهرست الگوریتم‌ها}{ج}{section*.5}%
+\contentsline {chapter}{\rl {فهرست برنامه‌ها}}{ح}{chapter*.6}%
+\contentsline {chapter}{\numberline {1}روش پیشنهادی}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}مقدمه}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}معرفی دادگان ورودی}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}روش پیشنهادی برای مدیریت داده‌های از دست رفته}{2}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}روش محاسبه استاتیک}{3}{subsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.1.1}تصادفی}{5}{subsubsection.1.3.1.1}%
+\contentsline {section}{\numberline {1.4}روش پیشنهادی اول (درخت‌بازی)}{6}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}پیش‌پردازش}{6}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}اولین پاسخ (درخت تصادفی)}{6}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}پاسخی جدید}{8}{subsection.1.4.3}%
+\contentsline {subsection}{\numberline {1.4.4}مقایسه و ارزیابی پاسخ‌ها}{8}{subsection.1.4.4}%
+\contentsline {subsubsection}{\numberline {1.4.4.1}تبدیل درخت پاسخ به ماتریس}{8}{subsubsection.1.4.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.4.2}مقایسه پاسخ فعلی با پاسخ آرمانی}{8}{subsubsection.1.4.4.2}%
+\contentsline {subsection}{\numberline {1.4.5}پذیرش پاسخ‌های جدید و یافتن بهترین پاسخ}{8}{subsection.1.4.5}%
+\contentsline {section}{\numberline {1.5}روش پیشنهادی دوم}{8}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}مقدمه}{8}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}دادگان ورودی}{8}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}تبدیل داده‌ها به بردار ویژگی}{8}{subsection.1.5.3}%
+\contentsline {subsection}{\numberline {1.5.4}مدل‌سازی مساله}{8}{subsection.1.5.4}%
+\contentsline {subsubsection}{\numberline {1.5.4.1}معماری شبکه}{8}{subsubsection.1.5.4.1}%
+\contentsline {subsection}{\numberline {1.5.5}تابع هزینه}{8}{subsection.1.5.5}%
+\contentsline {subsection}{\numberline {1.5.6}اصلاح خطا و یافتن درخت جواب}{8}{subsection.1.5.6}%
+\contentsline {section}{\numberline {1.6}نتیجه‌گیری}{8}{section.1.6}%
+\contentsline {chapter}{\numberline {2}نتایج تجربی}{11}{chapter.2}%
+\contentsline {section}{\numberline {2.1}پایگاه داده‌های ورودی}{11}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}پایگاه داده مصنوعی}{11}{subsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.1.1}ساخت درخت تصادفی}{12}{subsubsection.2.1.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.1.2}تبدیل درخت به ماتریس ژن-سلول}{15}{subsubsection.2.1.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.1.3}اضافه کردن نویز به ماتریس ژن-جهش}{17}{subsubsection.2.1.1.3}%
+\contentsline {subsection}{\numberline {2.1.2}پایگاه داده حقیقی}{19}{subsection.2.1.2}%
+\contentsline {section}{\numberline {2.2}روش پیشنهادی بدست آوردن درخت فیلوژنی}{20}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}استفاده از شبکه ژن‌ها برای یافتن درخت فیلوژنی}{21}{subsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.1.1}استفاده از یک درخت نمونه نابهینه و تغییر اتصالات تا رسیدن به درخت فیلوژنی بهینه}{21}{subsubsection.2.2.1.1}%
+\contentsline {section}{\numberline {2.3}نتایج تجربی}{24}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}نتایج بر روی پایگاه داده مصنوعی}{24}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}نتایج بر روی داده‌های حقیقی}{28}{subsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.2.1}نتایج بهینه‌سازی درخت ژنی}{28}{subsubsection.2.3.2.1}%
+\contentsline {section}{\numberline {2.4}گام‌های آتی}{29}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}بهبود در ساخت درخت اولیه}{29}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}افزایش سرعت همگرایی \lr {MCMC}}{30}{subsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.2.1}تنوع در گام‌ها با استراتژی معقول}{30}{subsubsection.2.4.2.1}%
+\contentsline {subsubsection}{\numberline {2.4.2.2}قرار دادن احتمال وزن‌دار به ازای هر انتخاب}{31}{subsubsection.2.4.2.2}%

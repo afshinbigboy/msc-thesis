@@ -256,7 +256,9 @@
 \glossentry{internalcovariateshift}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{34}}}\relax\glsresetentrylist
 \glossentry{iteration}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{34}}}\glsgroupskip
+\glsXpageXglsnumberformat{}{34}\delimN 
+\glsXpageXglsnumberformat{}{92}\delimN 
+\glsXpageXglsnumberformat{}{96}}}\glsgroupskip
 \glsgroupheading{J}\relax\glsresetentrylist
 \glossentry{joiningbasedheuristic}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{79}}}\glsgroupskip
@@ -283,11 +285,14 @@
 \glsXpageXglsnumberformat{}{73}\delimN 
 \glsXpageXglsnumberformat{}{74}\delimN 
 \glsXpageXglsnumberformat{}{76}\delimN 
-\glsXpageXglsnumberformat{}{77}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{77}\delimN 
+\glsXpageXglsnumberformat{}{95}}}\relax\glsresetentrylist
 \glossentry{limitedloss}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{79}}}\relax\glsresetentrylist
 \glossentry{local}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{2}}}\relax\glsresetentrylist
+\glossentry{localmaxima}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{96}}}\relax\glsresetentrylist
 \glossentry{localreceptivefield}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{29}}}\relax\glsresetentrylist
 \glossentry{loci}{\glossaryentrynumbers{\relax 
@@ -320,6 +325,8 @@
 \glsXpageXglsnumberformat{}{56}\delimN 
 \glsXpageXglsnumberformat{}{60}\delimN 
 \glsXpageXglsnumberformat{}{61}}}\relax\glsresetentrylist
+\glossentry{masterslave}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{95}}}\relax\glsresetentrylist
 \glossentry{maximumparsimony}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{80}}}\relax\glsresetentrylist
 \glossentry{maximumlikelihood}{\glossaryentrynumbers{\relax 
@@ -383,7 +390,9 @@
 \glossentry{potentiallymalignanttumor}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{2}}}\relax\glsresetentrylist
 \glossentry{proliferative}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{2}}}\glsgroupskip
+\glsXpageXglsnumberformat{}{2}}}\relax\glsresetentrylist
+\glossentry{pruneandreattach}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{94}}}\glsgroupskip
 \glsgroupheading{R}\relax\glsresetentrylist
 \glossentry{radiologist}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{26}}}\relax\glsresetentrylist
@@ -406,7 +415,8 @@
 \glsXpageXglsnumberformat{}{34}}}\relax\glsresetentrylist
 \glossentry{reinforcementlearning}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{25}\delimN 
-\glsXpageXglsnumberformat{}{48}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{48}\delimN 
+\glsXpageXglsnumberformat{}{95}}}\relax\glsresetentrylist
 \glossentry{replication}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{13}}}\relax\glsresetentrylist
 \glossentry{resolution}{\glossaryentrynumbers{\relax 
@@ -489,6 +499,8 @@
 \glossentry{tumorprogression}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{78}}}\glsgroupskip
 \glsgroupheading{U}\relax\glsresetentrylist
+\glossentry{uniform}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{93}}}\relax\glsresetentrylist
 \glossentry{uterinefibroid}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{2}}}\glsgroupskip
 \glsgroupheading{V}\relax\glsresetentrylist
