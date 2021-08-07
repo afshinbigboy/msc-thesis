@@ -12,4 +12,4 @@
 (indexentry :tkey (("\\lr {Likelihood}" "\\glossentry{likelihood}") ) :locref "{}{9}" :attr "pageglsnumberformat" )
 (indexentry :tkey (("\\lr {Iteration}" "\\glossentry{iteration}") ) :locref "{}{10}" :attr "pageglsnumberformat" )
 (indexentry :tkey (("\\lr {Iteration}" "\\glossentry{iteration}") ) :locref "{}{10}" :attr "pageglsnumberformat" )
-(indexentry :tkey (("\\lr {Local maxima}" "\\glossentry{localmaxima}") ) :locref "{}{10}" :attr "pageglsnumberformat" )
+(indexentry :tkey (("\\lr {Local maxima}" "\\glossentry{localmaxima}") ) :locref "{}{11}" :attr "pageglsnumberformat" )
