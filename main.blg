@@ -2,7 +2,6 @@ This is BibTeX, Version 0.99d (TeX Live 2020)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
 A level-1 auxiliary file: ./tex/chaps/pm/chap-pm.aux
-A level-1 auxiliary file: ./tex/chaps/er/chap-er.aux
 The style file: plain-fa.bst
 Database file #1: ./tex/MyReferences.bib
 I was expecting a `,' or a `}'---line 80 of file ./tex/MyReferences.bib
@@ -23,7 +22,7 @@ I'm skipping whatever remains of this entry
 Done.
 You've used 1 entry,
             2546 wiz_defined-function locations,
-            633 strings with 5385 characters,
+            632 strings with 5359 characters,
 and the built_in function-call counts, 368 in all, are:
 = -- 31
 > -- 13

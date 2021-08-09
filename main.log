@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.6.9)  6 AUG 2021 21:11
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.6.9)  9 AUG 2021 15:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1854,13 +1854,12 @@ Package glossaries Info: Writing glossary file main.blo on input line 60.
 LaTeX Warning: Label `eq:ch_pm:pm1_maxML' multiply defined.
 
 
+LaTeX Warning: Label `eq:ch_pm:pm1_sT' multiply defined.
+
+
 LaTeX Warning: Label `fig:ch_pm:pm1_rho' multiply defined.
 
-) (./tex/chaps/er/chap-er.aux)
-
-LaTeX Warning: Label `LastPage' multiply defined.
-
-)
+))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
@@ -2666,11 +2665,24 @@ Underfull \vbox (badness 2351) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
+
+
+LaTeX Warning: Citation `davis2016computing' on page 8 undefined on input line 
+185.
+
 File: img/chaps/pm/pruneandreattach.png Graphic file (type bmp)
 <img/chaps/pm/pruneandreattach.png>
+
+LaTeX Warning: Citation `davis2016computing' on page 8 undefined on input line 
+189.
+
+
+LaTeX Warning: Citation `davis2016computing' on page 8 undefined on input line 
+189.
+
 \openout5 = `main.mw'.
 
- [8] (./main.mw)
+[8] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -2722,33 +2734,13 @@ File: img/chaps/pm/pruneandreattach.png Graphic file (type bmp)
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-Underfull \vbox (badness 1168) has occurred while \output is active []
+Underfull \vbox (badness 7168) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
  [10]
 (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -2776,8 +2768,28 @@ Underfull \vbox (badness 1168) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
+\openout5 = `main.mw'.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+Underfull \vbox (badness 1902) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
@@ -2844,504 +2856,29 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [14] (./main.mw)
 \openout5 = `main.mw'.
 
-\openout2 = `./tex/chaps/er/chap-er.aux'.
 
- (./tex/chaps/er/chap-er.tex
-فصل 2.
-LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/b/n' will be
-(Font)              scaled to size 29.85593pt on input line 3.
-LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/m/n' will be
-(Font)              scaled to size 17.27994pt on input line 14.
-LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/bx/n' will be
-(Font)              scaled to size 17.27994pt on input line 14.
-LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/m/it' will be
-(Font)              scaled to size 17.27994pt on input line 14.
-LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/m/n' will be
-(Font)              scaled to size 11.99997pt on input line 14.
-\openout5 = `main.mw'.
-
-[15
-
-
-
-] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-
-Package Fancyhdr Warning: \headheight is too small (14.42422pt): 
-Make it at least 14.86447pt.
-We now make it that large for the rest of the document.
-This may cause the page layout to be inconsistent, however.
-
-\openout5 = `main.mw'.
-
-[16] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-File: img/dataset/s/n20_zeta02.png Graphic file (type bmp)
-<img/dataset/s/n20_zeta02.png>
-File: img/dataset/s/n20_zeta1.png Graphic file (type bmp)
-<img/dataset/s/n20_zeta1.png>
-File: img/dataset/s/n20_zeta8.png Graphic file (type bmp)
-<img/dataset/s/n20_zeta8.png>
-File: img/dataset/s/n20_zeta100.png Graphic file (type bmp)
-<img/dataset/s/n20_zeta100.png>
-\openout5 = `main.mw'.
-
- [17] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [18] (./main.mw)
-\openout5 = `main.mw'.
-
-File: img/dataset/s/mt_N30_M20_Z1_G0.15_step3.png Graphic file (type bmp)
-<img/dataset/s/mt_N30_M20_Z1_G0.15_step3.png>
-\openout5 = `main.mw'.
-
- [19] (./main.mw)
-\openout5 = `main.mw'.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-\openout5 = `main.mw'.
-
- [20]
-(./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-File: img/dataset/s/zeta1n20m20.png Graphic file (type bmp)
-<img/dataset/s/zeta1n20m20.png>
-File: img/dataset/s/mt_N30_M20_Z1_G0.15_E.png Graphic file (type bmp)
-<img/dataset/s/mt_N30_M20_Z1_G0.15_E.png>
-File: img/dataset/s/mt_N30_M20_Z1_G0.15_a0.1_b0.08_D.png Graphic file (type bmp
-)
-<img/dataset/s/mt_N30_M20_Z1_G0.15_a0.1_b0.08_D.png>
-File: img/dataset/s/mt_N30_M20_Z1_G0.15_a0.1_b0.08_DmE.png Graphic file (type b
-mp)
-<img/dataset/s/mt_N30_M20_Z1_G0.15_a0.1_b0.08_DmE.png>
-
-Overfull \hbox (9.61871pt too wide) in paragraph at lines 151--158
-[][][] [][] []
- []
-
-File: img/dataset/s/mt_N30_M20_Z1_G0.15_a0.1_b0.08_MR_0.1_Dm.png Graphic file (
-type bmp)
-<img/dataset/s/mt_N30_M20_Z1_G0.15_a0.1_b0.08_MR_0.1_Dm.png>
-\openout5 = `main.mw'.
-
-[21] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [22] (./main.mw)
-\openout5 = `main.mw'.
-
-File: img/dataset/r/Navin_Dm.png Graphic file (type bmp)
-<img/dataset/r/Navin_Dm.png>
-File: img/dataset/r/Xu_Dm.png Graphic file (type bmp)
-<img/dataset/r/Xu_Dm.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-\openout5 = `main.mw'.
-
- [23]
-(./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [24] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-
-Package amsmath Warning: Foreign command \over;
-(amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 245.
-
-\openout5 = `main.mw'.
-
-[25] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-Underfull \vbox (badness 2689) has occurred while \output is active []
-
-\openout5 = `main.mw'.
-
- [26]
-(./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [27] (./main.mw)
-\openout5 = `main.mw'.
-
-File: img/res/D1.png Graphic file (type bmp)
-<img/res/D1.png>
-File: img/res/initial_T1.png Graphic file (type bmp)
-<img/res/initial_T1.png>
-\openout5 = `main.mw'.
-
- [28] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [29] (./main.mw)
-\openout5 = `main.mw'.
-
-File: img/res/benchmark1.png Graphic file (type bmp)
-<img/res/benchmark1.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-\openout5 = `main.mw'.
-
- [30]
-(./main.mw)
-\openout5 = `main.mw'.
-
-File: img/res/sy_N_Err.png Graphic file (type bmp)
-<img/res/sy_N_Err.png>
-File: img/res/sy_N_Err_mean.png Graphic file (type bmp)
-<img/res/sy_N_Err_mean.png>
-File: img/res/sn_initial_tree.png Graphic file (type bmp)
-<img/res/sn_initial_tree.png>
-
-Underfull \vbox (badness 3168) has occurred while \output is active []
-
-\openout5 = `main.mw'.
-
- [31]
-(./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-File: img/res/sn_benchmark.png Graphic file (type bmp)
-<img/res/sn_benchmark.png>
-File: img/res/sn_best_tree.png Graphic file (type bmp)
-<img/res/sn_best_tree.png>
-File: img/res/SCITE.png Graphic file (type bmp)
-<img/res/SCITE.png>
-
-
-LaTeX Warning: Float too large for page by 52.01114pt on input line 438.
-
-\openout5 = `main.mw'.
-
-[32] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [33] (./main.mw)
-\openout5 = `main.mw'.
-
-LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/b/n' will be
-(Font)              scaled to size 14.4pt on input line 448.
-\openout5 = `main.mw'.
-
- [34] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-)
-\openout5 = `main.mw'.
-
- [35] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [36]
-(./main.mw)
-\openout5 = `main.mw'.
-
- (./main.bbl
-LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/n' will be
-(Font)              scaled to size 10.95pt on input line 7.
-LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/it' will be
-
-(Font)              scaled to size 10.95pt on input line 11.
-)
-\openout5 = `main.mw'.
-
- [1
-
-
-] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [2
-
-] (./main.mw)
-\openout5 = `main.mw'.
-
- (./main.bls
-Underfull \vbox (badness 4403) has occurred while \output is active []
-
-
-Underfull \vbox (badness 2512) has occurred while \output is active []
-
-\openout5 = `main.mw'.
-
- [3
-
-
-
-
-]
-(./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [4] (./main.mw)
-\openout5 = `main.mw'.
-
-
-Underfull \vbox (badness 3323) has occurred while \output is active []
-
-\openout5 = `main.mw'.
-
- [5]
-(./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [6] (./main.mw)
-\openout5 = `main.mw'.
-
-)
-\openout5 = `main.mw'.
-
- [7
-
-] (./main.mw)
-\openout5 = `main.mw'.
-
- (./main.gls
-\openout5 = `main.mw'.
-
- [8
-
-
-] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-[9
-
-] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-Underfull \vbox (badness 1325) has occurred while \output is active []
-
-\openout5 = `main.mw'.
-
- [10]
-(./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [11] (./main.mw)
-\openout5 = `main.mw'.
-
-
-Underfull \vbox (badness 2600) has occurred while \output is active []
-
-\openout5 = `main.mw'.
-
- [12]
-(./main.mw)
-\openout5 = `main.mw'.
-
-)
-\openout5 = `main.mw'.
-
- [13
-
-] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [14
-
-
-] (./main.mw)
-\openout5 = `main.mw'.
-
-
-No file main.ind.
-\openout5 = `main.mw'.
-
-[15
-
-] (./main.mw)
-\openout5 = `main.mw'.
-
-LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/n' will be
-(Font)              scaled to size 17.28pt on input line 107.
-LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/b/n' will be
-(Font)              scaled to size 17.28pt on input line 107.
-LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 107.
-\openout5 = `main.mw'.
-
- [16] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [17
-
-] (./main.mw)
-\openout5 = `main.mw'.
-
-File: ./img/eng-logo-en.png Graphic file (type bmp)
-<./img/eng-logo-en.png>
-
-Overfull \hbox (5.42651pt too wide) in paragraph at lines 108--108
- [][][][] 
- []
-
-LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 108.
-File: ./img/logo-en.png Graphic file (type bmp)
-<./img/logo-en.png>
-
-Overfull \hbox (28.45276pt too wide) in paragraph at lines 108--108
-[][] [] []
- []
-
-LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 108.
-LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/b/n' will be
-(Font)              scaled to size 24.88pt on input line 108.
 
 AED: lastpage setting LastPage
-\openout5 = `main.mw'.
 
-[18
-
-] (./main.mw)
-\openout5 = `main.mw'.
+Package glossaries Warning: No \printglossary or \printglossaries found. 
+(Remove \makeglossaries if you don't want any glossaries.) 
+This document will not have a glossary.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 112.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 112.
- (./main.aux (./tex/chaps/pm/chap-pm.aux)
-(./tex/chaps/er/chap-er.aux))
+(./main.aux (./tex/chaps/pm/chap-pm.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 112.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 112.
 \openout5 = `main.out'.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: DA29D4CFFF846424BFF7B7A711ED5093;4532.
+(rerunfilecheck)             Checksum: 5C091E28C23B29C38F9BC50768088CB3;2270.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -3354,14 +2891,15 @@ LaTeX Warning: There were multiply-defined labels.
 
 \openout5 = `main.blo'.
 
- ) 
+ )
+(\end occurred when \ifx on line 92 was incomplete) 
 Here is how much of TeX's memory you used:
- 59367 strings out of 479418
- 1338820 string characters out of 5887226
- 3290806 words of memory out of 5000000
- 75648 multiletter control sequences out of 15000+600000
- 542498 words of font info for 132 fonts, out of 8000000 for 9000
+ 58927 strings out of 479418
+ 1328856 string characters out of 5887226
+ 3293452 words of memory out of 5000000
+ 75346 multiletter control sequences out of 15000+600000
+ 540865 words of font info for 115 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  82i,18n,138p,4821b,2232s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (54 pages).
+Output written on main.pdf (14 pages).
