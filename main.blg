@@ -1,6 +1,7 @@
 This is BibTeX, Version 0.99d (TeX Live 2020)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
+A level-1 auxiliary file: ./tex/chaps/rw/chap-rw.aux
 A level-1 auxiliary file: ./tex/chaps/pm/chap-pm.aux
 The style file: plain-fa.bst
 Database file #1: ./tex/MyReferences.bib
@@ -12,53 +13,109 @@ I was expecting a `,' or a `}'---line 381 of file ./tex/MyReferences.bib
  : [9]: @misc{ genomes 
  :                     and exomes,
 I'm skipping whatever remains of this entry
+Repeated entry---line 435 of file ./tex/MyReferences.bib
+ : [15]: @article{husic2019mipup
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 457 of file ./tex/MyReferences.bib
+ : [17]: @article{el2015reconstruction
+ :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 468 of file ./tex/MyReferences.bib
+ : [18]: @article{malikic2015clonality
+ :                                    ,
+I'm skipping whatever remains of this entry
 I was expecting a `,' or a `}'---line 512 of file ./tex/MyReferences.bib
  : [23]: @article{ Cancer 
  :                        - Activity 1,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1616 of file ./tex/MyReferences.bib
+ : [97]: @article{malikic2015clonality
+ :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2323 of file ./tex/MyReferences.bib
+ : [3.14]: @article{malikic2015clonality
+ :                                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2367 of file ./tex/MyReferences.bib
+ : [3.18]: @article{strino2013trap
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2378 of file ./tex/MyReferences.bib
+ : [3.19]: @article{el2015reconstruction
+ :                                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2417 of file ./tex/MyReferences.bib
+ : [3.23]: @article{husic2019mipup
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2459 of file ./tex/MyReferences.bib
+ : [3.27]: @inproceedings{donmez2016clonality
+ :                                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2468 of file ./tex/MyReferences.bib
+ : [3.28]: @article{jahn2016tree
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2479 of file ./tex/MyReferences.bib
+ : [3.29]: @article{ross2016onconem
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2501 of file ./tex/MyReferences.bib
+ : [3.31]: @article{el2018sphyr
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2567 of file ./tex/MyReferences.bib
+ : [3.37]: @article{silver2017mastering
+ :                                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2601 of file ./tex/MyReferences.bib
+ : [3.41]: @article{devlin2018bert
+ :                                ,
 I'm skipping whatever remains of this entry
 -- plain-fa.bst version 0.9 (2015/05/09) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
 
 Done.
-You've used 1 entry,
+You've used 37 entries,
             2546 wiz_defined-function locations,
-            632 strings with 5359 characters,
-and the built_in function-call counts, 368 in all, are:
-= -- 31
-> -- 13
-< -- 0
-+ -- 5
-- -- 4
-* -- 35
-:= -- 60
-add.period$ -- 3
-call.type$ -- 1
-change.case$ -- 5
+            838 strings with 13369 characters,
+and the built_in function-call counts, 17138 in all, are:
+= -- 1500
+> -- 1053
+< -- 3
++ -- 416
+- -- 378
+* -- 1381
+:= -- 2704
+add.period$ -- 114
+call.type$ -- 37
+change.case$ -- 295
 chr.to.int$ -- 0
-cite$ -- 1
-duplicate$ -- 11
-empty$ -- 24
-format.name$ -- 4
-if$ -- 77
+cite$ -- 37
+duplicate$ -- 439
+empty$ -- 985
+format.name$ -- 378
+if$ -- 3853
 int.to.chr$ -- 0
-int.to.str$ -- 1
-missing$ -- 8
-newline$ -- 15
-num.names$ -- 2
-pop$ -- 3
+int.to.str$ -- 37
+missing$ -- 414
+newline$ -- 339
+num.names$ -- 74
+pop$ -- 244
 preamble$ -- 1
-purify$ -- 4
+purify$ -- 258
 quote$ -- 0
-skip$ -- 8
+skip$ -- 301
 stack$ -- 0
-substring$ -- 18
-swap$ -- 1
-text.length$ -- 0
+substring$ -- 973
+swap$ -- 67
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 4
-type$ -- 4
+type$ -- 148
 warning$ -- 0
-while$ -- 4
-width$ -- 2
-write$ -- 19
-(There were 3 error messages)
+while$ -- 141
+width$ -- 39
+write$ -- 522
+(There were 17 error messages)
