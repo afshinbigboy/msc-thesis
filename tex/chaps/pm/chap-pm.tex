@@ -278,9 +278,6 @@
 
 
 
-
-
-
 \subsection{یافتن جهش‌های با پتانسیل حذف}
 \label{sec:ch_pm:L}
 
@@ -355,6 +352,53 @@
 \newpage
 \subsection{شبکه هرس‌کننده}
 \label{sec:ch_pm:prune-network}
+در روش‌های گذشته مانند روش‌های ارائه شده در \cite{zaccaria2017copy} و \cite{jahn2016tree} در هر تکرار رویکرد \lr{MCMC} از یک انتخاب ‌کننده با توزیع یکنواخت برای انتخاب محل برش در درخت فعلی استفاده شده است. اما در روش پیشنهادی ارائه شده، سعی شده است تا این روش با یک روش هوشمند جایگزین شود که این عمل توسط یک شبکه عمیق یادگیری تقویتی انجام خواهد شد تا بتواند با انتخاب‌های هوشمند خود نسبت به حالت تصادفی فضای جست‌وجو را کاهش داده و در نتیجه توانایی رسیدن به پاسخ مطلوب را با سرعت همگرایی بیشتر فراهم می‌کند.
+\\
+در ادامه این بخش به تشریح ساختار شبکه‌ای که برای مهم در نظر گرفته شده است پرداخته می‌شود.
+\subsubsection{ورودی}
+ورودی شبکه برابر ماتریس \lr{abs($X-D$)} است که آن را $I$ می‌نامیم. این ورودی که ابعادی برابر $M\times N$ دارد را به صورتی که در رابطه ××× آمده است به ماتریس جدید $I'$ تبدیل می‌کنیم. 
+\begin{equation}
+	\begin{bmatrix}
+		I_{1,1}  & I_{1,2} & \ldots   & I_{1,j}   & \ldots & I_{1,M}\\
+		\vdots & \vdots & \ddots & \vdots & \ddots & \vdots \\
+		I_{i,1}  & I_{i,2} & \ldots   & I_{i,j}   & \ldots & I_{i,M}\\
+		\vdots & \vdots & \ddots & \vdots & \ddots & \vdots \\
+		I_{N,1}  & I_{N,2} & \ldots   & I_{N,j}   & \ldots & I_{N,M}
+	\end{bmatrix}_{N\times M}
+	\rightarrow 
+	 \begin{bmatrix}
+	 	1          & 1         & f(I_{1,1}) & f(I_{1,1}) \\
+	 	1          & 2         & f(I_{1,2}) & f(I_{1,2}) \\
+	 	\vdots & \vdots & \vdots   & \vdots \\
+	 	i          & j           & f(I_{i,j})  & f(I_{i,j}) \\
+	 	\vdots & \vdots & \vdots   & \vdots \\
+	 	N          & M         & f(I_{N,M}) & f(I_{N,M})\\
+	 \end{bmatrix}_{N*M\times 1}
+\end{equation}
+در صورتی که
+\begin{equation}
+	f(I_{i,j}) = 
+	\begin{cases}
+		\alpha \qquad & \text{\lr{if $X_{i,j} - D_{i,j} = -1$ (false positive)}} \\
+		\alpha \qquad & \text{\lr{if $X_{i,j} + D_{i,j} = 0$ (true negetive)}} \\
+		\beta \qquad & \text{\lr{if $X_{i,j} - D_{i,j} = 1$ (false negetive)}} \\
+		\alpha \qquad & \text{\lr{if $X_{i,j} + D_{i,j} = 2$ (true positive)}} 
+	\end{cases}
+\end{equation}
+
+
+ این تبدیل در رابطه ×××× بیان شده است.   
+
+
+Recall that input to this problem is given as a binary matrix A′. We transform A′ to a new matrix A′′ as shown below,
+before feeding it to the neural network. Each row of A′′ corresponds to exactly one of the entries of A′. The first two
+columns of a given row in A′′ respectively represent the row and the column of the corresponding entry in A′. The
+third column represents the noise level and depends on the actual value of the entry - which is represented in the last
+column. In the simplest case, the value of the third column is either α- if the entry has value one, or is β- if the entry
+has value zero. In the more general case, the user can specify a distinct false positive or false negative rate for each
+entry of the input matrix A′. As depicted below, this transformation is key to our ability for training the neural network
+with matrices of varying shapes/dimensions:
+
 
 \subsection{شبکه بازاتصال‌کننده}
 \label{sec:ch_pm:reattach-network}
