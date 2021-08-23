@@ -356,8 +356,8 @@
 \\
 در ادامه این بخش به تشریح ساختار شبکه‌ای که برای مهم در نظر گرفته شده است پرداخته می‌شود.
 \subsubsection{ورودی}
-ورودی شبکه برابر ماتریس \lr{abs($X-D$)} است که آن را $I$ می‌نامیم. این ورودی که ابعادی برابر $M\times N$ دارد را به صورتی که در رابطه ××× آمده است به ماتریس جدید $I'$ تبدیل می‌کنیم. 
-\begin{equation}
+ورودی شبکه برابر ماتریس \lr{abs($X-D$)} است که آن را $I$ می‌نامیم. این ورودی که ابعادی برابر $M\times N$ دارد را به صورتی که در رابطه \ref{eq:ch_pm:pm1_pnet_input} آمده است به ماتریس جدید $I'$ تبدیل می‌کنیم. 
+\begin{equation*}
 	\begin{bmatrix}
 		I_{1,1}  & I_{1,2} & \ldots   & I_{1,j}   & \ldots & I_{1,M}\\
 		\vdots & \vdots & \ddots & \vdots & \ddots & \vdots \\
@@ -367,37 +367,42 @@
 	\end{bmatrix}_{N\times M}
 	\rightarrow 
 	 \begin{bmatrix}
-	 	1          & 1         & f(I_{1,1}) & f(I_{1,1}) \\
-	 	1          & 2         & f(I_{1,2}) & f(I_{1,2}) \\
+	 	1          & 1         & f(1,1) & I_{1,1} \\
+	 	1          & 2         & f(1,2) & I_{1,2} \\
 	 	\vdots & \vdots & \vdots   & \vdots \\
-	 	i          & j           & f(I_{i,j})  & f(I_{i,j}) \\
+	 	i          & j           & f(i,j)  & I_{i,j} \\
 	 	\vdots & \vdots & \vdots   & \vdots \\
-	 	N          & M         & f(I_{N,M}) & f(I_{N,M})\\
+	 	N          & M         & f(N,M) & I_{N,M}\\
 	 \end{bmatrix}_{N*M\times 1}
-\end{equation}
+ 	\label{eq:ch_pm:pm1_pnet_input}
+\end{equation*}
 در صورتی که
 \begin{equation}
-	f(I_{i,j}) = 
+	f(i,j) = 
 	\begin{cases}
-		\alpha \qquad & \text{\lr{if $X_{i,j} - D_{i,j} = -1$ (false positive)}} \\
-		\alpha \qquad & \text{\lr{if $X_{i,j} + D_{i,j} = 0$ (true negetive)}} \\
-		\beta \qquad & \text{\lr{if $X_{i,j} - D_{i,j} = 1$ (false negetive)}} \\
-		\alpha \qquad & \text{\lr{if $X_{i,j} + D_{i,j} = 2$ (true positive)}} 
-	\end{cases}
+		\alpha 	   \qquad & \text{\lr{if $X_{i,j} - D_{i,j} = -1$ (False Positive)}} \\
+		1-\alpha  \qquad & \text{\lr{if $X_{i,j} + D_{i,j} = 0$ (True Negetive)}} \\
+		\beta 		\qquad & \text{\lr{if $X_{i,j} - D_{i,j} =  1$ (False Negetive)}} \\
+		1-\beta    \qquad & \text{\lr{if $X_{i,j} + D_{i,j} = 2$ (True Positive)}} 
+	\end{cases}.
 \end{equation}
+همان‌گونه که مشخص است هر سطر از ماتریس $I'$ دقیقا برابر با یکی از درایه‌های ماتریس $I$ است. دو ستون اول ماتریس $I'$ متنار با اندیس‌های درایه‌های ماتریس $I$ می‌باشد که ستون اول برابر با شماره سطر و ستون دوم برابر با شماره ستون است. ستون سوم ماتریس $I'$ به احتمال وقوع و به نوعی تشریح‌کننده حقیقت ماجرا هست و حد خطا را مشخص می‌کند. به عبارت ساده‌تر مقادیر ممکن در ستون سوم چهار حالت مختلف می‌توانند داشته باشند که مقادیر $\alpha$، $1-\alpha$، $\beta$ و $1-\beta$ هستند که که بر حسب
+همچنین ستون آخر ماتریس $I'$ برابر با مقدار داریه‌های ماتریس $I$ است که دو مقدار $0$ و $1$ را خواهد داشت. بنابرین یا این روش توانستیم هر سطر از ماتریس جدید $I'$ را متناظر با یک درایه از ماتریس ابتدایی درنظر بگیریم به‌طوری که حال تمام سطرها با یک دیگر متفاوت خواهند بود (بخاطر دو ستون اول که یکی به نمونه اشاره می‌کند و دیگری به جهش) در صورتی که در حالت اولیه در ماتریس ابتدایی درایه‌ها فقط دو یا نهایتا چهار حالت مختلف می‌توانستند داشته باشند. این همان کلیدی هست که باعث می‌شود در ادامه شبکه قادر به یادگیری و دادن خروجی‌های مطلوب باشد.
 
+\subsubsection{ساختار شبکه}
+پس از مشخص شدن ورودی‌های شبکه نوبت به مشخص کردن ساختار شبکه و ماژول‌های استفاده شده در آن است. به همین منظور در ادامه این بخش به تشریح ساختار شبکه یادگیری تقویتی عمیق استفاده شده در این بخش می‌پردازیم.
 
- این تبدیل در رابطه ×××× بیان شده است.   
+در ابتدا یک بخش \gls{encoder} خواهیم داشت که ورودی‌ها را دریافت و آن‌ها را به \gls{featurevector} تبدیل خواهد کرد.
+اگر ماتریس $D$ ما به تعداد $N$ نمونه (سطر) و $M$ جهش (ستون)داشته باشد در آن صورت ماتریس $I'$ ما دارای ابعاد $(M\times N, 4)$ خواهد بود که در کل فضای حالت $4MN$ را خواهند داشت که $MN$ بخاطر دو ستون اول ماتریس $I'$ است که هر سطر با دیگری متفاوت است و $4$ بخاطر دو ستون انتهایی ماتریس $I'$ است که هرکدام $4$ حالت مختلف را می‌توانند داشته باشند که در مجموع فضای حالت $4MN$ را می‌توانند اختیار کنند. هر داده از این ماتریس ورودی را به برداری به طول $2$ \lr{embed} می‌کنیم که خروجی برداری به ابعاد $(M\times N, 4, 2)$ خواهد شد که حال این  \glspl{floatnumber} که در یک رنج و ارزش هستند، بعد از یک تغییر بعد به صورت $(M\times N, 8)$ حال این داده‌ها آماده استخراج ویژگی و اعمال عملیات کانولوشنی بر رویشان هستند. 
+پس از آن سه لایه کانولوشنی با فیلترهای $8$، $32$ و $8$ 
 
+Step 4: apply 1D convolutions, thus, we will have (?, 100, 8)>>(?, 100, 32)>>(?, 100, 8)
+Notice: 8 = input_dim*hidden_dim and 32 = 4 * 8
 
-Recall that input to this problem is given as a binary matrix A′. We transform A′ to a new matrix A′′ as shown below,
-before feeding it to the neural network. Each row of A′′ corresponds to exactly one of the entries of A′. The first two
-columns of a given row in A′′ respectively represent the row and the column of the corresponding entry in A′. The
-third column represents the noise level and depends on the actual value of the entry - which is represented in the last
-column. In the simplest case, the value of the third column is either α- if the entry has value one, or is β- if the entry
-has value zero. In the more general case, the user can specify a distinct false positive or false negative rate for each
-entry of the input matrix A′. As depicted below, this transformation is key to our ability for training the neural network
-with matrices of varying shapes/dimensions:
+Step 5: add two representation together (?, 100, 8)+(?, 100, 8)>> (?, 100, 8)
+
+Idea: Check the connectivity of convolutions like inception structure 
+to check: residual, attention guided, pyramid pooling
 
 
 \subsection{شبکه بازاتصال‌کننده}
