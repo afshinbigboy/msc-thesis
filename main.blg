@@ -8,6 +8,7 @@ A level-1 auxiliary file: ./tex/chaps/pm/chap-pm.aux
 A level-1 auxiliary file: ./tex/chaps/er/chap-er.aux
 A level-1 auxiliary file: ./tex/chaps/con/chap-con.aux
 The style file: plain-fa.bst
+A level-1 auxiliary file: ./tex/appxs/app_td3.aux
 Database file #1: ./tex/MyReferences.bib
 I was expecting a `,' or a `}'---line 80 of file ./tex/MyReferences.bib
  : @misc{ genomes 
@@ -48,14 +49,6 @@ I'm skipping whatever remains of this entry
 I was expecting a `,' or a `}'---line 381 of file ./tex/MyReferences.bib
  : [9]: @misc{ genomes 
  :                     and exomes,
-I'm skipping whatever remains of this entry
-Repeated entry---line 435 of file ./tex/MyReferences.bib
- : [15]: @article{husic2019mipup
- :                              ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 457 of file ./tex/MyReferences.bib
- : [17]: @article{el2015reconstruction
- :                                    ,
 I'm skipping whatever remains of this entry
 Repeated entry---line 468 of file ./tex/MyReferences.bib
  : [18]: @article{malikic2015clonality
@@ -125,22 +118,6 @@ Repeated entry---line 2323 of file ./tex/MyReferences.bib
  : [3.14]: @article{malikic2015clonality
  :                                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2367 of file ./tex/MyReferences.bib
- : [3.18]: @article{strino2013trap
- :                                ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2378 of file ./tex/MyReferences.bib
- : [3.19]: @article{el2015reconstruction
- :                                      ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2417 of file ./tex/MyReferences.bib
- : [3.23]: @article{husic2019mipup
- :                                ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2459 of file ./tex/MyReferences.bib
- : [3.27]: @inproceedings{donmez2016clonality
- :                                           ,
-I'm skipping whatever remains of this entry
 Repeated entry---line 2468 of file ./tex/MyReferences.bib
  : [3.28]: @article{jahn2016tree
  :                              ,
@@ -152,14 +129,6 @@ I'm skipping whatever remains of this entry
 Repeated entry---line 2501 of file ./tex/MyReferences.bib
  : [3.31]: @article{el2018sphyr
  :                             ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2567 of file ./tex/MyReferences.bib
- : [3.37]: @article{silver2017mastering
- :                                     ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2601 of file ./tex/MyReferences.bib
- : [3.41]: @article{devlin2018bert
- :                                ,
 I'm skipping whatever remains of this entry
 Warning--to sort, need author or key in neoplasms
 Warning--to sort, need author or key in canceractivity1
@@ -175,45 +144,45 @@ Warning--empty journal in hastings1970monte
 Warning--can't use both volume and number fields in zhu2011metabolic
 
 Done.
-You've used 86 entries,
+You've used 69 entries,
             2546 wiz_defined-function locations,
-            1126 strings with 22799 characters,
-and the built_in function-call counts, 38351 in all, are:
-= -- 3402
-> -- 2206
-< -- 10
-+ -- 881
-- -- 786
-* -- 2982
-:= -- 5951
-add.period$ -- 261
-call.type$ -- 86
-change.case$ -- 637
+            1047 strings with 18778 characters,
+and the built_in function-call counts, 30026 in all, are:
+= -- 2688
+> -- 1646
+< -- 9
++ -- 660
+- -- 582
+* -- 2293
+:= -- 4624
+add.period$ -- 209
+call.type$ -- 69
+change.case$ -- 487
 chr.to.int$ -- 0
-cite$ -- 96
-duplicate$ -- 1050
-empty$ -- 2307
-format.name$ -- 786
-if$ -- 8693
+cite$ -- 79
+duplicate$ -- 856
+empty$ -- 1859
+format.name$ -- 582
+if$ -- 6834
 int.to.chr$ -- 0
-int.to.str$ -- 86
-missing$ -- 912
-newline$ -- 776
-num.names$ -- 166
-pop$ -- 549
+int.to.str$ -- 69
+missing$ -- 707
+newline$ -- 623
+num.names$ -- 132
+pop$ -- 422
 preamble$ -- 1
-purify$ -- 552
+purify$ -- 419
 quote$ -- 0
-skip$ -- 756
+skip$ -- 625
 stack$ -- 0
-substring$ -- 2269
-swap$ -- 186
-text.length$ -- 10
+substring$ -- 1811
+swap$ -- 161
+text.length$ -- 9
 text.prefix$ -- 0
 top$ -- 4
-type$ -- 342
+type$ -- 274
 warning$ -- 10
-while$ -- 316
-width$ -- 88
-write$ -- 1194
-(There were 38 error messages)
+while$ -- 253
+width$ -- 71
+write$ -- 958
+(There were 30 error messages)

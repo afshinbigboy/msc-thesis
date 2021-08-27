@@ -1,26 +1,86 @@
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces دو مدل برای ناهمگونی تومور\relax }}{3}{figure.caption.9}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces درخت فیلوژنی تصادفی تولید شده برای $n=20$ و $\zeta $های مختلف\relax }}{13}{figure.caption.10}%
-\contentsline {subfigure}{\numberline {(آ)}{\ignorespaces {$\zeta =0.2$}}}{13}{subfigure.1.1}%
-\contentsline {subfigure}{\numberline {(ب)}{\ignorespaces {$\zeta =1.0$}}}{13}{subfigure.1.2}%
-\contentsline {subfigure}{\numberline {(ج)}{\ignorespaces {$\zeta =8$}}}{13}{subfigure.1.3}%
-\contentsline {subfigure}{\numberline {(د)}{\ignorespaces {$\zeta =100$}}}{13}{subfigure.1.4}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces درخت جهش تصادفی با پارامتر‌های $N=30, M=20, \zeta =1, \gamma =0.15$\relax }}{16}{figure.caption.11}%
-\contentsline {figure}{\numberline {2.3}{\ignorespaces ماتریس‌های ژن-سلول ($E$) بدست آمده از درخت‌های تصادفی ساخته شده\relax }}{17}{figure.caption.12}%
-\contentsline {subfigure}{\numberline {(آ)}{\ignorespaces {ماتریس درخت شکل \ref {fig:dstn20zeta1}}}}{17}{subfigure.3.1}%
-\contentsline {subfigure}{\numberline {(ب)}{\ignorespaces {ماتریس درخت شکل \ref {fig:mtn30m20z1g0.15}}}}{17}{subfigure.3.2}%
-\contentsline {figure}{\numberline {2.4}{\ignorespaces ماتریس‌های ژن-سلول همراه با نویز و داده‌های از دست رفته شکل \ref {fig:E_mt_N30_M20_Z1_G0.15} که برای ورودی مسله آماده شده است.\relax }}{18}{figure.caption.13}%
-\contentsline {subfigure}{\numberline {(آ)}{\ignorespaces {ماتریس نویزی با $\alpha =0.1, \beta =0.08$}}}{18}{subfigure.4.1}%
-\contentsline {subfigure}{\numberline {(ب)}{\ignorespaces {نویزی اضافه شده با پارمترهای $\alpha =0.1, \beta =0.08$}}}{18}{subfigure.4.2}%
-\contentsline {subfigure}{\numberline {(ج)}{\ignorespaces {ماتریس نویزی به همراه داده‌های از دست رفته با پارامترهای $\alpha =0.1, \beta =0.08, m_r=0.1$}}}{18}{subfigure.4.3}%
-\contentsline {figure}{\numberline {2.5}{\ignorespaces داده‌های حقیقی \lr {Navin} در مقاله \lr {SCITE}\relax }}{19}{figure.caption.14}%
-\contentsline {figure}{\numberline {2.6}{\ignorespaces داده‌های حقیقی \lr {Xu} در مقاله \lr {SCITE}\relax }}{20}{figure.caption.15}%
-\contentsline {figure}{\numberline {2.7}{\ignorespaces نمونه‌ای تصادفی از ماتریس ورودی $D$\relax }}{24}{figure.caption.16}%
-\contentsline {figure}{\numberline {2.8}{\ignorespaces ‌درخت تصادفی ایجاد شده به عنوان درخت اولیه شکل \ref *{fig:sy_D1}\relax }}{25}{figure.caption.17}%
-\contentsline {figure}{\numberline {2.9}{\ignorespaces ‌نتیجه اجرای روش پیشنهادی برای ماتریس شکل \ref *{fig:sy_D1}\relax }}{26}{figure.caption.18}%
-\contentsline {figure}{\numberline {2.10}{\ignorespaces ‌نتیجه اجرای روش پیشنهادی برای تعداد نمونه‌های مختلف\relax }}{27}{figure.caption.19}%
-\contentsline {figure}{\numberline {2.11}{\ignorespaces ‌نتیجه اجرای روش پیشنهادی برای تعداد نمونه‌های مختلف\relax }}{27}{figure.caption.20}%
-\contentsline {figure}{\numberline {2.12}{\ignorespaces درخت تصادفی اولیه\relax }}{28}{figure.caption.21}%
-\contentsline {figure}{\numberline {2.13}{\ignorespaces نمودار تغییر انرژی در طی گام‌های مختلف\relax }}{29}{figure.caption.22}%
-\contentsline {figure}{\numberline {2.14}{\ignorespaces بهترین درخت یافته‌شده و خروجی الگوریتم برای مقاله \lr {SCITE}\relax }}{30}{figure.caption.23}%
-\contentsline {figure}{\numberline {2.15}{\ignorespaces درخت بدست آمده در مقاله \lr {SCITE}\relax }}{32}{figure.caption.24}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces مارپیچ دوگانه \gls {dna}\relax }}{6}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces همانندسازی \gls {dna}\relax }}{7}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces جهش تک‌نوکلئوتیدی\relax }}{8}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces تغییرات ساختاری\relax }}{8}{figure.caption.13}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces درخت فیلوژنیک تومور\relax }}{9}{figure.caption.14}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces تشخیص تغییر بدنی تک‌نوکلئوتیدی از طریق خوانش هم‌ترازی\relax }}{10}{figure.caption.15}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces درخت کلون تومور\relax }}{15}{figure.caption.16}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces نمایی از تطابق ژنتیکی\relax }}{19}{figure.caption.17}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces معماری یک شبکه عصبی کانولوشنی\relax }}{24}{figure.caption.18}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces عملیات \gls {convolution} در یک \gls {convnet} با \gls {kernel} $5\times 5$ \relax }}{26}{figure.caption.19}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces (\lr {a}) \gls {activationfunction} \lr {ReLU} و (\lr {b}) \gls {activationfunction} \gls {sigmoid} \relax }}{27}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces تابع \lr {max-pooling} بر روی آرایه دو بعدی کوچک $m=2$ و $s=2$ \relax }}{28}{figure.caption.21}%
+\contentsline {figure}{\numberline {2.13}{\ignorespaces لایه \gls {dropout} با $\sigma =0.5$ \relax }}{29}{figure.caption.22}%
+\contentsline {figure}{\numberline {2.14}{\ignorespaces یک نمونه بازشده \gls {rnn} \relax }}{32}{figure.caption.23}%
+\contentsline {figure}{\numberline {2.15}{\ignorespaces ساختار \gls {rnn}\relax }}{34}{figure.caption.24}%
+\contentsline {subfigure}{\numberline {(آ)}{\ignorespaces {یک به یک}}}{34}{subfigure.15.1}%
+\contentsline {subfigure}{\numberline {(ب)}{\ignorespaces {یک به چند}}}{34}{subfigure.15.2}%
+\contentsline {subfigure}{\numberline {(ج)}{\ignorespaces {چند به یک}}}{34}{subfigure.15.3}%
+\contentsline {subfigure}{\numberline {(د)}{\ignorespaces {چند به چند}}}{34}{subfigure.15.4}%
+\contentsline {figure}{\numberline {2.16}{\ignorespaces ساختار \lr {LSTM}\relax }}{36}{figure.caption.25}%
+\contentsline {figure}{\numberline {2.17}{\ignorespaces ماژول‌های تکرار شونده در شبکه‌های عصبی بازگشتی استاندارد فقط دارای یک لایه هستند. \relax }}{37}{figure.caption.27}%
+\contentsline {figure}{\numberline {2.18}{\ignorespaces ماژول‌های تکرار شونده در \lr {LSTM}ها دارای 4 لایه هستند که با هم در تعامل می‌باشند. \relax }}{37}{figure.caption.28}%
+\contentsline {figure}{\numberline {2.19}{\ignorespaces اشکال از راست به چپ به تریب برابر هستند با: کپی کردن، وصل کردن، بردار انتقال، عملیات نقطه به نقطه، یک لایه‌ی شبکه عصبی. \relax }}{38}{figure.caption.29}%
+\contentsline {figure}{\numberline {2.20}{\ignorespaces سلول حالت در ماژول \lr {LSTM} \relax }}{38}{figure.caption.30}%
+\contentsline {figure}{\numberline {2.21}{\ignorespaces نمایی از نحوه تاثیر و ورود اطلاعات به سلول حالت \relax }}{39}{figure.caption.31}%
+\contentsline {figure}{\numberline {2.22}{\ignorespaces قدم اول در پاک کردن اطلاعات از سلول حالت در وضعیت ورودی \relax }}{40}{figure.caption.32}%
+\contentsline {figure}{\numberline {2.23}{\ignorespaces قدم دوم در اضافه کردن اطلاعات جدید به سلول حالت \relax }}{40}{figure.caption.33}%
+\contentsline {figure}{\numberline {2.24}{\ignorespaces به‌روز رسانی اطلاعات در سلول حالت \relax }}{41}{figure.caption.34}%
+\contentsline {figure}{\numberline {2.25}{\ignorespaces قدم نهایی برای تولید خروجی ماژول \lr {LSTM} \relax }}{41}{figure.caption.35}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces نمایی از یک درخت فیلوژنیک تومور\relax }}{45}{figure.caption.37}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces یک گراف جهت دار فیلوژنی\relax }}{46}{figure.caption.38}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces میزان خطای عملکرد الگوریتم بیت‌فیلوژنی نسبت به دو الگوریتم \gls {kcentroids} و \gls {hierarchicalClustering} در سطوح مختلف درخت در حالت‌های تک‌کلونی و چندکلونی \cite {yuan2015bitphylogeny}\relax }}{49}{figure.caption.39}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces مراحل عمکلرد الگوریتم بیت‌فیلوژنی\relax }}{50}{figure.caption.40}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces یک استنتاج تکاملی از داده‌های \gls {scs} \cite {jahn2016tree}\relax }}{52}{figure.caption.41}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces نمای شماتیکی از الگوریتم \lr {Onconem} \cite {ross2016onconem}\relax }}{55}{figure.caption.42}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces عنوانننننننننننننننننننننننننننننننننن\relax }}{58}{figure.caption.43}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces عنوانننننننننننننننننننننننننننننننننن\relax }}{59}{figure.caption.44}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces عنوانننننننننننننننننننننننننننننننننن\relax }}{61}{figure.caption.45}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces عنوانننننننننننننننننننننننننننننننننن\relax }}{61}{figure.caption.46}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces عنوانننننننننننننننننننننننننننننننننن\relax }}{61}{figure.caption.47}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces عنوانننننننننننننننننننننننننننننننننن\relax }}{62}{figure.caption.48}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces عنوانننننننننننننننننننننننننننننننننن\relax }}{62}{figure.caption.49}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces مقایسه T’ از T\relax }}{63}{figure.caption.50}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces مدل احتمالاتی برای توالی‌یابی داده\relax }}{63}{figure.caption.51}%
+\contentsline {figure}{\numberline {3.16}{\ignorespaces ساختن درخت اتصالات T’\relax }}{64}{figure.caption.52}%
+\contentsline {figure}{\numberline {3.17}{\ignorespaces ماتریس جهش‌ها \lr {B$^*$} با بیشینه \gls {likelihood}\relax }}{64}{figure.caption.53}%
+\contentsline {figure}{\numberline {3.18}{\ignorespaces ساختار شبکه ارائه شده در مقاله \cite {azer2020tumor}.\relax }}{68}{figure.caption.54}%
+\contentsline {figure}{\numberline {3.19}{\ignorespaces میزان دقت و خطای عملکرد شبکه در حذف نویز داده‌های ورودی\relax }}{70}{figure.caption.55}%
+\contentsline {figure}{\numberline {3.20}{\ignorespaces مقایسه بین عملکرد الگوریتم پیشنهادی مقاله \lr {DeepPhylo} و الگوریتم \lr {PhISCS} با استفاده از معیار شباهت \lr {MLTSM84} \relax }}{71}{figure.caption.57}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces نحوه انجام کار روش \gls {pruneandreattach} \cite {davis2016computing}.\relax }}{79}{figure.caption.60}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces نمودار تغییر احتمال پذیرش پاسخ جدید نامطلوب‌تر با توجه به مقدار پارامتر $\rho $.\relax }}{86}{figure.caption.61}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces ساختار معماری شبکه پیشنهادی\relax }}{89}{figure.caption.62}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces درخت فیلوژنی تصادفی تولید شده برای $n=20$ و $\zeta $های مختلف\relax }}{94}{figure.caption.64}%
+\contentsline {subfigure}{\numberline {(آ)}{\ignorespaces {$\zeta =0.2$}}}{94}{subfigure.1.1}%
+\contentsline {subfigure}{\numberline {(ب)}{\ignorespaces {$\zeta =1.0$}}}{94}{subfigure.1.2}%
+\contentsline {subfigure}{\numberline {(ج)}{\ignorespaces {$\zeta =8$}}}{94}{subfigure.1.3}%
+\contentsline {subfigure}{\numberline {(د)}{\ignorespaces {$\zeta =100$}}}{94}{subfigure.1.4}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces درخت جهش تصادفی با پارامتر‌های $N=30, M=20, \zeta =1, \gamma =0.15$\relax }}{97}{figure.caption.65}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces ماتریس‌های ژن-سلول ($E$) بدست آمده از درخت‌های تصادفی ساخته شده\relax }}{98}{figure.caption.66}%
+\contentsline {subfigure}{\numberline {(آ)}{\ignorespaces {ماتریس درخت شکل \ref {fig:dstn20zeta1}}}}{98}{subfigure.3.1}%
+\contentsline {subfigure}{\numberline {(ب)}{\ignorespaces {ماتریس درخت شکل \ref {fig:mtn30m20z1g0.15}}}}{98}{subfigure.3.2}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces ماتریس‌های ژن-سلول همراه با نویز و داده‌های از دست رفته شکل \ref {fig:E_mt_N30_M20_Z1_G0.15} که برای ورودی مسله آماده شده است.\relax }}{100}{figure.caption.67}%
+\contentsline {subfigure}{\numberline {(آ)}{\ignorespaces {ماتریس نویزی با $\alpha =0.1, \beta =0.08$}}}{100}{subfigure.4.1}%
+\contentsline {subfigure}{\numberline {(ب)}{\ignorespaces {نویزی اضافه شده با پارمترهای $\alpha =0.1, \beta =0.08$}}}{100}{subfigure.4.2}%
+\contentsline {subfigure}{\numberline {(ج)}{\ignorespaces {ماتریس نویزی به همراه داده‌های از دست رفته با پارامترهای $\alpha =0.1, \beta =0.08, m_r=0.1$}}}{100}{subfigure.4.3}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces داده‌های حقیقی \lr {Navin} در مقاله \lr {SCITE}\relax }}{101}{figure.caption.68}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces داده‌های حقیقی \lr {Xu} در مقاله \lr {SCITE}\relax }}{102}{figure.caption.69}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces نحوه آموزش شبکه با استفاده از ساختار \lr {TD3} \cite {fujimoto2018addressing}.\relax }}{102}{figure.caption.70}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces نمونه‌ای تصادفی از ماتریس ورودی $D$\relax }}{105}{figure.caption.71}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces ‌درخت تصادفی ایجاد شده به عنوان درخت اولیه شکل \ref *{fig:sy_D1}\relax }}{106}{figure.caption.72}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces ‌نتیجه اجرای روش پیشنهادی برای ماتریس شکل \ref *{fig:sy_D1}\relax }}{107}{figure.caption.73}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces ‌نتیجه اجرای روش پیشنهادی برای تعداد نمونه‌های مختلف\relax }}{108}{figure.caption.74}%
+\contentsline {figure}{\numberline {5.12}{\ignorespaces ‌نتیجه اجرای روش پیشنهادی برای تعداد نمونه‌های مختلف\relax }}{108}{figure.caption.75}%
+\contentsline {figure}{\numberline {5.13}{\ignorespaces درخت تصادفی اولیه\relax }}{109}{figure.caption.76}%
+\contentsline {figure}{\numberline {5.14}{\ignorespaces نمودار تغییر انرژی در طی گام‌های مختلف\relax }}{110}{figure.caption.77}%
+\contentsline {figure}{\numberline {5.15}{\ignorespaces بهترین درخت یافته‌شده و خروجی الگوریتم برای مقاله \lr {SCITE}\relax }}{111}{figure.caption.78}%
+\contentsline {figure}{\numberline {5.16}{\ignorespaces درخت بدست آمده در مقاله \lr {SCITE}\relax }}{112}{figure.caption.79}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {آ.1}{\ignorespaces الگوریتم \lr {Twin Delayed DDGP} \cite {fujimoto2018addressing}. برگرفته از \lr {\href {https://spinningup.openai.com/en/latest/algorithms/td3.html}{OpenAI}}\relax }}{126}{figure.caption.81}%

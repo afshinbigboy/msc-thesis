@@ -44,17 +44,17 @@ twoside
 
 \begin{document}
 \pagenumbering{adadi} % یک، دو، ...
-%\input{./tex/thesis_preamble}
+\input{./tex/thesis_preamble}
 
 \pagestyle{fancy}
 \pagenumbering{arabic} % 1, 2, ...
 
-%\include{./tex/chaps/int/chap-int}		% فصل اول: مقدمه
-%\include{./tex/chaps/lr/chap-lr}		% فصول دوم: ادبیات موضوعی
-%\include{./tex/chaps/rw/chap-rw}		% فصل سوم: روش‌های پیشین
+\include{./tex/chaps/int/chap-int}		% فصل اول: مقدمه
+\include{./tex/chaps/lr/chap-lr}		% فصول دوم: ادبیات موضوعی
+\include{./tex/chaps/rw/chap-rw}		% فصل سوم: روش‌های پیشین
 \include{./tex/chaps/pm/chap-pm}		% فصل چهارم: روش پیشنهادی
 \include{./tex/chaps/er/chap-er}		% فصل پنجم: نتایج تجربی 
-%\include{./tex/chaps/con/chap-con}		% فصل ششم: بحث و نتیجه‌گیری 
+\include{./tex/chaps/con/chap-con}		% فصل ششم: بحث و نتیجه‌گیری 
 
 
 % مراجع
@@ -69,7 +69,7 @@ twoside
 
 \pagestyle{fancy}
 
-% \appendix
+ \appendix
 % فصلهای پس از این قسمت به عنوان ضمیمه خواهند آمد.
 
 % دستورات لازم برای تبدیل «فصل آ» به «پیوست آ» در فهرست مطالب
@@ -89,6 +89,8 @@ twoside
 %\include{./tex/appxs/appendix1}		% پیوست اول: آشنایی مقدماتی با لاتک
 %\include{./tex/appxs/appendix2}		% پیوست دوم: جدول، نمودار و الگوریتم در لاتک
 %\include{./tex/appxs/appendix3}   	% پیوست سوم: مراجع، واژه‌نامه و حاشیه‌نویسی
+\include{./tex/appxs/app_td3}		% پیوست اول: آشنایی مقدماتی با لاتک
+
 
 % برگرداندن شماره‌بندی صفحات فصول
 % \let\chapter\Chapter
@@ -96,17 +98,17 @@ twoside
 %\baselineskip=.75cm
 
 % چاپ واژه‌نامه‌ها و نمایه 
-%\onehalfspacing
-%\cleardoublepage
-%\printglossary
-%\cleardoublepage
-%\printindex
-%
-%\begin{latin}
-%	\baselineskip=.6cm
-%	\latinabstract
-%	\latinTitlePage
-%\end{latin}
-%\label{LastPage}
+\onehalfspacing
+\cleardoublepage
+\printglossary
+\cleardoublepage
+\printindex
+
+\begin{latin}
+	\baselineskip=.6cm
+	\latinabstract
+	\latinTitlePage
+\end{latin}
+\label{LastPage}
 
 \end{document}
