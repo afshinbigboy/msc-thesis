@@ -324,6 +324,16 @@ Greaves, Mel and Maley, Carlo~C.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{gusfield1997algorithms}
+Gusfield, Dan.
+\newblock Algorithms on stings, trees, and sequences: Computer science and
+  computational biology.
+\newblock {\em Acm Sigact News}, 28(4):41--60, 1997.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{halford2005o6}
 Halford, S, Rowan, A, Sawyer, E, Talbot, I, and Tomlinson, Ian.
 \newblock O6-methylguanine methyltransferase in colorectal cancers: detection

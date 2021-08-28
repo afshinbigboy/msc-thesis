@@ -1,25 +1,11 @@
 ;; This logfile was generated automatically by `xindy'
-;; at 27.08.2021  05:50:40
-;; Indexstyle: "/var/folders/b0/rzwm_fmx68v24nxtr096b_dw0000gn/T/UT5ukbrPx6", Rawindex: "/var/folders/b0/rzwm_fmx68v24nxtr096b_dw0000gn/T/Nml8AVRUkC", Output: "main.gls"
+;; at 28.08.2021  12:12:26
+;; Indexstyle: "/var/folders/b0/rzwm_fmx68v24nxtr096b_dw0000gn/T/lkVzCvk7fQ", Rawindex: "/var/folders/b0/rzwm_fmx68v24nxtr096b_dw0000gn/T/KzlA8o7ZKk", Output: "main.gls"
 
 
 Building indexentry-tree:
 Hierdepth of index is :TREE
 
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
 sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
 sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
 sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
@@ -332,38 +318,24 @@ Letter-group: "¥°­­°" -> "D"
 Letter-group: "®¶­µª´µ¢µ¦" -> "M"
 Letter-group: "¤°±º ¯¶®£¦³ ·¢³ª¢µª°¯ (¤¯·)" -> "C"
 Letter-group: "¤°¯§­ª¤µ" -> "C"
+Letter-group: "¤°±º ¯¶®£¦³ ±³°§ª­¦" -> "C"
 Letter-group: "³¦¢¥ ¤°¶¯µ´" -> "R"
 Letter-group: "µ°µ¢­" -> "T"
 Letter-group: "·¢³ª¢¯µ" -> "V"
 Letter-group: "´¶£µ³¦¦´" -> "S"
-Letter-group: "´°®¢µª¤ ®¶µ¢µª°¯" -> "S"
-Letter-group: "¥ª·¦³¨¦¯µ ´¶£¤­°¯¦´" -> "D"
-Letter-group: "®¦µ¢´µ¢µª¤ ´±³¦¢¥" -> "M"
-Letter-group: "µ¶®°³ ±³°¨³¦´´ª°¯" -> "T"
-Letter-group: "£¶­¬ ´¦²¶¦¯¤ª¯¨ ¥¢µ¢" -> "B"
-Letter-group: "¥¦µ¦¤µ¦¥ ·¢³ª¢¯µ´" -> "D"
-Letter-group: "´µ³¶¤µ¶³¢­ ·¢³ª¢¯µ" -> "S"
-Letter-group: "³¦´°­¶µª°¯" -> "R"
-Letter-group: "£ª°±´º" -> "B"
-Letter-group: "¥°­­° ±¢³´ª®°¯º" -> "D"
-Letter-group: "£³¢¯¤©£°¶¯¥" -> "B"
-Letter-group: "«°ª¯ª¯¨â€“£¢´¦¥ ©¦¶³ª´µª¤" -> "J"
-Letter-group: "¤°¯¤°³¥¢¯µ ¨¢ª¯ °§ ®¶µ¢µª°¯´" -> "C"
-Letter-group: "­ª®ªµ¦¥ ­°´´" -> "L"
-Letter-group: "®¢¹ª®¶® ±¢³´ª®°¯º" -> "M"
-Letter-group: "­°¸ ´¦²¶¦¯¤¦ ¤°·¦³¢¨¦" -> "L"
 Letter-group: "§¦¦¥£¢¤¬" -> "F"
 Letter-group: "¨°­¥ ´µ¢¯¥¢³¥" -> "G"
+Letter-group: "¢¤µ°³¤³ªµª¤" -> "A"
+Letter-group: "­¢µ¦¯µ ´±¢¤¦" -> "L"
+Letter-group: "¢µµ¦¯µª°¯­¢º¦³" -> "A"
 Letter-group: "¢´¤ªª" -> "A"
 Letter-group: "¶¯ª§°³®" -> "U"
 Letter-group: "±³¶¯¦ ¢¯¥ ³¦¢µµ¢¤©" -> "P"
-Letter-group: "¤°±º ¯¶®£¦³ ±³°§ª­¦" -> "C"
 Letter-group: "¨¦¯¦" -> "G"
 Letter-group: "­°¤¢­ ®¢¹ª®¢" -> "L"
 Letter-group: "§¦¢µ¶³¦ ·¦¤µ°³" -> "F"
 Letter-group: "§­°¢µ ¯¶®£¦³" -> "F"
 Letter-group: "¦¯¤°¥¦³" -> "E"
-Letter-group: "¢µµ¦¯µª°¯­¢º¦³" -> "A"
 Letter-group: "¢¤µ°³" -> "A"
 Letter-group: "¤³ªµª¤" -> "C"
 Letter-group: "£ª¥ª³¦¤µª°¯¢­" -> "B"
@@ -389,11 +361,9 @@ Letter-group: "©¦µ¦³°¨¦¯¦µª¤" -> "H"
 sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
 Letter-group: "ª®¢¨ª¯¨ ®°¥¢­ªµº" -> "I"
 sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: "«°ª¯ª¯¨â€“£¢´¦¥ ©¦¶³ª´µª¤" -> "J"
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
 Letter-group: "¬¤¦¯µ³°ª¥´" -> "K"
 sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: "­¢º¦³" -> "L"
+Letter-group: "­¢µ¦¯µ ´±¢¤¦" -> "L"
 sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
 Letter-group: "®¢¤©ª¯¦ ­¦¢³¯ª¯¨" -> "M"
 sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)

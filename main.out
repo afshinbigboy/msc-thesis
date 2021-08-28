@@ -72,15 +72,14 @@
 \BOOKMARK [2][-]{subsection.5.1.3}{آموزش شبکه }{section.5.1}% 72
 \BOOKMARK [1][-]{section.5.2}{نتایج تجربی}{chapter.5}% 73
 \BOOKMARK [2][-]{subsection.5.2.1}{نتایج بر روی پایگاه داده مصنوعی}{section.5.2}% 74
-\BOOKMARK [2][-]{subsection.5.2.2}{نتایج بر روی داده‌های حقیقی}{section.5.2}% 75
-\BOOKMARK [3][-]{subsubsection.5.2.2.1}{نتایج بهینه‌سازی درخت ژنی}{subsection.5.2.2}% 76
-\BOOKMARK [0][-]{chapter.6}{بحث و نتیجه‌گیری}{}% 77
-\BOOKMARK [1][-]{section.6.1}{گام‌های آتی}{chapter.6}% 78
-\BOOKMARK [2][-]{subsection.6.1.1}{بهبود در ساخت درخت اولیه}{section.6.1}% 79
-\BOOKMARK [2][-]{subsection.6.1.2}{افزایش سرعت همگرایی MCMC}{section.6.1}% 80
-\BOOKMARK [3][-]{subsubsection.6.1.2.1}{تنوع در گام‌ها با استراتژی معقول}{subsection.6.1.2}% 81
-\BOOKMARK [3][-]{subsubsection.6.1.2.2}{قرار دادن احتمال وزن‌دار به ازای هر انتخاب}{subsection.6.1.2}% 82
-\BOOKMARK [0][-]{chapter*.77}{مراجع}{}% 83
-\BOOKMARK [0][-]{appendix.Alph1}{الگوریتم Twin Delayed DDGP}{}% 84
-\BOOKMARK [0][-]{section*.79}{واژه‌نامهٔ فارسی به انگلیسی}{}% 85
-\BOOKMARK [0][-]{section*.108}{واژه‌نامهٔ انگلیسی به فارسی}{}% 86
+\BOOKMARK [0][-]{chapter.6}{بحث و نتیجه‌گیری}{}% 75
+\BOOKMARK [1][-]{section.6.1}{نقاط ضعف و قوت روش پیشنهادی}{chapter.6}% 76
+\BOOKMARK [2][-]{subsection.6.1.1}{محدودیت‌ها}{section.6.1}% 77
+\BOOKMARK [1][-]{section.6.2}{گام‌های آتی}{chapter.6}% 78
+\BOOKMARK [2][-]{subsection.6.2.1}{بهبود در ساخت درخت اولیه}{section.6.2}% 79
+\BOOKMARK [2][-]{subsection.6.2.2}{استفاده از ماژول یادگیری تقویتی به‌جای MCMC }{section.6.2}% 80
+\BOOKMARK [2][-]{subsection.6.2.3}{ ارائه یک راهکار مناسب برای به روزرسانی بردار L}{section.6.2}% 81
+\BOOKMARK [0][-]{chapter*.75}{مراجع}{}% 82
+\BOOKMARK [0][-]{appendix.Alph1}{الگوریتم Twin Delayed DDGP}{}% 83
+\BOOKMARK [0][-]{section*.77}{واژه‌نامهٔ فارسی به انگلیسی}{}% 84
+\BOOKMARK [0][-]{section*.106}{واژه‌نامهٔ انگلیسی به فارسی}{}% 85

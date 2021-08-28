@@ -63,26 +63,25 @@
 \contentsline {subsubsection}{\numberline {4.4.7.2}ساختار شبکه}{88}{subsubsection.4.4.7.2}%
 \contentsline {section}{\numberline {4.5}جمع‌بندی و نتیجه‌گیری}{90}{section.4.5}%
 \contentsline {chapter}{\numberline {5}نتایج تجربی}{91}{chapter.5}%
-\contentsline {section}{\numberline {5.1}پایگاه داده‌های ورودی}{92}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}پایگاه داده مصنوعی}{93}{subsection.5.1.1}%
-\contentsline {subsubsection}{\numberline {5.1.1.1}ساخت درخت تصادفی}{94}{subsubsection.5.1.1.1}%
-\contentsline {subsubsection}{\numberline {5.1.1.2}تبدیل درخت به ماتریس ژن-سلول}{97}{subsubsection.5.1.1.2}%
-\contentsline {subsubsection}{\numberline {5.1.1.3}تولید پروفایل‌های تعداد کپی و تعیین جهش‌های مسافر}{99}{subsubsection.5.1.1.3}%
-\contentsline {subsubsection}{\numberline {5.1.1.4}اضافه کردن نویز به ماتریس ژن-جهش}{100}{subsubsection.5.1.1.4}%
-\contentsline {subsection}{\numberline {5.1.2}پایگاه داده حقیقی}{101}{subsection.5.1.2}%
-\contentsline {subsection}{\numberline {5.1.3}آموزش شبکه }{102}{subsection.5.1.3}%
-\contentsline {section}{\numberline {5.2}نتایج تجربی}{106}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}نتایج بر روی پایگاه داده مصنوعی}{106}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}نتایج بر روی داده‌های حقیقی}{110}{subsection.5.2.2}%
-\contentsline {subsubsection}{\numberline {5.2.2.1}نتایج بهینه‌سازی درخت ژنی}{110}{subsubsection.5.2.2.1}%
-\contentsline {chapter}{\numberline {6}بحث و نتیجه‌گیری}{115}{chapter.6}%
-\contentsline {section}{\numberline {6.1}گام‌های آتی}{116}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}بهبود در ساخت درخت اولیه}{116}{subsection.6.1.1}%
-\contentsline {subsection}{\numberline {6.1.2}افزایش سرعت همگرایی \lr {MCMC}}{116}{subsection.6.1.2}%
-\contentsline {subsubsection}{\numberline {6.1.2.1}تنوع در گام‌ها با استراتژی معقول}{116}{subsubsection.6.1.2.1}%
-\contentsline {subsubsection}{\numberline {6.1.2.2}قرار دادن احتمال وزن‌دار به ازای هر انتخاب}{116}{subsubsection.6.1.2.2}%
-\contentsline {chapter}{مراجع}{119}{chapter*.77}%
+\contentsline {section}{\numberline {5.1}پایگاه داده‌های ورودی}{91}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}پایگاه داده مصنوعی}{92}{subsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.1.1}ساخت درخت تصادفی}{93}{subsubsection.5.1.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.1.2}تبدیل درخت به ماتریس ژن-سلول}{96}{subsubsection.5.1.1.2}%
+\contentsline {subsubsection}{\numberline {5.1.1.3}تولید پروفایل‌های تعداد کپی و تعیین جهش‌های مسافر}{98}{subsubsection.5.1.1.3}%
+\contentsline {subsubsection}{\numberline {5.1.1.4}اضافه کردن نویز به ماتریس ژن-جهش}{99}{subsubsection.5.1.1.4}%
+\contentsline {subsection}{\numberline {5.1.2}پایگاه داده حقیقی}{100}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}آموزش شبکه }{101}{subsection.5.1.3}%
+\contentsline {section}{\numberline {5.2}نتایج تجربی}{105}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}نتایج بر روی پایگاه داده مصنوعی}{105}{subsection.5.2.1}%
+\contentsline {chapter}{\numberline {6}بحث و نتیجه‌گیری}{111}{chapter.6}%
+\contentsline {section}{\numberline {6.1}نقاط ضعف و قوت روش پیشنهادی}{112}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}محدودیت‌ها}{113}{subsection.6.1.1}%
+\contentsline {section}{\numberline {6.2}گام‌های آتی}{113}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}بهبود در ساخت درخت اولیه}{114}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}استفاده از ماژول یادگیری تقویتی به‌جای \lr {MCMC} }{114}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3} ارائه یک راهکار مناسب برای به روزرسانی بردار $\mathcal {L}$}{114}{subsection.6.2.3}%
+\contentsline {chapter}{مراجع}{115}{chapter*.75}%
  \renewcommand \cftchappresnum {پیوست\nobreakspace {}}\setlength {\cftchapnumwidth }{\mylenapp }
-\contentsline {chapter}{\numberline {آ}الگوریتم \lr {Twin Delayed DDGP}}{127}{appendix.Alph1}%
-\contentsline {chapter}{واژه‌نامهٔ فارسی به انگلیسی}{اول}{section*.79}%
-\contentsline {chapter}{واژه‌نامهٔ انگلیسی به فارسی}{هفتم}{section*.108}%
+\contentsline {chapter}{\numberline {آ}الگوریتم \lr {Twin Delayed DDGP}}{123}{appendix.Alph1}%
+\contentsline {chapter}{واژه‌نامهٔ فارسی به انگلیسی}{اول}{section*.77}%
+\contentsline {chapter}{واژه‌نامهٔ انگلیسی به فارسی}{هفتم}{section*.106}%
