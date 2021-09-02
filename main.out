@@ -25,61 +25,64 @@
 \BOOKMARK [2][-]{subsection.2.11.6}{حافظه‌ی کوتاه‌مدت بلند \(LSTM\)}{section.2.11}% 25
 \BOOKMARK [1][-]{section.2.12}{reinforcementlearning}{chapter.2}% 26
 \BOOKMARK [2][-]{subsection.2.12.1}{مقدمه و بیشینه تاریخی}{section.2.12}% 27
-\BOOKMARK [0][-]{chapter.3}{روش‌های پیشین}{}% 28
-\BOOKMARK [1][-]{section.3.1}{مقدمه}{chapter.3}% 29
-\BOOKMARK [1][-]{section.3.2}{مدل کیم و سایمونkim2014using}{chapter.3}% 30
-\BOOKMARK [2][-]{subsection.3.2.1}{پایگاه داده}{section.3.2}% 31
-\BOOKMARK [2][-]{subsection.3.2.2}{معیار ارزیابی}{section.3.2}% 32
-\BOOKMARK [1][-]{section.3.3}{الگوریتم Bitphylogeny yuan2015bitphylogeny}{chapter.3}% 33
-\BOOKMARK [2][-]{subsection.3.3.1}{پایگاه داده}{section.3.3}% 34
-\BOOKMARK [2][-]{subsection.3.3.2}{معیار ارزیابی}{section.3.3}% 35
-\BOOKMARK [1][-]{section.3.4}{الگوریتم SCITE jahn2016tree}{chapter.3}% 36
-\BOOKMARK [2][-]{subsection.3.4.1}{پایگاه داده}{section.3.4}% 37
-\BOOKMARK [1][-]{section.3.5}{الگوریتم Onconem ross2016onconem}{chapter.3}% 38
-\BOOKMARK [2][-]{subsection.3.5.1}{پایگاه داده}{section.3.5}% 39
-\BOOKMARK [1][-]{section.3.6}{الگوریتم Sasc ciccolella2021inferring}{chapter.3}% 40
-\BOOKMARK [2][-]{subsection.3.6.1}{پایگاه داده: }{section.3.6}% 41
-\BOOKMARK [1][-]{section.3.7}{الگوریتم SCARLET satas2020scarlet}{chapter.3}% 42
-\BOOKMARK [1][-]{section.3.8}{الگوریتم DeepPhylo azer2020tumor}{chapter.3}% 43
-\BOOKMARK [1][-]{section.3.9}{جمع‌بندی}{chapter.3}% 44
-\BOOKMARK [0][-]{chapter.4}{روش پیشنهادی}{}% 45
-\BOOKMARK [1][-]{section.4.1}{مقدمه}{chapter.4}% 46
-\BOOKMARK [1][-]{section.4.2}{معرفی دادگان ورودی}{chapter.4}% 47
-\BOOKMARK [1][-]{section.4.3}{روش پیشنهادی برای مدیریت داده‌های از دست رفته}{chapter.4}% 48
-\BOOKMARK [2][-]{subsection.4.3.1}{روش محاسبه استاتیک}{section.4.3}% 49
-\BOOKMARK [2][-]{subsection.4.3.2}{تصادفی}{section.4.3}% 50
-\BOOKMARK [1][-]{section.4.4}{روش پیشنهادی}{chapter.4}% 51
-\BOOKMARK [2][-]{subsection.4.4.1}{پیش‌پردازش}{section.4.4}% 52
-\BOOKMARK [2][-]{subsection.4.4.2}{اولین پاسخ \(درخت تصادفی\)}{section.4.4}% 53
-\BOOKMARK [2][-]{subsection.4.4.3}{پاسخی جدید}{section.4.4}% 54
-\BOOKMARK [2][-]{subsection.4.4.4}{مقایسه و ارزیابی پاسخ‌ها}{section.4.4}% 55
-\BOOKMARK [3][-]{subsubsection.4.4.4.1}{تبدیل درخت پاسخ به ماتریس}{subsection.4.4.4}% 56
-\BOOKMARK [2][-]{subsection.4.4.5}{یافتن جهش‌های با پتانسیل حذف}{section.4.4}% 57
-\BOOKMARK [3][-]{subsubsection.4.4.5.1}{مقایسه پاسخ فعلی با پاسخ آرمانی}{subsection.4.4.5}% 58
-\BOOKMARK [2][-]{subsection.4.4.6}{پذیرش پاسخ‌های جدید و یافتن بهترین پاسخ}{section.4.4}% 59
-\BOOKMARK [2][-]{subsection.4.4.7}{شبکه هرس‌کننده و بازاتصال کننده}{section.4.4}% 60
-\BOOKMARK [3][-]{subsubsection.4.4.7.1}{ورودی}{subsection.4.4.7}% 61
-\BOOKMARK [3][-]{subsubsection.4.4.7.2}{ساختار شبکه}{subsection.4.4.7}% 62
-\BOOKMARK [1][-]{section.4.5}{جمع‌بندی و نتیجه‌گیری}{chapter.4}% 63
-\BOOKMARK [0][-]{chapter.5}{نتایج تجربی}{}% 64
-\BOOKMARK [1][-]{section.5.1}{پایگاه داده‌های ورودی}{chapter.5}% 65
-\BOOKMARK [2][-]{subsection.5.1.1}{پایگاه داده مصنوعی}{section.5.1}% 66
-\BOOKMARK [3][-]{subsubsection.5.1.1.1}{ساخت درخت تصادفی}{subsection.5.1.1}% 67
-\BOOKMARK [3][-]{subsubsection.5.1.1.2}{تبدیل درخت به ماتریس ژن-سلول}{subsection.5.1.1}% 68
-\BOOKMARK [3][-]{subsubsection.5.1.1.3}{تولید پروفایل‌های تعداد کپی و تعیین جهش‌های مسافر}{subsection.5.1.1}% 69
-\BOOKMARK [3][-]{subsubsection.5.1.1.4}{اضافه کردن نویز به ماتریس ژن-جهش}{subsection.5.1.1}% 70
-\BOOKMARK [2][-]{subsection.5.1.2}{پایگاه داده حقیقی}{section.5.1}% 71
-\BOOKMARK [2][-]{subsection.5.1.3}{آموزش شبکه }{section.5.1}% 72
-\BOOKMARK [1][-]{section.5.2}{نتایج تجربی}{chapter.5}% 73
-\BOOKMARK [2][-]{subsection.5.2.1}{نتایج بر روی پایگاه داده مصنوعی}{section.5.2}% 74
-\BOOKMARK [0][-]{chapter.6}{بحث و نتیجه‌گیری}{}% 75
-\BOOKMARK [1][-]{section.6.1}{نقاط ضعف و قوت روش پیشنهادی}{chapter.6}% 76
-\BOOKMARK [2][-]{subsection.6.1.1}{محدودیت‌ها}{section.6.1}% 77
-\BOOKMARK [1][-]{section.6.2}{گام‌های آتی}{chapter.6}% 78
-\BOOKMARK [2][-]{subsection.6.2.1}{بهبود در ساخت درخت اولیه}{section.6.2}% 79
-\BOOKMARK [2][-]{subsection.6.2.2}{استفاده از ماژول یادگیری تقویتی به‌جای MCMC }{section.6.2}% 80
-\BOOKMARK [2][-]{subsection.6.2.3}{ ارائه یک راهکار مناسب برای به روزرسانی بردار L}{section.6.2}% 81
-\BOOKMARK [0][-]{chapter*.75}{مراجع}{}% 82
-\BOOKMARK [0][-]{appendix.Alph1}{الگوریتم Twin Delayed DDGP}{}% 83
-\BOOKMARK [0][-]{section*.77}{واژه‌نامهٔ فارسی به انگلیسی}{}% 84
-\BOOKMARK [0][-]{section*.106}{واژه‌نامهٔ انگلیسی به فارسی}{}% 85
+\BOOKMARK [2][-]{subsection.2.12.2}{ورود}{section.2.12}% 28
+\BOOKMARK [3][-]{subsubsection.2.12.2.1}{ معادله بلمن}{subsection.2.12.2}% 29
+\BOOKMARK [2][-]{subsection.2.12.3}{deepqlearning}{section.2.12}% 30
+\BOOKMARK [0][-]{chapter.3}{روش‌های پیشین}{}% 31
+\BOOKMARK [1][-]{section.3.1}{مقدمه}{chapter.3}% 32
+\BOOKMARK [1][-]{section.3.2}{مدل کیم و سایمونkim2014using}{chapter.3}% 33
+\BOOKMARK [2][-]{subsection.3.2.1}{پایگاه داده}{section.3.2}% 34
+\BOOKMARK [2][-]{subsection.3.2.2}{معیار ارزیابی}{section.3.2}% 35
+\BOOKMARK [1][-]{section.3.3}{الگوریتم Bitphylogeny yuan2015bitphylogeny}{chapter.3}% 36
+\BOOKMARK [2][-]{subsection.3.3.1}{پایگاه داده}{section.3.3}% 37
+\BOOKMARK [2][-]{subsection.3.3.2}{معیار ارزیابی}{section.3.3}% 38
+\BOOKMARK [1][-]{section.3.4}{الگوریتم SCITE jahn2016tree}{chapter.3}% 39
+\BOOKMARK [2][-]{subsection.3.4.1}{پایگاه داده}{section.3.4}% 40
+\BOOKMARK [1][-]{section.3.5}{الگوریتم Onconem ross2016onconem}{chapter.3}% 41
+\BOOKMARK [2][-]{subsection.3.5.1}{پایگاه داده}{section.3.5}% 42
+\BOOKMARK [1][-]{section.3.6}{الگوریتم Sasc ciccolella2021inferring}{chapter.3}% 43
+\BOOKMARK [2][-]{subsection.3.6.1}{پایگاه داده: }{section.3.6}% 44
+\BOOKMARK [1][-]{section.3.7}{الگوریتم SCARLET satas2020scarlet}{chapter.3}% 45
+\BOOKMARK [1][-]{section.3.8}{الگوریتم DeepPhylo azer2020tumor}{chapter.3}% 46
+\BOOKMARK [1][-]{section.3.9}{جمع‌بندی}{chapter.3}% 47
+\BOOKMARK [0][-]{chapter.4}{روش پیشنهادی}{}% 48
+\BOOKMARK [1][-]{section.4.1}{مقدمه}{chapter.4}% 49
+\BOOKMARK [1][-]{section.4.2}{معرفی دادگان ورودی}{chapter.4}% 50
+\BOOKMARK [1][-]{section.4.3}{روش پیشنهادی برای مدیریت داده‌های از دست رفته}{chapter.4}% 51
+\BOOKMARK [2][-]{subsection.4.3.1}{روش محاسبه استاتیک}{section.4.3}% 52
+\BOOKMARK [2][-]{subsection.4.3.2}{تصادفی}{section.4.3}% 53
+\BOOKMARK [1][-]{section.4.4}{روش پیشنهادی}{chapter.4}% 54
+\BOOKMARK [2][-]{subsection.4.4.1}{پیش‌پردازش}{section.4.4}% 55
+\BOOKMARK [2][-]{subsection.4.4.2}{اولین پاسخ \(درخت تصادفی\)}{section.4.4}% 56
+\BOOKMARK [2][-]{subsection.4.4.3}{پاسخی جدید}{section.4.4}% 57
+\BOOKMARK [2][-]{subsection.4.4.4}{مقایسه و ارزیابی پاسخ‌ها}{section.4.4}% 58
+\BOOKMARK [3][-]{subsubsection.4.4.4.1}{تبدیل درخت پاسخ به ماتریس}{subsection.4.4.4}% 59
+\BOOKMARK [2][-]{subsection.4.4.5}{یافتن جهش‌های با پتانسیل حذف}{section.4.4}% 60
+\BOOKMARK [3][-]{subsubsection.4.4.5.1}{مقایسه پاسخ فعلی با پاسخ آرمانی}{subsection.4.4.5}% 61
+\BOOKMARK [2][-]{subsection.4.4.6}{پذیرش پاسخ‌های جدید و یافتن بهترین پاسخ}{section.4.4}% 62
+\BOOKMARK [2][-]{subsection.4.4.7}{شبکه هرس‌کننده و بازاتصال کننده}{section.4.4}% 63
+\BOOKMARK [3][-]{subsubsection.4.4.7.1}{ورودی}{subsection.4.4.7}% 64
+\BOOKMARK [3][-]{subsubsection.4.4.7.2}{ساختار شبکه}{subsection.4.4.7}% 65
+\BOOKMARK [1][-]{section.4.5}{جمع‌بندی و نتیجه‌گیری}{chapter.4}% 66
+\BOOKMARK [0][-]{chapter.5}{نتایج تجربی}{}% 67
+\BOOKMARK [1][-]{section.5.1}{پایگاه داده‌های ورودی}{chapter.5}% 68
+\BOOKMARK [2][-]{subsection.5.1.1}{پایگاه داده مصنوعی}{section.5.1}% 69
+\BOOKMARK [3][-]{subsubsection.5.1.1.1}{ساخت درخت تصادفی}{subsection.5.1.1}% 70
+\BOOKMARK [3][-]{subsubsection.5.1.1.2}{تبدیل درخت به ماتریس ژن-سلول}{subsection.5.1.1}% 71
+\BOOKMARK [3][-]{subsubsection.5.1.1.3}{تولید پروفایل‌های تعداد کپی و تعیین جهش‌های مسافر}{subsection.5.1.1}% 72
+\BOOKMARK [3][-]{subsubsection.5.1.1.4}{اضافه کردن نویز به ماتریس ژن-جهش}{subsection.5.1.1}% 73
+\BOOKMARK [2][-]{subsection.5.1.2}{پایگاه داده حقیقی}{section.5.1}% 74
+\BOOKMARK [2][-]{subsection.5.1.3}{آموزش شبکه }{section.5.1}% 75
+\BOOKMARK [1][-]{section.5.2}{نتایج تجربی}{chapter.5}% 76
+\BOOKMARK [2][-]{subsection.5.2.1}{نتایج بر روی پایگاه داده مصنوعی}{section.5.2}% 77
+\BOOKMARK [0][-]{chapter.6}{بحث و نتیجه‌گیری}{}% 78
+\BOOKMARK [1][-]{section.6.1}{نقاط ضعف و قوت روش پیشنهادی}{chapter.6}% 79
+\BOOKMARK [2][-]{subsection.6.1.1}{محدودیت‌ها}{section.6.1}% 80
+\BOOKMARK [1][-]{section.6.2}{گام‌های آتی}{chapter.6}% 81
+\BOOKMARK [2][-]{subsection.6.2.1}{بهبود در ساخت درخت اولیه}{section.6.2}% 82
+\BOOKMARK [2][-]{subsection.6.2.2}{استفاده از ماژول یادگیری تقویتی به‌جای MCMC }{section.6.2}% 83
+\BOOKMARK [2][-]{subsection.6.2.3}{ ارائه یک راهکار مناسب برای به روزرسانی بردار L}{section.6.2}% 84
+\BOOKMARK [0][-]{chapter*.77}{مراجع}{}% 85
+\BOOKMARK [0][-]{appendix.Alph1}{الگوریتم Twin Delayed DDGP}{}% 86
+\BOOKMARK [0][-]{section*.79}{واژه‌نامهٔ فارسی به انگلیسی}{}% 87
+\BOOKMARK [0][-]{section*.108}{واژه‌نامهٔ انگلیسی به فارسی}{}% 88
