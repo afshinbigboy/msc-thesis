@@ -1,11 +1,19 @@
 ;; This logfile was generated automatically by `xindy'
-;; at 28.08.2021  12:12:26
-;; Indexstyle: "/var/folders/b0/rzwm_fmx68v24nxtr096b_dw0000gn/T/lkVzCvk7fQ", Rawindex: "/var/folders/b0/rzwm_fmx68v24nxtr096b_dw0000gn/T/KzlA8o7ZKk", Output: "main.gls"
+;; at 03.09.2021  16:22:41
+;; Indexstyle: "/var/folders/b0/rzwm_fmx68v24nxtr096b_dw0000gn/T/0nbLGYxCa3", Rawindex: "/var/folders/b0/rzwm_fmx68v24nxtr096b_dw0000gn/T/KJmmIXcanJ", Output: "main.gls"
 
 
 Building indexentry-tree:
 Hierdepth of index is :TREE
 
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
 sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
 sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
 sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
@@ -293,6 +301,14 @@ Letter-group: "´µ¢µ¦" -> "S"
 Letter-group: "­°¯¨ ´©°³µ µ¦³® ®¦®°³º (­´µ®)" -> "L"
 Letter-group: "¤°¯¤¢µ¦¯¢µª°¯" -> "C"
 Letter-group: "¨¢µ¦" -> "G"
+Letter-group: "¶¯´¶±¦³·ª´¦¥" -> "U"
+Letter-group: "´¶±¦³·ª´¦¥ ­¦¢³¯ª¯¨" -> "S"
+Letter-group: "¦¯·ª³°¯®¦¯µ" -> "E"
+Letter-group: "¢¨¦¯µ" -> "A"
+Letter-group: "®¢³¬°· ¥¦¤ª´ª°¯ ±³°¤¦´´" -> "M"
+Letter-group: "µ¦®±°³¢­ ¥ª§§¦³¦¯¤¦" -> "T"
+Letter-group: "¥¦¦± ²­¦¢³¯ª¯¨" -> "D"
+Letter-group: "´µ°¤©¢´µª¤ ¨³¢¥ª¦¯µ ¥¦´¤¦¯µ" -> "S"
 Letter-group: "±©º­°¨¦¯º µ³¦¦" -> "P"
 Letter-group: "®¢¹ª®¶®­ª¬¦­ª©°°¥" -> "M"
 Letter-group: "¢­­¦­¦ ¥³°±°¶µ" -> "A"
@@ -377,7 +393,7 @@ Letter-group: "³¢¥ª°­°¨ª´µ" -> "R"
 sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
 Letter-group: "´¦¨®¦¯µ¢µª°¯" -> "S"
 sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: "µ©³°®£°¤ºµ©¦®ª¢" -> "T"
+Letter-group: "µ¦®±°³¢­ ¥ª§§¦³¦¯¤¦" -> "T"
 sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
 Letter-group: "¶¯ª§°³®" -> "U"
 sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
