@@ -79,16 +79,18 @@
 \contentsline {subsection}{\numberline {5.1.3}آموزش شبکه }{109}{subsection.5.1.3}%
 \contentsline {section}{\numberline {5.2}نتایج تجربی}{113}{section.5.2}%
 \contentsline {subsection}{\numberline {5.2.1}نتایج بر روی پایگاه داده مصنوعی}{113}{subsection.5.2.1}%
-\contentsline {chapter}{\numberline {6}بحث و نتیجه‌گیری}{119}{chapter.6}%
-\contentsline {section}{\numberline {6.1}نقاط ضعف و قوت روش پیشنهادی}{120}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}محدودیت‌ها}{121}{subsection.6.1.1}%
-\contentsline {section}{\numberline {6.2}گام‌های آتی}{121}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}بهبود در ساخت درخت اولیه}{122}{subsection.6.2.1}%
-\contentsline {subsection}{\numberline {6.2.2}استفاده از ماژول یادگیری تقویتی به‌جای \lr {MCMC} }{122}{subsection.6.2.2}%
-\contentsline {subsection}{\numberline {6.2.3} ارائه یک راهکار مناسب برای به روزرسانی بردار $\mathcal {L}$}{122}{subsection.6.2.3}%
-\contentsline {chapter}{مراجع}{123}{chapter*.78}%
+\contentsline {subsubsection}{\numberline {5.2.1.1}مقایسه دقت بازسازی با توجه به تغییر پارامترها}{115}{subsubsection.5.2.1.1}%
+\contentsline {subsection}{\numberline {5.2.2}نتایج بر روی داده‌های حقیقی}{122}{subsection.5.2.2}%
+\contentsline {chapter}{\numberline {6}بحث و نتیجه‌گیری}{125}{chapter.6}%
+\contentsline {section}{\numberline {6.1}نقاط ضعف و قوت روش پیشنهادی}{126}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}محدودیت‌ها}{127}{subsection.6.1.1}%
+\contentsline {section}{\numberline {6.2}گام‌های آتی}{127}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}بهبود در ساخت درخت اولیه}{128}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}استفاده از ماژول یادگیری تقویتی به‌جای \lr {MCMC} }{128}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3} ارائه یک راهکار مناسب برای به روزرسانی بردار $\mathcal {L}$}{128}{subsection.6.2.3}%
+\contentsline {chapter}{مراجع}{129}{chapter*.86}%
  \renewcommand \cftchappresnum {پیوست\nobreakspace {}}\setlength {\cftchapnumwidth }{\mylenapp }
-\contentsline {chapter}{\numberline {آ}الگوریتم \lr {Twin Delayed DDGP}}{131}{appendix.Alph1}%
-\contentsline {chapter}{واژه‌نامهٔ فارسی به انگلیسی}{اول}{section*.80}%
-\contentsline {chapter}{واژه‌نامهٔ انگلیسی به فارسی}{هفتم}{section*.109}%
-\contentsline {paragraph}{Keywords}{چهاردهم}{section*.134}%
+\contentsline {chapter}{\numberline {آ}الگوریتم \lr {Twin Delayed DDGP}}{137}{appendix.Alph1}%
+\contentsline {chapter}{واژه‌نامهٔ فارسی به انگلیسی}{اول}{section*.88}%
+\contentsline {chapter}{واژه‌نامهٔ انگلیسی به فارسی}{هفتم}{section*.117}%
+\contentsline {paragraph}{Keywords}{چهاردهم}{section*.142}%

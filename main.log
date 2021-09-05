@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  3 SEP 2021 16:22
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  5 SEP 2021 20:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1780,7 +1780,9 @@ Package: transparent 2019/11/29 v1.4 Transparency via pdfTeX's color stack (HO)
 Package transparent Warning: Loading aborted, because pdfTeX is not running in 
 PDF mode.
 
-) (/usr/local/texlive/2020/texmf-dist/tex/latex/pgfplots/pgfplots.sty
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 386.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/pgfplots/pgfplots.sty
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
 Package: pgfplots 2020/02/29 v1.17 Data Visualization (1.17)
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
@@ -1944,6 +1946,9 @@ LaTeX Warning: Label `sub@fig:D_mt_N30_M20_Z1_G0.15' multiply defined.
 
 LaTeX Warning: Label `fig:D_mt_N30_M20_Z1_G0.15' multiply defined.
 
+
+LaTeX Warning: Label `fig:ch_er:comp_change_alpha' multiply defined.
+
 ) (./tex/chaps/con/chap-con.aux) (./tex/appxs/app_td3.aux)
 
 LaTeX Warning: Label `LastPage' multiply defined.
@@ -2020,7 +2025,7 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
 (lastpage)             ! on input line 45.
 \AtBeginShipoutBox=\box77
-Package hyperref Info: Link coloring OFF on input line 45.
+Package hyperref Info: Link coloring ON on input line 45.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
@@ -2821,7 +2826,7 @@ Underfull \vbox (badness 1616) has occurred while \output is active []
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
-Make it at least 14.42422pt.
+Make it at least 14.38907pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
@@ -2933,7 +2938,7 @@ Underfull \vbox (badness 3039) has occurred while \output is active []
 \openout5 = `main.mw'.
 
 LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 91.
+(Font)              scaled to size 12.0pt on input line 93.
 )
 \tf@toc=\write25
 \openout5 = `main.toc'.
@@ -8369,28 +8374,12 @@ Overfull \hbox (0.8531pt too wide) in paragraph at lines 434--435
 \openout5 = `main.mw'.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1303) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
  [97]
 (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -8443,18 +8432,34 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 \openout2 = `./tex/chaps/er/chap-er.aux'.
 
  (./tex/chaps/er/chap-er.tex
 فصل 5.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/m/n' will be
-(Font)              scaled to size 17.27994pt on input line 19.
+(Font)              scaled to size 17.27994pt on input line 17.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/bx/n' will be
-(Font)              scaled to size 17.27994pt on input line 19.
+(Font)              scaled to size 17.27994pt on input line 17.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/m/it' will be
-(Font)              scaled to size 17.27994pt on input line 19.
+(Font)              scaled to size 17.27994pt on input line 17.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/m/n' will be
-(Font)              scaled to size 11.99997pt on input line 19.
+(Font)              scaled to size 11.99997pt on input line 17.
 
 Underfull \vbox (badness 5970) has occurred while \output is active []
 
@@ -8478,7 +8483,7 @@ Underfull \vbox (badness 5970) has occurred while \output is active []
 
 
 
-Package Fancyhdr Warning: \headheight is too small (14.42422pt): 
+Package Fancyhdr Warning: \headheight is too small (14.38907pt): 
 Make it at least 14.86447pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
@@ -8611,7 +8616,7 @@ File: img/dataset/s/Dm_zeta=1_gamma=0.15_alpha=0.01_beta=0.1_MR=0.02_N=30_M=20.
 png Graphic file (type bmp)
 <img/dataset/s/Dm_zeta=1_gamma=0.15_alpha=0.01_beta=0.1_MR=0.02_N=30_M=20.png>
 
-Underfull \hbox (badness 1152) in paragraph at lines 228--228
+Underfull \hbox (badness 1152) in paragraph at lines 226--226
 [][]\TU/IRLotusICEE.ttf(1)/m/n/10 (ج) |ماتریس نویزی به همراه داده‌های از[]
  []
 
@@ -8737,7 +8742,7 @@ File: img/chaps/er/initial_s_tree.png Graphic file (type bmp)
 
 Package amsmath Warning: Foreign command \over;
 (amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 1025.
+(amsmath)                 on input line 378.
 
 File: img/chaps/er/SCITE_s_tree.png Graphic file (type bmp)
 <img/chaps/er/SCITE_s_tree.png>
@@ -8752,14 +8757,26 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: img/chaps/er/PM_s_tree.png Graphic file (type bmp)
 <img/chaps/er/PM_s_tree.png>
+
+Overfull \hbox (2.36829pt too wide) in paragraph at lines 393--394
+ [][][][][][] 
+ []
+
 File: img/chaps/er/PM_s_chart.png Graphic file (type bmp)
 <img/chaps/er/PM_s_chart.png>
 File: img/chaps/er/comp_pm_scite.png Graphic file (type bmp)
 <img/chaps/er/comp_pm_scite.png>
-)
+File: img/chaps/er/comp_change_N.png Graphic file (type bmp)
+<img/chaps/er/comp_change_N.png>
+File: img/chaps/er/comp_change_M.png Graphic file (type bmp)
+<img/chaps/er/comp_change_M.png>
 \openout5 = `main.mw'.
 
- [115] (./main.mw)
+[115] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 \openout5 = `main.mw'.
 
 
@@ -8771,31 +8788,95 @@ LaTeX Warning: Text page 116 contains only floats.
 [116] (./main.mw)
 \openout5 = `main.mw'.
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 \openout5 = `main.mw'.
 
- [117] (./main.mw)
+ [117]
+(./main.mw)
 \openout5 = `main.mw'.
 
+File: img/chaps/er/comp_change_alpha.png Graphic file (type bmp)
+<img/chaps/er/comp_change_alpha.png>
 \openout5 = `main.mw'.
 
  [118] (./main.mw)
 \openout5 = `main.mw'.
 
+File: img/chaps/er/comp_change_beta.png Graphic file (type bmp)
+<img/chaps/er/comp_change_beta.png>
+File: img/chaps/er/comp_change_MR_pwd.png Graphic file (type bmp)
+<img/chaps/er/comp_change_MR_pwd.png>
+File: img/chaps/er/comp_change_MR_me.png Graphic file (type bmp)
+<img/chaps/er/comp_change_MR_me.png>
+
+Underfull \vbox (badness 1603) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+ [119]
+(./main.mw)
+\openout5 = `main.mw'.
+
+File: img/chaps/er/pm.png Graphic file (type bmp)
+<img/chaps/er/pm.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+ [120]
+(./main.mw)
+\openout5 = `main.mw'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+ [121]
+(./main.mw)
+\openout5 = `main.mw'.
+
+File: img/chaps/er/navin.png Graphic file (type bmp)
+<img/chaps/er/navin.png>
+\openout5 = `main.mw'.
+
+ [122] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+)
+\openout5 = `main.mw'.
+
+ [123] (./main.mw)
+\openout5 = `main.mw'.
+
 \openout2 = `./tex/chaps/con/chap-con.aux'.
 
+ (./tex/chaps/con/chap-con.tex
+\openout5 = `main.mw'.
 
-(./tex/chaps/con/chap-con.tex
+
+[124
+
+
+
+] (./main.mw)
+\openout5 = `main.mw'.
+
+
 فصل 6.
 
 Underfull \vbox (badness 6412) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [119
-
-
-
-]
+ [125]
 (./main.mw)
 \openout5 = `main.mw'.
 
@@ -8805,7 +8886,7 @@ Underfull \vbox (badness 6412) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [120] (./main.mw)
+ [126] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -8814,7 +8895,7 @@ Underfull \vbox (badness 6412) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [121] (./main.mw)
+ [127] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -8837,7 +8918,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 )
 \openout5 = `main.mw'.
 
- [122] (./main.mw)
+ [128] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -8867,7 +8948,7 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/it' will be
 (Font)              scaled to size 10.95pt on input line 47.
 \openout5 = `main.mw'.
 
-[123
+[129
 
 
 ] (./main.mw)
@@ -8879,34 +8960,34 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/it' will be
 
 \openout5 = `main.mw'.
 
- [124] (./main.mw)
+ [130] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
- [125] (./main.mw)
+ [131] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
- [126] (./main.mw)
+ [132] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
 
-[127] (./main.mw)
+[133] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
- [128] (./main.mw)
+ [134] (./main.mw)
 \openout5 = `main.mw'.
 
 )
 \openout5 = `main.mw'.
 
- [129] (./main.mw)
+ [135] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout2 = `./tex/appxs/app_td3.aux'.
@@ -8914,7 +8995,7 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/it' will be
  (./tex/appxs/app_td3.tex
 \openout5 = `main.mw'.
 
-[130
+[136
 
 
 ] (./main.mw)
@@ -8929,7 +9010,7 @@ File: ./img/chaps/lr/td3_alg.pdf Graphic file (type pdf)
 )
 \openout5 = `main.mw'.
 
- [131] (./main.mw)
+ [137] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -8945,7 +9026,7 @@ This may cause the page layout to be inconsistent, however.
 
 \openout5 = `main.mw'.
 
-[132] (./main.mw)
+[138] (./main.mw)
 \openout5 = `main.mw'.
 
  (./main.bls
@@ -9813,6 +9894,46 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 137.
 
 \openout5 = `main.mw'.
 
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 )
 (./tex/chaps/con/chap-con.aux
 \openout5 = `main.mw'.
@@ -9896,7 +10017,7 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 137.
 \openout5 = `main.out'.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 1F7311353E99630AC4B9226688CE834C;7635.
+(rerunfilecheck)             Checksum: 1290671EEB5FEB0939526EEFA384406E;7887.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -9927,12 +10048,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 63712 strings out of 479418
- 1444387 string characters out of 5884586
- 3625868 words of memory out of 5000000
- 79572 multiletter control sequences out of 15000+600000
+ 63826 strings out of 479418
+ 1447407 string characters out of 5884586
+ 3626842 words of memory out of 5000000
+ 79667 multiletter control sequences out of 15000+600000
  548421 words of font info for 160 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  71i,20n,109p,4821b,2229s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (179 pages).
+Output written on main.pdf (185 pages).

@@ -83,6 +83,14 @@
 \contentsline {figure}{\numberline {5.12}{\ignorespaces ‌نتیجه استنتاج درخت فیلوژنی با روش پیشنهادی ارائه شده برای ماتریس شکل \ref *{fig:sy_D1}\relax }}{117}{figure.caption.75}%
 \contentsline {figure}{\numberline {5.13}{\ignorespaces ‌نتیجه اجرای روش پیشنهادی ارائه شده برای ماتریس شکل \ref *{fig:sy_D1}\relax }}{118}{figure.caption.76}%
 \contentsline {figure}{\numberline {5.14}{\ignorespaces ‌مقایسه روش پیشنهادی با روش پایه \lr {scite} با پارامترهای $\alpha =0.005, \beta =0.03, M=15$\relax }}{118}{figure.caption.77}%
+\contentsline {figure}{\numberline {5.15}{\ignorespaces ‌مقایسه روش پیشنهادی با توجه به تغییر پارامتر $N$\relax }}{119}{figure.caption.78}%
+\contentsline {figure}{\numberline {5.16}{\ignorespaces ‌مقایسه روش پیشنهادی با توجه به تغییر پارامتر $M$\relax }}{119}{figure.caption.79}%
+\contentsline {figure}{\numberline {5.17}{\ignorespaces ‌مقایسه روش پیشنهادی با توجه به تغییر پارامتر $\alpha $\relax }}{120}{figure.caption.80}%
+\contentsline {figure}{\numberline {5.18}{\ignorespaces ‌مقایسه روش پیشنهادی با توجه به تغییر پارامتر $\beta $\relax }}{120}{figure.caption.81}%
+\contentsline {figure}{\numberline {5.19}{\ignorespaces ‌مقایسه روش پیشنهادی با توجه به تغییر پارامتر $MR$ در دقت میانگین فواصل بین جهش‌ها در درخت فیلوژنی\relax }}{121}{figure.caption.82}%
+\contentsline {figure}{\numberline {5.20}{\ignorespaces ‌مقایسه روش پیشنهادی با توجه به تغییر پارامتر $MR$ در مقدار میانگین خطا\relax }}{121}{figure.caption.83}%
+\contentsline {figure}{\numberline {5.21}{\ignorespaces درخت بدست داده‌های حقیقی مورد استفاده مقاله \cite {davis2016computing} توسط روش پیشنهادی\relax }}{122}{figure.caption.84}%
+\contentsline {figure}{\numberline {5.22}{\ignorespaces درخت بدست آمده در مقاله \lr {SCITE}\relax }}{123}{figure.caption.85}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {آ.1}{\ignorespaces الگوریتم \lr {Twin Delayed DDGP} \cite {fujimoto2018addressing}. برگرفته از \lr {\href {https://spinningup.openai.com/en/latest/algorithms/td3.html}{OpenAI}}\relax }}{132}{figure.caption.79}%
+\contentsline {figure}{\numberline {آ.1}{\ignorespaces الگوریتم \lr {Twin Delayed DDGP} \cite {fujimoto2018addressing}. برگرفته از \lr {\href {https://spinningup.openai.com/en/latest/algorithms/td3.html}{OpenAI}}\relax }}{138}{figure.caption.87}%
