@@ -1,6 +1,6 @@
 ;; This logfile was generated automatically by `xindy'
-;; at 03.09.2021  16:22:43
-;; Indexstyle: "/var/folders/b0/rzwm_fmx68v24nxtr096b_dw0000gn/T/4Lp18MFw95", Rawindex: "/var/folders/b0/rzwm_fmx68v24nxtr096b_dw0000gn/T/oTDoqytzM_", Output: "main.acr"
+;; at 09.09.2021  18:05:42
+;; Indexstyle: "/var/folders/b0/rzwm_fmx68v24nxtr096b_dw0000gn/T/52_pYUawuM", Rawindex: "/var/folders/b0/rzwm_fmx68v24nxtr096b_dw0000gn/T/QoVofWjo__", Output: "main.acr"
 
 
 Building indexentry-tree:

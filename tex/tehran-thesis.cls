@@ -372,7 +372,7 @@
 \fi
 \ifx\@secondsupervisor\undefined%
 \else \stepcounter{davaranCounter}
-\arabic{davaranCounter} &	استاد راهنما & \@secondsupervisor & \@secondsupervisorrank & دانشگاه تهران & \rule[-.3\baselineskip]{0pt}{2\normalbaselineskip} \\
+\arabic{davaranCounter} &	استاد راهنما & \@secondsupervisor & \@secondsupervisorrank & دانشگاه صنعتی شریف & \rule[-.3\baselineskip]{0pt}{2\normalbaselineskip} \\
 \fi
 \hline
 \ifx\@firstadvisor\undefined%

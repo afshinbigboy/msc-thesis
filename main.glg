@@ -1,11 +1,19 @@
 ;; This logfile was generated automatically by `xindy'
-;; at 03.09.2021  16:22:41
-;; Indexstyle: "/var/folders/b0/rzwm_fmx68v24nxtr096b_dw0000gn/T/0nbLGYxCa3", Rawindex: "/var/folders/b0/rzwm_fmx68v24nxtr096b_dw0000gn/T/KJmmIXcanJ", Output: "main.gls"
+;; at 09.09.2021  18:05:40
+;; Indexstyle: "/var/folders/b0/rzwm_fmx68v24nxtr096b_dw0000gn/T/82QdfST3ed", Rawindex: "/var/folders/b0/rzwm_fmx68v24nxtr096b_dw0000gn/T/VkZJ9E7VVQ", Output: "main.gls"
 
 
 Building indexentry-tree:
 Hierdepth of index is :TREE
 
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
 sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
 sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
 sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
@@ -239,8 +247,18 @@ Letter-group: "´ª¯¨­¦ ´°®¢µª¤ ®¶µ¢µª°¯" -> "S"
 Letter-group: "¤°±º ¯¶®£¦³ ¢­µ¦³¢µª°¯" -> "C"
 Letter-group: "´¶³³°¶¯¥ª¯¨ ´µ³°®¢" -> "S"
 Letter-group: "ª¯§ª­µ³¢µª¯¨ ª®®¶¯¦ ¤¦­­" -> "I"
+Letter-group: "¢¯¤¦´µ³º" -> "A"
+Letter-group: "©¦µ¦³°»º¨°¶´" -> "H"
+Letter-group: "±°­º®°³±©ª´®" -> "P"
+Letter-group: "­ª¯¦¢¨¦" -> "L"
+Letter-group: "µ³¢¯´¤³ª±µ°®¦" -> "T"
+Letter-group: "¥¦­ª¯¦¢µ¦" -> "D"
+Letter-group: "¥ª´µª¯¨¶ª´©" -> "D"
+Letter-group: "¤°·¦³¢¨¦" -> "C"
 Letter-group: "¢­­¦­¦¤ ¥³°±°¶µ" -> "A"
 Letter-group: "®¢±±ª¯¨" -> "M"
+Letter-group: "§¢­´¦ ¯¦¨¢µª·¦" -> "F"
+Letter-group: "§¢­´¦ ±°´ªµª·¦" -> "F"
 Letter-group: "®¢³¬°· ¤©¢ª¯ ®°¯µ¦ ¤¢³­° (®¤®¤)" -> "M"
 Letter-group: "£¢º¦´ª¢¯" -> "B"
 Letter-group: "³¦ª¯§°³¤¦®¦¯µ ­¦¢³¯ª¯¨" -> "R"
@@ -249,7 +267,6 @@ Letter-group: "¤°®±¶µ¦³ ·ª´ª°¯" -> "C"
 Letter-group: "¢³µª§ª¤ª¢­ ª¯µ¦­­ª¨¦¯¤¦ (¢ª)" -> "A"
 Letter-group: "®¢®®°¨³¢®" -> "M"
 Letter-group: "£³¦¢´µ ¤¢¯¤¦³" -> "B"
-Letter-group: "§¢­´¦ ±°´ªµª·¦" -> "F"
 Letter-group: "³¢¥ª°­°¨ª´µ" -> "R"
 Letter-group: "ª®¢¨ª¯¨ ®°¥¢­ªµº" -> "I"
 Letter-group: "¥¦¦± ­¦¢³¯ª¯¨" -> "D"
@@ -318,7 +335,6 @@ Letter-group: "­¦¢·¦ °¯¦ °¶µ ¤³°´´ ·¢­ª¥¢µª°¯" -> "L"
 Letter-group: "¤³°´´ ·¢­ª¥¢µª°¯" -> "C"
 Letter-group: "£¶­¬ ´¦²¶¦¯¤ª¯¨" -> "B"
 Letter-group: "£ª¯¢³º" -> "B"
-Letter-group: "§¢­´¦ ¯¦¨¢µª·¦" -> "F"
 Letter-group: "©ª¦³¢³¤©ª¤¢­ ¤­¶´µ¦³ª¯¨" -> "H"
 Letter-group: "¬¤¦¯µ³°ª¥´" -> "K"
 Letter-group: "¢¤¤¶³¢¤º" -> "A"

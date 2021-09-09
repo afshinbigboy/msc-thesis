@@ -145,6 +145,27 @@ Burrell, Rebecca~A and Swanton, Charles.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{butler2008array}
+Butler, Merlin~G, Fischer, William, Kibiryeva, Nataliya, and Bittel, Douglas~C.
+\newblock Array comparative genomic hybridization (acgh) analysis in
+  prader--willi syndrome.
+\newblock {\em American Journal of Medical Genetics Part A}, 146(7):854--860,
+  2008.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{chan2017gene}
+Chan, Thalia~E, Stumpf, Michael~PH, and Babtie, Ann~C.
+\newblock Gene regulatory network inference from single-cell data using
+  multivariate information measures.
+\newblock {\em Cell systems}, 5(3):251--267, 2017.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{chen2012personal}
 Chen, Rui, Mias, George~I, Li-Pook-Than, Jennifer, Jiang, Lihua, Lam, Hugo~YK,
   Chen, Rong, Miriami, Elana, Karczewski, Konrad~J, Hariharan, Manoj, Dewey,
@@ -294,6 +315,17 @@ Fukushima, Kunihiko.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{garvin2015interactive}
+Garvin, Tyler, Aboukhalil, Robert, Kendall, Jude, Baslan, Timour, Atwal,
+  Gurinder~S, Hicks, James, Wigler, Michael, and Schatz, Michael~C.
+\newblock Interactive analysis and assessment of single-cell copy-number
+  variations.
+\newblock {\em Nature methods}, 12(11):1058--1060, 2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{gelman2011inference}
 Gelman, Andrew, Shirley, Kenneth, et~al.
 \newblock Inference from simulations and monitoring convergence.
@@ -310,6 +342,16 @@ Gerlinger, Marco, Rowan, Andrew~J, Horswell, Stuart, Larkin, James,
 \newblock Intratumor heterogeneity and branched evolution revealed by
   multiregion sequencing.
 \newblock {\em N Engl j Med}, 366:883--892, 2012.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{gori2016clustering}
+Gori, Kevin, Suchan, Tomasz, Alvarez, Nadir, Goldman, Nick, and Dessimoz,
+  Christophe.
+\newblock Clustering genes of common evolutionary history.
+\newblock {\em Molecular biology and evolution}, 33(6):1590--1605, 2016.
 
 \end{LTRbibitems}
 
@@ -444,6 +486,16 @@ Lee, Kyung-Hwa, Lee, Ji-Shin, Nam, Jong-Hee, Choi, Chan, Lee, Min-Cheol, Park,
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{lemey2009phylogenetic}
+Lemey, Philippe, Salemi, Marco, and Vandamme, Anne-Mieke.
+\newblock {\em The phylogenetic handbook: a practical approach to phylogenetic
+  analysis and hypothesis testing}.
+\newblock Cambridge University Press, 2009.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{malikic2015clonality}
 Malikic, Salem, McPherson, Andrew~W, Donmez, Nilgun, and Sahinalp, Cenk~S.
 \newblock Clonality inference in multiple tumor samples using phylogeny.
@@ -489,6 +541,14 @@ Nik-Zainal, Serena, Van~Loo, Peter, Wedge, David~C, Alexandrov, Ludmil~B,
 Nowell, Peter~C.
 \newblock The clonal evolution of tumor cell populations.
 \newblock {\em Science}, 194(4260):23--28, 1976.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{pennisi2012single}
+Pennisi, Elizabeth.
+\newblock Single-cell sequencing tackles basic and biomedical questions, 2012.
 
 \end{LTRbibitems}
 
@@ -659,6 +719,15 @@ Waclaw, Bartlomiej, Bozic, Ivana, Pittman, Meredith~E, Hruban, Ralph~H,
 \newblock A spatial model predicts that dispersal and cell turnover limit
   intratumour heterogeneity.
 \newblock {\em Nature}, 525(7568):261--264, 2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{wen2018boosting}
+Wen, Lu and Tang, Fuchou.
+\newblock Boosting the power of single-cell analysis.
+\newblock {\em Nature biotechnology}, 36(5):408--409, 2018.
 
 \end{LTRbibitems}
 

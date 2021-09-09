@@ -10,87 +10,94 @@
 \contentsline {section}{\numberline {2.2}\gls {tumorevolution}}{8}{section.2.2}%
 \contentsline {section}{\numberline {2.3}تکنولوژی‌های توالی‌یابی و \gls {variantallelefrequency}}{9}{section.2.3}%
 \contentsline {section}{\numberline {2.4}ناهمگنی ژنومی تومور}{10}{section.2.4}%
-\contentsline {section}{\numberline {2.5}بازسازی زیر کلونال }{13}{section.2.5}%
+\contentsline {section}{\numberline {2.5}بازسازی زیر کلونال}{13}{section.2.5}%
 \contentsline {section}{\numberline {2.6}تغییرات تعداد کپی}{15}{section.2.6}%
-\contentsline {section}{\numberline {2.7}جهش‌های ساده بدنی }{17}{section.2.7}%
-\contentsline {section}{\numberline {2.8}\gls {allelecdropout}}{18}{section.2.8}%
-\contentsline {section}{\numberline {2.9}مقدمه‌ای بر مدل‌سازی احتمالی }{19}{section.2.9}%
-\contentsline {subsection}{\numberline {2.9.1}\gls {markovchainmontecarlo}}{20}{subsection.2.9.1}%
-\contentsline {section}{\numberline {2.10}\gls {machinelearning} و \gls {reinforcementlearning}}{22}{section.2.10}%
-\contentsline {section}{\numberline {2.11}شبکه‌های عصبی بازگشتی}{31}{section.2.11}%
-\contentsline {subsection}{\numberline {2.11.1}شبکه عصبی بازگشتی چیست؟}{32}{subsection.2.11.1}%
-\contentsline {subsection}{\numberline {2.11.2}مزایای \gls {rnn}}{33}{subsection.2.11.2}%
-\contentsline {subsection}{\numberline {2.11.3}معایب \gls {rnn}}{33}{subsection.2.11.3}%
-\contentsline {subsection}{\numberline {2.11.4}کاربردهای \gls {rnn}}{34}{subsection.2.11.4}%
-\contentsline {subsection}{\numberline {2.11.5}انواع \gls {rnn}}{34}{subsection.2.11.5}%
-\contentsline {subsection}{\numberline {2.11.6}حافظه‌ی کوتاه‌مدت بلند (\lr {LSTM})}{35}{subsection.2.11.6}%
-\contentsline {section}{\numberline {2.12}\gls {reinforcementlearning}}{41}{section.2.12}%
-\contentsline {subsection}{\numberline {2.12.1}مقدمه و بیشینه تاریخی}{41}{subsection.2.12.1}%
-\contentsline {subsection}{\numberline {2.12.2}مفاهیم و تعاریف}{42}{subsection.2.12.2}%
-\contentsline {subsubsection}{\numberline {2.12.2.1} معادله بلمن}{43}{subsubsection.2.12.2.1}%
-\contentsline {subsubsection}{\numberline {2.12.2.2}\glspl {mdp}}{44}{subsubsection.2.12.2.2}%
-\contentsline {subsection}{\numberline {2.12.3}یادگیری-\lr {Q}}{44}{subsection.2.12.3}%
-\contentsline {subsubsection}{\numberline {2.12.3.1}\gls {temporaldifference}}{45}{subsubsection.2.12.3.1}%
-\contentsline {subsection}{\numberline {2.12.4}\gls {deepqlearning}}{46}{subsection.2.12.4}%
-\contentsline {chapter}{\numberline {3}روش‌های پیشین}{51}{chapter.3}%
-\contentsline {section}{\numberline {3.1}مقدمه}{51}{section.3.1}%
-\contentsline {section}{\numberline {3.2}مدل کیم و سایمون\cite {kim2014using}}{51}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}پایگاه داده}{54}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}معیار ارزیابی}{55}{subsection.3.2.2}%
-\contentsline {section}{\numberline {3.3}الگوریتم \lr {Bitphylogeny} \cite {yuan2015bitphylogeny}}{55}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}پایگاه داده}{56}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}معیار ارزیابی}{57}{subsection.3.3.2}%
-\contentsline {section}{\numberline {3.4}الگوریتم \lr {SCITE} \cite {jahn2016tree}}{58}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}پایگاه داده}{61}{subsection.3.4.1}%
-\contentsline {section}{\numberline {3.5}الگوریتم \lr {Onconem} \cite {ross2016onconem}}{62}{section.3.5}%
-\contentsline {subsection}{\numberline {3.5.1}پایگاه داده}{64}{subsection.3.5.1}%
-\contentsline {section}{\numberline {3.6}الگوریتم \lr {Sasc} \cite {ciccolella2021inferring}}{64}{section.3.6}%
-\contentsline {subsection}{\numberline {3.6.1}پایگاه داده: }{65}{subsection.3.6.1}%
-\contentsline {section}{\numberline {3.7}الگوریتم \lr {SCARLET} \cite {satas2020scarlet}}{66}{section.3.7}%
-\contentsline {section}{\numberline {3.8}الگوریتم \lr {DeepPhylo} \cite {azer2020tumor}}{74}{section.3.8}%
-\contentsline {section}{\numberline {3.9}جمع‌بندی}{78}{section.3.9}%
-\contentsline {chapter}{\numberline {4}روش پیشنهادی}{81}{chapter.4}%
-\contentsline {section}{\numberline {4.1}مقدمه}{81}{section.4.1}%
-\contentsline {section}{\numberline {4.2}معرفی دادگان ورودی}{81}{section.4.2}%
-\contentsline {section}{\numberline {4.3}روش پیشنهادی برای مدیریت داده‌های از دست رفته}{82}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}روش محاسبه استاتیک}{83}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}تصادفی}{86}{subsection.4.3.2}%
-\contentsline {section}{\numberline {4.4}روش پیشنهادی}{86}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}پیش‌پردازش}{86}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}اولین پاسخ (درخت تصادفی)}{86}{subsection.4.4.2}%
-\contentsline {subsection}{\numberline {4.4.3}پاسخی جدید}{87}{subsection.4.4.3}%
-\contentsline {subsection}{\numberline {4.4.4}مقایسه و ارزیابی پاسخ‌ها}{88}{subsection.4.4.4}%
-\contentsline {subsubsection}{\numberline {4.4.4.1}تبدیل درخت پاسخ به ماتریس}{88}{subsubsection.4.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.5}یافتن جهش‌های با پتانسیل حذف}{91}{subsection.4.4.5}%
-\contentsline {subsubsection}{\numberline {4.4.5.1}مقایسه پاسخ فعلی با پاسخ آرمانی}{93}{subsubsection.4.4.5.1}%
-\contentsline {subsection}{\numberline {4.4.6}پذیرش پاسخ‌های جدید و یافتن بهترین پاسخ}{93}{subsection.4.4.6}%
-\contentsline {subsection}{\numberline {4.4.7}شبکه هرس‌کننده و بازاتصال کننده}{95}{subsection.4.4.7}%
-\contentsline {subsubsection}{\numberline {4.4.7.1}ورودی}{95}{subsubsection.4.4.7.1}%
-\contentsline {subsubsection}{\numberline {4.4.7.2}ساختار شبکه}{96}{subsubsection.4.4.7.2}%
-\contentsline {section}{\numberline {4.5}جمع‌بندی و نتیجه‌گیری}{98}{section.4.5}%
-\contentsline {chapter}{\numberline {5}نتایج تجربی}{99}{chapter.5}%
-\contentsline {section}{\numberline {5.1}پایگاه داده‌های ورودی}{99}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}پایگاه داده مصنوعی}{100}{subsection.5.1.1}%
-\contentsline {subsubsection}{\numberline {5.1.1.1}ساخت درخت تصادفی}{101}{subsubsection.5.1.1.1}%
-\contentsline {subsubsection}{\numberline {5.1.1.2}تبدیل درخت به ماتریس ژن-سلول}{104}{subsubsection.5.1.1.2}%
-\contentsline {subsubsection}{\numberline {5.1.1.3}تولید پروفایل‌های تعداد کپی و تعیین جهش‌های مسافر}{106}{subsubsection.5.1.1.3}%
-\contentsline {subsubsection}{\numberline {5.1.1.4}اضافه کردن نویز به ماتریس ژن-جهش}{107}{subsubsection.5.1.1.4}%
-\contentsline {subsection}{\numberline {5.1.2}پایگاه داده حقیقی}{108}{subsection.5.1.2}%
-\contentsline {subsection}{\numberline {5.1.3}آموزش شبکه }{109}{subsection.5.1.3}%
-\contentsline {section}{\numberline {5.2}نتایج تجربی}{113}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}نتایج بر روی پایگاه داده مصنوعی}{113}{subsection.5.2.1}%
-\contentsline {subsubsection}{\numberline {5.2.1.1}مقایسه دقت بازسازی با توجه به تغییر پارامترها}{115}{subsubsection.5.2.1.1}%
-\contentsline {subsection}{\numberline {5.2.2}نتایج بر روی داده‌های حقیقی}{122}{subsection.5.2.2}%
-\contentsline {chapter}{\numberline {6}بحث و نتیجه‌گیری}{125}{chapter.6}%
-\contentsline {section}{\numberline {6.1}نقاط ضعف و قوت روش پیشنهادی}{126}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}محدودیت‌ها}{127}{subsection.6.1.1}%
-\contentsline {section}{\numberline {6.2}گام‌های آتی}{127}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}بهبود در ساخت درخت اولیه}{128}{subsection.6.2.1}%
-\contentsline {subsection}{\numberline {6.2.2}استفاده از ماژول یادگیری تقویتی به‌جای \lr {MCMC} }{128}{subsection.6.2.2}%
-\contentsline {subsection}{\numberline {6.2.3} ارائه یک راهکار مناسب برای به روزرسانی بردار $\mathcal {L}$}{128}{subsection.6.2.3}%
-\contentsline {chapter}{مراجع}{129}{chapter*.86}%
+\contentsline {subsection}{\numberline {2.6.1}روش‌های مطالعه}{16}{subsection.2.6.1}%
+\contentsline {section}{\numberline {2.7}جهش‌های ساده بدنی}{18}{section.2.7}%
+\contentsline {section}{\numberline {2.8}توالی‌یابی سلول منفرد}{18}{section.2.8}%
+\contentsline {subsection}{\numberline {2.8.1}خطاهای توالی‌یابی سلول منفرد}{19}{subsection.2.8.1}%
+\contentsline {subsubsection}{\numberline {2.8.1.1}عدم و یا حداقلی \gls {coverage}}{19}{subsubsection.2.8.1.1}%
+\contentsline {subsubsection}{\numberline {2.8.1.2}خطای غیریکنواختی پوشش‌دهی}{20}{subsubsection.2.8.1.2}%
+\contentsline {subsubsection}{\numberline {2.8.1.3}\gls {allelecdropout}}{20}{subsubsection.2.8.1.3}%
+\contentsline {subsubsection}{\numberline {2.8.1.4}خطای \gls {falsepositive} و \gls {falsenegative}}{21}{subsubsection.2.8.1.4}%
+\contentsline {section}{\numberline {2.9}درخت فیلوژنتیک}{22}{section.2.9}%
+\contentsline {section}{\numberline {2.10}مقدمه‌ای بر مدل‌سازی احتمالی}{22}{section.2.10}%
+\contentsline {subsection}{\numberline {2.10.1}\gls {markovchainmontecarlo}}{23}{subsection.2.10.1}%
+\contentsline {section}{\numberline {2.11}\gls {deeplearning} و \gls {reinforcementlearning}}{25}{section.2.11}%
+\contentsline {section}{\numberline {2.12}شبکه‌های عصبی بازگشتی}{27}{section.2.12}%
+\contentsline {subsection}{\numberline {2.12.1}شبکه عصبی بازگشتی چیست؟}{27}{subsection.2.12.1}%
+\contentsline {subsection}{\numberline {2.12.2}مزایای \gls {rnn}}{29}{subsection.2.12.2}%
+\contentsline {subsection}{\numberline {2.12.3}معایب \gls {rnn}}{29}{subsection.2.12.3}%
+\contentsline {subsection}{\numberline {2.12.4}کاربردهای \gls {rnn}}{29}{subsection.2.12.4}%
+\contentsline {subsection}{\numberline {2.12.5}انواع \gls {rnn}}{30}{subsection.2.12.5}%
+\contentsline {section}{\numberline {2.13}\gls {reinforcementlearning}}{31}{section.2.13}%
+\contentsline {subsection}{\numberline {2.13.1}مقدمه و بیشینه تاریخی}{31}{subsection.2.13.1}%
+\contentsline {subsection}{\numberline {2.13.2}مفاهیم و تعاریف}{31}{subsection.2.13.2}%
+\contentsline {subsubsection}{\numberline {2.13.2.1} معادله بلمن}{32}{subsubsection.2.13.2.1}%
+\contentsline {subsubsection}{\numberline {2.13.2.2}\glspl {mdp}}{33}{subsubsection.2.13.2.2}%
+\contentsline {subsection}{\numberline {2.13.3}یادگیری-\lr {Q}}{33}{subsection.2.13.3}%
+\contentsline {subsubsection}{\numberline {2.13.3.1}\gls {temporaldifference}}{34}{subsubsection.2.13.3.1}%
+\contentsline {subsection}{\numberline {2.13.4}\gls {deepqlearning}}{35}{subsection.2.13.4}%
+\contentsline {chapter}{\numberline {3}روش‌های پیشین}{39}{chapter.3}%
+\contentsline {section}{\numberline {3.1}مقدمه}{39}{section.3.1}%
+\contentsline {section}{\numberline {3.2}مدل کیم و سایمون\cite {kim2014using}}{39}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}پایگاه داده}{42}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}معیار ارزیابی}{43}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}الگوریتم \lr {Bitphylogeny} \cite {yuan2015bitphylogeny}}{43}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}پایگاه داده}{44}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}معیار ارزیابی}{45}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3.4}الگوریتم \lr {SCITE} \cite {jahn2016tree}}{46}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}پایگاه داده}{49}{subsection.3.4.1}%
+\contentsline {section}{\numberline {3.5}الگوریتم \lr {Onconem} \cite {ross2016onconem}}{50}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}پایگاه داده}{52}{subsection.3.5.1}%
+\contentsline {section}{\numberline {3.6}الگوریتم \lr {Sasc} \cite {ciccolella2021inferring}}{52}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}پایگاه داده: }{53}{subsection.3.6.1}%
+\contentsline {section}{\numberline {3.7}الگوریتم \lr {SCARLET} \cite {satas2020scarlet}}{54}{section.3.7}%
+\contentsline {section}{\numberline {3.8}الگوریتم \lr {DeepPhylo} \cite {azer2020tumor}}{62}{section.3.8}%
+\contentsline {section}{\numberline {3.9}جمع‌بندی}{66}{section.3.9}%
+\contentsline {chapter}{\numberline {4}روش پیشنهادی}{69}{chapter.4}%
+\contentsline {section}{\numberline {4.1}مقدمه}{69}{section.4.1}%
+\contentsline {section}{\numberline {4.2}معرفی دادگان ورودی}{69}{section.4.2}%
+\contentsline {section}{\numberline {4.3}روش پیشنهادی برای مدیریت داده‌های از دست رفته}{70}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}روش محاسبه استاتیک}{71}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}تصادفی}{74}{subsection.4.3.2}%
+\contentsline {section}{\numberline {4.4}روش پیشنهادی}{74}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}پیش‌پردازش}{74}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}اولین پاسخ (درخت تصادفی)}{74}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}پاسخی جدید}{75}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.4.4}مقایسه و ارزیابی پاسخ‌ها}{76}{subsection.4.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.4.1}تبدیل درخت پاسخ به ماتریس}{76}{subsubsection.4.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.5}یافتن جهش‌های با پتانسیل حذف}{79}{subsection.4.4.5}%
+\contentsline {subsubsection}{\numberline {4.4.5.1}مقایسه پاسخ فعلی با پاسخ آرمانی}{81}{subsubsection.4.4.5.1}%
+\contentsline {subsection}{\numberline {4.4.6}پذیرش پاسخ‌های جدید و یافتن بهترین پاسخ}{81}{subsection.4.4.6}%
+\contentsline {subsection}{\numberline {4.4.7}شبکه هرس‌کننده و بازاتصال کننده}{83}{subsection.4.4.7}%
+\contentsline {subsubsection}{\numberline {4.4.7.1}ورودی}{83}{subsubsection.4.4.7.1}%
+\contentsline {subsubsection}{\numberline {4.4.7.2}ساختار شبکه}{84}{subsubsection.4.4.7.2}%
+\contentsline {section}{\numberline {4.5}جمع‌بندی و نتیجه‌گیری}{86}{section.4.5}%
+\contentsline {chapter}{\numberline {5}نتایج تجربی}{87}{chapter.5}%
+\contentsline {section}{\numberline {5.1}پایگاه داده‌های ورودی}{87}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}پایگاه داده مصنوعی}{88}{subsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.1.1}ساخت درخت تصادفی}{89}{subsubsection.5.1.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.1.2}تبدیل درخت به ماتریس ژن-سلول}{92}{subsubsection.5.1.1.2}%
+\contentsline {subsubsection}{\numberline {5.1.1.3}تولید پروفایل‌های تعداد کپی و تعیین جهش‌های مسافر}{94}{subsubsection.5.1.1.3}%
+\contentsline {subsubsection}{\numberline {5.1.1.4}اضافه کردن نویز به ماتریس ژن-جهش}{95}{subsubsection.5.1.1.4}%
+\contentsline {subsection}{\numberline {5.1.2}پایگاه داده حقیقی}{96}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}آموزش شبکه }{97}{subsection.5.1.3}%
+\contentsline {section}{\numberline {5.2}نتایج تجربی}{100}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}نتایج بر روی پایگاه داده مصنوعی}{100}{subsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.1.1}مقایسه دقت بازسازی با توجه به تغییر پارامترها}{102}{subsubsection.5.2.1.1}%
+\contentsline {subsection}{\numberline {5.2.2}نتایج بر روی داده‌های حقیقی}{107}{subsection.5.2.2}%
+\contentsline {chapter}{\numberline {6}بحث و نتیجه‌گیری}{113}{chapter.6}%
+\contentsline {section}{\numberline {6.1}نقاط ضعف و قوت روش پیشنهادی}{114}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}محدودیت‌ها}{115}{subsection.6.1.1}%
+\contentsline {section}{\numberline {6.2}گام‌های آتی}{115}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}بهبود در ساخت درخت اولیه}{116}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}استفاده از ماژول یادگیری تقویتی به‌جای \lr {MCMC} }{116}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3} ارائه یک راهکار مناسب برای به روزرسانی بردار $\mathcal {L}$}{116}{subsection.6.2.3}%
+\contentsline {chapter}{مراجع}{117}{chapter*.70}%
  \renewcommand \cftchappresnum {پیوست\nobreakspace {}}\setlength {\cftchapnumwidth }{\mylenapp }
-\contentsline {chapter}{\numberline {آ}الگوریتم \lr {Twin Delayed DDGP}}{137}{appendix.Alph1}%
+\contentsline {chapter}{\numberline {آ}الگوریتم \lr {Twin Delayed DDGP}}{125}{appendix.Alph1}%
+\contentsline {chapter}{\numberline {ب}شبکه‌های عصبی کانلوشنی}{127}{appendix.Alph2}%
+\contentsline {chapter}{\numberline {پ}حافظه‌ی کوتاه‌مدت بلند (\lr {LSTM})}{137}{appendix.Alph3}%
 \contentsline {chapter}{واژه‌نامهٔ فارسی به انگلیسی}{اول}{section*.88}%
 \contentsline {chapter}{واژه‌نامهٔ انگلیسی به فارسی}{هفتم}{section*.117}%
-\contentsline {paragraph}{Keywords}{چهاردهم}{section*.142}%

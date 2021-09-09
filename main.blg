@@ -1,412 +1,188 @@
-;; This logfile was generated automatically by `xindy'
-;; at 03.09.2021  16:22:42
-;; Indexstyle: "/var/folders/b0/rzwm_fmx68v24nxtr096b_dw0000gn/T/vi5lggADIv", Rawindex: "/var/folders/b0/rzwm_fmx68v24nxtr096b_dw0000gn/T/PUTO9aOKrB", Output: "main.bls"
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+A level-1 auxiliary file: ./tex/chaps/int/chap-int.aux
+A level-1 auxiliary file: ./tex/chaps/lr/chap-lr.aux
+A level-1 auxiliary file: ./tex/chaps/rw/chap-rw.aux
+A level-1 auxiliary file: ./tex/chaps/pm/chap-pm.aux
+A level-1 auxiliary file: ./tex/chaps/er/chap-er.aux
+A level-1 auxiliary file: ./tex/chaps/con/chap-con.aux
+The style file: plain-fa.bst
+A level-1 auxiliary file: ./tex/appxs/app_td3.aux
+Database file #1: ./tex/MyReferences.bib
+I was expecting a `,' or a `}'---line 80 of file ./tex/MyReferences.bib
+ : @misc{genomes 
+ :               and exomes,
+I'm skipping whatever remains of this entry
+Repeated entry---line 187 of file ./tex/MyReferences.bib
+ : @article{birbrair2014type
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 291 of file ./tex/MyReferences.bib
+ : @article{alberts2002molecular
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 371 of file ./tex/MyReferences.bib
+ : [1]: @article{fisher2013cancer
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 382 of file ./tex/MyReferences.bib
+ : [2]: @article{sun2015intra
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 393 of file ./tex/MyReferences.bib
+ : [3]: @article{alberts2002molecular
+ :                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 423 of file ./tex/MyReferences.bib
+ : [6]: @misc{somaticMutation
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 428 of file ./tex/MyReferences.bib
+ : [7]: @article{nowell1976clonal
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 439 of file ./tex/MyReferences.bib
+ : [8]: @article{birbrair2014type
+ :                               ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 450 of file ./tex/MyReferences.bib
+ : [9]: @misc{ genomes 
+ :                     and exomes,
+I'm skipping whatever remains of this entry
+Repeated entry---line 537 of file ./tex/MyReferences.bib
+ : [18]: @article{malikic2015clonality
+ :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 557 of file ./tex/MyReferences.bib
+ : [20]: @article{birbrair2014type
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 568 of file ./tex/MyReferences.bib
+ : [21]: @article{ Neoplasms
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 574 of file ./tex/MyReferences.bib
+ : [22]: @article{Neoplasia
+ :                         ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 581 of file ./tex/MyReferences.bib
+ : [23]: @article{ Cancer 
+ :                        - Activity 1,
+I'm skipping whatever remains of this entry
+Repeated entry---line 587 of file ./tex/MyReferences.bib
+ : [24]: @article{handa2011redox
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 598 of file ./tex/MyReferences.bib
+ : [25]: @article{halford2005o6
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 609 of file ./tex/MyReferences.bib
+ : [26]: @article{lee2011promoter
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 620 of file ./tex/MyReferences.bib
+ : [27]: @book{cooper1992elements
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 627 of file ./tex/MyReferences.bib
+ : [28]: @article{truninger2005immunohistochemical
+ :                                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 638 of file ./tex/MyReferences.bib
+ : [29]: @article{fedele2014navigating
+ :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 649 of file ./tex/MyReferences.bib
+ : [30]: @article{burrell2014tumour
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 659 of file ./tex/MyReferences.bib
+ : [31]: @article{alberts2002molecular
+ :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 682 of file ./tex/MyReferences.bib
+ : [2]: @article{nowell1976clonal
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1685 of file ./tex/MyReferences.bib
+ : [97]: @article{malikic2015clonality
+ :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1707 of file ./tex/MyReferences.bib
+ : [99]: @article{hastings1970monte
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2392 of file ./tex/MyReferences.bib
+ : [3.14]: @article{malikic2015clonality
+ :                                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2537 of file ./tex/MyReferences.bib
+ : [3.28]: @article{jahn2016tree
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2548 of file ./tex/MyReferences.bib
+ : [3.29]: @article{ross2016onconem
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2570 of file ./tex/MyReferences.bib
+ : [3.31]: @article{el2018sphyr
+ :                             ,
+I'm skipping whatever remains of this entry
+Warning--to sort, need author or key in neoplasms
+Warning--to sort, need author or key in canceractivity1
+Warning--to sort, need author or key in somaticMutation
+-- plain-fa.bst version 0.9 (2015/05/09) 
+-- This is a BibTeX style for XePersian: http://www.parsilatex.com
+Warning--empty author in neoplasms
+Warning--empty journal in neoplasms
+Warning--empty author in canceractivity1
+Warning--empty journal in canceractivity1
+Warning--empty journal in neoplasia
+Warning--empty journal in hastings1970monte
+Warning--can't use both volume and number fields in zhu2011metabolic
 
-
-Building indexentry-tree:
-Hierdepth of index is :TREE
-
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-
-Forming letter-groups:
-Letter-group: "…ŸŸ" -> "Øª"
-Letter-group: "”‚ž" -> "Ø³"
-Letter-group: "…ŸŸ ƒ‹Š¡" -> "Øª"
-Letter-group: "ž‚ ›ž¡ …ŸŸ" -> "Ù†"
-Letter-group: "‚žšŸž" -> "Ø§"
-Letter-group: "›œ¡Ÿƒ‚œ…Ÿ" -> "Ú¯"
-Letter-group: "Ÿ‹  ƒŽ›" -> "Ø±"
-Letter-group: "‰œ¡" -> "Ù…"
-Letter-group: "Š‚œ œ‚žŸ¡…¡š" -> "Ø®"
-Letter-group: "˜¡ƒŸ¡¡‹ ‰¡" -> "Ù"
-Letter-group: "”‚ž ‹ ‰œ" -> "Ø³"
-Letter-group: "…ŸŸ ƒ‚œ™Ÿ  ƒ‹Š¡" -> "Øª"
-Letter-group: "…‚…‚Ž" -> "Ù…"
-Letter-group: "…š†¡" -> "Øª"
-Letter-group: "›Ž‚¡¡" -> "Ø±"
-Letter-group: "„¡‘Ÿž‹ " -> "Ù¾"
-Letter-group: "šœŸž¡" -> "Ú©"
-Letter-group: "ž‚ ›ž" -> "Ù†"
-Letter-group: "ž‘‚ž› Ž¡…¡" -> "Ù†"
-Letter-group: "‹‚Ÿ ‚¡ ¡… œŸœ¡" -> "Ø¯"
-Letter-group: "Ÿ¡š‹ ƒ…ž¡ ƒ ‹‚‹ " -> "Ø±"
-Letter-group: "‹¡‚ž‚¡" -> "Ø¯"
-Letter-group: "žŸšœ¡Ÿ…¡‹" -> "Ù†"
-Letter-group: "›Ÿ‚ž¡ž" -> "Ú¯"
-Letter-group: "¡…ŸŽ¡ž" -> "Ø³"
-Letter-group: "…¡¡ž" -> "Øª"
-Letter-group: "€‹ž¡ž" -> "Ø§"
-Letter-group: "Ÿ‚Ž¡" -> "Ù…"
-Letter-group: "…—¡¡ ‚Š…‚¡" -> "Øª"
-Letter-group: "‡ ‘ ž™” ‚¡" -> "Ø¬"
-Letter-group: "‡ ‘ …š žŸšœ¡Ÿ…¡‹¡" -> "Ø¬"
-Letter-group: "ƒ›‘…" -> "Ø¨"
-Letter-group: "‰Œ˜" -> "Ø­"
-Letter-group: "‹‡" -> "Ø¯"
-Letter-group: "…š‚œ …ŸŸ" -> "Øª"
-Letter-group: "‡¡" -> "Ø¬"
-Letter-group: "˜‚Ÿ‚ž¡ …—¡¡‚… €œœ" -> "Ù"
-Letter-group: "…Ÿ‚œ¡¡‚ƒ¡ žœ ƒ–‹¡" -> "Øª"
-Letter-group: " …‚Ž¡" -> "Ù‡"
-Letter-group: "ŠŸ‚ž‘" -> "Ø®"
-Letter-group: "‚‡‚–¡" -> "Ø§"
-Letter-group: "ŠŸ‚ž‘  „Ÿ‘‚ž¡" -> "Ø®"
-Letter-group: "„Ÿ‘‘ ŠŸ‚ž‘" -> "Ù¾"
-Letter-group: "…—¡¡‚… ƒ‹ž¡ …š žŸšœ¡Ÿ…¡‹¡" -> "Øª"
-Letter-group: "›" -> "Ù…"
-Letter-group: "…‚¡Ž" -> "Øª"
-Letter-group: "žŸ ‡Ÿ‚ž Žž¡" -> "Ú˜"
-Letter-group: "‡ ‘ ‚žž‹ " -> "Ø¬"
-Letter-group: "‡ ‘ ‚˜" -> "Ø¬"
-Letter-group: "‚¡ž‹œ" -> "Ø§"
-Letter-group: "‰Œ˜ Ÿ …—¡¡ …šžŸšœ¡Ÿ…¡‹ ‚" -> "Ø­"
-Letter-group: "‡ ‘ ‚‹  ƒ‹ž¡" -> "Ø¬"
-Letter-group: "…—¡¡‚… ‘‚  š„¡" -> "Øª"
-Letter-group: "‚…Ÿ‚¡ ‚”‚˜" -> "Ø§"
-Letter-group: "œŸœ ‚¡ž¡ ž˜ŸŒ¡" -> "Ø³"
-Letter-group: "…š €œœ¡" -> "Øª"
-Letter-group: "ž›‚‘…" -> "Ù†"
-Letter-group: "Žž‡¡  ‚šŸ˜ Ÿž… š‚œŸ" -> "Ø²"
-Letter-group: "ƒ¡Ž¡" -> "Ø¨"
-Letter-group: "¡‚‹›¡¡ …™Ÿ¡…¡" -> "ÛŒ"
-Letter-group: "¡‚‹›¡¡ ‚‘¡ž" -> "ÛŒ"
-Letter-group: "ƒ¡ž‚¡¡ š‚„¡Ÿ…" -> "Ø¨"
-Letter-group: " Ÿ‘ ’žŸ–¡" -> "Ù‡"
-Letter-group: "‚Ÿ›‚" -> "Ù…"
-Letter-group: "”‚ž ¡ž " -> "Ø³"
-Letter-group: "†ƒ… š‚Œƒ" -> "Ù…"
-Letter-group: "‚‹¡ŸœŸ¡…" -> "Ø±"
-Letter-group: "‹‚œ¡…  …’Ÿ¡ƒ‹‚¡" -> "Ù…"
-Letter-group: "¡‚‹›¡¡ –¡™" -> "ÛŒ"
-Letter-group: "€¡ƒ‘ž‚¡" -> "Ø§"
-Letter-group: "…‘Š¡’ ƒ  šš š‚„¡Ÿ…" -> "Øª"
-Letter-group: "™”– ƒž‹¡" -> "Ù‚"
-Letter-group: "‘ž‚‚¡¡" -> "Ø´"
-Letter-group: "€‘š‚‚Ž¡" -> "Ø§"
-Letter-group: "žŸŸž" -> "Ù†"
-Letter-group: "˜–‚œ‚Ž¡" -> "Ù"
-Letter-group: "‘ƒš  –’ƒ¡ š‚œ‚ …’œ „¡‘ŠŸ" -> "Ø´"
-Letter-group: "”ƒ™  ƒž‹¡" -> "Ø·"
-Letter-group: "›¡Ÿž" -> "Ø±"
-Letter-group: "œ‚¡ " -> "Ù„"
-Letter-group: "ŸŽž ‘ƒš " -> "Ùˆ"
-Letter-group: "‘ƒš  –’ƒ¡ š‚žŸœŸ‘ž¡" -> "Ø´"
-Letter-group: "ƒ–‹" -> "Ø¨"
-Letter-group: "‚‘–  ‚¡š" -> "Ø§"
-Letter-group: "‘‹…" -> "Ø´"
-Letter-group: "š‚ž‚œ" -> "Ú©"
-Letter-group: "ž™‘  Ÿ¡›¡" -> "Ù†"
-Letter-group: "ƒ‚¡‚" -> "Ø¨"
-Letter-group: "šžœ" -> "Ú©"
-Letter-group: "ž‚‰¡  ‚‹‚š ‰œ¡" -> "Ù†"
-Letter-group: "š‚žŸœŸ‘ž" -> "Ú©"
-Letter-group: "…‚ƒ– ˜–‚œ¡…" -> "Øª"
-Letter-group: "‚ž‹‚Ž  ›‚" -> "Ø§"
-Letter-group: "œ‚¡ ›Œ‚¡ ’˜" -> "Ù„"
-Letter-group: "…‚ƒ– Ÿ‚‰‹ ‚’œ‚‰‘‹  Š”¡" -> "Øª"
-Letter-group: " ‚¡„ƒŸœ¡š" -> "Ù‡"
-Letter-group: "¡›Ÿ¡‹" -> "Ø³"
-Letter-group: "ƒ¡‘„‹‚Ž‘" -> "Ø¨"
-Letter-group: "„¡šœ" -> "Ù¾"
-Letter-group: "‰Œ˜ …’‚‹˜¡" -> "Ø­"
-Letter-group: "ž‚œ‚Ž¡ ‹… " -> "Ù†"
-Letter-group: "…š‚" -> "Øª"
-Letter-group: "…—¡¡  ƒ…›¡ ‹‚Šœ¡" -> "Øª"
-Letter-group: "ƒ ¡ž ‚Ž¡" -> "Ø¨"
-Letter-group: "šŸ‚¡‚ž" -> "Ú©"
-Letter-group: "‚ž‰‚˜ ‚…‚ž‹‚‹" -> "Ø§"
-Letter-group: "…‚ƒ–  Ž¡ž " -> "Øª"
-Letter-group: "›Ÿœ‚¡Ž¡‘ž" -> "Ø±"
-Letter-group: "€ž…Ÿ„¡ …™‚”– ‹Ÿ‹Ÿ¡¡" -> "Ø§"
-Letter-group: "ƒš„Ÿ„›¡‘ž" -> "Ø¨"
-Letter-group: "‹Ÿ " -> "Ø¯"
-Letter-group: "Š”‚" -> "Ø®"
-Letter-group: "‘ƒš  –’ƒ¡ ƒ‚Ž›‘…¡" -> "Ø´"
-Letter-group: "‰‚œ…" -> "Ø­"
-Letter-group: "‰‚˜• ¡ šŸ…‚ ‹… ƒœž‹" -> "Ø­"
-Letter-group: "‚œ‰‚™" -> "Ø§"
-Letter-group: "‹Ÿ‚Ž " -> "Ø¯"
-Letter-group: "ƒ‹Ÿž ž‚•" -> "Ø¨"
-Letter-group: "¡‚‹›¡¡ ƒ‚ ž‚•" -> "ÛŒ"
-Letter-group: "‰¡”" -> "Ù…"
-Letter-group: "–‚œ" -> "Ø¹"
-Letter-group: "˜€¡ž‹ …’¡ ‚šŸ˜" -> "Ù"
-Letter-group: "…˜‚“œ Ž‚ž¡" -> "Øª"
-Letter-group: "¡‚‹›¡¡ …™Ÿ¡…¡ –¡™" -> "ÛŒ"
-Letter-group: "›‚‹¡‚ž žŽŸœ¡ …’‚‹˜¡" -> "Ú¯"
-Letter-group: "‹Š… ˜¡œŸž¡" -> "Ø¯"
-Letter-group: "ƒ¡‘¡ž  ‹…ž‚¡¡" -> "Ø¨"
-Letter-group: "…š €œœ" -> "Øª"
-Letter-group: "‹…ž‚¡¡" -> "Ø¯"
-Letter-group: "”‚ž ŠŸž" -> "Ø³"
-Letter-group: "­°°¤·" -> "L"
-Letter-group: "‚Ž¡‚ƒ¡ ‚¡ …™‚ƒœ" -> "Ø§"
-Letter-group: "…Ÿ‚œ¡¡‚ƒ¡ ‚žƒŸ " -> "Øª"
-Letter-group: "‹Ÿ‹Ÿ¡¡ ‚" -> "Ø¯"
-Letter-group: "ž˜¡ š‚Œƒ" -> "Ù…"
-Letter-group: "‹… ƒž‹¡ œœ  ‚…ƒ¡" -> "Ø¯"
-Letter-group: "ŠŸ‘ ƒž‹¡¬  … ‚¡" -> "Ø®"
-Letter-group: "‹™…" -> "Ø¯"
-Letter-group: "„‚¡‹‚¡" -> "Ù¾"
-Letter-group: "…Ÿ‚œ¡¡‚ƒ¡ …š œŸœ¡" -> "Øª"
-Letter-group: "š‚ž ‚¡ ƒ¡ž ‚¡…" -> "Ù…"
-Letter-group: "‚…¡ ˜¡œŸž¡ š‚œ" -> "Ù…"
-Letter-group: "‚”œ‚–‚… ‚Ž ‹… ˜… " -> "Ø§"
-Letter-group: "‹››Ÿž¡ …š … ‚¡" -> "Ø¯"
-Letter-group: "ƒ‚ ‹ ž• ›˜…ž ‰Œ˜ Š”‚" -> "Ø¨"
-Letter-group: "š‚ž  ž‹¡" -> "Ù…"
-Letter-group: "‹ŸœŸ" -> "Ø¯"
-Letter-group: "ˆž‹ ‰‚œ… " -> "Ú†"
-Letter-group: "‰Œ˜ Ÿ …—¡¡ …–‹‚‹ š„¡" -> "Ø­"
-Letter-group: "‚ƒ ‚" -> "Ø§"
-Letter-group: "„Ÿ˜‚¡œ ‘‚  š„¡" -> "Ù¾"
-Letter-group: "…–‹‚‹ ŠŸ‚ž‘ ‚" -> "Øª"
-Letter-group: "‡Ÿ–" -> "Ù…"
-Letter-group: "…žŸ–" -> "Øª"
-Letter-group: "Ž¡‹Š… ‚" -> "Ø²"
-Letter-group: "ƒ‚ŽŠŸ‹" -> "Ø¨"
-Letter-group: "‚…‚ž‹‚‹ ‡–" -> "Ø§"
-Letter-group: "–œ›ž™‚‹" -> "Ø¹"
-Letter-group: "˜“‚¡ œ¡…ž…" -> "Ù"
-Letter-group: "œ‚¡  …Ÿ‡ " -> "Ù„"
-Letter-group: "‚š¡" -> "Ø§"
-Letter-group: "¡šžŸ‚Š…" -> "ÛŒ"
-Letter-group: "  Ÿ ‚…’‚œ ‹Ÿƒ‚ " -> "Ù‡"
-Letter-group: "ž" -> "Ú˜"
-Letter-group: "ƒ¡‘¡ž  ‚¡ ‰œ¡" -> "Ø¨"
-Letter-group: "ƒ‹‚ Ÿ¡›¡" -> "Ø¨"
-Letter-group: "–‹‹ ‘ž‚Ÿ" -> "Ø¹"
-Letter-group: "Ž›Œ‚" -> "Ø±"
-Letter-group: "–œ›" -> "Ø¹"
-Letter-group: "ž™‚‹" -> "Ù†"
-Letter-group: "‹Ÿ‡ … " -> "Ø¯"
-Letter-group: "‹Š… …’‚‹˜¡ ‹Ÿ‹Ÿ¡¡ žŸœŸ¡" -> "Ø¯"
-Letter-group: "ƒš„Ÿ„›¡…" -> "Ø¨"
-Letter-group: "¡‚ž›¡ž „œ¡‚š" -> "Ù…"
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: "€‹ž¡ž" -> "Ø§"
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: "ƒ‚ ‹ ž• ›˜…ž ‰Œ˜ Š”‚" -> "Ø¨"
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: "„‚¡‹‚¡" -> "Ù¾"
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: "…‚ƒ– ˜–‚œ¡…" -> "Øª"
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: "‡¡" -> "Ø¬"
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: "ˆž‹ ‰‚œ… " -> "Ú†"
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: "‰‚˜• ¡ šŸ…‚ ‹… ƒœž‹" -> "Ø­"
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: "Š‚œ œ‚žŸ¡…¡š" -> "Ø®"
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: "‹‚Ÿ ‚¡ ¡… œŸœ¡" -> "Ø¯"
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: "‚‹¡ŸœŸ¡…" -> "Ø±"
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: "Žž‡¡  ‚šŸ˜ Ÿž… š‚œŸ" -> "Ø²"
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: "ž" -> "Ú˜"
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: "”‚ž" -> "Ø³"
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: "‘ƒš  –’ƒ¡ ƒ‚Ž›‘…¡" -> "Ø´"
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: "”ƒ™  ƒž‹¡" -> "Ø·"
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: "–‚œ" -> "Ø¹"
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: "˜€¡ž‹ …’¡ ‚šŸ˜" -> "Ù"
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: "™”– ƒž‹¡" -> "Ù‚"
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: "š‚ž‚œ" -> "Ú©"
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: "›‚‹¡‚ž žŽŸœ¡ …’‚‹˜¡" -> "Ú¯"
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: "œ‚¡ " -> "Ù„"
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: "‚…¡ ˜¡œŸž¡ š‚œ" -> "Ù…"
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: "ž‚‰¡  ‚‹‚š ‰œ¡" -> "Ù†"
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: "ŸŽž ‘ƒš " -> "Ùˆ"
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: " ‚¡„ƒŸœ¡š" -> "Ù‡"
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: "¡‚‹›¡¡ ƒ‚ ž‚•" -> "ÛŒ"
-sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
-Letter-group: "­°°¤·" -> "L"
+Done.
+You've used 77 entries,
+            2546 wiz_defined-function locations,
+            1089 strings with 20237 characters,
+and the built_in function-call counts, 33113 in all, are:
+= -- 2962
+> -- 1803
+< -- 9
++ -- 723
+- -- 636
+* -- 2522
+:= -- 5104
+add.period$ -- 232
+call.type$ -- 77
+change.case$ -- 537
+chr.to.int$ -- 0
+cite$ -- 87
+duplicate$ -- 941
+empty$ -- 2067
+format.name$ -- 636
+if$ -- 7532
+int.to.chr$ -- 0
+int.to.str$ -- 77
+missing$ -- 781
+newline$ -- 694
+num.names$ -- 148
+pop$ -- 470
+preamble$ -- 1
+purify$ -- 462
+quote$ -- 0
+skip$ -- 682
+stack$ -- 0
+substring$ -- 2008
+swap$ -- 169
+text.length$ -- 9
+text.prefix$ -- 0
+top$ -- 4
+type$ -- 304
+warning$ -- 10
+while$ -- 281
+width$ -- 79
+write$ -- 1066
+(There were 30 error messages)
