@@ -86,7 +86,7 @@
 \contentsline {section}{\numberline {5.2}نتایج تجربی}{100}{section.5.2}%
 \contentsline {subsection}{\numberline {5.2.1}نتایج بر روی پایگاه داده مصنوعی}{100}{subsection.5.2.1}%
 \contentsline {subsubsection}{\numberline {5.2.1.1}مقایسه دقت بازسازی با توجه به تغییر پارامترها}{102}{subsubsection.5.2.1.1}%
-\contentsline {subsection}{\numberline {5.2.2}نتایج بر روی داده‌های حقیقی}{107}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.2}نتایج بر روی داده‌های حقیقی}{109}{subsection.5.2.2}%
 \contentsline {chapter}{\numberline {6}بحث و نتیجه‌گیری}{113}{chapter.6}%
 \contentsline {section}{\numberline {6.1}نقاط ضعف و قوت روش پیشنهادی}{114}{section.6.1}%
 \contentsline {subsection}{\numberline {6.1.1}محدودیت‌ها}{115}{subsection.6.1.1}%
@@ -94,10 +94,10 @@
 \contentsline {subsection}{\numberline {6.2.1}بهبود در ساخت درخت اولیه}{116}{subsection.6.2.1}%
 \contentsline {subsection}{\numberline {6.2.2}استفاده از ماژول یادگیری تقویتی به‌جای \lr {MCMC} }{116}{subsection.6.2.2}%
 \contentsline {subsection}{\numberline {6.2.3} ارائه یک راهکار مناسب برای به روزرسانی بردار $\mathcal {L}$}{116}{subsection.6.2.3}%
-\contentsline {chapter}{مراجع}{117}{chapter*.70}%
+\contentsline {chapter}{مراجع}{117}{chapter*.69}%
  \renewcommand \cftchappresnum {پیوست\nobreakspace {}}\setlength {\cftchapnumwidth }{\mylenapp }
 \contentsline {chapter}{\numberline {آ}الگوریتم \lr {Twin Delayed DDGP}}{125}{appendix.Alph1}%
 \contentsline {chapter}{\numberline {ب}شبکه‌های عصبی کانلوشنی}{127}{appendix.Alph2}%
 \contentsline {chapter}{\numberline {پ}حافظه‌ی کوتاه‌مدت بلند (\lr {LSTM})}{137}{appendix.Alph3}%
-\contentsline {chapter}{واژه‌نامهٔ فارسی به انگلیسی}{اول}{section*.88}%
-\contentsline {chapter}{واژه‌نامهٔ انگلیسی به فارسی}{هفتم}{section*.117}%
+\contentsline {chapter}{واژه‌نامهٔ فارسی به انگلیسی}{اول}{section*.87}%
+\contentsline {chapter}{واژه‌نامهٔ انگلیسی به فارسی}{هفتم}{section*.116}%

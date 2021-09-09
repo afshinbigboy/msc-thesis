@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  9 SEP 2021 21:21
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  9 SEP 2021 21:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -7810,8 +7810,6 @@ Underfull \hbox (badness 1152) in paragraph at lines 226--226
 
 \openout5 = `main.mw'.
 
-File: img/dataset/r/Navin_Dm.png Graphic file (type bmp)
-<img/dataset/r/Navin_Dm.png>
 File: img/chaps/er/td3_crop.pdf Graphic file (type pdf)
 <use img/chaps/er/td3_crop.pdf>
 \openout5 = `main.mw'.
@@ -7835,6 +7833,22 @@ File: img/chaps/er/td3_crop.pdf Graphic file (type pdf)
 \openout5 = `main.mw'.
 
  [98] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 \openout5 = `main.mw'.
 
 File: img/chaps/er/net_loss.png Graphic file (type bmp)
@@ -7879,49 +7893,33 @@ File: img/chaps/er/net_acc.png Graphic file (type bmp)
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 File: img/chaps/er/s_input_D.png Graphic file (type bmp)
 <img/chaps/er/s_input_D.png>
 File: img/chaps/er/initial_s_tree.png Graphic file (type bmp)
 <img/chaps/er/initial_s_tree.png>
+\openout5 = `main.mw'.
+
+ [100] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 
 
 Package amsmath Warning: Foreign command \over;
 (amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 379.
+(amsmath)                 on input line 381.
 
 File: img/chaps/er/SCITE_s_tree.png Graphic file (type bmp)
 <img/chaps/er/SCITE_s_tree.png>
-\openout5 = `main.mw'.
 
-[100] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-Underfull \vbox (badness 4366) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
@@ -7932,7 +7930,7 @@ Underfull \vbox (badness 4366) has occurred while \output is active []
 File: img/chaps/er/PM_s_tree.png Graphic file (type bmp)
 <img/chaps/er/PM_s_tree.png>
 
-Overfull \hbox (2.36829pt too wide) in paragraph at lines 394--395
+Overfull \hbox (2.36829pt too wide) in paragraph at lines 396--397
  [][][][][][] 
  []
 
@@ -7971,16 +7969,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./main.mw)
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
- [105] (./main.mw)
-\openout5 = `main.mw'.
-
 File: img/chaps/er/comp_change_alpha.png Graphic file (type bmp)
 <img/chaps/er/comp_change_alpha.png>
 \openout5 = `main.mw'.
 
- [106] (./main.mw)
+ [105] (./main.mw)
 \openout5 = `main.mw'.
 
 File: img/chaps/er/comp_change_beta.png Graphic file (type bmp)
@@ -7989,15 +7982,33 @@ File: img/chaps/er/comp_change_MR_pwd.png Graphic file (type bmp)
 <img/chaps/er/comp_change_MR_pwd.png>
 File: img/chaps/er/comp_change_MR_me.png Graphic file (type bmp)
 <img/chaps/er/comp_change_MR_me.png>
+
+Underfull \vbox (badness 1603) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+ [106]
+(./main.mw)
+\openout5 = `main.mw'.
+
 File: img/chaps/er/pm2.png Graphic file (type bmp)
 <img/chaps/er/pm2.png>
-\openout5 = `main.mw'.
 
- [107] (./main.mw)
-\openout5 = `main.mw'.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
+ [107]
+(./main.mw)
+\openout5 = `main.mw'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+ [108]
+(./main.mw)
 \openout5 = `main.mw'.
 
 File: img/chaps/er/navin.png Graphic file (type bmp)
@@ -8005,13 +8016,11 @@ File: img/chaps/er/navin.png Graphic file (type bmp)
 )
 \openout5 = `main.mw'.
 
- [108]
-(./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
  [109] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -10014,10 +10023,6 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 138.
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 ) (./tex/chaps/con/chap-con.aux
 \openout5 = `main.mw'.
 
@@ -10183,7 +10188,7 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 138.
 \openout5 = `main.out'.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 96A5C72088838263F61127293F105591;8640.
+(rerunfilecheck)             Checksum: 347938F62F660133CB4A0FB3EA32A4D2;8640.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -10214,10 +10219,10 @@ LaTeX Warning: There were multiply-defined labels.
  )
 (\end occurred when \ifx on line 92 was incomplete) 
 Here is how much of TeX's memory you used:
- 64283 strings out of 479418
- 1458106 string characters out of 5884586
- 3587474 words of memory out of 5000000
- 80113 multiletter control sequences out of 15000+600000
+ 64274 strings out of 479418
+ 1457904 string characters out of 5884586
+ 3587394 words of memory out of 5000000
+ 80107 multiletter control sequences out of 15000+600000
  548397 words of font info for 157 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  71i,20n,109p,4821b,2229s stack positions out of 5000i,500n,10000p,200000b,80000s
