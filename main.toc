@@ -101,3 +101,4 @@
 \contentsline {chapter}{\numberline {پ}حافظه‌ی کوتاه‌مدت بلند (\lr {LSTM})}{137}{appendix.Alph3}%
 \contentsline {chapter}{واژه‌نامهٔ فارسی به انگلیسی}{اول}{section*.87}%
 \contentsline {chapter}{واژه‌نامهٔ انگلیسی به فارسی}{هفتم}{section*.116}%
+\contentsline {paragraph}{Keywords}{چهاردهم}{section*.141}%
