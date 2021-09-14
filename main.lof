@@ -53,7 +53,7 @@
 \contentsline {figure}{\numberline {5.3}{\ignorespaces ماتریس‌های ژن-سلول ($E$) بدست آمده از درخت‌های تصادفی ساخته شده\relax }}{95}{figure.caption.51}%
 \contentsline {subfigure}{\numberline {(آ)}{\ignorespaces {ماتریس درخت شکل \ref {fig:dstn20zeta1}}}}{95}{subfigure.3.1}%
 \contentsline {subfigure}{\numberline {(ب)}{\ignorespaces {ماتریس درخت شکل \ref {fig:mtn30m20z1g0.15}}}}{95}{subfigure.3.2}%
-\contentsline {figure}{\numberline {5.4}{\ignorespaces ماتریس‌های ژن-سلول همراه با نویز و داده‌های از دست رفته شکل \ref {fig:E_mt_N30_M20_Z1_G0.15} که برای ورودی مسله آماده شده است.\relax }}{96}{figure.caption.52}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces ماتریس‌های ژن-سلول همراه با نویز و داده‌های از دست رفته شکل \ref {fig:E_mt_N30_M20_Z1_G0.15} که برای ورودی مسئله آماده شده است.\relax }}{96}{figure.caption.52}%
 \contentsline {subfigure}{\numberline {(آ)}{\ignorespaces {ماتریس نویزی با $\alpha =0.01, \beta =0.1$}}}{96}{subfigure.4.1}%
 \contentsline {subfigure}{\numberline {(ب)}{\ignorespaces {نویزی اضافه شده با پارمترهای $\alpha =0.01, \beta =0.1$}}}{96}{subfigure.4.2}%
 \contentsline {subfigure}{\numberline {(ج)}{\ignorespaces {ماتریس نویزی به همراه داده‌های از دست رفته با پارامترهای $\alpha =0.1, \beta =0.08, m_r=0.1$}}}{96}{subfigure.4.3}%
