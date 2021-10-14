@@ -107,30 +107,47 @@
 \vspace{-10mm}
 % دستورات دوآرمه
 \begin{latin}
-\hskip-1cm
-\makebox[\textwidth+2cm][c]{
-\begin{minipage}{5cm}
 	\centering
-	\includegraphics[height=4cm]{eng-logo}
-\end{minipage}
-\begin{minipage}{\textwidth - 8cm}
-	\begin{center}
+	\vspace{-10mm}
+	\includegraphics[height=4cm]{logo}
+	\vspace{-10mm}
 	\begin{persian}
 		\begin{onehalfspacing}
-		{\normalsize \bf \@university \\}
-		{\normalsize \bf \@college \\}
-		{\large\bfseries\@faculty \\}
-		{\large\bfseries\@department}
+			{\normalsize \bf \@university \\}
+			%		{\normalsize \bf \@college \\}
+			{\large\bfseries\@faculty \\}
+			{\large\bfseries\@department}
 		\end{onehalfspacing}
 	\end{persian}
-	\end{center}
-\end{minipage}
-\begin{minipage}{5cm}
-	\centering
-	\includegraphics[height=4cm]{logo}
-\end{minipage}
-}
+	\vspace{-10mm}
 \end{latin}
+
+
+%\begin{latin}
+%\hskip-1cm
+%\makebox[\textwidth+2cm][c]{
+%\begin{minipage}{5cm}
+%	\centering
+%	\includegraphics[height=4cm]{eng-logo}
+%\end{minipage}
+%\begin{minipage}{\textwidth - 8cm}
+%	\begin{center}
+%	\begin{persian}
+%		\begin{onehalfspacing}
+%		{\normalsize \bf \@university \\}
+%%		{\normalsize \bf \@college \\}
+%		{\large\bfseries\@faculty \\}
+%		{\large\bfseries\@department}
+%		\end{onehalfspacing}
+%	\end{persian}
+%	\end{center}
+%\end{minipage}
+%\begin{minipage}{5cm}
+%	\centering
+%	\includegraphics[height=4cm]{logo}
+%\end{minipage}
+%}
+%\end{latin}
 % دستورات تک‌آرمه
 %\centerline{{\includegraphics[width=5cm]{logo}}}
 %\centerline{\bf \@university}
@@ -205,30 +222,45 @@
 \vspace{-10mm}
 % دستورات دوآرمه
 \begin{latin}
-\hskip-1cm
-\makebox[\textwidth+2cm][c]{
-\begin{minipage}{5cm}
 	\centering
-	\includegraphics[height=4cm]{eng-logo}
-\end{minipage}
-\begin{minipage}{\textwidth - 8cm}
-	\begin{center}
+	\vspace{-10mm}
+	\includegraphics[height=4cm]{logo}
+	\vspace{-10mm}
 	\begin{persian}
 		\begin{onehalfspacing}
-		{\normalsize \bf \@university \\}
-		{\normalsize \bf \@college \\}
-		{\large\bfseries\@faculty \\}
-		{\large\bfseries\@department}
+			{\normalsize \bf \@university \\}
+			%		{\normalsize \bf \@college \\}
+			{\large\bfseries\@faculty \\}
+			{\large\bfseries\@department}
 		\end{onehalfspacing}
 	\end{persian}
-	\end{center}
-\end{minipage}
-\begin{minipage}{5cm}
-	\centering
-	\includegraphics[height=4cm]{logo}
-\end{minipage}
-}
+	\vspace{-10mm}
 \end{latin}
+%\begin{latin}
+%\hskip-1cm
+%\makebox[\textwidth+2cm][c]{
+%\begin{minipage}{5cm}
+%	\centering
+%	\includegraphics[height=4cm]{eng-logo}
+%\end{minipage}
+%\begin{minipage}{\textwidth - 8cm}
+%	\begin{center}
+%	\begin{persian}
+%		\begin{onehalfspacing}
+%		{\normalsize \bf \@university \\}
+%%		{\normalsize \bf \@college \\}
+%		{\large\bfseries\@faculty \\}
+%		{\large\bfseries\@department}
+%		\end{onehalfspacing}
+%	\end{persian}
+%	\end{center}
+%\end{minipage}
+%\begin{minipage}{5cm}
+%	\centering
+%	\includegraphics[height=4cm]{logo}
+%\end{minipage}
+%}
+%\end{latin}
 % دستورات تک‌آرمه
 %\centerline{{\includegraphics[width=5cm]{logo}}}
 %\centerline{\bf \@university}
@@ -321,24 +353,42 @@
 %\setcounter{page}{1}
 \thispagestyle{empty}
 
-\begin{minipage}{4cm}
-	\raggedleft
+
+\begin{latin}
+	\centering
+%	\vspace{-20mm}
 	\includegraphics[height=3cm]{logo}
-\end{minipage}
-\begin{minipage}{\textwidth - 8cm}
-	\begin{center}
+	\vspace{-1mm}
+	\begin{persian}
 		\begin{onehalfspacing}
-		{\normalsize \bf \@university \\}
-		{\normalsize \bf \@college \\}
-		{\large\bfseries\@faculty \\}
-		%{\large\bfseries\@department}
+			{\normalsize \bf \@university \\}
+			%		{\normalsize \bf \@college \\}
+			{\large\bfseries\@faculty \\}
+			%		{\large\bfseries\@department}
 		\end{onehalfspacing}
-	\end{center}
-\end{minipage}
-\begin{minipage}{4cm}
-	\raggedright
-	\includegraphics[height=3cm]{eng-logo}
-\end{minipage}
+	\end{persian}
+	\vspace{6mm}
+\end{latin}
+
+
+%\begin{minipage}{4cm}
+%	\raggedleft
+%	\includegraphics[height=3cm]{logo}
+%\end{minipage}
+%\begin{minipage}{\textwidth - 8cm}
+%	\begin{center}
+%		\begin{onehalfspacing}
+%		{\normalsize \bf \@university \\}
+%%		{\normalsize \bf \@college \\}
+%		{\large\bfseries\@faculty \\}
+%		%{\large\bfseries\@department}
+%		\end{onehalfspacing}
+%	\end{center}
+%\end{minipage}
+%\begin{minipage}{4cm}
+%	\raggedright
+%	\includegraphics[height=3cm]{eng-logo}
+%\end{minipage}
 
 \begin{center}
 {\Large\bfseries
@@ -351,7 +401,6 @@
 \parbox{0.7\textwidth}{
 \makebox[2cm]{}\hspace{1ex}\makebox[2cm]{به عدد}\makebox[5cm]{به حروف}\\
 \makebox[2cm][l]{با نمرهٔ نهایی}\hspace{1ex}\framebox[2cm]{\strut}\framebox[5cm]{\strut}
-\\
 \\
 \makebox[2cm][l]{و درجهٔ}\hspace{1ex}\framebox[3cm]{\strut}\hspace{1ex}
 ارزیابی کرد.
@@ -559,29 +608,43 @@ inner xsep=-1.3cm,inner ysep=0.4cm]
 \begin{titlepage}
 \vspace{-10mm}
 %% Double logo commands
+\centering
 \begin{latin}
-\hskip-1cm
-\makebox[\textwidth+2cm][c]{
-\begin{minipage}{5cm}
-	\centering
-	\includegraphics[height=4cm]{eng-logo-en}
-\end{minipage}
-\begin{minipage}{\linewidth - 8cm}
-	\begin{center}
-		\begin{onehalfspacing}
-		{\normalsize \bf \@latinuniversity \\}
-		{\normalsize \bf \@latincollege \\}
-		{\large\bfseries\@latinfaculty \\}
-		{\large\bfseries\@latindepartment \\}
-		\end{onehalfspacing}
-	\end{center}
-\end{minipage}
-\begin{minipage}{5cm}
 	\centering
 	\includegraphics[height=4cm]{logo-en}
-\end{minipage}
-}
+\begin{center}
+	\begin{onehalfspacing}
+		{\normalsize \bf \@latinuniversity \\}
+		%		{\normalsize \bf \@latincollege \\}
+		{\large\bfseries\@latinfaculty \\}
+		{\large\bfseries\@latindepartment \\}
+	\end{onehalfspacing}
+\end{center}
 \end{latin}
+
+%\begin{latin}
+%\hskip-1cm
+%\makebox[\textwidth+2cm][c]{
+%%\begin{minipage}{5cm}
+%%	\centering
+%%	\includegraphics[height=4cm]{eng-logo-en}
+%%\end{minipage}
+%\begin{minipage}{\linewidth - 8cm}
+%	\begin{center}
+%		\begin{onehalfspacing}
+%		{\normalsize \bf \@latinuniversity \\}
+%%		{\normalsize \bf \@latincollege \\}
+%		{\large\bfseries\@latinfaculty \\}
+%		{\large\bfseries\@latindepartment \\}
+%		\end{onehalfspacing}
+%	\end{center}
+%\end{minipage}
+%\begin{minipage}{5cm}
+%	\centering
+%	\includegraphics[height=4cm]{logo-en}
+%\end{minipage}
+%}
+%\end{latin}
 %% Single logo commands
 %\centerline{{\includegraphics[width=5cm]{logo-en}}}
 %\centerline{\bf \@latinuniversity}

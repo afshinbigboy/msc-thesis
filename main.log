@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  20 SEP 2021 23:50
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  15 OCT 2021 01:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2069,56 +2069,13 @@ your preamble.
 (./tex/thesis_preamble.tex
 LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/n' will be
 (Font)              scaled to size 12.0pt on input line 2.
-File: ./img/eng-logo.png Graphic file (type bmp)
-<./img/eng-logo.png>
-
-Overfull \hbox (5.42651pt too wide) in paragraph at lines 2--2
- [][][][] 
- []
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
-(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/m/n' will be
-(Font)              scaled to size 14.39996pt on input line 2.
-LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/m/n' will be
-(Font)              scaled to size 9.59998pt on input line 2.
-LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/m/n' will be
-(Font)              scaled to size 7.19998pt on input line 2.
-
-
-LaTeX Font Warning: Font shape `TU/IRLotusICEE.ttf(2)/bx/n' undefined
-(Font)              using `TU/IRLotusICEE.ttf(2)/m/n' instead on input line 2.
-
-LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/bx/n' will be
-(Font)              scaled to size 9.59998pt on input line 2.
-LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/bx/n' will be
-(Font)              scaled to size 7.19998pt on input line 2.
-
-LaTeX Font Warning: Font shape `TU/IRLotusICEE.ttf(2)/m/it' undefined
-(Font)              using `TU/IRLotusICEE.ttf(2)/m/n' instead on input line 2.
-
-LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/m/it' will be
-(Font)              scaled to size 9.59998pt on input line 2.
-LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/m/it' will be
-(Font)              scaled to size 7.19998pt on input line 2.
 File: ./img/logo.png Graphic file (type bmp)
 <./img/logo.png>
-
-Overfull \hbox (28.45276pt too wide) in paragraph at lines 2--2
-[][] [] []
- []
-
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(0)/m/n' will be
 (Font)              scaled to size 29.85593pt on input line 2.
 LaTeX Font Info:    Font shape `TU/IRTitr.ttf(1)/m/n' will be
 (Font)              scaled to size 24.88pt on input line 2.
+
 
 LaTeX Font Warning: Font shape `TU/IRTitr.ttf(1)/b/n' undefined
 (Font)              using `TU/IRTitr.ttf(1)/m/n' instead on input line 2.
@@ -2614,50 +2571,61 @@ File: img/besm.jpg Graphic file (type bmp)
 ] (./main.mw)
 \openout5 = `main.mw'.
 
-File: ./img/eng-logo.png Graphic file (type bmp)
-<./img/eng-logo.png>
-
-Overfull \hbox (5.42651pt too wide) in paragraph at lines 14--14
- [][][][] 
- []
-
 File: ./img/logo.png Graphic file (type bmp)
 <./img/logo.png>
-
-Overfull \hbox (28.45276pt too wide) in paragraph at lines 14--14
-[][] [] []
- []
-
 LaTeX Font Info:    Font shape `TU/IRTitr.ttf(1)/b/n' will be
 (Font)              scaled to size 24.88pt on input line 14.
 \openout5 = `main.mw'.
 
-[5] (./main.mw)
+ [5] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
- [6
+[6
 
 ] (./main.mw)
 \openout5 = `main.mw'.
 
 File: ./img/logo.png Graphic file (type bmp)
 <./img/logo.png>
-File: ./img/eng-logo.png Graphic file (type bmp)
-<./img/eng-logo.png>
-
-Overfull \hbox (21.20624pt too wide) in paragraph at lines 14--14
-[][]$[]$ $[]$ $[]$ []
- []
-
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/m/n' will be
 (Font)              scaled to size 14.39996pt on input line 14.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 14.
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--14
-[][]
- []
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 14.
 
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/m/n' will be
+(Font)              scaled to size 14.39996pt on input line 14.
+LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/m/n' will be
+(Font)              scaled to size 9.59998pt on input line 14.
+LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/m/n' will be
+(Font)              scaled to size 7.19998pt on input line 14.
+
+
+LaTeX Font Warning: Font shape `TU/IRLotusICEE.ttf(2)/bx/n' undefined
+(Font)              using `TU/IRLotusICEE.ttf(2)/m/n' instead on input line 14.
+
+
+LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/bx/n' will be
+(Font)              scaled to size 9.59998pt on input line 14.
+LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/bx/n' will be
+(Font)              scaled to size 7.19998pt on input line 14.
+
+LaTeX Font Warning: Font shape `TU/IRLotusICEE.ttf(2)/m/it' undefined
+(Font)              using `TU/IRLotusICEE.ttf(2)/m/n' instead on input line 14.
+
+
+LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/m/it' will be
+(Font)              scaled to size 9.59998pt on input line 14.
+LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/m/it' will be
+(Font)              scaled to size 7.19998pt on input line 14.
 \c@davaranCounter=\count449
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(0)/m/n' will be
 (Font)              scaled to size 13.13995pt on input line 14.
@@ -3199,40 +3167,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- (./main.lol)
-\tf@lol=\write29
-\openout5 = `main.lol'.
-
-\openout5 = `main.mw'.
-
- [12
-
-] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- (./main.acr)
-\openout5 = `main.mw'.
-
- [13
-
-
-
-] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 )
 \openout2 = `./tex/chaps/int/chap-int.aux'.
 
-
-(./tex/chaps/int/chap-int.tex
+ (./tex/chaps/int/chap-int.tex
 فصل 1.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/b/n' will be
 (Font)              scaled to size 29.85593pt on input line 3.
@@ -3313,101 +3251,109 @@ LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/b/n' will be
 
 \openout5 = `main.mw'.
 
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+Underfull \vbox (badness 3209) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+ [2]
+(./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 File: ./img/chaps/int/tumorheterogenety.png Graphic file (type bmp)
 <./img/chaps/int/tumorheterogenety.png>
-\openout5 = `main.mw'.
-
- [2] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 
 Overfull \hbox (2.87163pt too wide) in paragraph at lines 33--36
 [][]\TU/IRLotusICEE.ttf(1)/b/n/12 تومورهای []ناهمگن[][][][][][][][][][][][] که 
@@ -3415,12 +3361,17 @@ Overfull \hbox (2.87163pt too wide) in paragraph at lines 33--36
  []
 
 
-Underfull \vbox (badness 1127) has occurred while \output is active []
+Underfull \vbox (badness 6559) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
  [3]
 (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [4] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -3450,12 +3401,23 @@ Underfull \vbox (badness 1127) has occurred while \output is active []
 )
 \openout5 = `main.mw'.
 
- [4] (./main.mw)
+ [5] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout2 = `./tex/chaps/lr/chap-lr.aux'.
 
  (./tex/chaps/lr/chap-lr.tex
+\openout5 = `main.mw'.
+
+
+[6
+
+
+
+] (./main.mw)
+\openout5 = `main.mw'.
+
+
 فصل 2.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/b/n' will be
 (Font)              scaled to size 20.73593pt on input line 10.
@@ -3463,19 +3425,7 @@ File: ./img/chaps/lr/DNA_double_helix.png Graphic file (type bmp)
 <./img/chaps/lr/DNA_double_helix.png>
 \openout5 = `main.mw'.
 
-[5
-
-
-
-] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
+[7] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -3605,24 +3555,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [6]
+ [8]
 (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -3735,7 +3669,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [7]
+ [9]
 (./main.mw)
 \openout5 = `main.mw'.
 
@@ -3773,7 +3707,31 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [8] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [10] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -3805,23 +3763,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 \openout5 = `main.mw'.
 
-[9] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
+[11] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -3886,17 +3828,13 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 File: ./img/chaps/lr/alignment_reading.png Graphic file (type bmp)
 <./img/chaps/lr/alignment_reading.png>
-\openout5 = `main.mw'.
 
- [10] (./main.mw)
-\openout5 = `main.mw'.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
+ [12]
+(./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -3963,16 +3901,12 @@ File: ./img/chaps/lr/alignment_reading.png Graphic file (type bmp)
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
-
-Underfull \vbox (badness 2229) has occurred while \output is active []
-
-\openout5 = `main.mw'.
-
- [11]
+ [13]
 (./main.mw)
 \openout5 = `main.mw'.
 
@@ -4054,37 +3988,7 @@ Underfull \vbox (badness 2229) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [12] (./main.mw)
-\openout5 = `main.mw'.
-
+ [14] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -4127,7 +4031,6 @@ Underfull \vbox (badness 2229) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [13] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -4148,6 +4051,49 @@ Underfull \vbox (badness 2229) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+ [15]
+(./main.mw)
 \openout5 = `main.mw'.
 
 
@@ -4156,11 +4102,36 @@ Overfull \hbox (15.93727pt too wide) in paragraph at lines 124--125
 سلولی تبارهای زیر کلونال و سپس، در نهایت، زیرجمعیت‌های[]
  []
 
+\openout5 = `main.mw'.
+
+[16] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 File: ./img/chaps/lr/tumor_clone_tree.png Graphic file (type bmp)
 <./img/chaps/lr/tumor_clone_tree.png>
 \openout5 = `main.mw'.
 
-[14] (./main.mw)
+ [17] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -4171,32 +4142,32 @@ File: ./img/chaps/lr/tumor_clone_tree.png Graphic file (type bmp)
 
 \openout5 = `main.mw'.
 
-
-Underfull \vbox (badness 1629) has occurred while \output is active []
+\openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
- [15]
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+ [18]
 (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 \openout5 = `main.mw'.
 
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/b/n' will be
 (Font)              scaled to size 17.27994pt on input line 150.
 \openout5 = `main.mw'.
 
- [16] (./main.mw)
+ [19] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -4281,40 +4252,36 @@ Overfull \hbox (1.15756pt too wide) in paragraph at lines 158--159
 یک موجود سالم و طبیعی با رنگ‌های فلئورسنت مختلف برچسب‌گذاری[]
  []
 
+\openout5 = `main.mw'.
+
+[20] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 
 Overfull \hbox (14.43256pt too wide) in paragraph at lines 166--167
 [][]\TU/IRLotusICEE.ttf(1)/b/n/12 جهش‌های ساده بدنی جهش‌های کوچکی هستند که می‌ت
 وانند مستقیما از طریق توالی‌یابی و نسبت کروموزوم‌های[]
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 \openout5 = `main.mw'.
 
- [17]
-(./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [18] (./main.mw)
+[21] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -4346,13 +4313,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\gls' on input line 179.
 
-
-Underfull \vbox (badness 3078) has occurred while \output is active []
-
 \openout5 = `main.mw'.
 
- [19]
-(./main.mw)
+[22] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -4394,7 +4357,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 \openout5 = `main.mw'.
 
-[20] (./main.mw)
+[23] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -4423,6 +4386,19 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 File: ./img/chaps/lr/mtsd.png Graphic file (type bmp)
 <./img/chaps/lr/mtsd.png>
+\openout5 = `main.mw'.
+
+ [24] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -4431,123 +4407,6 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\gls' on input line 198.
-
-\openout5 = `main.mw'.
-
-[21] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [22] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\gls' on input line 223.
-
-\openout5 = `main.mw'.
-
-[23] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-Overfull \hbox (0.81802pt too wide) in paragraph at lines 233--235
-[]\TU/IRLotusICEE.ttf(1)/b/n/12 نمونه‌ای از الگوریتم زنجیره ماکوف مونت کارلو ال
-گوریتم []\TU/LiberationSerif-Regular.ttf(0)/m/n/12 Metropolis-Hastings (MH)[] \
-TU/IRLotusICEE.ttf(1)/b/n/12 است [[]]. الگوریتم[]
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-\openout5 = `main.mw'.
-
- [24]
-(./main.mw)
-\openout5 = `main.mw'.
-
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\gls' on input line 245.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\gls' on input line 245.
 
 \openout5 = `main.mw'.
 
@@ -4594,6 +4453,131 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 \openout5 = `main.mw'.
 
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\gls' on input line 223.
+
+\openout5 = `main.mw'.
+
+[26] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+Overfull \hbox (0.81802pt too wide) in paragraph at lines 233--235
+[]\TU/IRLotusICEE.ttf(1)/b/n/12 نمونه‌ای از الگوریتم زنجیره ماکوف مونت کارلو ال
+گوریتم []\TU/LiberationSerif-Regular.ttf(0)/m/n/12 Metropolis-Hastings (MH)[] \
+TU/IRLotusICEE.ttf(1)/b/n/12 است [[]]. الگوریتم[]
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+ [27]
+(./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\gls' on input line 245.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\gls' on input line 245.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+ [28]
+(./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+ [29]
+(./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -4609,23 +4593,6 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 File: ./img/chaps/lr/cnn_1d.png Graphic file (type bmp)
 <./img/chaps/lr/cnn_1d.png>
 
-Underfull \vbox (badness 1924) has occurred while \output is active []
-
-\openout5 = `main.mw'.
-
- [26]
-(./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
 Overfull \hbox (2.0787pt too wide) in paragraph at lines 279--281
 [][]\TU/IRLotusICEE.ttf(1)/b/n/12 قبل از آشنا شدن با []شبکه‌های عصبی بازگشتی[] 
 بهتر است مروری بر مفهوم شبکه عصبی داشته باشیم. شبکه‌های[]
@@ -4637,11 +4604,20 @@ Overfull \hbox (2.60596pt too wide) in paragraph at lines 279--281
 ریق ادراک ماشینی ، برچسب زدن یا خوشه بندی ورودی‌های[]
  []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+ [30]
+(./main.mw)
+\openout5 = `main.mw'.
+
 File: ./img/chaps/lr/rnn.png Graphic file (type bmp)
 <./img/chaps/lr/rnn.png>
 \openout5 = `main.mw'.
 
-[27] (./main.mw)
+ [31] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -4665,9 +4641,13 @@ File: ./img/chaps/lr/rnn.png Graphic file (type bmp)
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\gls' on input line 310.
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 \openout5 = `main.mw'.
 
-[28] (./main.mw)
+ [32]
+(./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -4725,7 +4705,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 \openout5 = `main.mw'.
 
-[29] (./main.mw)
+[33] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -4818,8 +4798,65 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [30]
+ [34]
 (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [35] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -4852,68 +4889,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: ./img/chaps/lr/ae_rl.png Graphic file (type bmp)
 <./img/chaps/lr/ae_rl.png>
-\openout5 = `main.mw'.
-
- [31] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(0)/m/n' will be
 (Font)              scaled to size 7.19998pt on input line 422.
 \openout5 = `main.mw'.
 
- [32] (./main.mw)
+ [36] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -4925,39 +4905,44 @@ LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(0)/m/n' will be
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\glspl' on input line 439.
 
+\openout5 = `main.mw'.
+
+[37] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/b/n' will be
 (Font)              scaled to size 14.4pt on input line 456.
 \openout5 = `main.mw'.
 
-[33] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
+ [38] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -4970,12 +4955,28 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\gls' on input line 481.
 
 
-Underfull \vbox (badness 1527) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [34]
+ [39]
 (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -5010,23 +5011,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 524--526
 
 \openout5 = `main.mw'.
 
-[35] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
+[40] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -5062,7 +5047,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [36]
+ [41]
 (./main.mw)
 \openout5 = `main.mw'.
 
@@ -5072,6 +5057,43 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [42] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -5109,7 +5131,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 )
 \openout5 = `main.mw'.
 
- [37] (./main.mw)
+ [43] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -5118,43 +5140,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [38] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -5168,6 +5153,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 \openout2 = `./tex/chaps/rw/chap-rw.aux'.
 
  (./tex/chaps/rw/chap-rw.tex
+\openout5 = `main.mw'.
+
+
+[44
+
+
+
+] (./main.mw)
+\openout5 = `main.mw'.
+
+
 فصل 3.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -5175,11 +5171,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 \openout5 = `main.mw'.
 
-[39
-
-
-
-] (./main.mw)
+[45] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -5221,20 +5213,12 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 File: ./img/chaps/rw/intro_phylo.png Graphic file (type bmp)
 <./img/chaps/rw/intro_phylo.png>
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 3375) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [40]
+ [46]
 (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -5287,38 +5271,26 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: ./img/chaps/rw/digraph.png Graphic file (type bmp)
 <./img/chaps/rw/digraph.png>
+\openout5 = `main.mw'.
 
-Underfull \vbox (badness 3281) has occurred while \output is active []
+ [47] (./main.mw)
+\openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
- [41]
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+ [48]
 (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [42] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -5346,9 +5318,94 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/b/n' will be
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\@ifnextchar' on input line 77.
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 \openout5 = `main.mw'.
 
-[43] (./main.mw)
+ [49]
+(./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [50] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -5413,89 +5470,93 @@ Overfull \hbox (19.67079pt too wide) in paragraph at lines 99--100
 ک مقایسه بین خروجی این الگوریتم و خروجی‌های الگوریتم‌های[]
  []
 
-\openout5 = `main.mw'.
-
-[44] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 File: ./img/chaps/rw/comp_1.png Graphic file (type bmp)
 <./img/chaps/rw/comp_1.png>
+\openout5 = `main.mw'.
+
+[51] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 File: ./img/chaps/rw/bitphylo.png Graphic file (type bmp)
 <./img/chaps/rw/bitphylo.png>
 
@@ -5503,17 +5564,13 @@ File: ./img/chaps/rw/bitphylo.png Graphic file (type bmp)
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\@ifnextchar' on input line 116.
 
-\openout5 = `main.mw'.
 
-[45] (./main.mw)
-\openout5 = `main.mw'.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
+ [52]
+(./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -5534,59 +5591,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [46] (./main.mw)
+ [53] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -5635,12 +5640,145 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 File: ./img/chaps/rw/scite_intro.png Graphic file (type bmp)
 <./img/chaps/rw/scite_intro.png>
+\openout5 = `main.mw'.
 
-Underfull \vbox (badness 5217) has occurred while \output is active []
+ [54] (./main.mw)
+\openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
- [47]
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+ [55]
 (./main.mw)
 \openout5 = `main.mw'.
 
@@ -5670,6 +5808,7 @@ Underfull \vbox (badness 5217) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
+ [56] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -5686,124 +5825,6 @@ Underfull \vbox (badness 5217) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [48] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [49] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -5888,28 +5909,12 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\@ifnextchar' on input line 183.
 
 
-Underfull \vbox (badness 1776) has occurred while \output is active []
+Underfull \vbox (badness 1127) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [50]
+ [57]
 (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -5944,23 +5949,7 @@ File: ./img/chaps/rw/onconem.png Graphic file (type bmp)
 <./img/chaps/rw/onconem.png>
 \openout5 = `main.mw'.
 
- [51] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
+ [58] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -5978,7 +5967,96 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 \openout5 = `main.mw'.
 
-[52] (./main.mw)
+[59] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [60] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -6058,96 +6136,27 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\@ifnextchar' on input line 238.
 
-
-Underfull \vbox (badness 2828) has occurred while \output is active []
-
-\openout5 = `main.mw'.
-
- [53]
-(./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 File: ./img/chaps/rw/scarlet_dolo.png Graphic file (type bmp)
 <./img/chaps/rw/scarlet_dolo.png>
 \openout5 = `main.mw'.
 
- [54] (./main.mw)
+[61] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -6322,17 +6331,13 @@ Overfull \hbox (0.25056pt too wide) in paragraph at lines 277--278
 
 File: ./img/chaps/rw/scarlet_cnv.png Graphic file (type bmp)
 <./img/chaps/rw/scarlet_cnv.png>
-\openout5 = `main.mw'.
 
-[55] (./main.mw)
-\openout5 = `main.mw'.
+Underfull \vbox (badness 1590) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
+ [62]
+(./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -6483,7 +6488,7 @@ File: ./img/chaps/rw/scarlet_cna.png Graphic file (type bmp)
 <./img/chaps/rw/scarlet_cna.png>
 
 
-LaTeX Warning: Reference `fig:ch_rw:loss_region' on page 56 undefined on input 
+LaTeX Warning: Reference `fig:ch_rw:loss_region' on page 63 undefined on input 
 line 309.
 
 File: ./img/chaps/rw/supported_losses.png Graphic file (type bmp)
@@ -6492,7 +6497,7 @@ File: ./img/chaps/rw/cn_tree.png Graphic file (type bmp)
 <./img/chaps/rw/cn_tree.png>
 \openout5 = `main.mw'.
 
-[56] (./main.mw)
+[63] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -6573,6 +6578,43 @@ File: ./img/chaps/rw/cn_tree.png Graphic file (type bmp)
 
 \openout5 = `main.mw'.
 
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [64] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -6611,82 +6653,13 @@ File: ./img/chaps/rw/scarlet_vaf.png Graphic file (type bmp)
 <./img/chaps/rw/scarlet_vaf.png>
 File: ./img/chaps/rw/scarlet_colon_tree.png Graphic file (type bmp)
 <./img/chaps/rw/scarlet_colon_tree.png>
-\openout5 = `main.mw'.
-
- [57] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 File: ./img/chaps/rw/scarlet_result.png Graphic file (type bmp)
 <./img/chaps/rw/scarlet_result.png>
 File: ./img/chaps/rw/scarlet_E.png Graphic file (type bmp)
 <./img/chaps/rw/scarlet_E.png>
 \openout5 = `main.mw'.
 
- [58] (./main.mw)
+ [65] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -6703,27 +6676,6 @@ File: ./img/chaps/rw/scarlet_E.png Graphic file (type bmp)
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [59] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -6779,7 +6731,69 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [60]
+ [66]
+(./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [67] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+ [68]
 (./main.mw)
 \openout5 = `main.mw'.
 
@@ -6796,18 +6810,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\@ifnextchar' on input line 456.
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 \openout5 = `main.mw'.
 
- [61]
-(./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [62] (./main.mw)
+[69] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -6832,6 +6837,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
+ [70] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -6848,15 +6854,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [63] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -6879,7 +6876,7 @@ File: ./img/chaps/rw/deep_phylo_net.png Graphic file (type bmp)
 <./img/chaps/rw/deep_phylo_net.png>
 \openout5 = `main.mw'.
 
- [64] (./main.mw)
+ [71] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -6912,6 +6909,23 @@ File: ./img/chaps/rw/deep_phylo_net.png Graphic file (type bmp)
 
 \openout5 = `main.mw'.
 
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+Underfull \vbox (badness 4582) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+ [72]
+(./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -6932,6 +6946,11 @@ File: ./img/chaps/rw/deep_phylo_net.png Graphic file (type bmp)
 
 File: ./img/chaps/rw/deep_phylo_charts.png Graphic file (type bmp)
 <./img/chaps/rw/deep_phylo_charts.png>
+\openout5 = `main.mw'.
+
+ [73] (./main.mw)
+\openout5 = `main.mw'.
+
 File: ./img/chaps/rw/deep_phylo_mltsm.png Graphic file (type bmp)
 <./img/chaps/rw/deep_phylo_mltsm.png>
 
@@ -6939,33 +6958,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [65]
+ [74]
 (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [66] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 \openout5 = `main.mw'.
 
 
@@ -7049,7 +7043,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 669--669
 )
 \openout5 = `main.mw'.
 
- [67] (./main.mw)
+ [75] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -7118,7 +7112,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 669--669
 
 \openout5 = `main.mw'.
 
- [68] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [76] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout2 = `./tex/chaps/pm/chap-pm.aux'.
@@ -7127,7 +7141,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 669--669
 فصل 4.
 \openout5 = `main.mw'.
 
-[69
+[77
 
 
 
@@ -7164,17 +7178,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 669--669
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [70] (./main.mw)
-\openout5 = `main.mw'.
-
+ [78] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -7197,7 +7201,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 669--669
 
 \openout5 = `main.mw'.
 
- [71] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [79] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -7209,7 +7223,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [72]
+ [80]
 (./main.mw)
 \openout5 = `main.mw'.
 
@@ -7218,17 +7232,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [73]
+ [81]
 (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
- [74] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
+ [82] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -7260,44 +7270,7 @@ File: img/chaps/pm/pruneandreattach.png Graphic file (type bmp)
 <img/chaps/pm/pruneandreattach.png>
 \openout5 = `main.mw'.
 
-[75] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-Underfull \vbox (badness 7012) has occurred while \output is active []
-
-\openout5 = `main.mw'.
-
- [76]
-(./main.mw)
+[83] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -7329,38 +7302,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [77]
+ [84]
 (./main.mw)
-\openout5 = `main.mw'.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-\openout5 = `main.mw'.
-
- [78]
-(./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [79] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -7388,7 +7331,115 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [80]
+ [85]
+(./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+ [86]
+(./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [87] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [88] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+Underfull \vbox (badness 3657) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+ [89]
 (./main.mw)
 \openout5 = `main.mw'.
 
@@ -7444,29 +7495,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
+
+Underfull \vbox (badness 1168) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [81] (./main.mw)
+ [90]
+(./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -7491,13 +7526,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [82] (./main.mw)
-\openout5 = `main.mw'.
-
+ [91] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -7510,13 +7539,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [83] (./main.mw)
+ [92] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -7536,7 +7559,7 @@ Overfull \hbox (0.8531pt too wide) in paragraph at lines 434--435
 
 \openout5 = `main.mw'.
 
-[84] (./main.mw)
+[93] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -7559,29 +7582,13 @@ Overfull \hbox (0.8531pt too wide) in paragraph at lines 434--435
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-Underfull \vbox (badness 1303) has occurred while \output is active []
-
-\openout5 = `main.mw'.
-
- [85]
+ [94]
 (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -7603,7 +7610,23 @@ Underfull \vbox (badness 1303) has occurred while \output is active []
 )
 \openout5 = `main.mw'.
 
- [86] (./main.mw)
+ [95] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -7645,6 +7668,16 @@ Underfull \vbox (badness 1303) has occurred while \output is active []
 \openout2 = `./tex/chaps/er/chap-er.aux'.
 
  (./tex/chaps/er/chap-er.tex
+\openout5 = `main.mw'.
+
+ [96
+
+
+
+] (./main.mw)
+\openout5 = `main.mw'.
+
+
 فصل 5.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/m/n' will be
 (Font)              scaled to size 17.27994pt on input line 17.
@@ -7654,17 +7687,9 @@ LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(2)/m/it' will be
 (Font)              scaled to size 17.27994pt on input line 17.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/m/n' will be
 (Font)              scaled to size 11.99997pt on input line 17.
-
-Underfull \vbox (badness 5970) has occurred while \output is active []
-
 \openout5 = `main.mw'.
 
- [87
-
-
-
-]
-(./main.mw)
+[97] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -7684,7 +7709,7 @@ This may cause the page layout to be inconsistent, however.
 
 \openout5 = `main.mw'.
 
-[88] (./main.mw)
+[98] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -7693,6 +7718,23 @@ This may cause the page layout to be inconsistent, however.
 
 \openout5 = `main.mw'.
 
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [99] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -7717,29 +7759,12 @@ File: img/dataset/s/n20_zeta100.png Graphic file (type bmp)
 <img/dataset/s/n20_zeta100.png>
 \openout5 = `main.mw'.
 
- [89] (./main.mw)
+ [100] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [90] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [91] (./main.mw)
+ [101] (./main.mw)
 \openout5 = `main.mw'.
 
 File: img/dataset/s/treeF_zeta=1_gamma=0.15_alpha=0.01_beta=0.1_MR=0.02_N=30_M=
@@ -7748,7 +7773,16 @@ File: img/dataset/s/treeF_zeta=1_gamma=0.15_alpha=0.01_beta=0.1_MR=0.02_N=30_M=
 g>
 \openout5 = `main.mw'.
 
- [92]
+ [102]
+(./main.mw)
+\openout5 = `main.mw'.
+
+
+Underfull \vbox (badness 1117) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+ [103]
 (./main.mw)
 \openout5 = `main.mw'.
 
@@ -7770,15 +7804,6 @@ g>
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-\openout5 = `main.mw'.
-
- [93]
-(./main.mw)
 \openout5 = `main.mw'.
 
 File: img/dataset/s/zeta1n20m20.png Graphic file (type bmp)
@@ -7791,7 +7816,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [94]
+ [104]
 (./main.mw)
 \openout5 = `main.mw'.
 
@@ -7816,7 +7841,7 @@ Underfull \hbox (badness 1152) in paragraph at lines 226--226
 
 \openout5 = `main.mw'.
 
-[95] (./main.mw)
+[105] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -7825,18 +7850,13 @@ Underfull \hbox (badness 1152) in paragraph at lines 226--226
 
 File: img/chaps/er/td3_crop.pdf Graphic file (type pdf)
 <use img/chaps/er/td3_crop.pdf>
-\openout5 = `main.mw'.
 
- [96] (./main.mw)
-\openout5 = `main.mw'.
+Underfull \vbox (badness 2726) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [97] (./main.mw)
+ [106]
+(./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -7845,7 +7865,53 @@ File: img/chaps/er/td3_crop.pdf Graphic file (type pdf)
 
 \openout5 = `main.mw'.
 
- [98] (./main.mw)
+ [107] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [108] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [109] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -7870,40 +7936,8 @@ File: img/chaps/er/net_acc.png Graphic file (type bmp)
 <img/chaps/er/net_acc.png>
 \openout5 = `main.mw'.
 
- [99]
+ [110]
 (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 \openout5 = `main.mw'.
 
 File: img/chaps/er/s_input_D.png Graphic file (type bmp)
@@ -7912,7 +7946,7 @@ File: img/chaps/er/initial_s_tree.png Graphic file (type bmp)
 <img/chaps/er/initial_s_tree.png>
 \openout5 = `main.mw'.
 
- [100] (./main.mw)
+ [111] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -7932,11 +7966,11 @@ Package amsmath Warning: Foreign command \over;
 File: img/chaps/er/SCITE_s_tree.png Graphic file (type bmp)
 <img/chaps/er/SCITE_s_tree.png>
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 2050) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [101]
+ [112]
 (./main.mw)
 \openout5 = `main.mw'.
 
@@ -7957,7 +7991,7 @@ File: img/chaps/er/comp_change_M.png Graphic file (type bmp)
 <img/chaps/er/comp_change_M.png>
 \openout5 = `main.mw'.
 
-[102] (./main.mw)
+[113] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -7966,11 +8000,11 @@ File: img/chaps/er/comp_change_M.png Graphic file (type bmp)
 
 
 
-LaTeX Warning: Text page 103 contains only floats.
+LaTeX Warning: Text page 114 contains only floats.
 
 \openout5 = `main.mw'.
 
-[103] (./main.mw)
+[114] (./main.mw)
 \openout5 = `main.mw'.
 
 
@@ -7978,7 +8012,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [104]
+ [115]
+(./main.mw)
+\openout5 = `main.mw'.
+
+
+Underfull \vbox (badness 2884) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+ [116]
 (./main.mw)
 \openout5 = `main.mw'.
 
@@ -7986,87 +8029,33 @@ File: img/chaps/er/comp_change_alpha.png Graphic file (type bmp)
 <img/chaps/er/comp_change_alpha.png>
 \openout5 = `main.mw'.
 
- [105] (./main.mw)
+ [117] (./main.mw)
 \openout5 = `main.mw'.
 
 File: img/chaps/er/comp_change_beta.png Graphic file (type bmp)
 <img/chaps/er/comp_change_beta.png>
 File: img/chaps/er/comp_change_MR_pwd.png Graphic file (type bmp)
 <img/chaps/er/comp_change_MR_pwd.png>
-File: img/chaps/er/comp_change_MR_me.png Graphic file (type bmp)
-<img/chaps/er/comp_change_MR_me.png>
-
-Underfull \vbox (badness 1603) has occurred while \output is active []
-
 \openout5 = `main.mw'.
 
- [106]
-(./main.mw)
+ [118] (./main.mw)
+\openout5 = `main.mw'.
+
+File: img/chaps/er/comp_change_MR_me.png Graphic file (type bmp)
+<img/chaps/er/comp_change_MR_me.png>
+\openout5 = `main.mw'.
+
+ [119] (./main.mw)
 \openout5 = `main.mw'.
 
 File: img/chaps/er/pm2.png Graphic file (type bmp)
 <img/chaps/er/pm2.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-\openout5 = `main.mw'.
-
- [107]
-(./main.mw)
-\openout5 = `main.mw'.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-\openout5 = `main.mw'.
-
- [108]
-(./main.mw)
-\openout5 = `main.mw'.
-
 File: img/chaps/er/navin.png Graphic file (type bmp)
 <img/chaps/er/navin.png>
 )
 \openout5 = `main.mw'.
 
- [109] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [110] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [111] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout2 = `./tex/chaps/con/chap-con.aux'.
-
-
-(./tex/chaps/con/chap-con.tex
-\openout5 = `main.mw'.
-
- [112
-
-
-
-] (./main.mw)
-\openout5 = `main.mw'.
-
-
-فصل 6.
-
-Underfull \vbox (badness 6412) has occurred while \output is active []
-
-\openout5 = `main.mw'.
-
- [113]
+ [120]
 (./main.mw)
 \openout5 = `main.mw'.
 
@@ -8076,7 +8065,47 @@ Underfull \vbox (badness 6412) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [114] (./main.mw)
+ [121] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [122] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout2 = `./tex/chaps/con/chap-con.aux'.
+
+ (./tex/chaps/con/chap-con.tex
+فصل 6.
+
+Underfull \vbox (badness 6641) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+ [123
+
+
+
+]
+(./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+ [124]
+(./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [125] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -8085,7 +8114,15 @@ Underfull \vbox (badness 6412) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [115] (./main.mw)
+\openout5 = `main.mw'.
+
+
+Underfull \vbox (badness 7851) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+ [126]
+(./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -8099,20 +8136,16 @@ Underfull \vbox (badness 6412) has occurred while \output is active []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 37.
+(hyperref)                removing `math shift' on input line 39.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 37.
+(hyperref)                removing `math shift' on input line 39.
 
 )
 \openout5 = `main.mw'.
 
- [116] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
+ [127] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -8124,6 +8157,14 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 \openout5 = `main.mw'.
 
  (./main.bbl
+\openout5 = `main.mw'.
+
+ [128
+
+
+] (./main.mw)
+\openout5 = `main.mw'.
+
 LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/n' will be
 (Font)              scaled to size 10.95pt on input line 7.
 
@@ -8138,10 +8179,7 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/it' will be
 (Font)              scaled to size 10.95pt on input line 47.
 \openout5 = `main.mw'.
 
-[117
-
-
-] (./main.mw)
+[129] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -8150,34 +8188,34 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/it' will be
 
 \openout5 = `main.mw'.
 
- [118] (./main.mw)
+ [130] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
- [119] (./main.mw)
+ [131] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
- [120] (./main.mw)
+ [132] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
 
-[121] (./main.mw)
+[133] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
- [122] (./main.mw)
+ [134] (./main.mw)
 \openout5 = `main.mw'.
 
 )
 \openout5 = `main.mw'.
 
- [123] (./main.mw)
+ [135] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout2 = `./tex/appxs/app_td3.aux'.
@@ -8185,7 +8223,7 @@ LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/it' will be
  (./tex/appxs/app_td3.tex
 \openout5 = `main.mw'.
 
-[124
+[136
 
 
 ] (./main.mw)
@@ -8200,7 +8238,7 @@ File: ./img/chaps/lr/td3_alg.pdf Graphic file (type pdf)
 )
 \openout5 = `main.mw'.
 
- [125] (./main.mw)
+ [137] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -8216,7 +8254,7 @@ This may cause the page layout to be inconsistent, however.
 
 \openout5 = `main.mw'.
 
-[126] (./main.mw)
+[138] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout2 = `./tex/appxs/app_cnn.aux'.
@@ -8224,40 +8262,16 @@ This may cause the page layout to be inconsistent, however.
  (./tex/appxs/app_cnn.tex
 پیوست ب.
 
-Underfull \vbox (badness 1292) has occurred while \output is active []
+Underfull \vbox (badness 7064) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [127
+ [139
 
 
 
 ]
 (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -8380,7 +8394,31 @@ File: ./img/chaps/lr/cnn_arch.png Graphic file (type bmp)
 <./img/chaps/lr/cnn_arch.png>
 \openout5 = `main.mw'.
 
- [128] (./main.mw)
+ [140] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -8426,11 +8464,11 @@ File: ./img/chaps/lr/cnn_arch.png Graphic file (type bmp)
 File: ./img/chaps/lr/cnn_conv5.png Graphic file (type bmp)
 <./img/chaps/lr/cnn_conv5.png>
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 3219) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [129]
+ [141]
 (./main.mw)
 \openout5 = `main.mw'.
 
@@ -8540,23 +8578,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [130] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
+ [142] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -8633,87 +8655,116 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: ./img/chaps/lr/activation_functions.png Graphic file (type bmp)
 <./img/chaps/lr/activation_functions.png>
+\openout5 = `main.mw'.
+
+ [143] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 File: ./img/chaps/lr/max_pooling.png Graphic file (type bmp)
 <./img/chaps/lr/max_pooling.png>
-\openout5 = `main.mw'.
-
- [131] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
 
 
-
-LaTeX Warning: Reference `binary_softmax' on page 132 undefined on input line 8
+LaTeX Warning: Reference `binary_softmax' on page 144 undefined on input line 8
 9.
+
+\openout5 = `main.mw'.
+
+[144] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
 
 File: ./img/chaps/lr/dropout.png Graphic file (type bmp)
 <./img/chaps/lr/dropout.png>
 \openout5 = `main.mw'.
 
-[132] (./main.mw)
+ [145] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -8756,12 +8807,153 @@ File: ./img/chaps/lr/dropout.png Graphic file (type bmp)
 
 \openout5 = `main.mw'.
 
-
-Underfull \vbox (badness 1199) has occurred while \output is active []
+\openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
- [133]
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [146] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout5 = `main.mw'.
+
+ [147]
 (./main.mw)
 \openout5 = `main.mw'.
 
@@ -8779,103 +8971,6 @@ Underfull \vbox (badness 1199) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-Underfull \vbox (badness 4060) has occurred while \output is active []
-
-\openout5 = `main.mw'.
-
- [134]
-(./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -8945,63 +9040,7 @@ Underfull \vbox (badness 4060) has occurred while \output is active []
 )
 \openout5 = `main.mw'.
 
- [135] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
+ [148] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -9015,22 +9054,18 @@ Underfull \vbox (badness 4060) has occurred while \output is active []
 \openout2 = `./tex/appxs/app_lstm.aux'.
 
  (./tex/appxs/app_lstm.tex
+پیوست پ.
+File: ./img/chaps/lr/lstm.jpg Graphic file (type bmp)
+<./img/chaps/lr/lstm.jpg>
 \openout5 = `main.mw'.
 
- [136
+[149
 
 
 
 ] (./main.mw)
 \openout5 = `main.mw'.
 
-
-پیوست پ.
-File: ./img/chaps/lr/lstm.jpg Graphic file (type bmp)
-<./img/chaps/lr/lstm.jpg>
-\openout5 = `main.mw'.
-
-[137] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -9051,14 +9086,12 @@ File: ./img/chaps/lr/lstm.jpg Graphic file (type bmp)
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
 
-
-Underfull \vbox (badness 2512) has occurred while \output is active []
+Underfull \vbox (badness 3049) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [138]
+ [150]
 (./main.mw)
 \openout5 = `main.mw'.
 
@@ -9103,31 +9136,18 @@ File: ./img/chaps/lr/lstm_5.png Graphic file (type bmp)
 File: ./img/chaps/lr/lstm_6.png Graphic file (type bmp)
 <./img/chaps/lr/lstm_6.png>
 )
-Underfull \hbox (badness 10000) in paragraph at lines 57--94
+Underfull \hbox (badness 10000) in paragraph at lines 57--90
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--94
+Underfull \hbox (badness 10000) in paragraph at lines 57--90
 [][]
  []
 
 \openout5 = `main.mw'.
 
-[139] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [140] (./main.mw)
+[151] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -9148,27 +9168,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--94
 
 \openout5 = `main.mw'.
 
+ [152] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-Underfull \vbox (badness 3646) has occurred while \output is active []
-
-\openout5 = `main.mw'.
-
- [141]
-(./main.mw)
+ [153] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -9205,12 +9210,37 @@ Underfull \vbox (badness 3646) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [142] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
- [143] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [154] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+[155] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -9240,8 +9270,7 @@ Underfull \vbox (badness 3646) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
-
-[2] (./main.mw)
+ [2] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -9251,7 +9280,8 @@ Underfull \vbox (badness 3646) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [4] (./main.mw)
+
+[4] (./main.mw)
 \openout5 = `main.mw'.
 
 )
@@ -9265,8 +9295,7 @@ Underfull \vbox (badness 3646) has occurred while \output is active []
  (./main.gls
 \openout5 = `main.mw'.
 
-
-[6
+ [6
 
 
 ] (./main.mw)
@@ -9285,7 +9314,8 @@ Underfull \vbox (badness 3646) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
- [8] (./main.mw)
+
+[8] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -9311,7 +9341,8 @@ Underfull \vbox (badness 3646) has occurred while \output is active []
  [12
 
 
-] (./main.mw)
+]
+(./main.mw)
 \openout5 = `main.mw'.
 
 
@@ -9324,9 +9355,9 @@ No file main.ind.
 \openout5 = `main.mw'.
 
 LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/n' will be
-(Font)              scaled to size 17.28pt on input line 110.
+(Font)              scaled to size 17.28pt on input line 106.
 
-Overfull \hbox (1.63095pt too wide) in paragraph at lines 110--111
+Overfull \hbox (1.63095pt too wide) in paragraph at lines 106--107
 [] []\TU/LiberationSerif-Regular.ttf(0)/b/n/12 Keywords[] \TU/LiberationSerif-R
 egular.ttf(0)/m/n/12 Phylogenetic Tree, Single-Cell Sequencing, Single-Nucleoti
 de Variant, Copy[]
@@ -9344,25 +9375,13 @@ de Variant, Copy[]
 ] (./main.mw)
 \openout5 = `main.mw'.
 
-File: ./img/eng-logo-en.png Graphic file (type bmp)
-<./img/eng-logo-en.png>
-
-Overfull \hbox (5.42651pt too wide) in paragraph at lines 111--111
- [][][][] 
- []
-
-LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 111.
 File: ./img/logo-en.png Graphic file (type bmp)
 <./img/logo-en.png>
-
-Overfull \hbox (28.45276pt too wide) in paragraph at lines 111--111
-[][] [] []
- []
-
 LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 111.
-
+(Font)              scaled to size 14.4pt on input line 107.
+LaTeX Font Info:    Font shape `TU/LiberationSerif-Regular.ttf(0)/m/n' will be
+(Font)              scaled to size 24.88pt on input line 107.
+ 
 AED: lastpage setting LastPage
 \openout5 = `main.mw'.
 
@@ -9371,17 +9390,9 @@ AED: lastpage setting LastPage
 ] (./main.mw)
 \openout5 = `main.mw'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 138.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 138.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 134.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 134.
  (./main.aux
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -9416,6 +9427,11 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 138.
 \openout5 = `main.mw'.
 
 )
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
 (./tex/chaps/lr/chap-lr.aux
 \openout5 = `main.mw'.
 
@@ -10254,13 +10270,19 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 138.
 \openout5 = `main.mw'.
 
 )
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 138.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 138.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 134.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 134.
 \openout5 = `main.out'.
 
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 347938F62F660133CB4A0FB3EA32A4D2;8640.
 
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: 347938F62F660133CB4A0FB3EA32A4D2;8640
+(rerunfilecheck)             After:  D1C15ECCAD61BA5175E06BFDE0FA8C13;8575.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -10286,16 +10308,14 @@ LaTeX Warning: There were multiply-defined labels.
 
 \openout5 = `main.loa'.
 
-\openout5 = `main.lol'.
-
  ) 
 Here is how much of TeX's memory you used:
- 64308 strings out of 479418
- 1458673 string characters out of 5884586
- 3590195 words of memory out of 5000000
- 80130 multiletter control sequences out of 15000+600000
+ 64294 strings out of 479418
+ 1458337 string characters out of 5884586
+ 3588163 words of memory out of 5000000
+ 80102 multiletter control sequences out of 15000+600000
  548421 words of font info for 160 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  71i,20n,109p,4821b,2229s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (190 pages).
+Output written on main.pdf (200 pages).

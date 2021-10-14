@@ -9,6 +9,8 @@ A level-1 auxiliary file: ./tex/chaps/er/chap-er.aux
 A level-1 auxiliary file: ./tex/chaps/con/chap-con.aux
 The style file: plain-fa.bst
 A level-1 auxiliary file: ./tex/appxs/app_td3.aux
+A level-1 auxiliary file: ./tex/appxs/app_cnn.aux
+A level-1 auxiliary file: ./tex/appxs/app_lstm.aux
 Database file #1: ./tex/MyReferences.bib
 I was expecting a `,' or a `}'---line 80 of file ./tex/MyReferences.bib
  : @misc{genomes 
@@ -146,7 +148,7 @@ Warning--can't use both volume and number fields in zhu2011metabolic
 Done.
 You've used 77 entries,
             2546 wiz_defined-function locations,
-            1089 strings with 20237 characters,
+            1091 strings with 20284 characters,
 and the built_in function-call counts, 33113 in all, are:
 = -- 2962
 > -- 1803
