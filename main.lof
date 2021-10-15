@@ -42,7 +42,7 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {4.1}{\ignorespaces نحوه انجام کار روش \gls {pruneandreattach} \cite {davis2016computing}.\relax }}{84}{figure.caption.43}%
 \contentsline {figure}{\numberline {4.2}{\ignorespaces نمودار تغییر احتمال پذیرش پاسخ جدید نامطلوب‌تر با توجه به مقدار پارامتر $\rho $.\relax }}{91}{figure.caption.44}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces ساختار معماری شبکه پیشنهادی\relax }}{94}{figure.caption.45}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces ساختار معماری شبکه پیشنهادی\relax }}{93}{figure.caption.45}%
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {5.1}{\ignorespaces درخت فیلوژنی تصادفی تولید شده برای $n=20$ و $\zeta $های مختلف\relax }}{101}{figure.caption.47}%
 \contentsline {subfigure}{\numberline {(آ)}{\ignorespaces {$\zeta =0.2$}}}{101}{subfigure.1.1}%
@@ -73,25 +73,27 @@
 \contentsline {figure}{\numberline {5.16}{\ignorespaces ‌مقایسه روش پیشنهادی با توجه به تغییر پارامتر $\beta $\relax }}{118}{figure.caption.62}%
 \contentsline {figure}{\numberline {5.17}{\ignorespaces ‌مقایسه روش پیشنهادی با توجه به تغییر پارامتر $MR$ در دقت میانگین فواصل بین جهش‌ها در درخت فیلوژنی\relax }}{119}{figure.caption.63}%
 \contentsline {figure}{\numberline {5.18}{\ignorespaces ‌مقایسه روش پیشنهادی با توجه به تغییر پارامتر $MR$ در مقدار میانگین خطا\relax }}{119}{figure.caption.64}%
-\contentsline {figure}{\numberline {5.19}{\ignorespaces درخت بدست داده‌های حقیقی مورد استفاده مقاله \cite {davis2016computing} توسط روش پیشنهادی\relax }}{121}{figure.caption.65}%
-\contentsline {figure}{\numberline {5.20}{\ignorespaces درخت بدست آمده در مقاله \lr {SCITE}\relax }}{122}{figure.caption.66}%
+\contentsline {figure}{\numberline {5.19}{\ignorespaces ‌مقایسه روش پیشنهادی با توجه به تغییر پارامتر $N$ با معیار \lr {Pairwise Ancestral Distance}\relax }}{120}{figure.caption.65}%
+\contentsline {figure}{\numberline {5.20}{\ignorespaces ‌مقایسه روش پیشنهادی با توجه به تغییر پارامتر $M$ با معیار \lr {Pairwise Ancestral Distance}\relax }}{120}{figure.caption.66}%
+\contentsline {figure}{\numberline {5.21}{\ignorespaces درخت بدست داده‌های حقیقی مورد استفاده مقاله \cite {davis2016computing} توسط روش پیشنهادی\relax }}{122}{figure.caption.67}%
+\contentsline {figure}{\numberline {5.22}{\ignorespaces درخت بدست آمده در مقاله \lr {SCITE}\relax }}{123}{figure.caption.68}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {آ.1}{\ignorespaces الگوریتم \lr {Twin Delayed DDGP} \cite {fujimoto2018addressing}. برگرفته از \lr {\href {https://spinningup.openai.com/en/latest/algorithms/td3.html}{OpenAI}}\relax }}{138}{figure.caption.68}%
+\contentsline {figure}{\numberline {آ.1}{\ignorespaces الگوریتم \lr {Twin Delayed DDGP} \cite {fujimoto2018addressing}. برگرفته از \lr {\href {https://spinningup.openai.com/en/latest/algorithms/td3.html}{OpenAI}}\relax }}{140}{figure.caption.70}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {ب.1}{\ignorespaces معماری یک شبکه عصبی کانولوشنی\relax }}{140}{figure.caption.69}%
-\contentsline {figure}{\numberline {ب.2}{\ignorespaces عملیات \gls {convolution} در یک \gls {convnet} با \gls {kernel} $5\times 5$ \relax }}{142}{figure.caption.70}%
-\contentsline {figure}{\numberline {ب.3}{\ignorespaces (\lr {a}) \gls {activationfunction} \lr {ReLU} و (\lr {b}) \gls {activationfunction} \gls {sigmoid} \relax }}{143}{figure.caption.71}%
-\contentsline {figure}{\numberline {ب.4}{\ignorespaces تابع \lr {max-pooling} بر روی آرایه دو بعدی کوچک $m=2$ و $s=2$ \relax }}{144}{figure.caption.72}%
-\contentsline {figure}{\numberline {ب.5}{\ignorespaces لایه \gls {dropout} با $\sigma =0.5$ \relax }}{145}{figure.caption.73}%
+\contentsline {figure}{\numberline {ب.1}{\ignorespaces معماری یک شبکه عصبی کانولوشنی\relax }}{142}{figure.caption.71}%
+\contentsline {figure}{\numberline {ب.2}{\ignorespaces عملیات \gls {convolution} در یک \gls {convnet} با \gls {kernel} $5\times 5$ \relax }}{144}{figure.caption.72}%
+\contentsline {figure}{\numberline {ب.3}{\ignorespaces (\lr {a}) \gls {activationfunction} \lr {ReLU} و (\lr {b}) \gls {activationfunction} \gls {sigmoid} \relax }}{145}{figure.caption.73}%
+\contentsline {figure}{\numberline {ب.4}{\ignorespaces تابع \lr {max-pooling} بر روی آرایه دو بعدی کوچک $m=2$ و $s=2$ \relax }}{146}{figure.caption.74}%
+\contentsline {figure}{\numberline {ب.5}{\ignorespaces لایه \gls {dropout} با $\sigma =0.5$ \relax }}{147}{figure.caption.75}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {پ.1}{\ignorespaces ساختار \lr {LSTM}\relax }}{150}{figure.caption.74}%
-\contentsline {figure}{\numberline {پ.2}{\ignorespaces ماژول‌های تکرار شونده در شبکه‌های عصبی بازگشتی استاندارد فقط دارای یک لایه هستند. \relax }}{151}{figure.caption.76}%
-\contentsline {figure}{\numberline {پ.3}{\ignorespaces ماژول‌های تکرار شونده در \lr {LSTM}ها دارای 4 لایه هستند که با هم در تعامل می‌باشند. \relax }}{152}{figure.caption.77}%
-\contentsline {figure}{\numberline {پ.4}{\ignorespaces اشکال از راست به چپ به تریب برابر هستند با: کپی کردن، وصل کردن، بردار انتقال، عملیات نقطه به نقطه، یک لایه‌ی شبکه عصبی. \relax }}{152}{figure.caption.78}%
-\contentsline {figure}{\numberline {پ.5}{\ignorespaces سلول حالت در ماژول \lr {LSTM} \relax }}{152}{figure.caption.79}%
-\contentsline {figure}{\numberline {پ.6}{\ignorespaces نمایی از نحوه تاثیر و ورود اطلاعات به سلول حالت \relax }}{153}{figure.caption.80}%
-\contentsline {figure}{\numberline {پ.7}{\ignorespaces قدم اول در پاک کردن اطلاعات از سلول حالت در وضعیت ورودی \relax }}{154}{figure.caption.81}%
-\contentsline {figure}{\numberline {پ.8}{\ignorespaces قدم دوم در اضافه کردن اطلاعات جدید به سلول حالت \relax }}{154}{figure.caption.82}%
-\contentsline {figure}{\numberline {پ.9}{\ignorespaces به‌روز رسانی اطلاعات در سلول حالت \relax }}{155}{figure.caption.83}%
-\contentsline {figure}{\numberline {پ.10}{\ignorespaces قدم نهایی برای تولید خروجی ماژول \lr {LSTM} \relax }}{155}{figure.caption.84}%
+\contentsline {figure}{\numberline {پ.1}{\ignorespaces ساختار \lr {LSTM}\relax }}{152}{figure.caption.76}%
+\contentsline {figure}{\numberline {پ.2}{\ignorespaces ماژول‌های تکرار شونده در شبکه‌های عصبی بازگشتی استاندارد فقط دارای یک لایه هستند. \relax }}{153}{figure.caption.78}%
+\contentsline {figure}{\numberline {پ.3}{\ignorespaces ماژول‌های تکرار شونده در \lr {LSTM}ها دارای 4 لایه هستند که با هم در تعامل می‌باشند. \relax }}{154}{figure.caption.79}%
+\contentsline {figure}{\numberline {پ.4}{\ignorespaces اشکال از راست به چپ به تریب برابر هستند با: کپی کردن، وصل کردن، بردار انتقال، عملیات نقطه به نقطه، یک لایه‌ی شبکه عصبی. \relax }}{154}{figure.caption.80}%
+\contentsline {figure}{\numberline {پ.5}{\ignorespaces سلول حالت در ماژول \lr {LSTM} \relax }}{154}{figure.caption.81}%
+\contentsline {figure}{\numberline {پ.6}{\ignorespaces نمایی از نحوه تاثیر و ورود اطلاعات به سلول حالت \relax }}{155}{figure.caption.82}%
+\contentsline {figure}{\numberline {پ.7}{\ignorespaces قدم اول در پاک کردن اطلاعات از سلول حالت در وضعیت ورودی \relax }}{156}{figure.caption.83}%
+\contentsline {figure}{\numberline {پ.8}{\ignorespaces قدم دوم در اضافه کردن اطلاعات جدید به سلول حالت \relax }}{156}{figure.caption.84}%
+\contentsline {figure}{\numberline {پ.9}{\ignorespaces به‌روز رسانی اطلاعات در سلول حالت \relax }}{157}{figure.caption.85}%
+\contentsline {figure}{\numberline {پ.10}{\ignorespaces قدم نهایی برای تولید خروجی ماژول \lr {LSTM} \relax }}{157}{figure.caption.86}%

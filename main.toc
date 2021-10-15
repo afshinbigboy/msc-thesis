@@ -65,11 +65,11 @@
 \contentsline {subsection}{\numberline {4.4.2}اولین پاسخ (درخت تصادفی)}{83}{subsection.4.4.2}%
 \contentsline {subsection}{\numberline {4.4.3}پاسخی جدید}{83}{subsection.4.4.3}%
 \contentsline {subsection}{\numberline {4.4.4}مقایسه و ارزیابی پاسخ‌ها}{84}{subsection.4.4.4}%
-\contentsline {subsubsection}{\numberline {4.4.4.1}تبدیل درخت پاسخ به ماتریس}{85}{subsubsection.4.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.4.1}تبدیل درخت پاسخ به ماتریس}{84}{subsubsection.4.4.4.1}%
 \contentsline {subsection}{\numberline {4.4.5}یافتن جهش‌های با پتانسیل حذف}{87}{subsection.4.4.5}%
 \contentsline {subsubsection}{\numberline {4.4.5.1}مقایسه پاسخ فعلی با پاسخ آرمانی}{89}{subsubsection.4.4.5.1}%
 \contentsline {subsection}{\numberline {4.4.6}پذیرش پاسخ‌های جدید و یافتن بهترین پاسخ}{90}{subsection.4.4.6}%
-\contentsline {subsection}{\numberline {4.4.7}شبکه هرس‌کننده و بازاتصال کننده}{92}{subsection.4.4.7}%
+\contentsline {subsection}{\numberline {4.4.7}شبکه هرس‌کننده و بازاتصال کننده}{91}{subsection.4.4.7}%
 \contentsline {subsubsection}{\numberline {4.4.7.1}ورودی}{92}{subsubsection.4.4.7.1}%
 \contentsline {subsubsection}{\numberline {4.4.7.2}ساختار شبکه}{93}{subsubsection.4.4.7.2}%
 \contentsline {section}{\numberline {4.5}جمع‌بندی و نتیجه‌گیری}{95}{section.4.5}%
@@ -85,19 +85,19 @@
 \contentsline {section}{\numberline {5.2}نتایج تجربی}{111}{section.5.2}%
 \contentsline {subsection}{\numberline {5.2.1}نتایج بر روی پایگاه داده مصنوعی}{111}{subsection.5.2.1}%
 \contentsline {subsubsection}{\numberline {5.2.1.1}مقایسه دقت بازسازی با توجه به تغییر پارامترها}{113}{subsubsection.5.2.1.1}%
-\contentsline {subsection}{\numberline {5.2.2}نتایج بر روی داده‌های حقیقی}{120}{subsection.5.2.2}%
-\contentsline {chapter}{\numberline {6}بحث و نتیجه‌گیری}{123}{chapter.6}%
-\contentsline {section}{\numberline {6.1}نقاط ضعف و قوت روش پیشنهادی}{125}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}محدودیت‌ها}{125}{subsection.6.1.1}%
-\contentsline {section}{\numberline {6.2}گام‌های آتی}{126}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}بهبود در ساخت درخت اولیه}{126}{subsection.6.2.1}%
-\contentsline {subsection}{\numberline {6.2.2}استفاده از ماژول یادگیری تقویتی به‌جای \lr {MCMC} }{127}{subsection.6.2.2}%
-\contentsline {subsection}{\numberline {6.2.3} ارائه یک راهکار مناسب برای به روزرسانی بردار $\mathcal {L}$}{127}{subsection.6.2.3}%
-\contentsline {chapter}{مراجع}{129}{chapter*.67}%
+\contentsline {subsection}{\numberline {5.2.2}نتایج بر روی داده‌های حقیقی}{121}{subsection.5.2.2}%
+\contentsline {chapter}{\numberline {6}بحث و نتیجه‌گیری}{125}{chapter.6}%
+\contentsline {section}{\numberline {6.1}نقاط ضعف و قوت روش پیشنهادی}{127}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}محدودیت‌ها}{127}{subsection.6.1.1}%
+\contentsline {section}{\numberline {6.2}گام‌های آتی}{128}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}بهبود در ساخت درخت اولیه}{128}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}استفاده از ماژول یادگیری تقویتی به‌جای \lr {MCMC} }{129}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3} ارائه یک راهکار مناسب برای به روزرسانی بردار $\mathcal {L}$}{129}{subsection.6.2.3}%
+\contentsline {chapter}{مراجع}{131}{chapter*.69}%
  \renewcommand \cftchappresnum {پیوست\nobreakspace {}}\setlength {\cftchapnumwidth }{\mylenapp }
-\contentsline {chapter}{\numberline {آ}الگوریتم \lr {Twin Delayed DDGP}}{137}{appendix.Alph1}%
-\contentsline {chapter}{\numberline {ب}شبکه‌های عصبی کانلوشنی}{139}{appendix.Alph2}%
-\contentsline {chapter}{\numberline {پ}حافظه‌ی کوتاه‌مدت بلند (\lr {LSTM})}{149}{appendix.Alph3}%
-\contentsline {chapter}{واژه‌نامهٔ فارسی به انگلیسی}{اول}{section*.85}%
-\contentsline {chapter}{واژه‌نامهٔ انگلیسی به فارسی}{هفتم}{section*.114}%
-\contentsline {paragraph}{Keywords}{چهاردهم}{section*.139}%
+\contentsline {chapter}{\numberline {آ}الگوریتم \lr {Twin Delayed DDGP}}{139}{appendix.Alph1}%
+\contentsline {chapter}{\numberline {ب}شبکه‌های عصبی کانلوشنی}{141}{appendix.Alph2}%
+\contentsline {chapter}{\numberline {پ}حافظه‌ی کوتاه‌مدت بلند (\lr {LSTM})}{151}{appendix.Alph3}%
+\contentsline {chapter}{واژه‌نامهٔ فارسی به انگلیسی}{اول}{section*.87}%
+\contentsline {chapter}{واژه‌نامهٔ انگلیسی به فارسی}{هفتم}{section*.116}%
+\contentsline {paragraph}{Keywords}{چهاردهم}{section*.141}%
